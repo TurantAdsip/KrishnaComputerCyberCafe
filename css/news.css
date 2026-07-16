@@ -1,0 +1,213 @@
+.current-affairs {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.current-affairs h1 {
+    text-align: center;
+}
+
+.date {
+    text-align: center;
+    color: gray;
+}
+
+.news-card {
+    background: #f5f5f5;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 12px;
+}
+
+.news-card h2 {
+    margin-bottom: 15px;
+}
+
+.news-card a {
+    color: blue;
+    text-decoration: none;
+}
+
+.quiz,
+.motivation {
+    background: #eeeeee;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+}
+
+
+/* ===========================
+   Laptop (992px and below)
+=========================== */
+
+@media (max-width: 992px) {
+    .current-affairs {
+        max-width: 95%;
+        padding: 20px;
+    }
+    .current-affairs h1 {
+        font-size: 32px;
+    }
+    .news-card h2 {
+        font-size: 24px;
+    }
+    .news-card p,
+    .quiz,
+    .motivation {
+        font-size: 16px;
+        line-height: 1.7;
+    }
+}
+
+
+/* ===========================
+   Tablet (768px and below)
+=========================== */
+
+@media (max-width: 768px) {
+    .current-affairs {
+        max-width: 96%;
+        margin: 30px auto;
+        padding: 18px;
+    }
+    .current-affairs h1 {
+        font-size: 28px;
+    }
+    .date {
+        font-size: 14px;
+    }
+    .news-card {
+        padding: 18px;
+    }
+    .news-card h2 {
+        font-size: 22px;
+    }
+    .news-card p {
+        font-size: 15px;
+        line-height: 1.7;
+    }
+    .quiz,
+    .motivation {
+        padding: 18px;
+        font-size: 15px;
+    }
+    button {
+        width: 100%;
+        padding: 12px;
+        font-size: 15px;
+    }
+}
+
+
+/* ===========================
+   Mobile (480px and below)
+=========================== */
+
+@media (max-width: 480px) {
+    .current-affairs {
+        width: 96%;
+        padding: 15px;
+        margin: 20px auto;
+    }
+    .current-affairs h1 {
+        font-size: 24px;
+    }
+    .date {
+        font-size: 13px;
+    }
+    .news-card {
+        padding: 15px;
+        margin: 15px 0;
+        border-radius: 10px;
+    }
+    .news-card h2 {
+        font-size: 20px;
+    }
+    .news-card p {
+        font-size: 14px;
+        line-height: 1.6;
+    }
+    .news-card a {
+        word-break: break-word;
+    }
+    .quiz,
+    .motivation {
+        padding: 15px;
+        font-size: 14px;
+    }
+    button {
+        width: 100%;
+        padding: 11px;
+        font-size: 14px;
+    }
+}
+
+
+/* ===========================
+   Small Phone (375px and below)
+=========================== */
+
+@media (max-width: 375px) {
+    .current-affairs {
+        width: 98%;
+        padding: 12px;
+    }
+    .current-affairs h1 {
+        font-size: 22px;
+    }
+    .date {
+        font-size: 12px;
+    }
+    .news-card {
+        padding: 12px;
+    }
+    .news-card h2 {
+        font-size: 18px;
+    }
+    .news-card p {
+        font-size: 13px;
+    }
+    .quiz,
+    .motivation {
+        padding: 12px;
+        font-size: 13px;
+    }
+    button {
+        font-size: 13px;
+        padding: 10px;
+    }
+}
+
+
+/* ===========================
+   Extra Small Phone (320px and below)
+=========================== */
+
+@media (max-width: 320px) {
+    .current-affairs h1 {
+        font-size: 20px;
+    }
+    .news-card h2 {
+        font-size: 17px;
+    }
+    .news-card p,
+    .quiz,
+    .motivation {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+    button {
+        font-size: 12px;
+        padding: 9px;
+    }
+}
