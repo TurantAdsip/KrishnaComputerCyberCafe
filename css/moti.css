@@ -32,3 +32,66 @@ h2 {
     justify-content: center;
     margin-bottom: 15px;
 }
+
+/* ===========================
+   Motivation Section Responsive
+=========================== */
+
+@media (max-width: 768px) {
+
+    .motivation {
+        width: 95%;
+        margin: 25px auto;
+        padding: 15px;
+    }
+
+    .quote-box {
+        padding: 20px 15px;
+        border-radius: 10px;
+    }
+
+    .quote-box p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+    #author {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .motivation h2 {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+}
+
+
+/* Extra Small Devices */
+@media (max-width: 480px) {
+
+    .motivation {
+        width: 96%;
+        margin: 20px auto;
+        padding: 12px;
+    }
+
+    .quote-box {
+        padding: 18px 12px;
+    }
+
+    .quote-box p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    #author {
+        font-size: 14px;
+    }
+
+    .motivation h2 {
+        font-size: 20px;
+    }
+
+}
