@@ -26,7 +26,7 @@ fetch("../includes/header.html")
 
 
 // Motivation Load
-fetch("../includes/moti.html")
+fetch("./includes/moti.html")
     .then(response => {
         if (!response.ok) {
             throw new Error("moti File Not Found");
