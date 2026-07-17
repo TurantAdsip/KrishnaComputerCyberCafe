@@ -9,8 +9,8 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body {
-    background: #0f172a;
+.coming-soon {
+    background: linear-gradient(135deg, #0f172a, #1e293b, #334155);
     color: #fff;
 }
 
