@@ -155,10 +155,15 @@ EXAM GRID
 ================================ */
 
 .exam-grid {
+    grid-template-columns: 1fr;
+}
+
+
+/* .exam-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 22px;
-}
+} */
 
 
 /* ================================
@@ -253,75 +258,190 @@ FOOTER
 } */
 
 
-/* ================================
-TABLET
-================================ */
+/* =========================================================
+   RESPONSIVE DESIGN
+   Laptop → Tablet → Medium Mobile → Normal Mobile → Small Mobile
+========================================================= */
 
-@media (max-width: 900px) {
+
+/* =========================================================
+   LAPTOP / DESKTOP
+   1201px and above
+========================================================= */
+
+@media (min-width: 1201px) {
+    .section-container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
     .exam-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+        gap: 22px;
     }
     .guidance-hero h1 {
-        font-size: 38px;
+        font-size: 44px;
+    }
+    .exam-card {
+        padding: 24px;
     }
 }
 
 
-/* ================================
-MOBILE
-================================ */
+/* =========================================================
+   TABLET
+   769px - 1200px
+========================================================= */
 
-@media (max-width: 600px) {
-    .header-container {
-        min-height: 62px;
-        padding: 0 15px;
+@media (min-width: 769px) and (max-width: 1200px) {
+    .guidance-hero {
+        padding: 70px 25px;
     }
-    .logo {
-        font-size: 20px;
+    .hero-container {
+        max-width: 850px;
     }
-    .home-btn {
-        padding: 8px 14px;
+    .guidance-hero h1 {
+        font-size: 40px;
+    }
+    .guidance-hero p {
+        font-size: 17px;
+    }
+    .exam-section {
+        padding: 60px 25px;
+    }
+    .section-container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .exam-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px;
+    }
+    .exam-card {
+        padding: 20px;
+        gap: 15px;
+    }
+    .exam-icon {
+        width: 54px;
+        height: 54px;
+        font-size: 26px;
+    }
+    .exam-content h3 {
+        font-size: 19px;
+    }
+    .exam-content p {
         font-size: 14px;
     }
+}
+
+
+/* =========================================================
+   MEDIUM MOBILE / LARGE MOBILE
+   601px - 768px
+========================================================= */
+
+@media (min-width: 601px) and (max-width: 768px) {
     .guidance-hero {
-        padding: 55px 18px;
+        padding: 60px 20px;
+    }
+    .hero-container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .guidance-hero h1 {
+        font-size: 34px;
+    }
+    .guidance-hero p {
+        font-size: 16px;
+    }
+    .exam-section {
+        padding: 50px 20px;
+    }
+    .section-container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .section-heading {
+        margin-bottom: 30px;
+    }
+    .section-heading h2 {
+        font-size: 30px;
+    }
+    .exam-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+    .exam-card {
+        padding: 17px;
+        gap: 13px;
+    }
+    .exam-icon {
+        width: 50px;
+        height: 50px;
+        font-size: 24px;
+    }
+    .exam-content h3 {
+        font-size: 18px;
+    }
+    .exam-content p {
+        font-size: 13px;
+    }
+}
+
+
+/* =========================================================
+   NORMAL MOBILE
+   381px - 600px
+========================================================= */
+
+@media (min-width: 381px) and (max-width: 600px) {
+    .guidance-hero {
+        padding: 50px 16px;
+    }
+    .hero-container {
+        width: 100%;
+        max-width: 100%;
     }
     .hero-badge {
         font-size: 12px;
-        padding: 7px 13px;
+        padding: 7px 12px;
     }
     .guidance-hero h1 {
-        font-size: 30px;
-        margin-bottom: 15px;
+        font-size: 29px;
+        line-height: 1.25;
     }
     .guidance-hero p {
         font-size: 15px;
         line-height: 1.6;
     }
     .exam-section {
-        padding: 50px 15px;
+        padding: 45px 15px;
+    }
+    .section-container {
+        width: 100%;
+        max-width: 100%;
     }
     .section-heading {
-        margin-bottom: 30px;
+        margin-bottom: 25px;
     }
     .section-heading h2 {
-        font-size: 27px;
+        font-size: 26px;
     }
     .section-heading p {
         font-size: 14px;
     }
     .exam-grid {
         grid-template-columns: 1fr;
-        gap: 15px;
+        gap: 13px;
     }
     .exam-card {
-        padding: 18px;
-        gap: 15px;
+        width: 100%;
+        padding: 17px;
+        gap: 14px;
     }
     .exam-icon {
-        width: 52px;
-        height: 52px;
-        font-size: 25px;
+        width: 50px;
+        height: 50px;
+        font-size: 24px;
     }
     .exam-content h3 {
         font-size: 18px;
@@ -332,28 +452,100 @@ MOBILE
     .view-guide {
         font-size: 13px;
     }
-    .guidance-footer {
-        padding: 20px 15px;
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   380px and below
+========================================================= */
+
+@media (max-width: 380px) {
+    .guidance-hero {
+        padding: 40px 12px;
+    }
+    .hero-container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .hero-badge {
+        font-size: 11px;
+        padding: 6px 10px;
+    }
+    .guidance-hero h1 {
+        font-size: 25px;
+        line-height: 1.25;
+    }
+    .guidance-hero p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .exam-section {
+        padding: 40px 12px;
+    }
+    .section-container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .section-heading {
+        margin-bottom: 22px;
+    }
+    .section-heading h2 {
+        font-size: 23px;
+    }
+    .section-heading p {
+        font-size: 13px;
+    }
+    .exam-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    .exam-card {
+        width: 100%;
+        padding: 14px;
+        gap: 12px;
+    }
+    .exam-icon {
+        width: 46px;
+        height: 46px;
+        font-size: 22px;
+    }
+    .exam-content h3 {
+        font-size: 17px;
+    }
+    .exam-content p {
+        font-size: 12px;
+    }
+    .view-guide {
+        font-size: 12px;
     }
 }
 
 
-/* ================================
-SMALL MOBILE
-================================ */
+/* =========================================================
+   EXTRA SAFETY FOR ALL DEVICES
+========================================================= */
 
-@media (max-width: 380px) {
-    .logo {
-        font-size: 18px;
-    }
-    .home-btn {
-        padding: 7px 11px;
-        font-size: 13px;
-    }
-    .guidance-hero h1 {
-        font-size: 27px;
-    }
-    .exam-card {
-        padding: 15px;
-    }
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.guidance-hero,
+.exam-section {
+    width: 100%;
+}
+
+.hero-container,
+.section-container {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
