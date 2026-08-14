@@ -154,16 +154,16 @@ EXAM SECTION
 EXAM GRID
 ================================ */
 
-.exam-grid {
-    grid-template-columns: 1fr;
-}
-
-
 /* .exam-grid {
+    grid-template-columns: 1fr;
+} */
+
+
+.exam-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 22px;
-} */
+}
 
 
 /* ================================
