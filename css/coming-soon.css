@@ -9,6 +9,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+/* body {
+    background: #0f172a;
+    color: #fff;
+} */
+
 .coming-soon {
     background: linear-gradient(135deg, #0f172a, #1e293b, #334155);
     color: #fff;
