@@ -9199,6 +9199,663 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-08-15",
+            "date": "15 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 15 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [{
+                    "category": "National Affairs",
+                    "title": "India Celebrates 80th Independence Day",
+                    "summary": "India celebrated its 80th Independence Day on 15 August 2026. The main national ceremony was held at the Red Fort in New Delhi. The 2026 celebrations also highlighted 150 years of Vande Mataram and the theme of Yuva Shakti for Viksit Bharat@2047.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297232&lang=1&reg=3",
+                    "staticGK": [
+                        "Date : 15 August",
+                        "Year of Independence : 1947",
+                        "2026 Celebration : 80th Independence Day",
+                        "Main Venue : Red Fort, New Delhi",
+                        "Focus : Yuva Shakti for Viksit Bharat@2047"
+                    ],
+                    "mcqs": [{
+                            "question": "India celebrated which Independence Day on 15 August 2026?",
+                            "options": [
+                                "80th",
+                                "79th",
+                                "81st",
+                                "75th"
+                            ],
+                            "answer": "80th"
+                        },
+                        {
+                            "question": "India became independent in which year?",
+                            "options": [
+                                "1947",
+                                "1945",
+                                "1950",
+                                "1952"
+                            ],
+                            "answer": "1947"
+                        },
+                        {
+                            "question": "The main Independence Day ceremony is held at?",
+                            "options": [
+                                "Red Fort",
+                                "India Gate",
+                                "Parliament House",
+                                "Rashtrapati Bhavan"
+                            ],
+                            "answer": "Red Fort"
+                        },
+                        {
+                            "question": "The Red Fort is located in?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Kolkata",
+                                "Chennai"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "The 2026 Independence Day celebrations focus on?",
+                            "options": [
+                                "Yuva Shakti for Viksit Bharat@2047",
+                                "Digital India 2030",
+                                "Swachh Bharat 2035",
+                                "Green India 2050"
+                            ],
+                            "answer": "Yuva Shakti for Viksit Bharat@2047"
+                        }
+                    ]
+                },
+                {
+                    "category": "Government & Polity",
+                    "title": "Vande Mataram Completes 150 Years",
+                    "summary": "The 2026 Independence Day celebrations highlighted 150 years of Vande Mataram. The patriotic song has a major place in India's national movement and cultural history.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297232&lang=1&reg=3",
+                    "staticGK": [
+                        "Song : Vande Mataram",
+                        "150 Years : 2026",
+                        "Author : Bankim Chandra Chattopadhyay",
+                        "Language : Sanskritised Bengali",
+                        "Importance : Indian National Movement"
+                    ],
+                    "mcqs": [{
+                            "question": "Vande Mataram was written by?",
+                            "options": [
+                                "Bankim Chandra Chattopadhyay",
+                                "Rabindranath Tagore",
+                                "Sri Aurobindo",
+                                "Sarojini Naidu"
+                            ],
+                            "answer": "Bankim Chandra Chattopadhyay"
+                        },
+                        {
+                            "question": "Vande Mataram completed how many years in 2026?",
+                            "options": [
+                                "150 years",
+                                "100 years",
+                                "125 years",
+                                "175 years"
+                            ],
+                            "answer": "150 years"
+                        },
+                        {
+                            "question": "Vande Mataram is associated mainly with India's?",
+                            "options": [
+                                "National Movement",
+                                "Green Revolution",
+                                "White Revolution",
+                                "Space Programme"
+                            ],
+                            "answer": "National Movement"
+                        },
+                        {
+                            "question": "Who wrote the novel Anandamath?",
+                            "options": [
+                                "Bankim Chandra Chattopadhyay",
+                                "Premchand",
+                                "Rabindranath Tagore",
+                                "Bharatendu Harishchandra"
+                            ],
+                            "answer": "Bankim Chandra Chattopadhyay"
+                        },
+                        {
+                            "question": "Vande Mataram is India's?",
+                            "options": [
+                                "National Song",
+                                "National Anthem",
+                                "National Motto",
+                                "National Prayer"
+                            ],
+                            "answer": "National Song"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "AI Training Announced for 1 Crore Youth",
+                    "summary": "During the Independence Day address, the government announced a major focus on artificial intelligence and youth development, including a plan to provide AI training to around 1 crore young Indians.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/articleshow/133255457.cms",
+                    "staticGK": [
+                        "Technology : Artificial Intelligence",
+                        "Target : 1 Crore Youth",
+                        "Area : AI Training",
+                        "Focus : Youth Skill Development",
+                        "Vision : Viksit Bharat@2047"
+                    ],
+                    "mcqs": [{
+                            "question": "How many youth are targeted for AI training under the announced plan?",
+                            "options": [
+                                "1 Crore",
+                                "50 Lakh",
+                                "2 Crore",
+                                "10 Lakh"
+                            ],
+                            "answer": "1 Crore"
+                        },
+                        {
+                            "question": "AI stands for?",
+                            "options": [
+                                "Artificial Intelligence",
+                                "Advanced Internet",
+                                "Automated Information",
+                                "Applied Intelligence"
+                            ],
+                            "answer": "Artificial Intelligence"
+                        },
+                        {
+                            "question": "The AI training initiative mainly focuses on?",
+                            "options": [
+                                "Youth",
+                                "Only Farmers",
+                                "Only Defence Personnel",
+                                "Only Bank Employees"
+                            ],
+                            "answer": "Youth"
+                        },
+                        {
+                            "question": "AI is an important part of?",
+                            "options": [
+                                "Emerging Technology",
+                                "Traditional Agriculture",
+                                "Classical Literature",
+                                "Ancient History"
+                            ],
+                            "answer": "Emerging Technology"
+                        },
+                        {
+                            "question": "AI training is expected to strengthen?",
+                            "options": [
+                                "Digital and Technology Skills",
+                                "Only Sports Skills",
+                                "Only Tourism",
+                                "Only Banking"
+                            ],
+                            "answer": "Digital and Technology Skills"
+                        }
+                    ]
+                },
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "Free Online Coaching for Competitive Exam Aspirants Announced",
+                    "summary": "A major announcement on Independence Day focused on providing free online coaching for competitive examination aspirants. The initiative is aimed at reducing the financial burden of exam preparation and expanding access to learning resources.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/articleshow/133255457.cms",
+                    "staticGK": [
+                        "Target Group : Competitive Exam Aspirants",
+                        "Facility : Free Online Coaching",
+                        "Mode : Online",
+                        "Objective : Wider Access to Exam Preparation",
+                        "Importance : Youth and Education"
+                    ],
+                    "mcqs": [{
+                            "question": "What was announced for competitive examination aspirants?",
+                            "options": [
+                                "Free Online Coaching",
+                                "Free Railway Tickets",
+                                "Free Bank Accounts",
+                                "Free Laptops for All"
+                            ],
+                            "answer": "Free Online Coaching"
+                        },
+                        {
+                            "question": "The initiative is mainly aimed at?",
+                            "options": [
+                                "Competitive Exam Aspirants",
+                                "Only Athletes",
+                                "Only Traders",
+                                "Only Tourists"
+                            ],
+                            "answer": "Competitive Exam Aspirants"
+                        },
+                        {
+                            "question": "The coaching facility will mainly use which mode?",
+                            "options": [
+                                "Online",
+                                "Only Offline",
+                                "Postal",
+                                "Radio Only"
+                            ],
+                            "answer": "Online"
+                        },
+                        {
+                            "question": "Free coaching can help reduce the?",
+                            "options": [
+                                "Financial Burden of Preparation",
+                                "Rainfall",
+                                "Fuel Consumption",
+                                "Trade Deficit"
+                            ],
+                            "answer": "Financial Burden of Preparation"
+                        },
+                        {
+                            "question": "Competitive examinations generally require?",
+                            "options": [
+                                "Systematic Preparation",
+                                "Only Luck",
+                                "Only Physical Strength",
+                                "No Revision"
+                            ],
+                            "answer": "Systematic Preparation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Infrastructure",
+                    "title": "India Highlights Manufacturing and Technology as Pillars of Viksit Bharat",
+                    "summary": "The Independence Day address placed strong emphasis on manufacturing, technology, infrastructure and self-reliance as important pillars of India's development journey towards Viksit Bharat@2047.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/india/dimagi-naxals-sapta-dhara-and-viksit-bharat-top-5-highlights-from-pm-modis-independence-day-speech/articleshow/133255582.cms",
+                    "staticGK": [
+                        "Vision : Viksit Bharat@2047",
+                        "Focus : Manufacturing",
+                        "Focus : Technology and Innovation",
+                        "Focus : Infrastructure",
+                        "Goal : Self-Reliant India"
+                    ],
+                    "mcqs": [{
+                            "question": "The development vision highlighted for 2047 is known as?",
+                            "options": [
+                                "Viksit Bharat",
+                                "Digital Bharat 2030",
+                                "Green Bharat 2050",
+                                "Skill Bharat 2025"
+                            ],
+                            "answer": "Viksit Bharat"
+                        },
+                        {
+                            "question": "Manufacturing is important for India's?",
+                            "options": [
+                                "Economic Development",
+                                "Only Sports",
+                                "Only Tourism",
+                                "Only Entertainment"
+                            ],
+                            "answer": "Economic Development"
+                        },
+                        {
+                            "question": "Technology and innovation are important for?",
+                            "options": [
+                                "Economic and National Development",
+                                "Only Agriculture",
+                                "Only Sports",
+                                "Only Tourism"
+                            ],
+                            "answer": "Economic and National Development"
+                        },
+                        {
+                            "question": "Infrastructure development mainly supports?",
+                            "options": [
+                                "Connectivity and Growth",
+                                "Only Entertainment",
+                                "Only Banking",
+                                "Only Tourism"
+                            ],
+                            "answer": "Connectivity and Growth"
+                        },
+                        {
+                            "question": "Self-reliance is commonly associated with?",
+                            "options": [
+                                "Atmanirbhar Bharat",
+                                "Green Revolution",
+                                "Operation Flood",
+                                "Blue Revolution"
+                            ],
+                            "answer": "Atmanirbhar Bharat"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence",
+                    "title": "India Emphasises Defence Production and Advanced Military Technology",
+                    "summary": "The Independence Day address highlighted India's growing defence production and the need to strengthen indigenous defence capabilities and advanced military technologies, including next-generation systems.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/indias-defence-leap-pm-modi-lauds-four-times-production-push-for-hypersonic-tech/articleshow/133257902.cms",
+                    "staticGK": [
+                        "Sector : Defence",
+                        "Focus : Indigenous Defence Production",
+                        "Technology : Hypersonic Technology",
+                        "Objective : Defence Self-Reliance",
+                        "Importance : National Security"
+                    ],
+                    "mcqs": [{
+                            "question": "Which sector was highlighted as important for self-reliance?",
+                            "options": [
+                                "Defence",
+                                "Tourism",
+                                "Entertainment",
+                                "Hospitality"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "Hypersonic technology is associated with?",
+                            "options": [
+                                "Advanced Military Systems",
+                                "Banking",
+                                "Agriculture",
+                                "Tourism"
+                            ],
+                            "answer": "Advanced Military Systems"
+                        },
+                        {
+                            "question": "Indigenous defence production helps strengthen?",
+                            "options": [
+                                "Defence Self-Reliance",
+                                "Tourism",
+                                "Sports",
+                                "Banking"
+                            ],
+                            "answer": "Defence Self-Reliance"
+                        },
+                        {
+                            "question": "Defence technology is directly related to?",
+                            "options": [
+                                "National Security",
+                                "Only Entertainment",
+                                "Only Agriculture",
+                                "Only Tourism"
+                            ],
+                            "answer": "National Security"
+                        },
+                        {
+                            "question": "Hypersonic systems operate at speeds?",
+                            "options": [
+                                "Above Mach 5",
+                                "Below Mach 1",
+                                "Exactly Mach 1",
+                                "Below Mach 2"
+                            ],
+                            "answer": "Above Mach 5"
+                        }
+                    ]
+                },
+                {
+                    "category": "Energy",
+                    "title": "India Sets Long-Term Nuclear Energy Expansion Target",
+                    "summary": "India's long-term development vision includes a major expansion of nuclear energy capacity. The 2026 Independence Day announcements highlighted a target of reaching 100 GW of nuclear energy capacity by 2047 as part of India's energy security strategy.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/articleshow/133255457.cms",
+                    "staticGK": [
+                        "Energy : Nuclear Energy",
+                        "Target Capacity : 100 GW",
+                        "Target Year : 2047",
+                        "Purpose : Energy Security",
+                        "Importance : Clean and Reliable Energy"
+                    ],
+                    "mcqs": [{
+                            "question": "What nuclear energy capacity target was highlighted for 2047?",
+                            "options": [
+                                "100 GW",
+                                "50 GW",
+                                "75 GW",
+                                "150 GW"
+                            ],
+                            "answer": "100 GW"
+                        },
+                        {
+                            "question": "The target year for the nuclear energy expansion is?",
+                            "options": [
+                                "2047",
+                                "2030",
+                                "2035",
+                                "2050"
+                            ],
+                            "answer": "2047"
+                        },
+                        {
+                            "question": "Nuclear energy can contribute to?",
+                            "options": [
+                                "Energy Security",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Banking"
+                            ],
+                            "answer": "Energy Security"
+                        },
+                        {
+                            "question": "Nuclear power is generated through?",
+                            "options": [
+                                "Nuclear Fission",
+                                "Photosynthesis",
+                                "Wind Movement",
+                                "Combustion of Wood"
+                            ],
+                            "answer": "Nuclear Fission"
+                        },
+                        {
+                            "question": "The main fuel used in many nuclear reactors is?",
+                            "options": [
+                                "Uranium",
+                                "Coal",
+                                "Petrol",
+                                "Natural Gas"
+                            ],
+                            "answer": "Uranium"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "India Plans Further Expansion of Semiconductor Manufacturing",
+                    "summary": "The 2026 Independence Day announcements highlighted semiconductor manufacturing as a strategic technology priority. Plans were reported for additional semiconductor plants to strengthen India's electronics ecosystem and technology self-reliance.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/articleshow/133255457.cms",
+                    "staticGK": [
+                        "Technology : Semiconductor",
+                        "Sector : Electronics",
+                        "Focus : Domestic Manufacturing",
+                        "Objective : Technology Self-Reliance",
+                        "Importance : Digital Economy"
+                    ],
+                    "mcqs": [{
+                            "question": "Which technology sector was highlighted for further expansion?",
+                            "options": [
+                                "Semiconductor Manufacturing",
+                                "Traditional Textiles",
+                                "Tourism",
+                                "Sports Equipment"
+                            ],
+                            "answer": "Semiconductor Manufacturing"
+                        },
+                        {
+                            "question": "Semiconductors are essential components of?",
+                            "options": [
+                                "Electronic Devices",
+                                "Agricultural Land",
+                                "Buildings",
+                                "Roads"
+                            ],
+                            "answer": "Electronic Devices"
+                        },
+                        {
+                            "question": "Semiconductor manufacturing supports India's?",
+                            "options": [
+                                "Technology Self-Reliance",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Agriculture"
+                            ],
+                            "answer": "Technology Self-Reliance"
+                        },
+                        {
+                            "question": "Which industry heavily depends on semiconductors?",
+                            "options": [
+                                "Electronics",
+                                "Farming Only",
+                                "Tourism Only",
+                                "Food Service Only"
+                            ],
+                            "answer": "Electronics"
+                        },
+                        {
+                            "question": "Semiconductors are generally made from materials with?",
+                            "options": [
+                                "Controlled Electrical Conductivity",
+                                "Only Magnetic Properties",
+                                "No Electrical Properties",
+                                "Only Thermal Properties"
+                            ],
+                            "answer": "Controlled Electrical Conductivity"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "India Begins Test Series Against Sri Lanka in Galle",
+                    "summary": "India began its Test series against Sri Lanka on 15 August 2026 in Galle. India won the toss and elected to bat in the opening Test, which also marked India's 600th Test match in international cricket.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/sports/cricket/india-opt-bat-galle-opener-against-sri-lanka-2026-08-15/",
+                    "staticGK": [
+                        "Sport : Cricket",
+                        "Teams : India and Sri Lanka",
+                        "Venue : Galle",
+                        "Match : First Test",
+                        "Milestone : India's 600th Test"
+                    ],
+                    "mcqs": [{
+                            "question": "India began its Test series against which country on 15 August 2026?",
+                            "options": [
+                                "Sri Lanka",
+                                "Australia",
+                                "England",
+                                "South Africa"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "The first Test was played in?",
+                            "options": [
+                                "Galle",
+                                "Colombo",
+                                "Kandy",
+                                "Mumbai"
+                            ],
+                            "answer": "Galle"
+                        },
+                        {
+                            "question": "India's 2026 Test against Sri Lanka marked India's?",
+                            "options": [
+                                "600th Test",
+                                "500th Test",
+                                "550th Test",
+                                "650th Test"
+                            ],
+                            "answer": "600th Test"
+                        },
+                        {
+                            "question": "Who won the toss in the first Test?",
+                            "options": [
+                                "India",
+                                "Sri Lanka",
+                                "Match Umpires",
+                                "No Toss"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "What did India choose after winning the toss?",
+                            "options": [
+                                "Bat",
+                                "Field",
+                                "Forfeit",
+                                "Declare"
+                            ],
+                            "answer": "Bat"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "India Begins FIH Hockey World Cup Campaign",
+                    "summary": "India's men's hockey team began its FIH Hockey World Cup campaign on 15 August 2026. The team entered the tournament with the aim of ending a long World Cup title drought dating back to India's 1975 triumph.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/harmanpreet-singhs-men-eye-end-to-51-year-jinx-as-india-begin-world-cup-campaign/articleshow/133254189.cms",
+                    "staticGK": [
+                        "Sport : Hockey",
+                        "Tournament : FIH Hockey World Cup",
+                        "Team : India Men's Hockey Team",
+                        "Last World Cup Title : 1975",
+                        "Captain : Harmanpreet Singh"
+                    ],
+                    "mcqs": [{
+                            "question": "Which sport is associated with the FIH World Cup?",
+                            "options": [
+                                "Hockey",
+                                "Cricket",
+                                "Football",
+                                "Badminton"
+                            ],
+                            "answer": "Hockey"
+                        },
+                        {
+                            "question": "India last won the Men's Hockey World Cup in?",
+                            "options": [
+                                "1975",
+                                "1980",
+                                "1985",
+                                "1990"
+                            ],
+                            "answer": "1975"
+                        },
+                        {
+                            "question": "Who is the captain of India's men's hockey team mentioned in the report?",
+                            "options": [
+                                "Harmanpreet Singh",
+                                "Manpreet Singh",
+                                "PR Sreejesh",
+                                "Hardik Singh"
+                            ],
+                            "answer": "Harmanpreet Singh"
+                        },
+                        {
+                            "question": "FIH is associated with which sport?",
+                            "options": [
+                                "Hockey",
+                                "Cricket",
+                                "Tennis",
+                                "Athletics"
+                            ],
+                            "answer": "Hockey"
+                        },
+                        {
+                            "question": "India's men's hockey team is aiming to?",
+                            "options": [
+                                "End the World Cup title drought",
+                                "Win a Cricket World Cup",
+                                "Host the Olympics",
+                                "Win a Tennis Grand Slam"
+                            ],
+                            "answer": "End the World Cup title drought"
+                        }
+                    ]
+                }
+            ]
         }
 
 
