@@ -44,7 +44,8 @@ function getMonthFile(dateString) {
 
         month: "long"
 
-    }).toLowerCase();
+    })
+        // .toLowerCase();
 
     const year = date.getFullYear();
 
