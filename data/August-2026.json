@@ -9856,7 +9856,675 @@
                     ]
                 }
             ]
+        },
+        {
+    "id": "2026-07-16",
+    "date": "16 July 2026",
+    "totalNews": 10,
+    "description": "Top 10 Current Affairs of 16 July 2026 for UPSC, SSC, Banking, Railway and Defence Exams.",
+    "news": [
+        {
+            "category": "National Affairs",
+            "title": "India Approves National Investment Policy for Urea-2026",
+            "summary": "The Cabinet Committee on Economic Affairs approved the National Investment Policy for Urea-2026 for Atmanirbhar Bharat (NIPU-2026). The policy aims to encourage new natural gas-based urea manufacturing capacity and strengthen domestic urea production and self-reliance in fertilizers.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/",
+            "staticGK": [
+                "Policy : National Investment Policy for Urea-2026",
+                "Full Form : NIPU-2026",
+                "Sector : Fertilizer and Agriculture",
+                "Main Objective : Increase domestic urea production",
+                "Related Area : Atmanirbhar Bharat"
+            ],
+            "mcqs": [
+                {
+                    "question": "NIPU-2026 is related to which sector?",
+                    "options": [
+                        "Fertilizer and Urea Production",
+                        "Defence",
+                        "Railways",
+                        "Banking"
+                    ],
+                    "answer": "Fertilizer and Urea Production"
+                },
+                {
+                    "question": "NIPU stands for?",
+                    "options": [
+                        "National Investment Policy for Urea",
+                        "National Infrastructure Programme for Urbanisation",
+                        "New Investment Programme for Universities",
+                        "National Industrial Policy for Utilities"
+                    ],
+                    "answer": "National Investment Policy for Urea"
+                },
+                {
+                    "question": "The main objective of NIPU-2026 is to increase?",
+                    "options": [
+                        "Domestic urea production",
+                        "Gold imports",
+                        "Railway fares",
+                        "Defence exports only"
+                    ],
+                    "answer": "Domestic urea production"
+                },
+                {
+                    "question": "NIPU-2026 is associated with which broad national objective?",
+                    "options": [
+                        "Atmanirbhar Bharat",
+                        "Digital India only",
+                        "Skill India only",
+                        "Fit India"
+                    ],
+                    "answer": "Atmanirbhar Bharat"
+                },
+                {
+                    "question": "Urea is mainly used as a?",
+                    "options": [
+                        "Nitrogenous Fertilizer",
+                        "Fuel",
+                        "Pesticide only",
+                        "Industrial Metal"
+                    ],
+                    "answer": "Nitrogenous Fertilizer"
+                }
+            ]
+        },
+        {
+            "category": "International Affairs",
+            "title": "5th BIMSTEC National Security Chiefs Meeting Held in New Delhi",
+            "summary": "India hosted the 5th Meeting of the BIMSTEC National Security Chiefs in New Delhi on 16 July 2026. National Security Adviser Ajit Doval chaired the meeting, which brought together representatives from Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka and Thailand to discuss regional security cooperation and emerging security challenges.",
+            "sourceName": "BIMSTEC",
+            "sourceUrl": "https://www.bimstec.org/",
+            "staticGK": [
+                "Meeting : 5th BIMSTEC National Security Chiefs Meeting",
+                "Date : 16 July 2026",
+                "Venue : New Delhi",
+                "Indian Chair : Ajit Doval",
+                "Member States : Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand"
+            ],
+            "mcqs": [
+                {
+                    "question": "Where was the 5th BIMSTEC National Security Chiefs Meeting held?",
+                    "options": [
+                        "New Delhi",
+                        "Dhaka",
+                        "Colombo",
+                        "Bangkok"
+                    ],
+                    "answer": "New Delhi"
+                },
+                {
+                    "question": "Who hosted and chaired the meeting from India?",
+                    "options": [
+                        "Ajit Doval",
+                        "Rajnath Singh",
+                        "S. Jaishankar",
+                        "Ashwini Vaishnaw"
+                    ],
+                    "answer": "Ajit Doval"
+                },
+                {
+                    "question": "BIMSTEC connects countries mainly from?",
+                    "options": [
+                        "South Asia and Southeast Asia",
+                        "Europe and Africa",
+                        "North America and Europe",
+                        "South America and Africa"
+                    ],
+                    "answer": "South Asia and Southeast Asia"
+                },
+                {
+                    "question": "How many countries are members of BIMSTEC?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "7"
+                },
+                {
+                    "question": "BIMSTEC is associated with which region?",
+                    "options": [
+                        "Bay of Bengal",
+                        "Arabian Sea only",
+                        "Mediterranean Sea",
+                        "Pacific Ocean"
+                    ],
+                    "answer": "Bay of Bengal"
+                }
+            ]
+        },
+        {
+            "category": "Science & Technology",
+            "title": "Union Cabinet Approves Semicon 2.0 to Strengthen Semiconductor Ecosystem",
+            "summary": "The Union Cabinet approved Semicon 2.0 with an outlay of ₹1,27,500 crore to strengthen India's semiconductor ecosystem. The programme focuses on chip design, semiconductor manufacturing, advanced packaging, research and development, equipment and materials, and talent development.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/",
+            "staticGK": [
+                "Programme : Semicon 2.0",
+                "Outlay : ₹1,27,500 crore",
+                "Sector : Semiconductor Technology",
+                "Nodal Ministry : Ministry of Electronics and Information Technology",
+                "Main Focus : Semiconductor Design, Manufacturing, R&D and Talent Development"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the main focus of Semicon 2.0?",
+                    "options": [
+                        "Semiconductor Ecosystem",
+                        "Railway Expansion",
+                        "Agricultural Marketing",
+                        "Tourism"
+                    ],
+                    "answer": "Semiconductor Ecosystem"
+                },
+                {
+                    "question": "What is the approved outlay of Semicon 2.0?",
+                    "options": [
+                        "₹1,27,500 crore",
+                        "₹62,500 crore",
+                        "₹50,000 crore",
+                        "₹25,000 crore"
+                    ],
+                    "answer": "₹1,27,500 crore"
+                },
+                {
+                    "question": "Which ministry is the nodal ministry for the semiconductor programme?",
+                    "options": [
+                        "Ministry of Electronics and Information Technology",
+                        "Ministry of Finance",
+                        "Ministry of Defence",
+                        "Ministry of Commerce"
+                    ],
+                    "answer": "Ministry of Electronics and Information Technology"
+                },
+                {
+                    "question": "Semiconductors are essential components of?",
+                    "options": [
+                        "Electronic Devices",
+                        "Agricultural Land",
+                        "Roads",
+                        "Buildings"
+                    ],
+                    "answer": "Electronic Devices"
+                },
+                {
+                    "question": "Semicon 2.0 also focuses on?",
+                    "options": [
+                        "Talent Development and R&D",
+                        "Only tourism",
+                        "Only sports",
+                        "Only banking"
+                    ],
+                    "answer": "Talent Development and R&D"
+                }
+            ]
+        },
+        {
+            "category": "Economy & Banking",
+            "title": "₹62,500-Crore Mobile Phone Manufacturing Scheme Approved",
+            "summary": "The Union Cabinet approved the Mobile Phone Manufacturing Scheme (MPMS) with an outlay of ₹62,500 crore. The five-year scheme aims to strengthen domestic mobile phone manufacturing, exports, local sourcing and research and development while deepening India's electronics manufacturing ecosystem.",
+            "sourceName": "Government of India",
+            "sourceUrl": "https://www.pib.gov.in/",
+            "staticGK": [
+                "Scheme : Mobile Phone Manufacturing Scheme",
+                "Full Form : MPMS",
+                "Outlay : ₹62,500 crore",
+                "Duration : Five Years",
+                "Main Focus : Mobile Manufacturing, Exports and Domestic Value Addition"
+            ],
+            "mcqs": [
+                {
+                    "question": "MPMS is related to which sector?",
+                    "options": [
+                        "Mobile Phone Manufacturing",
+                        "Agriculture",
+                        "Defence",
+                        "Railways"
+                    ],
+                    "answer": "Mobile Phone Manufacturing"
+                },
+                {
+                    "question": "What is the outlay of the Mobile Phone Manufacturing Scheme?",
+                    "options": [
+                        "₹62,500 crore",
+                        "₹1,27,500 crore",
+                        "₹25,000 crore",
+                        "₹10,000 crore"
+                    ],
+                    "answer": "₹62,500 crore"
+                },
+                {
+                    "question": "MPMS is designed for a period of?",
+                    "options": [
+                        "Five Years",
+                        "Two Years",
+                        "Three Years",
+                        "Ten Years"
+                    ],
+                    "answer": "Five Years"
+                },
+                {
+                    "question": "One objective of MPMS is to increase?",
+                    "options": [
+                        "Domestic manufacturing and exports",
+                        "Gold imports",
+                        "Coal imports",
+                        "Tourism only"
+                    ],
+                    "answer": "Domestic manufacturing and exports"
+                },
+                {
+                    "question": "MPMS is associated with which broader sector?",
+                    "options": [
+                        "Electronics Manufacturing",
+                        "Banking",
+                        "Agriculture",
+                        "Judiciary"
+                    ],
+                    "answer": "Electronics Manufacturing"
+                }
+            ]
+        },
+        {
+            "category": "Defence",
+            "title": "BRO Strategic Infrastructure Conclave Highlights Importance of Border Infrastructure",
+            "summary": "Defence Minister Rajnath Singh addressed the Border Roads Organisation (BRO) Strategic Infrastructure Conclave in New Delhi on 16 July 2026. He highlighted the importance of roads, tunnels, airfields and other infrastructure for future warfare and border development, while emphasising technology adoption by the BRO.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/",
+            "staticGK": [
+                "Organisation : Border Roads Organisation",
+                "Full Form : BRO",
+                "Event : Strategic Infrastructure Conclave",
+                "Venue : New Delhi",
+                "Key Focus : Border Infrastructure and Future Warfare"
+            ],
+            "mcqs": [
+                {
+                    "question": "BRO stands for?",
+                    "options": [
+                        "Border Roads Organisation",
+                        "Border Railway Organisation",
+                        "Building Roads Office",
+                        "Border Research Organisation"
+                    ],
+                    "answer": "Border Roads Organisation"
+                },
+                {
+                    "question": "Who addressed the BRO Strategic Infrastructure Conclave?",
+                    "options": [
+                        "Rajnath Singh",
+                        "Amit Shah",
+                        "S. Jaishankar",
+                        "Nitin Gadkari"
+                    ],
+                    "answer": "Rajnath Singh"
+                },
+                {
+                    "question": "Where was the Strategic Infrastructure Conclave held?",
+                    "options": [
+                        "New Delhi",
+                        "Leh",
+                        "Srinagar",
+                        "Guwahati"
+                    ],
+                    "answer": "New Delhi"
+                },
+                {
+                    "question": "BRO is mainly responsible for?",
+                    "options": [
+                        "Strategic Road and Infrastructure Development",
+                        "Banking Regulation",
+                        "Space Research",
+                        "Civil Aviation"
+                    ],
+                    "answer": "Strategic Road and Infrastructure Development"
+                },
+                {
+                    "question": "Which infrastructure is important for border connectivity?",
+                    "options": [
+                        "Roads and Tunnels",
+                        "Shopping Malls",
+                        "Cinema Halls",
+                        "Ports only"
+                    ],
+                    "answer": "Roads and Tunnels"
+                }
+            ]
+        },
+        {
+            "category": "Environment",
+            "title": "Indian Grey Hornbill Returns to Gujarat's Gir Forest After Nearly Six Decades",
+            "summary": "The return of the Indian Grey Hornbill to Gujarat's Gir Forest after nearly six decades was highlighted as an important wildlife conservation development. The species' presence indicates improvement in habitat conditions and biodiversity restoration in the Gir landscape.",
+            "sourceName": "Class24 / Current Affairs Sources",
+            "sourceUrl": "https://www.class24.study/",
+            "staticGK": [
+                "Species : Indian Grey Hornbill",
+                "Location : Gir Forest, Gujarat",
+                "Conservation Area : Biodiversity and Wildlife Conservation",
+                "Significance : Return after nearly six decades",
+                "Habitat : Forest Ecosystem"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which bird returned to Gujarat's Gir Forest after nearly six decades?",
+                    "options": [
+                        "Indian Grey Hornbill",
+                        "Great Indian Bustard",
+                        "Sarus Crane",
+                        "Peacock"
+                    ],
+                    "answer": "Indian Grey Hornbill"
+                },
+                {
+                    "question": "Gir Forest is located in which state?",
+                    "options": [
+                        "Gujarat",
+                        "Rajasthan",
+                        "Madhya Pradesh",
+                        "Maharashtra"
+                    ],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "The return of the bird indicates improvement in?",
+                    "options": [
+                        "Habitat and Biodiversity",
+                        "Banking",
+                        "Industrial Production",
+                        "Railway Connectivity"
+                    ],
+                    "answer": "Habitat and Biodiversity"
+                },
+                {
+                    "question": "Gir is especially famous for?",
+                    "options": [
+                        "Asiatic Lions",
+                        "One-horned Rhinoceros",
+                        "Snow Leopards",
+                        "Elephants"
+                    ],
+                    "answer": "Asiatic Lions"
+                },
+                {
+                    "question": "Wildlife conservation mainly aims to protect?",
+                    "options": [
+                        "Species and Ecosystems",
+                        "Only Buildings",
+                        "Only Roads",
+                        "Only Industries"
+                    ],
+                    "answer": "Species and Ecosystems"
+                }
+            ]
+        },
+        {
+            "category": "Sports",
+            "title": "Jagannath Rath Yatra 2026 Begins Across India",
+            "summary": "The annual Jagannath Rath Yatra was observed on 16 July 2026, with the main celebration taking place in Puri, Odisha. The festival involves the chariot procession of Lord Jagannath, Lord Balabhadra and Goddess Subhadra and is one of India's major cultural and religious festivals.",
+            "sourceName": "Incredible India",
+            "sourceUrl": "https://www.incredibleindia.gov.in/",
+            "staticGK": [
+                "Festival : Jagannath Rath Yatra",
+                "Date : 16 July 2026",
+                "Main Location : Puri, Odisha",
+                "Deities : Jagannath, Balabhadra and Subhadra",
+                "Destination : Gundicha Temple"
+            ],
+            "mcqs": [
+                {
+                    "question": "Jagannath Rath Yatra 2026 was observed on?",
+                    "options": [
+                        "16 July 2026",
+                        "15 August 2026",
+                        "26 January 2026",
+                        "2 October 2026"
+                    ],
+                    "answer": "16 July 2026"
+                },
+                {
+                    "question": "The main Jagannath Rath Yatra is associated with which city?",
+                    "options": [
+                        "Puri",
+                        "Varanasi",
+                        "Ayodhya",
+                        "Jaipur"
+                    ],
+                    "answer": "Puri"
+                },
+                {
+                    "question": "Puri is located in which state?",
+                    "options": [
+                        "Odisha",
+                        "West Bengal",
+                        "Bihar",
+                        "Jharkhand"
+                    ],
+                    "answer": "Odisha"
+                },
+                {
+                    "question": "Which three deities are associated with the Rath Yatra?",
+                    "options": [
+                        "Jagannath, Balabhadra and Subhadra",
+                        "Rama, Lakshmana and Sita",
+                        "Shiva, Parvati and Ganesha",
+                        "Krishna, Radha and Balarama"
+                    ],
+                    "answer": "Jagannath, Balabhadra and Subhadra"
+                },
+                {
+                    "question": "The chariots travel towards which temple in the traditional Puri Rath Yatra?",
+                    "options": [
+                        "Gundicha Temple",
+                        "Konark Temple",
+                        "Lingaraj Temple",
+                        "Sun Temple"
+                    ],
+                    "answer": "Gundicha Temple"
+                }
+            ]
+        },
+        {
+            "category": "Government & Polity",
+            "title": "Maharashtra Moves to Legally Recognise Women Farmers",
+            "summary": "Maharashtra became the first state to move toward legal recognition of women farmers through a dedicated framework aimed at recognising women's contribution to agriculture even when they do not own land. The development is important for gender equality, agricultural policy and access to welfare schemes.",
+            "sourceName": "Insights IAS",
+            "sourceUrl": "https://www.insightsonindia.com/",
+            "staticGK": [
+                "State : Maharashtra",
+                "Issue : Recognition of Women Farmers",
+                "Policy Area : Agriculture and Gender Equality",
+                "Key Concern : Women without Land Ownership",
+                "Importance : Access to Welfare and Agricultural Recognition"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which state moved toward legal recognition of women farmers?",
+                    "options": [
+                        "Maharashtra",
+                        "Gujarat",
+                        "Punjab",
+                        "Haryana"
+                    ],
+                    "answer": "Maharashtra"
+                },
+                {
+                    "question": "The initiative mainly focuses on?",
+                    "options": [
+                        "Recognition of Women Farmers",
+                        "Banking Recruitment",
+                        "Railway Safety",
+                        "Defence Procurement"
+                    ],
+                    "answer": "Recognition of Women Farmers"
+                },
+                {
+                    "question": "The initiative is especially important for women who?",
+                    "options": [
+                        "Work in agriculture without owning land",
+                        "Work only in banks",
+                        "Work only in industries",
+                        "Are professional athletes"
+                    ],
+                    "answer": "Work in agriculture without owning land"
+                },
+                {
+                    "question": "The issue is closely related to which principle?",
+                    "options": [
+                        "Gender Equality",
+                        "Space Exploration",
+                        "Monetary Policy",
+                        "International Trade"
+                    ],
+                    "answer": "Gender Equality"
+                },
+                {
+                    "question": "Recognition of women farmers can improve access to?",
+                    "options": [
+                        "Welfare and Agricultural Schemes",
+                        "Air Tickets only",
+                        "Sports Awards only",
+                        "Passport Services only"
+                    ],
+                    "answer": "Welfare and Agricultural Schemes"
+                }
+            ]
+        },
+        {
+            "category": "Protest & Andolan",
+            "title": "Concerns Over Examination Integrity and Student Issues Remain in Focus",
+            "summary": "Student-related concerns over examination integrity, transparency and fair recruitment remained important issues for competitive-examination aspirants during July 2026. Discussions around examination systems highlighted the importance of secure question-paper handling, transparent procedures and timely grievance redressal.",
+            "sourceName": "Current Affairs Sources",
+            "sourceUrl": "https://www.forumias.com/",
+            "staticGK": [
+                "Issue : Examination Integrity",
+                "Main Stakeholders : Students and Examination Aspirants",
+                "Key Concerns : Transparency and Fairness",
+                "Related Area : Competitive Examinations",
+                "Importance : Secure and Transparent Examination System"
+            ],
+            "mcqs": [
+                {
+                    "question": "Examination integrity mainly refers to?",
+                    "options": [
+                        "Fair and Secure Examination",
+                        "Higher Examination Fees",
+                        "Longer Examination Duration",
+                        "More Examination Centres"
+                    ],
+                    "answer": "Fair and Secure Examination"
+                },
+                {
+                    "question": "Who are the primary stakeholders in examination integrity?",
+                    "options": [
+                        "Students and Aspirants",
+                        "Only Banks",
+                        "Only Industries",
+                        "Only Sports Organisations"
+                    ],
+                    "answer": "Students and Aspirants"
+                },
+                {
+                    "question": "A transparent examination system helps ensure?",
+                    "options": [
+                        "Fair Selection",
+                        "Higher Taxes",
+                        "More Imports",
+                        "Lower Literacy"
+                    ],
+                    "answer": "Fair Selection"
+                },
+                {
+                    "question": "Secure question-paper handling is important to prevent?",
+                    "options": [
+                        "Paper Leakage and Unfair Practices",
+                        "Inflation",
+                        "Deforestation",
+                        "Traffic Congestion"
+                    ],
+                    "answer": "Paper Leakage and Unfair Practices"
+                },
+                {
+                    "question": "Grievance redressal helps students to?",
+                    "options": [
+                        "Raise and Resolve Examination-related Complaints",
+                        "Open Bank Accounts",
+                        "Buy Railway Tickets",
+                        "Apply for a Passport"
+                    ],
+                    "answer": "Raise and Resolve Examination-related Complaints"
+                }
+            ]
+        },
+        {
+            "category": "Students & Competitive Examinations",
+            "title": "New Examination and Education Policy Discussions Remain Important for Aspirants",
+            "summary": "Education policy, examination integrity and reforms in competitive examinations remained important topics for students and aspirants in July 2026. Current developments highlighted the need for transparent recruitment, secure examinations, digital systems and effective grievance redressal mechanisms.",
+            "sourceName": "Current Affairs Sources",
+            "sourceUrl": "https://www.anantamias.com/",
+            "staticGK": [
+                "Key Area : Competitive Examinations",
+                "Major Themes : Examination Integrity and Transparency",
+                "Stakeholders : Students and Aspirants",
+                "Important Requirement : Secure Examination Systems",
+                "Exam Relevance : UPSC, SSC, Banking, Railway and State Exams"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which issue is important for competitive examination aspirants?",
+                    "options": [
+                        "Examination Integrity",
+                        "Only Tourism",
+                        "Only Entertainment",
+                        "Only Sports"
+                    ],
+                    "answer": "Examination Integrity"
+                },
+                {
+                    "question": "A secure examination system mainly protects against?",
+                    "options": [
+                        "Unfair Practices",
+                        "Rainfall",
+                        "Inflation",
+                        "Traffic"
+                    ],
+                    "answer": "Unfair Practices"
+                },
+                {
+                    "question": "Transparent recruitment primarily ensures?",
+                    "options": [
+                        "Fair Opportunity",
+                        "Higher Imports",
+                        "More Pollution",
+                        "Higher Fuel Consumption"
+                    ],
+                    "answer": "Fair Opportunity"
+                },
+                {
+                    "question": "Which group is directly affected by competitive examination reforms?",
+                    "options": [
+                        "Students and Job Aspirants",
+                        "Only Tourists",
+                        "Only Farmers",
+                        "Only Athletes"
+                    ],
+                    "answer": "Students and Job Aspirants"
+                },
+                {
+                    "question": "Effective grievance redressal is important for?",
+                    "options": [
+                        "Resolving Candidate Complaints",
+                        "Increasing Railway Speed",
+                        "Producing Electricity",
+                        "Increasing Gold Imports"
+                    ],
+                    "answer": "Resolving Candidate Complaints"
+                }
+            ]
         }
+    ]
+}
 
 
 
