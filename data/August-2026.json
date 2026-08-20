@@ -10513,7 +10513,2044 @@
             ]
         }
     ]
-}
+},
+            {
+            "id": "2026-08-18",
+            "date": "18 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 18 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "National Mass Pledge Against Drug Abuse Conducted on 6th Anniversary of Nasha Mukt Bharat Abhiyaan",
+                    "summary": "A National Mass Pledge Against Drug Abuse was organised across India on 18 August 2026 to mark the 6th anniversary of the Nasha Mukt Bharat Abhiyaan. The Ministry of Social Justice and Empowerment is the nodal ministry for the campaign, which aims to create widespread awareness against drug abuse and promote a drug-free India.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/",
+                    "staticGK": [
+                        "Campaign : Nasha Mukt Bharat Abhiyaan",
+                        "Occasion : 6th Anniversary",
+                        "Pledge Date : 18 August 2026",
+                        "Nodal Ministry : Ministry of Social Justice and Empowerment",
+                        "Focus : Drug Abuse Prevention",
+                        "Objective : Drug-Free India"
+                    ],
+                    "mcqs": [{
+                            "question": "On which date was the National Mass Pledge Against Drug Abuse scheduled in 2026?",
+                            "options": [
+                                "18 August 2026",
+                                "15 August 2026",
+                                "26 January 2026",
+                                "2 October 2026"
+                            ],
+                            "answer": "18 August 2026"
+                        },
+                        {
+                            "question": "The National Mass Pledge was associated with which campaign?",
+                            "options": [
+                                "Nasha Mukt Bharat Abhiyaan",
+                                "Swachh Bharat Abhiyaan",
+                                "Digital India",
+                                "Skill India"
+                            ],
+                            "answer": "Nasha Mukt Bharat Abhiyaan"
+                        },
+                        {
+                            "question": "Which ministry is the nodal ministry for the Nasha Mukt Bharat Abhiyaan?",
+                            "options": [
+                                "Ministry of Social Justice and Empowerment",
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Home Affairs",
+                                "Ministry of Education"
+                            ],
+                            "answer": "Ministry of Social Justice and Empowerment"
+                        },
+                        {
+                            "question": "The campaign primarily focuses on preventing?",
+                            "options": [
+                                "Drug Abuse",
+                                "Cyber Crime",
+                                "Air Pollution",
+                                "Financial Fraud"
+                            ],
+                            "answer": "Drug Abuse"
+                        },
+                        {
+                            "question": "The 2026 National Mass Pledge marked which anniversary of the Nasha Mukt Bharat Abhiyaan?",
+                            "options": [
+                                "6th",
+                                "5th",
+                                "7th",
+                                "10th"
+                            ],
+                            "answer": "6th"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India and Armenia Strengthen Defence Cooperation Through High-Level Talks",
+                    "summary": "India and Armenia reviewed their defence cooperation during high-level discussions in Yerevan on 18 August 2026. The talks covered capacity building, training, defence industrial cooperation, research and development, and mutual security. The discussions highlighted the growing strategic relationship between the two countries.",
+                    "sourceName": "Ministry of Defence",
+                    "sourceUrl": "https://www.mod.gov.in/",
+                    "staticGK": [
+                        "Countries : India and Armenia",
+                        "Venue : Yerevan",
+                        "Key Areas : Defence Cooperation",
+                        "Focus : Capacity Building and Training",
+                        "Other Areas : R&D and Defence Industry",
+                        "Objective : Strengthening Strategic Partnership"
+                    ],
+                    "mcqs": [{
+                            "question": "India held defence cooperation discussions with which country on 18 August 2026?",
+                            "options": [
+                                "Armenia",
+                                "France",
+                                "Japan",
+                                "Australia"
+                            ],
+                            "answer": "Armenia"
+                        },
+                        {
+                            "question": "Where were the India-Armenia defence discussions held?",
+                            "options": [
+                                "Yerevan",
+                                "New Delhi",
+                                "Mumbai",
+                                "Paris"
+                            ],
+                            "answer": "Yerevan"
+                        },
+                        {
+                            "question": "Which sector was primarily discussed?",
+                            "options": [
+                                "Defence",
+                                "Tourism",
+                                "Agriculture",
+                                "Education"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "Which of the following was included in the cooperation areas?",
+                            "options": [
+                                "Research and Development",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Banking"
+                            ],
+                            "answer": "Research and Development"
+                        },
+                        {
+                            "question": "India-Armenia cooperation also includes?",
+                            "options": [
+                                "Capacity Building and Training",
+                                "Railway Ticketing",
+                                "Film Production",
+                                "School Examinations"
+                            ],
+                            "answer": "Capacity Building and Training"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "Indian Defence Start-up Demonstrates Rotating Detonation Engine Technology",
+                    "summary": "Indian defence start-up D-Propulse successfully demonstrated a Rotating Detonation Engine (RDE) at a DRDO facility in Hyderabad. The technology uses continuous detonation waves and has the potential to improve thermodynamic efficiency in propulsion systems. RDE technology could have applications in rockets, missiles and other advanced propulsion systems.",
+                    "sourceName": "The Hindu",
+                    "sourceUrl": "https://www.thehindu.com/",
+                    "staticGK": [
+                        "Technology : Rotating Detonation Engine",
+                        "Organisation : D-Propulse",
+                        "Facility : DRDO Facility",
+                        "Location : Hyderabad",
+                        "Potential Applications : Rockets and Missiles",
+                        "Key Feature : Continuous Detonation Waves"
+                    ],
+                    "mcqs": [{
+                            "question": "What technology was demonstrated by D-Propulse?",
+                            "options": [
+                                "Rotating Detonation Engine",
+                                "Solar Cell",
+                                "Quantum Computer",
+                                "Hydrogen Battery"
+                            ],
+                            "answer": "Rotating Detonation Engine"
+                        },
+                        {
+                            "question": "At which type of facility was the RDE demonstrated?",
+                            "options": [
+                                "DRDO Facility",
+                                "ISRO Launch Centre",
+                                "Railway Workshop",
+                                "Airport Laboratory"
+                            ],
+                            "answer": "DRDO Facility"
+                        },
+                        {
+                            "question": "In which city was the demonstration conducted?",
+                            "options": [
+                                "Hyderabad",
+                                "Bengaluru",
+                                "Pune",
+                                "Chennai"
+                            ],
+                            "answer": "Hyderabad"
+                        },
+                        {
+                            "question": "RDE technology is mainly related to?",
+                            "options": [
+                                "Advanced Propulsion",
+                                "Agriculture",
+                                "Banking",
+                                "Telecommunications"
+                            ],
+                            "answer": "Advanced Propulsion"
+                        },
+                        {
+                            "question": "RDE technology may have applications in?",
+                            "options": [
+                                "Rockets and Missiles",
+                                "Railway Coaches",
+                                "School Buses",
+                                "Banking Systems"
+                            ],
+                            "answer": "Rockets and Missiles"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "Indian Rupee Ends Marginally Lower Against US Dollar Amid Global Market Pressure",
+                    "summary": "The Indian rupee ended marginally weaker at around ₹95.68 per US dollar on 18 August 2026. Global factors including higher crude oil prices and rising bond yields put pressure on emerging-market currencies. Reserve Bank of India intervention helped limit the rupee's decline.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/rising-oil-us-yields-add-rupee-pressure-after-rbi-move-2026-08-18/",
+                    "staticGK": [
+                        "Currency : Indian Rupee",
+                        "Closing Level : Around ₹95.68 per US Dollar",
+                        "Date : 18 August 2026",
+                        "Major Pressure : Rising Crude Oil Prices",
+                        "Other Factor : Global Bond Yields",
+                        "Stabilising Institution : Reserve Bank of India"
+                    ],
+                    "mcqs": [{
+                            "question": "At around what level did the Indian rupee end on 18 August 2026?",
+                            "options": [
+                                "₹95.68 per US Dollar",
+                                "₹85.68 per US Dollar",
+                                "₹75.68 per US Dollar",
+                                "₹105.68 per US Dollar"
+                            ],
+                            "answer": "₹95.68 per US Dollar"
+                        },
+                        {
+                            "question": "Which institution helped cushion the rupee's decline?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "NABARD"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which global factor put pressure on the rupee?",
+                            "options": [
+                                "Rising Crude Oil Prices",
+                                "Lower Gold Prices",
+                                "Higher Rainfall",
+                                "Lower Food Production"
+                            ],
+                            "answer": "Rising Crude Oil Prices"
+                        },
+                        {
+                            "question": "The rupee is India's?",
+                            "options": [
+                                "Currency",
+                                "Central Bank",
+                                "Stock Exchange",
+                                "Tax Authority"
+                            ],
+                            "answer": "Currency"
+                        },
+                        {
+                            "question": "The rupee's movement was also influenced by rising?",
+                            "options": [
+                                "Global Bond Yields",
+                                "School Fees",
+                                "Railway Fares",
+                                "Crop Production"
+                            ],
+                            "answer": "Global Bond Yields"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "Rajnath Singh Flags Off NCC Girls High Altitude Trek 'Aparajita – Parang La 2026'",
+                    "summary": "Defence Minister Rajnath Singh flagged off the NCC's All India Girls High Altitude Long Trek 'Aparajita – Parang La 2026' in New Delhi on 18 August 2026. The expedition includes NCC girl cadets and aims to promote resilience, confidence, leadership and self-discovery while emphasising safety and environmental protection.",
+                    "sourceName": "Ministry of Defence",
+                    "sourceUrl": "https://www.mod.gov.in/",
+                    "staticGK": [
+                        "Expedition : Aparajita – Parang La 2026",
+                        "Organisation : National Cadet Corps",
+                        "Participants : NCC Girl Cadets",
+                        "Flagged Off By : Rajnath Singh",
+                        "Date : 18 August 2026",
+                        "Focus : Resilience, Confidence and Leadership"
+                    ],
+                    "mcqs": [{
+                            "question": "Who flagged off the NCC girls' high-altitude trek?",
+                            "options": [
+                                "Rajnath Singh",
+                                "Amit Shah",
+                                "Manohar Lal",
+                                "Shivraj Singh Chouhan"
+                            ],
+                            "answer": "Rajnath Singh"
+                        },
+                        {
+                            "question": "What is the name of the NCC expedition?",
+                            "options": [
+                                "Aparajita – Parang La 2026",
+                                "Shakti Trek 2026",
+                                "Himalaya Mission 2026",
+                                "Veerangana Trek 2026"
+                            ],
+                            "answer": "Aparajita – Parang La 2026"
+                        },
+                        {
+                            "question": "Which organisation is conducting the expedition?",
+                            "options": [
+                                "National Cadet Corps",
+                                "Border Security Force",
+                                "Indian Army",
+                                "Nehru Yuva Kendra"
+                            ],
+                            "answer": "National Cadet Corps"
+                        },
+                        {
+                            "question": "Who are the main participants?",
+                            "options": [
+                                "NCC Girl Cadets",
+                                "School Teachers",
+                                "Army Veterans",
+                                "Tourists"
+                            ],
+                            "answer": "NCC Girl Cadets"
+                        },
+                        {
+                            "question": "The trek aims to promote which quality?",
+                            "options": [
+                                "Resilience",
+                                "Only Tourism",
+                                "Only Trade",
+                                "Only Banking"
+                            ],
+                            "answer": "Resilience"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment",
+                    "title": "12th BRICS Environment Ministers' Meeting Held in New Delhi",
+                    "summary": "India hosted the 12th BRICS Environment Ministers' Meeting in New Delhi on 18 August 2026 under India's BRICS Chairship. The meeting focused on environmental cooperation, climate change, sustainable development, biodiversity and building resilient and sustainable societies.",
+                    "sourceName": "DD India",
+                    "sourceUrl": "https://ddindia.co.in/2026/08/india-to-host-brics-environment-ministers-meeting-in-delhi-on-tuesday/",
+                    "staticGK": [
+                        "Meeting : 12th BRICS Environment Ministers' Meeting",
+                        "Host Country : India",
+                        "Venue : New Delhi",
+                        "Date : 18 August 2026",
+                        "Chairship : India BRICS Chairship 2026",
+                        "Theme : Building for Resilience, Innovation, Cooperation and Sustainability"
+                    ],
+                    "mcqs": [{
+                            "question": "Which BRICS meeting was hosted by India on 18 August 2026?",
+                            "options": [
+                                "12th BRICS Environment Ministers' Meeting",
+                                "10th BRICS Finance Meeting",
+                                "15th BRICS Defence Meeting",
+                                "5th BRICS Sports Meeting"
+                            ],
+                            "answer": "12th BRICS Environment Ministers' Meeting"
+                        },
+                        {
+                            "question": "Where was the BRICS Environment Ministers' Meeting held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Pune",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country hosted the meeting?",
+                            "options": [
+                                "India",
+                                "Brazil",
+                                "China",
+                                "South Africa"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "The meeting primarily focused on?",
+                            "options": [
+                                "Environment and Climate Cooperation",
+                                "Cricket",
+                                "Railways",
+                                "Banking Recruitment"
+                            ],
+                            "answer": "Environment and Climate Cooperation"
+                        },
+                        {
+                            "question": "India held the BRICS Chairship in which year?",
+                            "options": [
+                                "2026",
+                                "2025",
+                                "2027",
+                                "2024"
+                            ],
+                            "answer": "2026"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Tamil Nadu Announces Full Waiver of Cooperative Farm Loans Up to ₹75,000",
+                    "summary": "Tamil Nadu Chief Minister C. Joseph Vijay announced a full waiver of cooperative farm loans up to ₹75,000. The additional relief is expected to involve an expenditure of about ₹953 crore and provide further support to farmers across the state.",
+                    "sourceName": "The Pioneer",
+                    "sourceUrl": "https://dailypioneer.com/news/slug-lite/tn-cm-announces-full-waiver-of-cooperative-farm-loans-upto-rs-75000?year=2026",
+                    "staticGK": [
+                        "State : Tamil Nadu",
+                        "Chief Minister : C. Joseph Vijay",
+                        "Loan Type : Cooperative Farm Loans",
+                        "Full Waiver Limit : ₹75,000",
+                        "Additional Expenditure : About ₹953 Crore",
+                        "Beneficiaries : Farmers"
+                    ],
+                    "mcqs": [{
+                            "question": "Which state announced a full waiver of cooperative farm loans up to ₹75,000?",
+                            "options": [
+                                "Tamil Nadu",
+                                "Kerala",
+                                "Karnataka",
+                                "Andhra Pradesh"
+                            ],
+                            "answer": "Tamil Nadu"
+                        },
+                        {
+                            "question": "Who announced the farm loan waiver?",
+                            "options": [
+                                "C. Joseph Vijay",
+                                "M.K. Stalin",
+                                "Pinarayi Vijayan",
+                                "N. Chandrababu Naidu"
+                            ],
+                            "answer": "C. Joseph Vijay"
+                        },
+                        {
+                            "question": "What is the full waiver limit announced?",
+                            "options": [
+                                "₹75,000",
+                                "₹50,000",
+                                "₹1,00,000",
+                                "₹25,000"
+                            ],
+                            "answer": "₹75,000"
+                        },
+                        {
+                            "question": "The waiver is related to which type of loans?",
+                            "options": [
+                                "Cooperative Farm Loans",
+                                "Education Loans",
+                                "Home Loans",
+                                "Vehicle Loans"
+                            ],
+                            "answer": "Cooperative Farm Loans"
+                        },
+                        {
+                            "question": "The additional expenditure was estimated at approximately?",
+                            "options": [
+                                "₹953 Crore",
+                                "₹500 Crore",
+                                "₹2,000 Crore",
+                                "₹100 Crore"
+                            ],
+                            "answer": "₹953 Crore"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "UDISE+ 2025-26 Report Highlights Improvements in School Education Infrastructure",
+                    "summary": "The UDISE+ 2025-26 report highlighted improvements in several areas of India's school education system, including school infrastructure, teacher availability, student retention and digital connectivity. The report provides important data for understanding the progress and challenges of school education in India.",
+                    "sourceName": "InsightsIAS",
+                    "sourceUrl": "https://www.insightsonindia.com/2026/08/18/upsc-current-affairs-18-august-2026/",
+                    "staticGK": [
+                        "Report : UDISE+ 2025-26",
+                        "Sector : School Education",
+                        "Key Area : School Infrastructure",
+                        "Other Areas : Teacher Availability",
+                        "Digital Area : Digital Connectivity",
+                        "Purpose : Education Data and Monitoring"
+                    ],
+                    "mcqs": [{
+                            "question": "UDISE+ 2025-26 is related to which sector?",
+                            "options": [
+                                "School Education",
+                                "Banking",
+                                "Defence",
+                                "Railways"
+                            ],
+                            "answer": "School Education"
+                        },
+                        {
+                            "question": "Which report was highlighted in the 18 August 2026 current affairs?",
+                            "options": [
+                                "UDISE+ 2025-26",
+                                "NITI Health Report",
+                                "Economic Survey 2026",
+                                "Census Report 2026"
+                            ],
+                            "answer": "UDISE+ 2025-26"
+                        },
+                        {
+                            "question": "Which area showed improvement according to the report?",
+                            "options": [
+                                "School Infrastructure",
+                                "Only Banking",
+                                "Only Defence",
+                                "Only Railways"
+                            ],
+                            "answer": "School Infrastructure"
+                        },
+                        {
+                            "question": "UDISE+ also tracks which education-related factor?",
+                            "options": [
+                                "Teacher Availability",
+                                "Stock Prices",
+                                "Military Strength",
+                                "Foreign Exchange"
+                            ],
+                            "answer": "Teacher Availability"
+                        },
+                        {
+                            "question": "Which technological area was highlighted?",
+                            "options": [
+                                "Digital Connectivity",
+                                "Satellite Navigation",
+                                "Cryptocurrency",
+                                "Quantum Banking"
+                            ],
+                            "answer": "Digital Connectivity"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Protest / Andolan",
+                    "title": "Jharkhand Government Cancels JSSC-CGL Exam Amid Student Protest",
+                    "summary": "The Jharkhand government cancelled the JSSC Combined Graduate Level examination and examinations conducted through TDPL amid sustained protests by students and job aspirants. Student leader Devendra Nath Mahto ended his 16-day hunger strike following the government's decision, describing the cancellation as a major victory for the protesting students.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/india/student-leader-devendra-nath-mahto-ends-16-day-hunger-strike-calls-exam-cancellation-huge-victory-for-jharkhand/articleshow/133308930.cms",
+                    "staticGK": [
+                        "State : Jharkhand",
+                        "Examination : JSSC-CGL",
+                        "Other Exams : TDPL Conducted Exams",
+                        "Protesters : Students and Job Aspirants",
+                        "Student Leader : Devendra Nath Mahto",
+                        "Hunger Strike : 16 Days"
+                    ],
+                    "mcqs": [{
+                            "question": "Which examination was cancelled by the Jharkhand government?",
+                            "options": [
+                                "JSSC-CGL",
+                                "UPSC CSE",
+                                "SSC CGL",
+                                "RRB NTPC"
+                            ],
+                            "answer": "JSSC-CGL"
+                        },
+                        {
+                            "question": "The protest took place in which state?",
+                            "options": [
+                                "Jharkhand",
+                                "Bihar",
+                                "Odisha",
+                                "Chhattisgarh"
+                            ],
+                            "answer": "Jharkhand"
+                        },
+                        {
+                            "question": "Who was the student leader mentioned in the protest?",
+                            "options": [
+                                "Devendra Nath Mahto",
+                                "Piyush Kumar",
+                                "Ravi Kumar",
+                                "Amit Kumar"
+                            ],
+                            "answer": "Devendra Nath Mahto"
+                        },
+                        {
+                            "question": "How long had Devendra Nath Mahto been on hunger strike?",
+                            "options": [
+                                "16 Days",
+                                "10 Days",
+                                "20 Days",
+                                "7 Days"
+                            ],
+                            "answer": "16 Days"
+                        },
+                        {
+                            "question": "The protesters were mainly?",
+                            "options": [
+                                "Students and Job Aspirants",
+                                "Farmers",
+                                "Industrial Workers",
+                                "Tourists"
+                            ],
+                            "answer": "Students and Job Aspirants"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "Indian Shuttlers Continue Campaign at BWF World Championships in New Delhi",
+                    "summary": "The BWF World Championships 2026 continued in New Delhi on 18 August. Indian players competed in multiple events as the tournament progressed through its early knockout rounds. The championship is being held at the Indira Gandhi Indoor Stadium and features India's leading badminton players.",
+                    "sourceName": "BWF World Championships",
+                    "sourceUrl": "https://bwfbadminton.com/",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Host City : New Delhi",
+                        "Venue : Indira Gandhi Indoor Stadium",
+                        "Sport : Badminton",
+                        "Date : 18 August 2026",
+                        "Country : India"
+                    ],
+                    "mcqs": [{
+                            "question": "Where are the BWF World Championships 2026 being held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "BWF is associated with which sport?",
+                            "options": [
+                                "Badminton",
+                                "Football",
+                                "Hockey",
+                                "Tennis"
+                            ],
+                            "answer": "Badminton"
+                        },
+                        {
+                            "question": "Which stadium is hosting the championship?",
+                            "options": [
+                                "Indira Gandhi Indoor Stadium",
+                                "Jawaharlal Nehru Stadium",
+                                "Major Dhyan Chand Stadium",
+                                "Arun Jaitley Stadium"
+                            ],
+                            "answer": "Indira Gandhi Indoor Stadium"
+                        },
+                        {
+                            "question": "Which country is hosting the BWF World Championships in 2026?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Japan",
+                                "Indonesia"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "The BWF World Championships are related to?",
+                            "options": [
+                                "Badminton",
+                                "Cricket",
+                                "Athletics",
+                                "Wrestling"
+                            ],
+                            "answer": "Badminton"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "2026-08-19",
+            "date": "19 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 19 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "Government Announces Sixth Positive Indigenisation List with 405 Defence Items",
+                    "summary": "The Ministry of Defence announced the sixth Positive Indigenisation List comprising 405 strategically important defence items. The initiative is aimed at promoting Aatmanirbharta in defence and reducing dependence on imported military equipment. The list covers equipment and components associated with platforms such as helicopters, fighter aircraft, tanks and warships.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/in-another-aatmanirbharta-push-405-key-defence-items-of-military-platforms-alh-tejas-tanks-and-warships-to-be-indigenised/articleshow/133334515.cms",
+                    "staticGK": [
+                        "List : Sixth Positive Indigenisation List",
+                        "Number of Items : 405",
+                        "Ministry : Ministry of Defence",
+                        "Estimated Business Potential : ₹3,070 Crore",
+                        "Objective : Aatmanirbharta in Defence",
+                        "Platforms : Helicopters, Fighter Aircraft, Tanks and Warships"
+                    ],
+                    "mcqs": [{
+                            "question": "How many items are included in the sixth Positive Indigenisation List?",
+                            "options": [
+                                "405",
+                                "305",
+                                "505",
+                                "205"
+                            ],
+                            "answer": "405"
+                        },
+                        {
+                            "question": "Which ministry announced the Positive Indigenisation List?",
+                            "options": [
+                                "Ministry of Defence",
+                                "Ministry of Home Affairs",
+                                "Ministry of Finance",
+                                "Ministry of Commerce"
+                            ],
+                            "answer": "Ministry of Defence"
+                        },
+                        {
+                            "question": "The Positive Indigenisation List primarily promotes?",
+                            "options": [
+                                "Aatmanirbharta in Defence",
+                                "Agricultural Exports",
+                                "Tourism",
+                                "Banking Reforms"
+                            ],
+                            "answer": "Aatmanirbharta in Defence"
+                        },
+                        {
+                            "question": "What is the estimated business potential of the list?",
+                            "options": [
+                                "₹3,070 Crore",
+                                "₹1,070 Crore",
+                                "₹5,070 Crore",
+                                "₹7,030 Crore"
+                            ],
+                            "answer": "₹3,070 Crore"
+                        },
+                        {
+                            "question": "Which of the following is covered by the indigenisation initiative?",
+                            "options": [
+                                "Warships",
+                                "School Buildings",
+                                "Railway Tickets",
+                                "Bank Accounts"
+                            ],
+                            "answer": "Warships"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India and Japan Deepen Strategic and Defence Cooperation",
+                    "summary": "India and Japan continued discussions on strengthening bilateral defence and strategic cooperation amid changing security conditions in the Indo-Pacific. The two countries are working to enhance defence industrial cooperation, maritime security, technology partnerships and strategic coordination.",
+                    "sourceName": "Rediff",
+                    "sourceUrl": "https://www.rediff.com/news/column/why-japan-is-expanding-defence-ties-beyond-india/20260819.htm",
+                    "staticGK": [
+                        "Countries : India and Japan",
+                        "Region : Indo-Pacific",
+                        "Key Area : Defence Cooperation",
+                        "Other Area : Maritime Security",
+                        "Focus : Strategic Coordination",
+                        "Partnership : Defence and Technology Cooperation"
+                    ],
+                    "mcqs": [{
+                            "question": "Which country is strengthening strategic and defence cooperation with India?",
+                            "options": [
+                                "Japan",
+                                "Brazil",
+                                "Canada",
+                                "Egypt"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "India-Japan strategic cooperation is particularly important in which region?",
+                            "options": [
+                                "Indo-Pacific",
+                                "Arctic",
+                                "South America",
+                                "Eastern Europe"
+                            ],
+                            "answer": "Indo-Pacific"
+                        },
+                        {
+                            "question": "Which sector is an important part of India-Japan cooperation?",
+                            "options": [
+                                "Defence",
+                                "Only Tourism",
+                                "Only Agriculture",
+                                "Only Sports"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "Maritime security is connected with which area?",
+                            "options": [
+                                "Strategic Security",
+                                "School Education",
+                                "Banking",
+                                "Agriculture"
+                            ],
+                            "answer": "Strategic Security"
+                        },
+                        {
+                            "question": "India-Japan cooperation also includes?",
+                            "options": [
+                                "Technology Partnerships",
+                                "Only Cricket",
+                                "Only Railways",
+                                "Only Tourism"
+                            ],
+                            "answer": "Technology Partnerships"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "DRDO Invites Indian Private Firms to Partner in Strategic Weapons Development",
+                    "summary": "The Defence Research and Development Organisation invited Indian private defence companies to participate in the development and production of strategic missile and bomb weapon systems. The initiative under the Missiles and Strategic Systems cluster aims to strengthen domestic defence manufacturing, technological capability and self-reliance.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/india/drdo-invites-indian-defence-firms-to-be-its-partner-for-development-production-of-strategic-weapons/articleshow/133358773.cms",
+                    "staticGK": [
+                        "Organisation : DRDO",
+                        "Cluster : Missiles and Strategic Systems",
+                        "Partners : Indian Private Defence Firms",
+                        "Focus : Strategic Weapons",
+                        "Objective : Defence Self-Reliance",
+                        "Areas : Development and Production"
+                    ],
+                    "mcqs": [{
+                            "question": "Which organisation invited private firms for strategic weapons development?",
+                            "options": [
+                                "DRDO",
+                                "ISRO",
+                                "BHEL",
+                                "HAL"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "Which DRDO cluster is associated with the initiative?",
+                            "options": [
+                                "Missiles and Strategic Systems",
+                                "Aeronautical Research",
+                                "Naval Systems",
+                                "Medical Research"
+                            ],
+                            "answer": "Missiles and Strategic Systems"
+                        },
+                        {
+                            "question": "Who can participate in the initiative?",
+                            "options": [
+                                "Indian Private Defence Firms",
+                                "Foreign Banks",
+                                "Universities Only",
+                                "Tourism Companies"
+                            ],
+                            "answer": "Indian Private Defence Firms"
+                        },
+                        {
+                            "question": "The initiative aims to strengthen?",
+                            "options": [
+                                "Defence Self-Reliance",
+                                "Tourism",
+                                "Sports",
+                                "Agriculture"
+                            ],
+                            "answer": "Defence Self-Reliance"
+                        },
+                        {
+                            "question": "Which systems are included in the initiative?",
+                            "options": [
+                                "Strategic Missile and Bomb Weapon Systems",
+                                "Railway Coaches",
+                                "Civil Aircraft Only",
+                                "Medical Equipment"
+                            ],
+                            "answer": "Strategic Missile and Bomb Weapon Systems"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "India Imposes Stockholding Limits on Bulk Sugar Consumers",
+                    "summary": "The Government of India imposed stockholding limits on bulk consumers of sugar to control rising sugar prices. From 1 September to 30 November 2026, bulk users consuming more than 10 metric tonnes of sugar per month will be allowed to hold only 15 days of inventory. The move comes amid tight supplies and increased festive-season demand.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/business/india-tightens-sugar-stock-limits-tame-record-prices-2026-08-19/",
+                    "staticGK": [
+                        "Commodity : Sugar",
+                        "Target : Bulk Consumers",
+                        "Monthly Consumption Threshold : More than 10 Metric Tonnes",
+                        "Permitted Inventory : 15 Days",
+                        "Effective Period : 1 September–30 November 2026",
+                        "Objective : Control Rising Sugar Prices"
+                    ],
+                    "mcqs": [{
+                            "question": "Which commodity was subject to new stockholding limits?",
+                            "options": [
+                                "Sugar",
+                                "Wheat",
+                                "Rice",
+                                "Cotton"
+                            ],
+                            "answer": "Sugar"
+                        },
+                        {
+                            "question": "The new restrictions apply to bulk consumers using more than how much sugar monthly?",
+                            "options": [
+                                "10 Metric Tonnes",
+                                "5 Metric Tonnes",
+                                "20 Metric Tonnes",
+                                "50 Metric Tonnes"
+                            ],
+                            "answer": "10 Metric Tonnes"
+                        },
+                        {
+                            "question": "How much inventory can eligible bulk consumers hold under the new rule?",
+                            "options": [
+                                "15 Days",
+                                "30 Days",
+                                "45 Days",
+                                "60 Days"
+                            ],
+                            "answer": "15 Days"
+                        },
+                        {
+                            "question": "The restrictions will apply from?",
+                            "options": [
+                                "1 September to 30 November 2026",
+                                "1 August to 30 September 2026",
+                                "1 October to 31 December 2026",
+                                "15 August to 15 November 2026"
+                            ],
+                            "answer": "1 September to 30 November 2026"
+                        },
+                        {
+                            "question": "The measure was introduced mainly to control?",
+                            "options": [
+                                "Rising Sugar Prices",
+                                "Gold Prices",
+                                "Fuel Prices",
+                                "Railway Fares"
+                            ],
+                            "answer": "Rising Sugar Prices"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "DRDO Pushes Aatmanirbharta Through Strategic Weapons Partnership with Private Industry",
+                    "summary": "DRDO's latest initiative to involve private Indian defence firms in strategic weapons development represents a further push towards defence indigenisation. The programme seeks to expand the domestic industrial base and improve technological depth in critical missile and weapon systems.",
+                    "sourceName": "Outlook India",
+                    "sourceUrl": "https://www.outlookindia.com/national/the-strategic-weapons-shift-why-india-is-bringing-private-industry-into-its-most-sensitive-defence-programmes",
+                    "staticGK": [
+                        "Organisation : DRDO",
+                        "Sector : Defence Manufacturing",
+                        "Focus : Strategic Weapon Systems",
+                        "Participants : Indian Private Industry",
+                        "Objective : Aatmanirbharta",
+                        "Expected Benefit : Greater Domestic Technology Capability"
+                    ],
+                    "mcqs": [{
+                            "question": "The latest DRDO initiative focuses on which sector?",
+                            "options": [
+                                "Defence Manufacturing",
+                                "Tourism",
+                                "Agriculture",
+                                "Education"
+                            ],
+                            "answer": "Defence Manufacturing"
+                        },
+                        {
+                            "question": "Which industry is being encouraged to participate?",
+                            "options": [
+                                "Indian Private Industry",
+                                "Foreign Banks",
+                                "Tourism Industry",
+                                "Film Industry"
+                            ],
+                            "answer": "Indian Private Industry"
+                        },
+                        {
+                            "question": "The initiative is part of India's push for?",
+                            "options": [
+                                "Aatmanirbharta",
+                                "Digital Literacy",
+                                "Green Tourism",
+                                "Financial Inclusion"
+                            ],
+                            "answer": "Aatmanirbharta"
+                        },
+                        {
+                            "question": "The programme focuses on?",
+                            "options": [
+                                "Strategic Weapon Systems",
+                                "School Infrastructure",
+                                "Railway Catering",
+                                "Agricultural Marketing"
+                            ],
+                            "answer": "Strategic Weapon Systems"
+                        },
+                        {
+                            "question": "One expected benefit is greater domestic?",
+                            "options": [
+                                "Technology Capability",
+                                "Tourist Arrivals",
+                                "Crop Production",
+                                "Bank Deposits"
+                            ],
+                            "answer": "Technology Capability"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment",
+                    "title": "BRICS Cooperation Continues to Focus on Climate Resilience and Sustainable Development",
+                    "summary": "Environmental cooperation under India's BRICS Chairship continued to emphasise climate resilience, sustainability, biodiversity conservation and environmental governance. The BRICS platform is increasingly being used for cooperation on environmental challenges alongside its traditional economic agenda.",
+                    "sourceName": "BRICS India",
+                    "sourceUrl": "https://brics2026.gov.in/",
+                    "staticGK": [
+                        "Grouping : BRICS",
+                        "Chairship : India",
+                        "Key Focus : Climate Resilience",
+                        "Other Focus : Biodiversity and Sustainability",
+                        "Approach : Multilateral Environmental Cooperation",
+                        "Objective : Sustainable Development"
+                    ],
+                    "mcqs": [{
+                            "question": "Which grouping is associated with the environmental cooperation mentioned?",
+                            "options": [
+                                "BRICS",
+                                "G7",
+                                "SAARC",
+                                "ASEAN"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "Which country holds the BRICS Chairship in 2026?",
+                            "options": [
+                                "India",
+                                "Brazil",
+                                "Russia",
+                                "China"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Which issue is a major focus of environmental cooperation?",
+                            "options": [
+                                "Climate Resilience",
+                                "Only Sports",
+                                "Only Banking",
+                                "Only Tourism"
+                            ],
+                            "answer": "Climate Resilience"
+                        },
+                        {
+                            "question": "Which environmental issue is also highlighted?",
+                            "options": [
+                                "Biodiversity Conservation",
+                                "Currency Printing",
+                                "Railway Recruitment",
+                                "Defence Procurement"
+                            ],
+                            "answer": "Biodiversity Conservation"
+                        },
+                        {
+                            "question": "The overall objective is?",
+                            "options": [
+                                "Sustainable Development",
+                                "Military Expansion",
+                                "Tourism Promotion Only",
+                                "Currency Reform"
+                            ],
+                            "answer": "Sustainable Development"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Supreme Court Developments Highlight Issues of MSP and Crop Loan Waiver",
+                    "summary": "The Supreme Court saw important proceedings on 19 August 2026, including a petition seeking fixation of Minimum Support Price based on the recommendations of the Swaminathan Commission along with crop loan waiver. The developments brought agricultural policy, farmer welfare and MSP-related issues into focus.",
+                    "sourceName": "LiveLaw",
+                    "sourceUrl": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-august-19-2026-546550",
+                    "staticGK": [
+                        "Institution : Supreme Court of India",
+                        "Issue : Minimum Support Price",
+                        "Reference : Swaminathan Commission",
+                        "Other Issue : Crop Loan Waiver",
+                        "Sector : Agriculture",
+                        "Date : 19 August 2026"
+                    ],
+                    "mcqs": [{
+                            "question": "Which institution witnessed the proceedings related to MSP and crop loan waiver?",
+                            "options": [
+                                "Supreme Court of India",
+                                "Election Commission",
+                                "RBI",
+                                "Parliament"
+                            ],
+                            "answer": "Supreme Court of India"
+                        },
+                        {
+                            "question": "MSP stands for?",
+                            "options": [
+                                "Minimum Support Price",
+                                "Maximum Selling Price",
+                                "Minimum Selling Policy",
+                                "Market Support Programme"
+                            ],
+                            "answer": "Minimum Support Price"
+                        },
+                        {
+                            "question": "The petition referred to recommendations of which commission?",
+                            "options": [
+                                "Swaminathan Commission",
+                                "Mandal Commission",
+                                "Finance Commission",
+                                "Sarkaria Commission"
+                            ],
+                            "answer": "Swaminathan Commission"
+                        },
+                        {
+                            "question": "The issue of crop loan waiver is mainly associated with?",
+                            "options": [
+                                "Farmers",
+                                "Students",
+                                "Industrial Workers",
+                                "Tourists"
+                            ],
+                            "answer": "Farmers"
+                        },
+                        {
+                            "question": "MSP is primarily related to which sector?",
+                            "options": [
+                                "Agriculture",
+                                "Defence",
+                                "Banking",
+                                "Railways"
+                            ],
+                            "answer": "Agriculture"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "UPSSSC Lower PCS Admit Card Released; Examination Scheduled for 23 August",
+                    "summary": "The Uttar Pradesh Subordinate Services Selection Commission released the UPSSSC Lower PCS 2026 admit card on 19 August 2026. The examination is scheduled to be conducted on 23 August 2026. Candidates were advised to download their hall tickets from the official commission website using their login credentials.",
+                    "sourceName": "Careers360",
+                    "sourceUrl": "https://competition.careers360.com/articles/upsssc-lower-pcs-admit-card-2026-steps-to-download-the-hall-ticket",
+                    "staticGK": [
+                        "Examination : UPSSSC Lower PCS 2026",
+                        "Organisation : UPSSSC",
+                        "Admit Card Release : 19 August 2026",
+                        "Exam Date : 23 August 2026",
+                        "Mode : Online Download",
+                        "Website : upsssc.gov.in"
+                    ],
+                    "mcqs": [{
+                            "question": "Which examination's admit card was released on 19 August 2026?",
+                            "options": [
+                                "UPSSSC Lower PCS",
+                                "SSC CGL",
+                                "RRB NTPC",
+                                "UPSC CDS"
+                            ],
+                            "answer": "UPSSSC Lower PCS"
+                        },
+                        {
+                            "question": "Which organisation conducts the Lower PCS examination?",
+                            "options": [
+                                "UPSSSC",
+                                "UPSC",
+                                "SSC",
+                                "BPSC"
+                            ],
+                            "answer": "UPSSSC"
+                        },
+                        {
+                            "question": "When is the UPSSSC Lower PCS 2026 examination scheduled?",
+                            "options": [
+                                "23 August 2026",
+                                "19 August 2026",
+                                "25 August 2026",
+                                "30 August 2026"
+                            ],
+                            "answer": "23 August 2026"
+                        },
+                        {
+                            "question": "Candidates can download the admit card using?",
+                            "options": [
+                                "Login Credentials",
+                                "Only Aadhaar Card",
+                                "Only PAN Card",
+                                "Postal Application"
+                            ],
+                            "answer": "Login Credentials"
+                        },
+                        {
+                            "question": "UPSSSC is associated with which state?",
+                            "options": [
+                                "Uttar Pradesh",
+                                "Uttarakhand",
+                                "Rajasthan",
+                                "Bihar"
+                            ],
+                            "answer": "Uttar Pradesh"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Protest / Andolan",
+                    "title": "Students Protest at Punjabi University Following Campus Clash",
+                    "summary": "Students at Punjabi University organised a protest following a recent campus clash and demanded accountability and action from the university administration. University officials apologised and assured students that the incident would be investigated and measures would be taken to improve campus safety and communication.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/students-protest-after-punjabi-varsity-clash-officials-apologise/articleshow/133356742.cms",
+                    "staticGK": [
+                        "Institution : Punjabi University",
+                        "Issue : Campus Clash",
+                        "Protesters : Students",
+                        "Demand : Accountability and Action",
+                        "University Response : Apology",
+                        "Focus : Campus Safety"
+                    ],
+                    "mcqs": [{
+                            "question": "Where did students organise a protest following a campus clash?",
+                            "options": [
+                                "Punjabi University",
+                                "Delhi University",
+                                "Punjab University Chandigarh",
+                                "Jawaharlal Nehru University"
+                            ],
+                            "answer": "Punjabi University"
+                        },
+                        {
+                            "question": "What triggered the student protest?",
+                            "options": [
+                                "Campus Clash",
+                                "Fee Reduction",
+                                "Sports Tournament",
+                                "Admission Drive"
+                            ],
+                            "answer": "Campus Clash"
+                        },
+                        {
+                            "question": "What did students demand?",
+                            "options": [
+                                "Accountability and Action",
+                                "More Holidays",
+                                "Lower Railway Fares",
+                                "Free Housing"
+                            ],
+                            "answer": "Accountability and Action"
+                        },
+                        {
+                            "question": "How did university officials respond?",
+                            "options": [
+                                "They Apologised",
+                                "They Closed the University",
+                                "They Cancelled All Courses",
+                                "They Increased Fees"
+                            ],
+                            "answer": "They Apologised"
+                        },
+                        {
+                            "question": "One major concern raised was?",
+                            "options": [
+                                "Campus Safety",
+                                "Banking Security",
+                                "Railway Safety",
+                                "Airport Security"
+                            ],
+                            "answer": "Campus Safety"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "BWF World Championships 2026 Continue in New Delhi",
+                    "summary": "The BWF World Championships 2026 continued in New Delhi on 19 August at the Indira Gandhi Indoor Stadium. The tournament features leading international badminton players and India's top shuttlers. The championship is being hosted by India from 17 to 23 August 2026.",
+                    "sourceName": "BWF",
+                    "sourceUrl": "https://bwfbadminton.com/",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Host City : New Delhi",
+                        "Venue : Indira Gandhi Indoor Stadium",
+                        "Sport : Badminton",
+                        "Tournament Dates : 17–23 August 2026",
+                        "Host Country : India"
+                    ],
+                    "mcqs": [{
+                            "question": "Which tournament continued in New Delhi on 19 August 2026?",
+                            "options": [
+                                "BWF World Championships",
+                                "FIFA World Cup",
+                                "Hockey World Cup",
+                                "Asian Games"
+                            ],
+                            "answer": "BWF World Championships"
+                        },
+                        {
+                            "question": "BWF is associated with which sport?",
+                            "options": [
+                                "Badminton",
+                                "Cricket",
+                                "Football",
+                                "Hockey"
+                            ],
+                            "answer": "Badminton"
+                        },
+                        {
+                            "question": "Which city is hosting the championship?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Kolkata",
+                                "Chennai"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which stadium is the venue?",
+                            "options": [
+                                "Indira Gandhi Indoor Stadium",
+                                "Jawaharlal Nehru Stadium",
+                                "Arun Jaitley Stadium",
+                                "Major Dhyan Chand Stadium"
+                            ],
+                            "answer": "Indira Gandhi Indoor Stadium"
+                        },
+                        {
+                            "question": "The 2026 BWF World Championships are being hosted by?",
+                            "options": [
+                                "India",
+                                "Japan",
+                                "China",
+                                "Indonesia"
+                            ],
+                            "answer": "India"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "2026-08-20",
+            "date": "20 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 20 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "31st Southern Zonal Council Meeting Begins in Tamil Nadu",
+                    "summary": "The 31st Southern Zonal Council meeting commenced on 20 August 2026 at Kovalam near Mahabalipuram in Tamil Nadu. The meeting was chaired by Union Home and Cooperation Minister Amit Shah and brought together representatives from the southern states and the Union Territory of Puducherry. The council discusses issues of common interest among participating states and promotes Centre-State cooperation.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/31st-southern-zonal-council-meeting-held-in-tamil-nadu/",
+                    "staticGK": [
+                        "Meeting : 31st Southern Zonal Council Meeting",
+                        "Date : 20 August 2026",
+                        "Venue : Kovalam, near Mahabalipuram",
+                        "State : Tamil Nadu",
+                        "Chairperson : Amit Shah",
+                        "Members : Southern States and Puducherry"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Zonal Council meeting commenced on 20 August 2026?",
+                            "options": [
+                                "31st Southern Zonal Council",
+                                "30th Northern Zonal Council",
+                                "25th Eastern Zonal Council",
+                                "20th Western Zonal Council"
+                            ],
+                            "answer": "31st Southern Zonal Council"
+                        },
+                        {
+                            "question": "Where was the 31st Southern Zonal Council meeting held?",
+                            "options": [
+                                "Kovalam near Mahabalipuram",
+                                "Chennai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "Kovalam near Mahabalipuram"
+                        },
+                        {
+                            "question": "Who chaired the meeting?",
+                            "options": [
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Nitin Gadkari",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Amit Shah"
+                        },
+                        {
+                            "question": "The Southern Zonal Council includes how many southern states?",
+                            "options": [
+                                "Five",
+                                "Four",
+                                "Six",
+                                "Seven"
+                            ],
+                            "answer": "Five"
+                        },
+                        {
+                            "question": "Which Union Territory is part of the Southern Zonal Council?",
+                            "options": [
+                                "Puducherry",
+                                "Delhi",
+                                "Chandigarh",
+                                "Ladakh"
+                            ],
+                            "answer": "Puducherry"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India and Japan Sign Maritime Security Cooperation Pact",
+                    "summary": "India and Japan signed a Memorandum of Arrangement on Maritime Security Cooperation in New Delhi on 20 August 2026. The agreement provides a framework for cooperation between the Indian Navy and the Japan Maritime Self-Defense Force in maritime security, operational coordination and logistics support, strengthening the strategic partnership between the two countries.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/india-and-japan-sign-maritime-security-pact/",
+                    "staticGK": [
+                        "Countries : India and Japan",
+                        "Agreement : Memorandum of Arrangement",
+                        "Area : Maritime Security Cooperation",
+                        "Venue : New Delhi",
+                        "Indian Force : Indian Navy",
+                        "Japanese Force : Japan Maritime Self-Defense Force"
+                    ],
+                    "mcqs": [{
+                            "question": "India signed a maritime security cooperation pact with which country?",
+                            "options": [
+                                "Japan",
+                                "Australia",
+                                "France",
+                                "Vietnam"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "What type of agreement was signed?",
+                            "options": [
+                                "Memorandum of Arrangement",
+                                "Free Trade Agreement",
+                                "Peace Treaty",
+                                "Defence Production Treaty"
+                            ],
+                            "answer": "Memorandum of Arrangement"
+                        },
+                        {
+                            "question": "Where was the agreement signed?",
+                            "options": [
+                                "New Delhi",
+                                "Tokyo",
+                                "Mumbai",
+                                "Yokohama"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which Indian force will be involved in the cooperation?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Army",
+                                "Indian Air Force",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Navy"
+                        },
+                        {
+                            "question": "The agreement primarily concerns?",
+                            "options": [
+                                "Maritime Security",
+                                "Space Exploration",
+                                "Agriculture",
+                                "Education"
+                            ],
+                            "answer": "Maritime Security"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "PhonePe and MeitY Sign MoU to Integrate PulsePro with GatiShakti",
+                    "summary": "PhonePe signed a Memorandum of Understanding with the Ministry of Electronics and Information Technology on 20 August 2026 to integrate its enterprise data intelligence platform, PulsePro, with the PM GatiShakti National Master Plan. The integration is aimed at supporting data-driven planning and improving the use of digital intelligence for infrastructure and logistics planning.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/",
+                    "staticGK": [
+                        "Companies/Organisations : PhonePe and MeitY",
+                        "Agreement : Memorandum of Understanding",
+                        "Platform : PulsePro",
+                        "Government Platform : PM GatiShakti",
+                        "Date : 20 August 2026",
+                        "Focus : Data Intelligence and Infrastructure Planning"
+                    ],
+                    "mcqs": [{
+                            "question": "Which company signed an MoU with MeitY?",
+                            "options": [
+                                "PhonePe",
+                                "Paytm",
+                                "Razorpay",
+                                "Infosys"
+                            ],
+                            "answer": "PhonePe"
+                        },
+                        {
+                            "question": "What is the name of PhonePe's platform mentioned in the agreement?",
+                            "options": [
+                                "PulsePro",
+                                "PhonePe DataHub",
+                                "Pulse India",
+                                "SmartPay"
+                            ],
+                            "answer": "PulsePro"
+                        },
+                        {
+                            "question": "PulsePro will be integrated with which government initiative?",
+                            "options": [
+                                "PM GatiShakti",
+                                "Digital India",
+                                "Startup India",
+                                "Skill India"
+                            ],
+                            "answer": "PM GatiShakti"
+                        },
+                        {
+                            "question": "Which ministry signed the MoU with PhonePe?",
+                            "options": [
+                                "Ministry of Electronics and Information Technology",
+                                "Ministry of Finance",
+                                "Ministry of Commerce",
+                                "Ministry of Railways"
+                            ],
+                            "answer": "Ministry of Electronics and Information Technology"
+                        },
+                        {
+                            "question": "The integration mainly supports?",
+                            "options": [
+                                "Data-driven Infrastructure Planning",
+                                "Sports Training",
+                                "School Admissions",
+                                "Defence Recruitment"
+                            ],
+                            "answer": "Data-driven Infrastructure Planning"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "Parliamentary Panel Recommends 20% Cap on Medicine Price Gap",
+                    "summary": "The Parliamentary Standing Committee on Health and Family Welfare presented its 176th Report on affordability and accessibility of medicines. The report examined the price differences between medicines and recommended measures to improve affordability and accessibility for patients, including a proposed 20% cap on medicine price gaps.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/",
+                    "staticGK": [
+                        "Committee : Parliamentary Standing Committee on Health and Family Welfare",
+                        "Report : 176th Report",
+                        "Subject : Affordability and Accessibility of Medicines",
+                        "Proposed Cap : 20%",
+                        "Sector : Pharmaceuticals",
+                        "Objective : Affordable Medicines"
+                    ],
+                    "mcqs": [{
+                            "question": "Which committee presented the report on medicine affordability?",
+                            "options": [
+                                "Parliamentary Standing Committee on Health and Family Welfare",
+                                "Finance Committee",
+                                "Defence Committee",
+                                "Public Accounts Committee"
+                            ],
+                            "answer": "Parliamentary Standing Committee on Health and Family Welfare"
+                        },
+                        {
+                            "question": "What percentage cap was proposed on medicine price gaps?",
+                            "options": [
+                                "20%",
+                                "10%",
+                                "25%",
+                                "30%"
+                            ],
+                            "answer": "20%"
+                        },
+                        {
+                            "question": "Which report number was mentioned?",
+                            "options": [
+                                "176th Report",
+                                "150th Report",
+                                "180th Report",
+                                "165th Report"
+                            ],
+                            "answer": "176th Report"
+                        },
+                        {
+                            "question": "The report primarily concerns?",
+                            "options": [
+                                "Affordability and Accessibility of Medicines",
+                                "Defence Procurement",
+                                "Railway Safety",
+                                "Banking Regulation"
+                            ],
+                            "answer": "Affordability and Accessibility of Medicines"
+                        },
+                        {
+                            "question": "The recommendations are related to which sector?",
+                            "options": [
+                                "Pharmaceuticals",
+                                "Railways",
+                                "Defence",
+                                "Tourism"
+                            ],
+                            "answer": "Pharmaceuticals"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "New Submarine Rescue Test Plinth Inaugurated in Visakhapatnam",
+                    "summary": "A new shore-based Launch and Recovery System Test Plinth was inaugurated on 19 August 2026 at the Submarine Rescue Unit (East) in Visakhapatnam. The facility strengthens India's submarine rescue preparedness and provides infrastructure for testing and validating submarine rescue systems and equipment.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/",
+                    "staticGK": [
+                        "Facility : Launch and Recovery System Test Plinth",
+                        "Location : Visakhapatnam",
+                        "Unit : Submarine Rescue Unit (East)",
+                        "Type : Shore-based Facility",
+                        "Purpose : Submarine Rescue Testing",
+                        "Inauguration : 19 August 2026"
+                    ],
+                    "mcqs": [{
+                            "question": "Where was the new submarine rescue test facility inaugurated?",
+                            "options": [
+                                "Visakhapatnam",
+                                "Mumbai",
+                                "Kochi",
+                                "Chennai"
+                            ],
+                            "answer": "Visakhapatnam"
+                        },
+                        {
+                            "question": "What does LARS stand for in the facility?",
+                            "options": [
+                                "Launch and Recovery System",
+                                "Long-range Rescue System",
+                                "Logistics and Recovery Service",
+                                "Launch and Reconnaissance System"
+                            ],
+                            "answer": "Launch and Recovery System"
+                        },
+                        {
+                            "question": "The facility belongs to which unit?",
+                            "options": [
+                                "Submarine Rescue Unit (East)",
+                                "Western Naval Command",
+                                "Eastern Air Command",
+                                "Coast Guard Eastern Region"
+                            ],
+                            "answer": "Submarine Rescue Unit (East)"
+                        },
+                        {
+                            "question": "The test plinth is mainly related to?",
+                            "options": [
+                                "Submarine Rescue",
+                                "Aircraft Maintenance",
+                                "Missile Testing",
+                                "Shipbuilding"
+                            ],
+                            "answer": "Submarine Rescue"
+                        },
+                        {
+                            "question": "Visakhapatnam is located in which state?",
+                            "options": [
+                                "Andhra Pradesh",
+                                "Odisha",
+                                "Tamil Nadu",
+                                "Kerala"
+                            ],
+                            "answer": "Andhra Pradesh"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment",
+                    "title": "Raichur Miyawaki Forest Model Highlights Urban Green Development",
+                    "summary": "The Miyawaki forest model in Raichur has emerged as an example of urban ecological restoration. The approach uses dense plantation of native species to create compact urban forests in relatively small areas. Such initiatives contribute to biodiversity, local climate resilience and improvement of urban green cover.",
+                    "sourceName": "InsightsIAS",
+                    "sourceUrl": "https://www.insightsonindia.com/2026/08/20/upsc-current-affairs-20-august-2026/",
+                    "staticGK": [
+                        "Location : Raichur, Karnataka",
+                        "Model : Miyawaki Forest",
+                        "Approach : Dense Native Plantation",
+                        "Objective : Urban Ecological Restoration",
+                        "Benefits : Biodiversity and Green Cover",
+                        "Theme : Climate Resilience"
+                    ],
+                    "mcqs": [{
+                            "question": "Which forest model was highlighted in Raichur?",
+                            "options": [
+                                "Miyawaki Forest",
+                                "Mangrove Forest",
+                                "Tropical Rainforest",
+                                "Sacred Grove"
+                            ],
+                            "answer": "Miyawaki Forest"
+                        },
+                        {
+                            "question": "Raichur is located in which state?",
+                            "options": [
+                                "Karnataka",
+                                "Tamil Nadu",
+                                "Kerala",
+                                "Telangana"
+                            ],
+                            "answer": "Karnataka"
+                        },
+                        {
+                            "question": "The Miyawaki approach mainly uses?",
+                            "options": [
+                                "Dense Plantation of Native Species",
+                                "Only Artificial Trees",
+                                "Large Dams",
+                                "Desert Irrigation"
+                            ],
+                            "answer": "Dense Plantation of Native Species"
+                        },
+                        {
+                            "question": "One major benefit of Miyawaki forests is?",
+                            "options": [
+                                "Improved Biodiversity",
+                                "Increased Traffic",
+                                "Higher Fuel Consumption",
+                                "Reduced Green Cover"
+                            ],
+                            "answer": "Improved Biodiversity"
+                        },
+                        {
+                            "question": "Miyawaki forests are especially useful for?",
+                            "options": [
+                                "Urban Ecological Restoration",
+                                "Mining",
+                                "Railway Expansion",
+                                "Port Construction"
+                            ],
+                            "answer": "Urban Ecological Restoration"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Supreme Court Considers Issues Related to Death Penalty Procedure Under BNSS",
+                    "summary": "The Supreme Court considered important questions relating to the execution of death sentences under the Bharatiya Nagarik Suraksha Sanhita, 2023. The proceedings focused on safeguards and legal procedures surrounding capital punishment, highlighting the importance of due process and judicial oversight.",
+                    "sourceName": "InsightsIAS",
+                    "sourceUrl": "https://www.insightsonindia.com/2026/08/20/upsc-current-affairs-20-august-2026/",
+                    "staticGK": [
+                        "Institution : Supreme Court of India",
+                        "Law : Bharatiya Nagarik Suraksha Sanhita, 2023",
+                        "Issue : Execution of Death Sentences",
+                        "Subject : Capital Punishment",
+                        "Focus : Due Process",
+                        "Key Principle : Judicial Oversight"
+                    ],
+                    "mcqs": [{
+                            "question": "Which court considered issues related to execution of death sentences?",
+                            "options": [
+                                "Supreme Court of India",
+                                "Delhi High Court",
+                                "Bombay High Court",
+                                "Allahabad High Court"
+                            ],
+                            "answer": "Supreme Court of India"
+                        },
+                        {
+                            "question": "Which law was relevant to the proceedings?",
+                            "options": [
+                                "Bharatiya Nagarik Suraksha Sanhita, 2023",
+                                "Indian Penal Code, 1860",
+                                "Companies Act, 2013",
+                                "Evidence Act, 1872"
+                            ],
+                            "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023"
+                        },
+                        {
+                            "question": "The proceedings concerned which punishment?",
+                            "options": [
+                                "Death Penalty",
+                                "Fine",
+                                "Community Service",
+                                "Imprisonment for one month"
+                            ],
+                            "answer": "Death Penalty"
+                        },
+                        {
+                            "question": "Which principle was highlighted?",
+                            "options": [
+                                "Due Process",
+                                "Free Trade",
+                                "Fiscal Federalism",
+                                "Digital Literacy"
+                            ],
+                            "answer": "Due Process"
+                        },
+                        {
+                            "question": "Judicial oversight is particularly important in cases involving?",
+                            "options": [
+                                "Capital Punishment",
+                                "Tourism",
+                                "Sports",
+                                "Agriculture"
+                            ],
+                            "answer": "Capital Punishment"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "Students Continue Protests Over Examination Reforms and Recruitment Issues",
+                    "summary": "Student and job aspirant protests continued in different parts of India over examination irregularities, recruitment processes and demands for greater transparency. In Bihar, protesting candidates continued to press demands including a single examination system and changes in negative marking, while examination-related protests also remained active in other states.",
+                    "sourceName": "Navbharat Times",
+                    "sourceUrl": "https://navbharattimes.indiatimes.com/state/bihar/patna/jantar-mantar-jaipal-singh-munda-stadium-now-student-protest-in-gardanibagh-patna-become-new-student-movement-epic-centre/articleshow/133327419.cms",
+                    "staticGK": [
+                        "Location : Patna, Bihar",
+                        "Protesters : Students and Job Aspirants",
+                        "Key Demand : Single Examination System",
+                        "Other Demand : No Negative Marking",
+                        "Main Issue : Examination Transparency",
+                        "Focus : Recruitment and Competitive Examinations"
+                    ],
+                    "mcqs": [{
+                            "question": "Who continued protests over examination and recruitment issues?",
+                            "options": [
+                                "Students and Job Aspirants",
+                                "Farmers",
+                                "Industrial Workers",
+                                "Tourists"
+                            ],
+                            "answer": "Students and Job Aspirants"
+                        },
+                        {
+                            "question": "In which state was the protest highlighted?",
+                            "options": [
+                                "Bihar",
+                                "Jharkhand",
+                                "Uttar Pradesh",
+                                "Rajasthan"
+                            ],
+                            "answer": "Bihar"
+                        },
+                        {
+                            "question": "What examination system were protesters demanding?",
+                            "options": [
+                                "Single Examination System",
+                                "Multiple Examination System",
+                                "Online-only Interview",
+                                "Lottery-based Recruitment"
+                            ],
+                            "answer": "Single Examination System"
+                        },
+                        {
+                            "question": "What was another major demand?",
+                            "options": [
+                                "No Negative Marking",
+                                "Higher Exam Fees",
+                                "More Exam Centres Abroad",
+                                "Longer Exam Duration"
+                            ],
+                            "answer": "No Negative Marking"
+                        },
+                        {
+                            "question": "The protests mainly seek greater?",
+                            "options": [
+                                "Examination Transparency",
+                                "Tourism",
+                                "Industrial Production",
+                                "Foreign Investment"
+                            ],
+                            "answer": "Examination Transparency"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "BWF World Championships: P.V. Sindhu and Ayush Shetty Win; Lakshya Sen Loses",
+                    "summary": "At the BWF World Championships in New Delhi on 20 August 2026, P.V. Sindhu and Ayush Shetty advanced with victories, while Lakshya Sen suffered a defeat. Satwiksairaj Rankireddy and Chirag Shetty received a walkover. The tournament is being held at the Indira Gandhi Indoor Stadium from 17 to 23 August.",
+                    "sourceName": "Times Now Navbharat",
+                    "sourceUrl": "https://www.timesnowhindi.com/education/school-assembly-news-headines-today-20-august-2026-school-assembly-ke-liye-national-international-and-sports-news-in-hindi-article-155798324",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Host City : New Delhi",
+                        "Venue : Indira Gandhi Indoor Stadium",
+                        "Indian Winner : P.V. Sindhu",
+                        "Indian Winner : Ayush Shetty",
+                        "Indian Doubles Pair : Satwiksairaj Rankireddy and Chirag Shetty"
+                    ],
+                    "mcqs": [{
+                            "question": "Who won at the BWF World Championships on 20 August 2026?",
+                            "options": [
+                                "P.V. Sindhu",
+                                "Lakshya Sen",
+                                "Saina Nehwal",
+                                "Kidambi Srikanth"
+                            ],
+                            "answer": "P.V. Sindhu"
+                        },
+                        {
+                            "question": "Which young Indian shuttler also recorded a victory?",
+                            "options": [
+                                "Ayush Shetty",
+                                "Lakshya Sen",
+                                "Chirag Shetty",
+                                "Prannoy H.S."
+                            ],
+                            "answer": "Ayush Shetty"
+                        },
+                        {
+                            "question": "Who suffered a defeat?",
+                            "options": [
+                                "Lakshya Sen",
+                                "P.V. Sindhu",
+                                "Ayush Shetty",
+                                "Chirag Shetty"
+                            ],
+                            "answer": "Lakshya Sen"
+                        },
+                        {
+                            "question": "Which Indian doubles pair received a walkover?",
+                            "options": [
+                                "Satwiksairaj Rankireddy and Chirag Shetty",
+                                "Rohan Bopanna and Yuki Bhambri",
+                                "Manu Attri and Sumit Reddy",
+                                "Ashwini Ponnappa and Tanisha Crasto"
+                            ],
+                            "answer": "Satwiksairaj Rankireddy and Chirag Shetty"
+                        },
+                        {
+                            "question": "Where are the BWF World Championships 2026 being held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International & Economy",
+                    "title": "BRICS Countries Face New Challenges from EU Carbon Border Adjustment Mechanism",
+                    "summary": "The European Union's Carbon Border Adjustment Mechanism has emerged as an important trade and climate-policy issue for BRICS countries. The mechanism places a carbon-related cost on certain imported goods entering the EU, creating implications for exporters from developing economies and increasing the importance of green production and low-carbon technologies.",
+                    "sourceName": "InsightsIAS",
+                    "sourceUrl": "https://www.insightsonindia.com/2026/08/20/upsc-current-affairs-20-august-2026/",
+                    "staticGK": [
+                        "Mechanism : Carbon Border Adjustment Mechanism",
+                        "Organisation : European Union",
+                        "Short Form : CBAM",
+                        "Purpose : Carbon-related Import Cost",
+                        "Impact : Exporters to EU",
+                        "Key Issue : Climate and International Trade"
+                    ],
+                    "mcqs": [{
+                            "question": "CBAM is associated with which organisation?",
+                            "options": [
+                                "European Union",
+                                "BRICS",
+                                "ASEAN",
+                                "SAARC"
+                            ],
+                            "answer": "European Union"
+                        },
+                        {
+                            "question": "What does CBAM stand for?",
+                            "options": [
+                                "Carbon Border Adjustment Mechanism",
+                                "Climate Border Agreement Model",
+                                "Carbon Balance and Market",
+                                "Cross Border Air Management"
+                            ],
+                            "answer": "Carbon Border Adjustment Mechanism"
+                        },
+                        {
+                            "question": "CBAM mainly concerns the relationship between climate policy and?",
+                            "options": [
+                                "International Trade",
+                                "Sports",
+                                "Tourism",
+                                "Education"
+                            ],
+                            "answer": "International Trade"
+                        },
+                        {
+                            "question": "CBAM can affect exporters selling goods to?",
+                            "options": [
+                                "European Union",
+                                "Only BRICS",
+                                "Only ASEAN",
+                                "Only Africa"
+                            ],
+                            "answer": "European Union"
+                        },
+                        {
+                            "question": "The mechanism encourages industries to adopt?",
+                            "options": [
+                                "Low-Carbon Technologies",
+                                "Higher Coal Consumption",
+                                "More Plastic Waste",
+                                "Higher Fuel Imports"
+                            ],
+                            "answer": "Low-Carbon Technologies"
+                        }
+                    ]
+                }
+
+            ]
+        }
 
 
 
