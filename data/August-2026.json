@@ -12548,673 +12548,663 @@
                         }
                     ]
                 },
+                 {
+            "id": "2026-08-21",
+            "date": "21 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 21 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
 
                 {
-    "id": "2026-08-21",
-    "date": "21 August 2026",
-    "totalNews": 10,
-    "description": "Top 10 Current Affairs of 21 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
-    "news": [
-        {
-            "category": "National Affairs",
-            "title": "PM Modi Chairs High-Level Meeting with Government Secretaries",
-            "summary": "Prime Minister Narendra Modi chaired the third high-level meeting with Secretaries to the Government of India to review the future action agenda of various Ministries and Departments. Discussions covered infrastructure and connectivity, security, external affairs and governance-related priorities.",
-            "sourceName": "Akashvani News",
-            "staticGK": [
-                "Chairperson : Narendra Modi",
-                "Meeting : Third High-Level Meeting with Secretaries",
-                "Focus : Infrastructure and Connectivity",
-                "Other Areas : Security, External Affairs and Governance",
-                "Country : India"
-            ],
-            "mcqs": [
-                {
-                    "question": "Who chaired the third high-level meeting with Government Secretaries?",
-                    "options": [
-                        "Narendra Modi",
-                        "Amit Shah",
-                        "Rajnath Singh",
-                        "Piyush Goyal"
+                    "category": "National Affairs",
+                    "title": "PM Modi Chairs High-Level Meeting with Government Secretaries",
+                    "summary": "Prime Minister Narendra Modi chaired the third high-level meeting with Secretaries to the Government of India to review the future action agenda of various Ministries and Departments. Discussions covered infrastructure and connectivity, security, external affairs and governance-related priorities.",
+                    "sourceName": "Akashvani News",
+                    "staticGK": [
+                        "Chairperson : Narendra Modi",
+                        "Meeting : Third High-Level Meeting with Secretaries",
+                        "Focus : Infrastructure and Connectivity",
+                        "Other Areas : Security, External Affairs and Governance",
+                        "Country : India"
                     ],
-                    "answer": "Narendra Modi"
+                    "mcqs": [{
+                            "question": "Who chaired the third high-level meeting with Government Secretaries?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "The meeting focused on which major area?",
+                            "options": [
+                                "Infrastructure and Connectivity",
+                                "Tourism",
+                                "Sports",
+                                "Agriculture only"
+                            ],
+                            "answer": "Infrastructure and Connectivity"
+                        },
+                        {
+                            "question": "Which other area was discussed during the meeting?",
+                            "options": [
+                                "Security",
+                                "Cinema",
+                                "Entertainment",
+                                "Fashion"
+                            ],
+                            "answer": "Security"
+                        },
+                        {
+                            "question": "Who participated in the meeting?",
+                            "options": [
+                                "Government Secretaries",
+                                "State Governors only",
+                                "Foreign Ambassadors only",
+                                "Sports officials"
+                            ],
+                            "answer": "Government Secretaries"
+                        },
+                        {
+                            "question": "The meeting also covered which governance-related area?",
+                            "options": [
+                                "External Affairs",
+                                "Film Production",
+                                "Retail Trade",
+                                "Tourism Promotion"
+                            ],
+                            "answer": "External Affairs"
+                        }
+                    ]
                 },
                 {
-                    "question": "The meeting focused on which major area?",
-                    "options": [
-                        "Infrastructure and Connectivity",
-                        "Tourism",
-                        "Sports",
-                        "Agriculture only"
+                    "category": "International Affairs",
+                    "title": "India and Brazil Sign MoU on Telecommunications and ICT Cooperation",
+                    "summary": "India and Brazil signed a Memorandum of Understanding to deepen cooperation in telecommunications and information and communications technologies. The agreement aims to promote digital innovation, digital infrastructure, cybersecurity, emerging technologies, universal connectivity and exchange of best practices.",
+                    "sourceName": "Akashvani News",
+                    "staticGK": [
+                        "Countries : India and Brazil",
+                        "Agreement : Memorandum of Understanding",
+                        "Sector : Telecommunications and ICT",
+                        "Meeting : BRICS ICT Track",
+                        "Venue : Pune",
+                        "Indian Minister : Jyotiraditya M. Scindia"
                     ],
-                    "answer": "Infrastructure and Connectivity"
+                    "mcqs": [{
+                            "question": "India signed an ICT cooperation MoU with which country?",
+                            "options": [
+                                "Brazil",
+                                "Japan",
+                                "France",
+                                "Australia"
+                            ],
+                            "answer": "Brazil"
+                        },
+                        {
+                            "question": "The MoU mainly concerns which sector?",
+                            "options": [
+                                "Telecommunications and ICT",
+                                "Agriculture",
+                                "Defence Manufacturing",
+                                "Railways"
+                            ],
+                            "answer": "Telecommunications and ICT"
+                        },
+                        {
+                            "question": "The MoU was signed on the sidelines of which meeting?",
+                            "options": [
+                                "BRICS ICT Track Meeting",
+                                "G20 Agriculture Meeting",
+                                "SAARC Summit",
+                                "ASEAN Defence Meeting"
+                            ],
+                            "answer": "BRICS ICT Track Meeting"
+                        },
+                        {
+                            "question": "Where was the MoU signed?",
+                            "options": [
+                                "Pune",
+                                "New Delhi",
+                                "Brasilia",
+                                "Mumbai"
+                            ],
+                            "answer": "Pune"
+                        },
+                        {
+                            "question": "Which Indian minister signed the MoU?",
+                            "options": [
+                                "Jyotiraditya M. Scindia",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Ashwini Vaishnaw"
+                            ],
+                            "answer": "Jyotiraditya M. Scindia"
+                        }
+                    ]
                 },
                 {
-                    "question": "Which other area was discussed during the meeting?",
-                    "options": [
-                        "Security",
-                        "Cinema",
-                        "Entertainment",
-                        "Fashion"
+                    "category": "Science & Technology",
+                    "title": "Gaganyaan Thermal Protection System Gains Attention Ahead of Uncrewed Flight Tests",
+                    "summary": "The Thermal Protection System of India's Gaganyaan crew module is an important technology for protecting the spacecraft during atmospheric re-entry. The system is designed to withstand extreme aerodynamic heating and maintain the required temperature conditions inside the crew module.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Mission : Gaganyaan",
+                        "System : Thermal Protection System",
+                        "Organisation : ISRO",
+                        "Purpose : Protection During Atmospheric Re-entry",
+                        "Technology : Ablative Heat Shield",
+                        "Maximum Re-entry Temperature : Around 1800°C"
                     ],
-                    "answer": "Security"
+                    "mcqs": [{
+                            "question": "The Thermal Protection System is associated with which Indian mission?",
+                            "options": [
+                                "Gaganyaan",
+                                "Chandrayaan-3",
+                                "Mangalyaan",
+                                "Aditya-L1"
+                            ],
+                            "answer": "Gaganyaan"
+                        },
+                        {
+                            "question": "What is the primary purpose of a Thermal Protection System?",
+                            "options": [
+                                "Protect the spacecraft from extreme re-entry heating",
+                                "Increase satellite communication",
+                                "Generate electricity",
+                                "Control ocean currents"
+                            ],
+                            "answer": "Protect the spacecraft from extreme re-entry heating"
+                        },
+                        {
+                            "question": "Which organisation is responsible for the Gaganyaan mission?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "BARC"
+                            ],
+                            "answer": "ISRO"
+                        },
+                        {
+                            "question": "The Thermal Protection System is particularly important during?",
+                            "options": [
+                                "Atmospheric Re-entry",
+                                "Sea Navigation",
+                                "Ground Transportation",
+                                "Satellite Launch Preparation only"
+                            ],
+                            "answer": "Atmospheric Re-entry"
+                        },
+                        {
+                            "question": "The Gaganyaan heat shield uses which type of technology?",
+                            "options": [
+                                "Ablative Heat Shield",
+                                "Solar Panel Shield",
+                                "Magnetic Shield only",
+                                "Water Cooling System"
+                            ],
+                            "answer": "Ablative Heat Shield"
+                        }
+                    ]
                 },
                 {
-                    "question": "Who participated in the meeting?",
-                    "options": [
-                        "Government Secretaries",
-                        "State Governors only",
-                        "Foreign Ambassadors only",
-                        "Sports officials"
+                    "category": "Economy & Banking",
+                    "title": "Centre's Fiscal Outlook Remains Focused on 4.6% Fiscal Deficit Target",
+                    "summary": "The Centre's fiscal outlook for FY 2026-27 is being assessed amid revenue pressures, subsidy requirements and geopolitical risks. Strong non-tax revenues and higher capital expenditure are expected to provide support, while tax collections, crude oil prices and currency movements remain important factors for fiscal management.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Financial Year : 2026-27",
+                        "Fiscal Deficit Target : 4.6% of GDP",
+                        "Nominal GDP Growth Projection : 12.5%–13.0%",
+                        "Real GDP Growth Estimate : Around 7%",
+                        "Key Risk : Crude Oil and Geopolitical Pressures",
+                        "Key Support : Non-Tax Revenue and Capital Expenditure"
                     ],
-                    "answer": "Government Secretaries"
+                    "mcqs": [{
+                            "question": "What fiscal deficit target is being maintained for FY 2026-27?",
+                            "options": [
+                                "4.6% of GDP",
+                                "3.0% of GDP",
+                                "5.8% of GDP",
+                                "6.5% of GDP"
+                            ],
+                            "answer": "4.6% of GDP"
+                        },
+                        {
+                            "question": "Which factor is creating pressure on India's fiscal position?",
+                            "options": [
+                                "Crude Oil Prices",
+                                "Tourism only",
+                                "Sports Events",
+                                "Film Industry"
+                            ],
+                            "answer": "Crude Oil Prices"
+                        },
+                        {
+                            "question": "Which revenue source has provided support to the Centre?",
+                            "options": [
+                                "Non-Tax Revenue",
+                                "Lottery Revenue",
+                                "Tourism Tax only",
+                                "Cinema Tax"
+                            ],
+                            "answer": "Non-Tax Revenue"
+                        },
+                        {
+                            "question": "What is the approximate real GDP growth estimate mentioned for FY 2026-27?",
+                            "options": [
+                                "Around 7%",
+                                "Around 3%",
+                                "Around 10%",
+                                "Around 12%"
+                            ],
+                            "answer": "Around 7%"
+                        },
+                        {
+                            "question": "Capital expenditure is important because it can support?",
+                            "options": [
+                                "Domestic Industrial Output",
+                                "Only Imports",
+                                "Only Tourism",
+                                "Only Sports"
+                            ],
+                            "answer": "Domestic Industrial Output"
+                        }
+                    ]
                 },
                 {
-                    "question": "The meeting also covered which governance-related area?",
-                    "options": [
-                        "External Affairs",
-                        "Film Production",
-                        "Retail Trade",
-                        "Tourism Promotion"
+                    "category": "Environment",
+                    "title": "South Korea's Plastic Recycling System Highlights Importance of Genuine Recycling",
+                    "summary": "South Korea's plastic waste management system has drawn attention after research showed a significant gap between plastic collected for recycling and plastic actually recycled into new plastic material. The issue highlights the importance of accurate recycling measurement, Extended Producer Responsibility and circular economy practices.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Country : South Korea",
+                        "Waste : Plastic Waste",
+                        "System : Extended Producer Responsibility",
+                        "Actual Material Recycling : 16.4% of collected household plastic in 2021",
+                        "Key Concept : Circular Economy",
+                        "Reform Focus : Separate Material and Thermal Recycling"
                     ],
-                    "answer": "External Affairs"
-                }
-            ]
-        },
-        {
-            "category": "International Affairs",
-            "title": "India and Brazil Sign MoU on Telecommunications and ICT Cooperation",
-            "summary": "India and Brazil signed a Memorandum of Understanding to deepen cooperation in telecommunications and information and communications technologies. The agreement aims to promote digital innovation, digital infrastructure, cybersecurity, emerging technologies, universal connectivity and exchange of best practices.",
-            "sourceName": "Akashvani News",
-            "staticGK": [
-                "Countries : India and Brazil",
-                "Agreement : Memorandum of Understanding",
-                "Sector : Telecommunications and ICT",
-                "Meeting : BRICS ICT Track",
-                "Venue : Pune",
-                "Indian Minister : Jyotiraditya M. Scindia"
-            ],
-            "mcqs": [
-                {
-                    "question": "India signed an ICT cooperation MoU with which country?",
-                    "options": [
-                        "Brazil",
-                        "Japan",
-                        "France",
-                        "Australia"
-                    ],
-                    "answer": "Brazil"
+                    "mcqs": [{
+                            "question": "Which country was highlighted for its plastic waste management system?",
+                            "options": [
+                                "South Korea",
+                                "Japan",
+                                "China",
+                                "Germany"
+                            ],
+                            "answer": "South Korea"
+                        },
+                        {
+                            "question": "Which principle makes producers responsible for packaging waste?",
+                            "options": [
+                                "Extended Producer Responsibility",
+                                "Polluter Import Principle",
+                                "Carbon Border Mechanism",
+                                "Green Tax System"
+                            ],
+                            "answer": "Extended Producer Responsibility"
+                        },
+                        {
+                            "question": "What percentage of collected household plastic was found to be actually recycled into plastic in 2021?",
+                            "options": [
+                                "16.4%",
+                                "50.5%",
+                                "73%",
+                                "90%"
+                            ],
+                            "answer": "16.4%"
+                        },
+                        {
+                            "question": "The issue is closely connected with which concept?",
+                            "options": [
+                                "Circular Economy",
+                                "Blue Economy",
+                                "Digital Economy",
+                                "Space Economy"
+                            ],
+                            "answer": "Circular Economy"
+                        },
+                        {
+                            "question": "South Korea has moved toward separately reporting which types of recycling?",
+                            "options": [
+                                "Material and Thermal Recycling",
+                                "Plastic and Metal Recycling",
+                                "Urban and Rural Recycling",
+                                "Domestic and International Recycling"
+                            ],
+                            "answer": "Material and Thermal Recycling"
+                        }
+                    ]
                 },
                 {
-                    "question": "The MoU mainly concerns which sector?",
-                    "options": [
-                        "Telecommunications and ICT",
-                        "Agriculture",
-                        "Defence Manufacturing",
-                        "Railways"
+                    "category": "Government & Polity",
+                    "title": "Debate Over Vande Mataram Rendition Gains Political Attention",
+                    "summary": "A political debate over the rendition of Vande Mataram gained attention after the Congress Working Committee decided to sing only two stanzas during a programme. Union Home Minister Amit Shah criticised the decision and emphasised the historical and national significance of the song.",
+                    "sourceName": "Akashvani News",
+                    "staticGK": [
+                        "National Song : Vande Mataram",
+                        "Composer : Bankim Chandra Chattopadhyay",
+                        "Language : Sanskritised Bengali",
+                        "Political Issue : Number of Stanzas to be Sung",
+                        "Minister Commenting : Amit Shah"
                     ],
-                    "answer": "Telecommunications and ICT"
+                    "mcqs": [{
+                            "question": "Which national song was at the centre of the debate?",
+                            "options": [
+                                "Vande Mataram",
+                                "Jana Gana Mana",
+                                "Saare Jahan Se Achha",
+                                "Ae Mere Watan Ke Logon"
+                            ],
+                            "answer": "Vande Mataram"
+                        },
+                        {
+                            "question": "Who wrote Vande Mataram?",
+                            "options": [
+                                "Bankim Chandra Chattopadhyay",
+                                "Rabindranath Tagore",
+                                "Subhash Chandra Bose",
+                                "Sarojini Naidu"
+                            ],
+                            "answer": "Bankim Chandra Chattopadhyay"
+                        },
+                        {
+                            "question": "Who criticised the decision to sing only two stanzas?",
+                            "options": [
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Piyush Goyal",
+                                "Nitin Gadkari"
+                            ],
+                            "answer": "Amit Shah"
+                        },
+                        {
+                            "question": "Vande Mataram is India's?",
+                            "options": [
+                                "National Song",
+                                "National Anthem",
+                                "National Motto",
+                                "National Emblem"
+                            ],
+                            "answer": "National Song"
+                        },
+                        {
+                            "question": "Vande Mataram was originally written in a form of which language?",
+                            "options": [
+                                "Bengali",
+                                "Tamil",
+                                "Marathi",
+                                "Gujarati"
+                            ],
+                            "answer": "Bengali"
+                        }
+                    ]
                 },
                 {
-                    "question": "The MoU was signed on the sidelines of which meeting?",
-                    "options": [
-                        "BRICS ICT Track Meeting",
-                        "G20 Agriculture Meeting",
-                        "SAARC Summit",
-                        "ASEAN Defence Meeting"
+                    "category": "Defence & Strategic Affairs",
+                    "title": "India's Defence Export Potential Rises Amid Growing Global Demand",
+                    "summary": "Indian defence companies are seeing growing international interest in indigenous defence products amid increased global defence spending. Paras Defence has projected strong growth in exports for FY 2026-27, supported by demand for defence engineering products, optical systems, electro-optics and anti-drone technologies.",
+                    "sourceName": "Reuters",
+                    "staticGK": [
+                        "Company : Paras Defence",
+                        "Sector : Defence Engineering",
+                        "Expected Export Revenue FY27 : ₹1.2–1.3 billion",
+                        "Previous Year Export Revenue : ₹500–600 million",
+                        "Products : Optical and Electro-Optical Systems",
+                        "Other Product : Anti-Drone Equipment"
                     ],
-                    "answer": "BRICS ICT Track Meeting"
+                    "mcqs": [{
+                            "question": "Which Indian company projected strong export growth in FY 2026-27?",
+                            "options": [
+                                "Paras Defence",
+                                "Infosys",
+                                "Tata Motors",
+                                "Indian Oil"
+                            ],
+                            "answer": "Paras Defence"
+                        },
+                        {
+                            "question": "Paras Defence operates mainly in which sector?",
+                            "options": [
+                                "Defence Engineering",
+                                "Banking",
+                                "Railways",
+                                "Agriculture"
+                            ],
+                            "answer": "Defence Engineering"
+                        },
+                        {
+                            "question": "Which technology is among the products supplied by Paras Defence?",
+                            "options": [
+                                "Electro-Optical Systems",
+                                "Electric Cars",
+                                "Mobile Phones",
+                                "Agricultural Tractors"
+                            ],
+                            "answer": "Electro-Optical Systems"
+                        },
+                        {
+                            "question": "Which other defence technology is mentioned?",
+                            "options": [
+                                "Anti-Drone Equipment",
+                                "Submarine Engines only",
+                                "Railway Signalling",
+                                "Satellite Television"
+                            ],
+                            "answer": "Anti-Drone Equipment"
+                        },
+                        {
+                            "question": "The growth in global defence demand is linked partly to?",
+                            "options": [
+                                "Geopolitical Tensions",
+                                "Tourism Growth",
+                                "Film Production",
+                                "Sports Events"
+                            ],
+                            "answer": "Geopolitical Tensions"
+                        }
+                    ]
                 },
                 {
-                    "question": "Where was the MoU signed?",
-                    "options": [
-                        "Pune",
-                        "New Delhi",
-                        "Brasilia",
-                        "Mumbai"
+                    "category": "Sports",
+                    "title": "Treesa Jolly and Gayatri Gopichand Reach BWF World Championships Semifinals",
+                    "summary": "Indian women's doubles pair Treesa Jolly and Gayatri Gopichand created a major achievement at the BWF World Championships in New Delhi by defeating China's world No. 4 pair Jia Yi Fan and Zhang Shu Xian in the quarterfinals. Their victory assured India a medal in the tournament.",
+                    "sourceName": "Times of India",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Venue : Indira Gandhi Indoor Stadium",
+                        "Host City : New Delhi",
+                        "Indian Pair : Treesa Jolly and Gayatri Gopichand",
+                        "Event : Women's Doubles",
+                        "Achievement : Semifinal Qualification"
                     ],
-                    "answer": "Pune"
+                    "mcqs": [{
+                            "question": "Which Indian pair reached the BWF World Championships semifinals?",
+                            "options": [
+                                "Treesa Jolly and Gayatri Gopichand",
+                                "P.V. Sindhu and Saina Nehwal",
+                                "Satwik and Chirag",
+                                "Lakshya Sen and Ayush Shetty"
+                            ],
+                            "answer": "Treesa Jolly and Gayatri Gopichand"
+                        },
+                        {
+                            "question": "Which event did the Indian pair compete in?",
+                            "options": [
+                                "Women's Doubles",
+                                "Men's Doubles",
+                                "Women's Singles",
+                                "Mixed Doubles"
+                            ],
+                            "answer": "Women's Doubles"
+                        },
+                        {
+                            "question": "Where are the BWF World Championships 2026 being held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country's world No. 4 pair did they defeat?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "Indonesia"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "What did their victory assure India?",
+                            "options": [
+                                "A Medal",
+                                "A Gold Medal",
+                                "Tournament Hosting Rights",
+                                "Olympic Qualification"
+                            ],
+                            "answer": "A Medal"
+                        }
+                    ]
                 },
                 {
-                    "question": "Which Indian minister signed the MoU?",
-                    "options": [
-                        "Jyotiraditya M. Scindia",
-                        "Amit Shah",
-                        "Rajnath Singh",
-                        "Ashwini Vaishnaw"
+                    "category": "Students & Competitive Examinations",
+                    "title": "Student and Recruitment Examination Protests Continue in Jharkhand",
+                    "summary": "Students and job aspirants in Jharkhand continued to raise concerns over recruitment examination irregularities and cancellations. Protesters have demanded greater transparency and action regarding competitive examination processes, while legal and administrative developments have kept the issue in public focus.",
+                    "sourceName": "The New Indian Express",
+                    "staticGK": [
+                        "State : Jharkhand",
+                        "Protesters : Students and Job Aspirants",
+                        "Main Issue : Recruitment Examination Irregularities",
+                        "Related Exams : JSSC and JPSC Examinations",
+                        "Key Demand : Transparency in Recruitment",
+                        "Location : Ranchi"
                     ],
-                    "answer": "Jyotiraditya M. Scindia"
-                }
-            ]
-        },
-        {
-            "category": "Science & Technology",
-            "title": "Gaganyaan Thermal Protection System Gains Attention Ahead of Uncrewed Flight Tests",
-            "summary": "The Thermal Protection System of India's Gaganyaan crew module is an important technology for protecting the spacecraft during atmospheric re-entry. The system is designed to withstand extreme aerodynamic heating and maintain the required temperature conditions inside the crew module.",
-            "sourceName": "InsightsIAS",
-            "staticGK": [
-                "Mission : Gaganyaan",
-                "System : Thermal Protection System",
-                "Organisation : ISRO",
-                "Purpose : Protection During Atmospheric Re-entry",
-                "Technology : Ablative Heat Shield",
-                "Maximum Re-entry Temperature : Around 1800°C"
-            ],
-            "mcqs": [
-                {
-                    "question": "The Thermal Protection System is associated with which Indian mission?",
-                    "options": [
-                        "Gaganyaan",
-                        "Chandrayaan-3",
-                        "Mangalyaan",
-                        "Aditya-L1"
-                    ],
-                    "answer": "Gaganyaan"
+                    "mcqs": [{
+                            "question": "In which state did students protest over recruitment examination issues?",
+                            "options": [
+                                "Jharkhand",
+                                "Bihar",
+                                "Uttar Pradesh",
+                                "Rajasthan"
+                            ],
+                            "answer": "Jharkhand"
+                        },
+                        {
+                            "question": "Who were mainly involved in the protests?",
+                            "options": [
+                                "Students and Job Aspirants",
+                                "Farmers",
+                                "Industrial Workers",
+                                "Tourists"
+                            ],
+                            "answer": "Students and Job Aspirants"
+                        },
+                        {
+                            "question": "Which examination bodies were associated with the issue?",
+                            "options": [
+                                "JSSC and JPSC",
+                                "UPSC and SSC",
+                                "RRB and IBPS",
+                                "NTA and CBSE"
+                            ],
+                            "answer": "JSSC and JPSC"
+                        },
+                        {
+                            "question": "What was a major demand of the protesters?",
+                            "options": [
+                                "Transparency in Recruitment",
+                                "Higher Examination Fees",
+                                "More Examination Centres Abroad",
+                                "Longer Examination Duration"
+                            ],
+                            "answer": "Transparency in Recruitment"
+                        },
+                        {
+                            "question": "Which city was associated with the protests?",
+                            "options": [
+                                "Ranchi",
+                                "Patna",
+                                "Lucknow",
+                                "Bhopal"
+                            ],
+                            "answer": "Ranchi"
+                        }
+                    ]
                 },
                 {
-                    "question": "What is the primary purpose of a Thermal Protection System?",
-                    "options": [
-                        "Protect the spacecraft from extreme re-entry heating",
-                        "Increase satellite communication",
-                        "Generate electricity",
-                        "Control ocean currents"
+                    "category": "International & Maritime Affairs",
+                    "title": "Renewed Somali Piracy Raises Concerns for Gulf of Aden Maritime Trade",
+                    "summary": "Renewed piracy activity around the Gulf of Aden has highlighted the continuing security challenges faced by international shipping. The region is strategically important for maritime trade because it connects the Red Sea with the Arabian Sea and forms part of a major route linking Europe and Asia.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Region : Gulf of Aden",
+                        "Country Associated with Piracy : Somalia",
+                        "Major Concern : Maritime Piracy",
+                        "Strategic Importance : International Shipping",
+                        "Connects : Red Sea and Arabian Sea",
+                        "Key Issue : Maritime Security"
                     ],
-                    "answer": "Protect the spacecraft from extreme re-entry heating"
-                },
-                {
-                    "question": "Which organisation is responsible for the Gaganyaan mission?",
-                    "options": [
-                        "ISRO",
-                        "DRDO",
-                        "HAL",
-                        "BARC"
-                    ],
-                    "answer": "ISRO"
-                },
-                {
-                    "question": "The Thermal Protection System is particularly important during?",
-                    "options": [
-                        "Atmospheric Re-entry",
-                        "Sea Navigation",
-                        "Ground Transportation",
-                        "Satellite Launch Preparation only"
-                    ],
-                    "answer": "Atmospheric Re-entry"
-                },
-                {
-                    "question": "The Gaganyaan heat shield uses which type of technology?",
-                    "options": [
-                        "Ablative Heat Shield",
-                        "Solar Panel Shield",
-                        "Magnetic Shield only",
-                        "Water Cooling System"
-                    ],
-                    "answer": "Ablative Heat Shield"
-                }
-            ]
-        },
-        {
-            "category": "Economy & Banking",
-            "title": "Centre's Fiscal Outlook Remains Focused on 4.6% Fiscal Deficit Target",
-            "summary": "The Centre's fiscal outlook for FY 2026-27 is being assessed amid revenue pressures, subsidy requirements and geopolitical risks. Strong non-tax revenues and higher capital expenditure are expected to provide support, while tax collections, crude oil prices and currency movements remain important factors for fiscal management.",
-            "sourceName": "InsightsIAS",
-            "staticGK": [
-                "Financial Year : 2026-27",
-                "Fiscal Deficit Target : 4.6% of GDP",
-                "Nominal GDP Growth Projection : 12.5%–13.0%",
-                "Real GDP Growth Estimate : Around 7%",
-                "Key Risk : Crude Oil and Geopolitical Pressures",
-                "Key Support : Non-Tax Revenue and Capital Expenditure"
-            ],
-            "mcqs": [
-                {
-                    "question": "What fiscal deficit target is being maintained for FY 2026-27?",
-                    "options": [
-                        "4.6% of GDP",
-                        "3.0% of GDP",
-                        "5.8% of GDP",
-                        "6.5% of GDP"
-                    ],
-                    "answer": "4.6% of GDP"
-                },
-                {
-                    "question": "Which factor is creating pressure on India's fiscal position?",
-                    "options": [
-                        "Crude Oil Prices",
-                        "Tourism only",
-                        "Sports Events",
-                        "Film Industry"
-                    ],
-                    "answer": "Crude Oil Prices"
-                },
-                {
-                    "question": "Which revenue source has provided support to the Centre?",
-                    "options": [
-                        "Non-Tax Revenue",
-                        "Lottery Revenue",
-                        "Tourism Tax only",
-                        "Cinema Tax"
-                    ],
-                    "answer": "Non-Tax Revenue"
-                },
-                {
-                    "question": "What is the approximate real GDP growth estimate mentioned for FY 2026-27?",
-                    "options": [
-                        "Around 7%",
-                        "Around 3%",
-                        "Around 10%",
-                        "Around 12%"
-                    ],
-                    "answer": "Around 7%"
-                },
-                {
-                    "question": "Capital expenditure is important because it can support?",
-                    "options": [
-                        "Domestic Industrial Output",
-                        "Only Imports",
-                        "Only Tourism",
-                        "Only Sports"
-                    ],
-                    "answer": "Domestic Industrial Output"
-                }
-            ]
-        },
-        {
-            "category": "Environment",
-            "title": "South Korea's Plastic Recycling System Highlights Importance of Genuine Recycling",
-            "summary": "South Korea's plastic waste management system has drawn attention after research showed a significant gap between plastic collected for recycling and plastic actually recycled into new plastic material. The issue highlights the importance of accurate recycling measurement, Extended Producer Responsibility and circular economy practices.",
-            "sourceName": "InsightsIAS",
-            "staticGK": [
-                "Country : South Korea",
-                "Waste : Plastic Waste",
-                "System : Extended Producer Responsibility",
-                "Actual Material Recycling : 16.4% of collected household plastic in 2021",
-                "Key Concept : Circular Economy",
-                "Reform Focus : Separate Material and Thermal Recycling"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which country was highlighted for its plastic waste management system?",
-                    "options": [
-                        "South Korea",
-                        "Japan",
-                        "China",
-                        "Germany"
-                    ],
-                    "answer": "South Korea"
-                },
-                {
-                    "question": "Which principle makes producers responsible for packaging waste?",
-                    "options": [
-                        "Extended Producer Responsibility",
-                        "Polluter Import Principle",
-                        "Carbon Border Mechanism",
-                        "Green Tax System"
-                    ],
-                    "answer": "Extended Producer Responsibility"
-                },
-                {
-                    "question": "What percentage of collected household plastic was found to be actually recycled into plastic in 2021?",
-                    "options": [
-                        "16.4%",
-                        "50.5%",
-                        "73%",
-                        "90%"
-                    ],
-                    "answer": "16.4%"
-                },
-                {
-                    "question": "The issue is closely connected with which concept?",
-                    "options": [
-                        "Circular Economy",
-                        "Blue Economy",
-                        "Digital Economy",
-                        "Space Economy"
-                    ],
-                    "answer": "Circular Economy"
-                },
-                {
-                    "question": "South Korea has moved toward separately reporting which types of recycling?",
-                    "options": [
-                        "Material and Thermal Recycling",
-                        "Plastic and Metal Recycling",
-                        "Urban and Rural Recycling",
-                        "Domestic and International Recycling"
-                    ],
-                    "answer": "Material and Thermal Recycling"
-                }
-            ]
-        },
-        {
-            "category": "Government & Polity",
-            "title": "Debate Over Vande Mataram Rendition Gains Political Attention",
-            "summary": "A political debate over the rendition of Vande Mataram gained attention after the Congress Working Committee decided to sing only two stanzas during a programme. Union Home Minister Amit Shah criticised the decision and emphasised the historical and national significance of the song.",
-            "sourceName": "Akashvani News",
-            "staticGK": [
-                "National Song : Vande Mataram",
-                "Composer : Bankim Chandra Chattopadhyay",
-                "Language : Sanskritised Bengali",
-                "Political Issue : Number of Stanzas to be Sung",
-                "Minister Commenting : Amit Shah"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which national song was at the centre of the debate?",
-                    "options": [
-                        "Vande Mataram",
-                        "Jana Gana Mana",
-                        "Saare Jahan Se Achha",
-                        "Ae Mere Watan Ke Logon"
-                    ],
-                    "answer": "Vande Mataram"
-                },
-                {
-                    "question": "Who wrote Vande Mataram?",
-                    "options": [
-                        "Bankim Chandra Chattopadhyay",
-                        "Rabindranath Tagore",
-                        "Subhash Chandra Bose",
-                        "Sarojini Naidu"
-                    ],
-                    "answer": "Bankim Chandra Chattopadhyay"
-                },
-                {
-                    "question": "Who criticised the decision to sing only two stanzas?",
-                    "options": [
-                        "Amit Shah",
-                        "Rajnath Singh",
-                        "Piyush Goyal",
-                        "Nitin Gadkari"
-                    ],
-                    "answer": "Amit Shah"
-                },
-                {
-                    "question": "Vande Mataram is India's?",
-                    "options": [
-                        "National Song",
-                        "National Anthem",
-                        "National Motto",
-                        "National Emblem"
-                    ],
-                    "answer": "National Song"
-                },
-                {
-                    "question": "Vande Mataram was originally written in a form of which language?",
-                    "options": [
-                        "Bengali",
-                        "Tamil",
-                        "Marathi",
-                        "Gujarati"
-                    ],
-                    "answer": "Bengali"
-                }
-            ]
-        },
-        {
-            "category": "Defence & Strategic Affairs",
-            "title": "India's Defence Export Potential Rises Amid Growing Global Demand",
-            "summary": "Indian defence companies are seeing growing international interest in indigenous defence products amid increased global defence spending. Paras Defence has projected strong growth in exports for FY 2026-27, supported by demand for defence engineering products, optical systems, electro-optics and anti-drone technologies.",
-            "sourceName": "Reuters",
-            "staticGK": [
-                "Company : Paras Defence",
-                "Sector : Defence Engineering",
-                "Expected Export Revenue FY27 : ₹1.2–1.3 billion",
-                "Previous Year Export Revenue : ₹500–600 million",
-                "Products : Optical and Electro-Optical Systems",
-                "Other Product : Anti-Drone Equipment"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which Indian company projected strong export growth in FY 2026-27?",
-                    "options": [
-                        "Paras Defence",
-                        "Infosys",
-                        "Tata Motors",
-                        "Indian Oil"
-                    ],
-                    "answer": "Paras Defence"
-                },
-                {
-                    "question": "Paras Defence operates mainly in which sector?",
-                    "options": [
-                        "Defence Engineering",
-                        "Banking",
-                        "Railways",
-                        "Agriculture"
-                    ],
-                    "answer": "Defence Engineering"
-                },
-                {
-                    "question": "Which technology is among the products supplied by Paras Defence?",
-                    "options": [
-                        "Electro-Optical Systems",
-                        "Electric Cars",
-                        "Mobile Phones",
-                        "Agricultural Tractors"
-                    ],
-                    "answer": "Electro-Optical Systems"
-                },
-                {
-                    "question": "Which other defence technology is mentioned?",
-                    "options": [
-                        "Anti-Drone Equipment",
-                        "Submarine Engines only",
-                        "Railway Signalling",
-                        "Satellite Television"
-                    ],
-                    "answer": "Anti-Drone Equipment"
-                },
-                {
-                    "question": "The growth in global defence demand is linked partly to?",
-                    "options": [
-                        "Geopolitical Tensions",
-                        "Tourism Growth",
-                        "Film Production",
-                        "Sports Events"
-                    ],
-                    "answer": "Geopolitical Tensions"
-                }
-            ]
-        },
-        {
-            "category": "Sports",
-            "title": "Treesa Jolly and Gayatri Gopichand Reach BWF World Championships Semifinals",
-            "summary": "Indian women's doubles pair Treesa Jolly and Gayatri Gopichand created a major achievement at the BWF World Championships in New Delhi by defeating China's world No. 4 pair Jia Yi Fan and Zhang Shu Xian in the quarterfinals. Their victory assured India a medal in the tournament.",
-            "sourceName": "Times of India",
-            "staticGK": [
-                "Tournament : BWF World Championships 2026",
-                "Venue : Indira Gandhi Indoor Stadium",
-                "Host City : New Delhi",
-                "Indian Pair : Treesa Jolly and Gayatri Gopichand",
-                "Event : Women's Doubles",
-                "Achievement : Semifinal Qualification"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which Indian pair reached the BWF World Championships semifinals?",
-                    "options": [
-                        "Treesa Jolly and Gayatri Gopichand",
-                        "P.V. Sindhu and Saina Nehwal",
-                        "Satwik and Chirag",
-                        "Lakshya Sen and Ayush Shetty"
-                    ],
-                    "answer": "Treesa Jolly and Gayatri Gopichand"
-                },
-                {
-                    "question": "Which event did the Indian pair compete in?",
-                    "options": [
-                        "Women's Doubles",
-                        "Men's Doubles",
-                        "Women's Singles",
-                        "Mixed Doubles"
-                    ],
-                    "answer": "Women's Doubles"
-                },
-                {
-                    "question": "Where are the BWF World Championships 2026 being held?",
-                    "options": [
-                        "New Delhi",
-                        "Mumbai",
-                        "Hyderabad",
-                        "Bengaluru"
-                    ],
-                    "answer": "New Delhi"
-                },
-                {
-                    "question": "Which country's world No. 4 pair did they defeat?",
-                    "options": [
-                        "China",
-                        "Japan",
-                        "South Korea",
-                        "Indonesia"
-                    ],
-                    "answer": "China"
-                },
-                {
-                    "question": "What did their victory assure India?",
-                    "options": [
-                        "A Medal",
-                        "A Gold Medal",
-                        "Tournament Hosting Rights",
-                        "Olympic Qualification"
-                    ],
-                    "answer": "A Medal"
-                }
-            ]
-        },
-        {
-            "category": "Students & Competitive Examinations",
-            "title": "Student and Recruitment Examination Protests Continue in Jharkhand",
-            "summary": "Students and job aspirants in Jharkhand continued to raise concerns over recruitment examination irregularities and cancellations. Protesters have demanded greater transparency and action regarding competitive examination processes, while legal and administrative developments have kept the issue in public focus.",
-            "sourceName": "The New Indian Express",
-            "staticGK": [
-                "State : Jharkhand",
-                "Protesters : Students and Job Aspirants",
-                "Main Issue : Recruitment Examination Irregularities",
-                "Related Exams : JSSC and JPSC Examinations",
-                "Key Demand : Transparency in Recruitment",
-                "Location : Ranchi"
-            ],
-            "mcqs": [
-                {
-                    "question": "In which state did students protest over recruitment examination issues?",
-                    "options": [
-                        "Jharkhand",
-                        "Bihar",
-                        "Uttar Pradesh",
-                        "Rajasthan"
-                    ],
-                    "answer": "Jharkhand"
-                },
-                {
-                    "question": "Who were mainly involved in the protests?",
-                    "options": [
-                        "Students and Job Aspirants",
-                        "Farmers",
-                        "Industrial Workers",
-                        "Tourists"
-                    ],
-                    "answer": "Students and Job Aspirants"
-                },
-                {
-                    "question": "Which examination bodies were associated with the issue?",
-                    "options": [
-                        "JSSC and JPSC",
-                        "UPSC and SSC",
-                        "RRB and IBPS",
-                        "NTA and CBSE"
-                    ],
-                    "answer": "JSSC and JPSC"
-                },
-                {
-                    "question": "What was a major demand of the protesters?",
-                    "options": [
-                        "Transparency in Recruitment",
-                        "Higher Examination Fees",
-                        "More Examination Centres Abroad",
-                        "Longer Examination Duration"
-                    ],
-                    "answer": "Transparency in Recruitment"
-                },
-                {
-                    "question": "Which city was associated with the protests?",
-                    "options": [
-                        "Ranchi",
-                        "Patna",
-                        "Lucknow",
-                        "Bhopal"
-                    ],
-                    "answer": "Ranchi"
-                }
-            ]
-        },
-        {
-            "category": "International & Maritime Affairs",
-            "title": "Renewed Somali Piracy Raises Concerns for Gulf of Aden Maritime Trade",
-            "summary": "Renewed piracy activity around the Gulf of Aden has highlighted the continuing security challenges faced by international shipping. The region is strategically important for maritime trade because it connects the Red Sea with the Arabian Sea and forms part of a major route linking Europe and Asia.",
-            "sourceName": "InsightsIAS",
-            "staticGK": [
-                "Region : Gulf of Aden",
-                "Country Associated with Piracy : Somalia",
-                "Major Concern : Maritime Piracy",
-                "Strategic Importance : International Shipping",
-                "Connects : Red Sea and Arabian Sea",
-                "Key Issue : Maritime Security"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which region was highlighted for renewed piracy concerns?",
-                    "options": [
-                        "Gulf of Aden",
-                        "Bay of Bengal",
-                        "Gulf of Mexico",
-                        "Baltic Sea"
-                    ],
-                    "answer": "Gulf of Aden"
-                },
-                {
-                    "question": "Piracy in the region is mainly associated with which country?",
-                    "options": [
-                        "Somalia",
-                        "Egypt",
-                        "India",
-                        "Iran"
-                    ],
-                    "answer": "Somalia"
-                },
-                {
-                    "question": "The Gulf of Aden is important for?",
-                    "options": [
-                        "International Shipping",
-                        "Only Fishing",
-                        "Space Launches",
-                        "Agriculture"
-                    ],
-                    "answer": "International Shipping"
-                },
-                {
-                    "question": "The Gulf of Aden connects the Red Sea with which sea?",
-                    "options": [
-                        "Arabian Sea",
-                        "Black Sea",
-                        "Caspian Sea",
-                        "Mediterranean Sea"
-                    ],
-                    "answer": "Arabian Sea"
-                },
-                {
-                    "question": "Piracy in the region is primarily a concern related to?",
-                    "options": [
-                        "Maritime Security",
-                        "Food Security",
-                        "Cyber Education",
-                        "Agricultural Policy"
-                    ],
-                    "answer": "Maritime Security"
+                    "mcqs": [{
+                            "question": "Which region was highlighted for renewed piracy concerns?",
+                            "options": [
+                                "Gulf of Aden",
+                                "Bay of Bengal",
+                                "Gulf of Mexico",
+                                "Baltic Sea"
+                            ],
+                            "answer": "Gulf of Aden"
+                        },
+                        {
+                            "question": "Piracy in the region is mainly associated with which country?",
+                            "options": [
+                                "Somalia",
+                                "Egypt",
+                                "India",
+                                "Iran"
+                            ],
+                            "answer": "Somalia"
+                        },
+                        {
+                            "question": "The Gulf of Aden is important for?",
+                            "options": [
+                                "International Shipping",
+                                "Only Fishing",
+                                "Space Launches",
+                                "Agriculture"
+                            ],
+                            "answer": "International Shipping"
+                        },
+                        {
+                            "question": "The Gulf of Aden connects the Red Sea with which sea?",
+                            "options": [
+                                "Arabian Sea",
+                                "Black Sea",
+                                "Caspian Sea",
+                                "Mediterranean Sea"
+                            ],
+                            "answer": "Arabian Sea"
+                        },
+                        {
+                            "question": "Piracy in the region is primarily a concern related to?",
+                            "options": [
+                                "Maritime Security",
+                                "Food Security",
+                                "Cyber Education",
+                                "Agricultural Policy"
+                            ],
+                            "answer": "Maritime Security"
+                        }
+                    ]
                 }
             ]
         }
-    ]
-}
 
 
     ]
