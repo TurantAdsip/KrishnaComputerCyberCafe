@@ -13885,6 +13885,2774 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "2026-08-22",
+            "date": "22 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 22 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "India Advances Major Government Initiatives in Manufacturing, Science and Youth Development",
+                    "summary": "Several important government initiatives and programmes remained in focus on 22 August 2026, including the Mobile Phone Manufacturing Scheme, BRICS science cooperation and youth-related programmes. These developments reflect India's focus on domestic manufacturing, innovation, technology and youth participation.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Country : India",
+                        "Major Focus : Manufacturing, Science and Youth Development",
+                        "Key Scheme : Mobile Phone Manufacturing Scheme",
+                        "Science Cooperation : BRICS Science Ministerial Meet",
+                        "Youth Cooperation : BRICS Youth Ministers' Meeting"
+                    ],
+                    "mcqs": [{
+                            "question": "Which country is implementing the Mobile Phone Manufacturing Scheme?",
+                            "options": [
+                                "India",
+                                "Brazil",
+                                "Japan",
+                                "Germany"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Which international grouping was involved in the science ministerial meeting?",
+                            "options": [
+                                "BRICS",
+                                "G7",
+                                "SAARC",
+                                "ASEAN"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "Which area is being promoted through the Mobile Phone Manufacturing Scheme?",
+                            "options": [
+                                "Domestic Manufacturing",
+                                "Tourism",
+                                "Sports",
+                                "Fisheries"
+                            ],
+                            "answer": "Domestic Manufacturing"
+                        },
+                        {
+                            "question": "Which group held a Youth Ministers' Meeting in India?",
+                            "options": [
+                                "BRICS",
+                                "G20",
+                                "SAARC",
+                                "NATO"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "The government initiatives mainly aim to strengthen which areas?",
+                            "options": [
+                                "Manufacturing and Innovation",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Agriculture"
+                            ],
+                            "answer": "Manufacturing and Innovation"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India and Brazil Strengthen Cooperation in Telecommunications and ICT",
+                    "summary": "India and Brazil signed a Memorandum of Understanding to deepen bilateral cooperation in telecommunications and Information and Communication Technologies. The cooperation covers digital infrastructure, cybersecurity, digital innovation and emerging technologies. The agreement was associated with the BRICS communications track held in Pune.",
+                    "sourceName": "Akashvani News",
+                    "staticGK": [
+                        "Countries : India and Brazil",
+                        "Agreement : Memorandum of Understanding",
+                        "Sector : Telecommunications and ICT",
+                        "Meeting : BRICS Communications Ministers' Meeting",
+                        "Venue : Pune",
+                        "Key Areas : Digital Infrastructure and Cybersecurity"
+                    ],
+                    "mcqs": [{
+                            "question": "India signed an ICT cooperation MoU with which country?",
+                            "options": [
+                                "Brazil",
+                                "Japan",
+                                "France",
+                                "Australia"
+                            ],
+                            "answer": "Brazil"
+                        },
+                        {
+                            "question": "The MoU mainly concerns which sector?",
+                            "options": [
+                                "Telecommunications and ICT",
+                                "Agriculture",
+                                "Railways",
+                                "Mining"
+                            ],
+                            "answer": "Telecommunications and ICT"
+                        },
+                        {
+                            "question": "The cooperation was associated with which grouping?",
+                            "options": [
+                                "BRICS",
+                                "NATO",
+                                "SAARC",
+                                "ASEAN"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "Where was the BRICS communications meeting held?",
+                            "options": [
+                                "Pune",
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru"
+                            ],
+                            "answer": "Pune"
+                        },
+                        {
+                            "question": "Which area is included in the India-Brazil ICT cooperation?",
+                            "options": [
+                                "Cybersecurity",
+                                "Coal Mining",
+                                "Agriculture",
+                                "Tourism"
+                            ],
+                            "answer": "Cybersecurity"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "BRICS Adopts Chennai Declaration on Science, Technology and Innovation",
+                    "summary": "The 14th BRICS Science Ministerial Meet, chaired by India, unanimously adopted the Chennai Declaration. The declaration emphasises people-centred and humanity-first cooperation in science, technology and innovation, along with shared research infrastructure, open knowledge, talent mobility and practical cooperation among BRICS countries.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Meeting : 14th BRICS Science Ministerial Meet",
+                        "Venue : Chennai",
+                        "Chair : India",
+                        "Declaration : Chennai Declaration",
+                        "Focus : Science, Technology and Innovation",
+                        "Approach : People-Centred and Humanity-First"
+                    ],
+                    "mcqs": [{
+                            "question": "Which declaration was unanimously adopted at the BRICS Science Ministerial Meet?",
+                            "options": [
+                                "Chennai Declaration",
+                                "Delhi Declaration",
+                                "Mumbai Declaration",
+                                "Bengaluru Declaration"
+                            ],
+                            "answer": "Chennai Declaration"
+                        },
+                        {
+                            "question": "Which country chaired the BRICS Science Ministerial Meet?",
+                            "options": [
+                                "India",
+                                "Brazil",
+                                "Russia",
+                                "China"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Where was the BRICS Science Ministerial Meet held?",
+                            "options": [
+                                "Chennai",
+                                "Pune",
+                                "New Delhi",
+                                "Hyderabad"
+                            ],
+                            "answer": "Chennai"
+                        },
+                        {
+                            "question": "The Chennai Declaration focuses mainly on which field?",
+                            "options": [
+                                "Science, Technology and Innovation",
+                                "Tourism",
+                                "Agriculture",
+                                "Sports"
+                            ],
+                            "answer": "Science, Technology and Innovation"
+                        },
+                        {
+                            "question": "What approach is emphasised in the Chennai Declaration?",
+                            "options": [
+                                "People-Centred and Humanity-First",
+                                "Military-First",
+                                "Trade-Only",
+                                "Tourism-First"
+                            ],
+                            "answer": "People-Centred and Humanity-First"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "Government Notifies ₹62,500 Crore Mobile Phone Manufacturing Scheme",
+                    "summary": "The Ministry of Electronics and Information Technology notified the Mobile Phone Manufacturing Scheme with a budgetary outlay of ₹62,500 crore. The five-year scheme will operate from FY 2026-27 to FY 2030-31 and aims to increase domestic manufacturing, component sourcing, Indian-owned brands and research and development capabilities.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Scheme : Mobile Phone Manufacturing Scheme",
+                        "Outlay : ₹62,500 Crore",
+                        "Nodal Ministry : Ministry of Electronics and Information Technology",
+                        "Implementation Period : FY 2026-27 to FY 2030-31",
+                        "Major Focus : Domestic Manufacturing",
+                        "Additional Focus : Components, Design and R&D"
+                    ],
+                    "mcqs": [{
+                            "question": "What is the budgetary outlay of the Mobile Phone Manufacturing Scheme?",
+                            "options": [
+                                "₹62,500 Crore",
+                                "₹25,000 Crore",
+                                "₹75,000 Crore",
+                                "₹1 Lakh Crore"
+                            ],
+                            "answer": "₹62,500 Crore"
+                        },
+                        {
+                            "question": "Which ministry is responsible for the Mobile Phone Manufacturing Scheme?",
+                            "options": [
+                                "Ministry of Electronics and Information Technology",
+                                "Ministry of Commerce",
+                                "Ministry of Finance",
+                                "Ministry of Heavy Industries"
+                            ],
+                            "answer": "Ministry of Electronics and Information Technology"
+                        },
+                        {
+                            "question": "The scheme will operate for how many years?",
+                            "options": [
+                                "5 Years",
+                                "3 Years",
+                                "7 Years",
+                                "10 Years"
+                            ],
+                            "answer": "5 Years"
+                        },
+                        {
+                            "question": "The scheme covers which financial period?",
+                            "options": [
+                                "FY 2026-27 to FY 2030-31",
+                                "FY 2025-26 to FY 2029-30",
+                                "FY 2027-28 to FY 2032-33",
+                                "FY 2024-25 to FY 2028-29"
+                            ],
+                            "answer": "FY 2026-27 to FY 2030-31"
+                        },
+                        {
+                            "question": "The scheme aims to strengthen which area?",
+                            "options": [
+                                "Domestic Mobile Manufacturing",
+                                "Tourism",
+                                "Agriculture",
+                                "Textile Imports"
+                            ],
+                            "answer": "Domestic Mobile Manufacturing"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "Indian Air Force Completes Multinational Exercises Pitch Black and Udara Shakti 2026",
+                    "summary": "The Indian Air Force concluded its participation in the multinational exercises Pitch Black and Udara Shakti 2026. The exercises provided opportunities for operational training, interoperability and experience-sharing with participating air forces, strengthening India's engagement in multinational air operations.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Organisation : Indian Air Force",
+                        "Exercises : Pitch Black and Udara Shakti 2026",
+                        "Type : Multinational Air Exercises",
+                        "Focus : Operational Training",
+                        "Major Benefit : Interoperability",
+                        "Area : Air Power and International Cooperation"
+                    ],
+                    "mcqs": [{
+                            "question": "Which organisation participated in Pitch Black and Udara Shakti 2026?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Navy",
+                                "Indian Army",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Pitch Black is associated with which domain?",
+                            "options": [
+                                "Air Operations",
+                                "Naval Operations",
+                                "Cybersecurity only",
+                                "Space Exploration"
+                            ],
+                            "answer": "Air Operations"
+                        },
+                        {
+                            "question": "What is a major objective of multinational military exercises?",
+                            "options": [
+                                "Interoperability",
+                                "Tourism Promotion",
+                                "Trade Promotion",
+                                "Cultural Exchange only"
+                            ],
+                            "answer": "Interoperability"
+                        },
+                        {
+                            "question": "Udara Shakti is related to which service?",
+                            "options": [
+                                "Air Force",
+                                "Navy",
+                                "Army",
+                                "Coast Guard"
+                            ],
+                            "answer": "Air Force"
+                        },
+                        {
+                            "question": "Such exercises mainly help improve?",
+                            "options": [
+                                "Operational Training",
+                                "Agricultural Production",
+                                "Banking Services",
+                                "Tourism"
+                            ],
+                            "answer": "Operational Training"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Government Focuses on Strengthening Access to Justice and Administrative Services",
+                    "summary": "Government measures during August 2026 included efforts to improve access to justice and decentralise important administrative processes. A proposal to establish a High Court bench in the Union Territory of Ladakh and changes related to processing of citizenship applications were among developments relevant for governance and polity.",
+                    "sourceName": "PIB and Current Affairs Reports",
+                    "staticGK": [
+                        "Region : Ladakh",
+                        "Issue : Access to Justice",
+                        "Proposed Institution : High Court Bench",
+                        "Citizenship Law : Citizenship Amendment Act, 2019",
+                        "Administrative Focus : Decentralisation",
+                        "Governance Theme : Public Service Delivery"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Union Territory was associated with the proposed High Court bench?",
+                            "options": [
+                                "Ladakh",
+                                "Delhi",
+                                "Puducherry",
+                                "Chandigarh"
+                            ],
+                            "answer": "Ladakh"
+                        },
+                        {
+                            "question": "The proposed High Court bench aims to improve what?",
+                            "options": [
+                                "Access to Justice",
+                                "Tourism",
+                                "Banking",
+                                "Agriculture"
+                            ],
+                            "answer": "Access to Justice"
+                        },
+                        {
+                            "question": "Which Act was associated with citizenship application processing?",
+                            "options": [
+                                "Citizenship Amendment Act, 2019",
+                                "Right to Information Act",
+                                "National Security Act",
+                                "Forest Rights Act"
+                            ],
+                            "answer": "Citizenship Amendment Act, 2019"
+                        },
+                        {
+                            "question": "Decentralisation mainly means?",
+                            "options": [
+                                "Transfer of functions closer to local authorities",
+                                "Abolition of government services",
+                                "Centralisation of all decisions",
+                                "Privatisation of courts"
+                            ],
+                            "answer": "Transfer of functions closer to local authorities"
+                        },
+                        {
+                            "question": "The developments are mainly related to which area?",
+                            "options": [
+                                "Governance",
+                                "Sports",
+                                "Entertainment",
+                                "Tourism"
+                            ],
+                            "answer": "Governance"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "Treesa Jolly and Gayatri Gopichand Win Historic Bronze at BWF World Championships",
+                    "summary": "Indian women's doubles pair Treesa Jolly and Gayatri Gopichand secured a historic bronze medal at the 2026 BWF World Championships in New Delhi. They lost their semifinal against China's world No. 1 pair Liu Sheng Shu and Tan Ning but ended India's long wait for a women's doubles medal at the World Championships.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Venue : New Delhi",
+                        "Indian Pair : Treesa Jolly and Gayatri Gopichand",
+                        "Event : Women's Doubles",
+                        "Medal : Bronze",
+                        "Achievement : India's First Women's Doubles World Championships Medal in 15 Years"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Indian pair won a bronze medal at the BWF World Championships 2026?",
+                            "options": [
+                                "Treesa Jolly and Gayatri Gopichand",
+                                "P.V. Sindhu and Saina Nehwal",
+                                "Satwik and Chirag",
+                                "Lakshya Sen and Ayush Shetty"
+                            ],
+                            "answer": "Treesa Jolly and Gayatri Gopichand"
+                        },
+                        {
+                            "question": "Which event did the Indian pair compete in?",
+                            "options": [
+                                "Women's Doubles",
+                                "Men's Doubles",
+                                "Women's Singles",
+                                "Mixed Doubles"
+                            ],
+                            "answer": "Women's Doubles"
+                        },
+                        {
+                            "question": "Where were the BWF World Championships 2026 held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which medal did Treesa and Gayatri win?",
+                            "options": [
+                                "Bronze",
+                                "Gold",
+                                "Silver",
+                                "No Medal"
+                            ],
+                            "answer": "Bronze"
+                        },
+                        {
+                            "question": "Which country defeated the Indian pair in the semifinal?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "Indonesia"
+                            ],
+                            "answer": "China"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "Neeraj Chopra Finishes Second at Lausanne Diamond League",
+                    "summary": "Indian javelin thrower Neeraj Chopra finished second at the Lausanne Diamond League after producing a season-best throw of 88.05 metres. Sri Lanka's Rumesh Pathirage won the event with a throw of 88.14 metres, finishing just nine centimetres ahead of Chopra.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Athlete : Neeraj Chopra",
+                        "Event : Men's Javelin Throw",
+                        "Competition : Lausanne Diamond League",
+                        "Position : Second",
+                        "Season-Best Throw : 88.05 Metres",
+                        "Winner : Rumesh Pathirage",
+                        "Winning Throw : 88.14 Metres"
+                    ],
+                    "mcqs": [{
+                            "question": "What position did Neeraj Chopra secure at the Lausanne Diamond League?",
+                            "options": [
+                                "Second",
+                                "First",
+                                "Third",
+                                "Fourth"
+                            ],
+                            "answer": "Second"
+                        },
+                        {
+                            "question": "What was Neeraj Chopra's season-best throw?",
+                            "options": [
+                                "88.05 metres",
+                                "86.67 metres",
+                                "90.10 metres",
+                                "85.83 metres"
+                            ],
+                            "answer": "88.05 metres"
+                        },
+                        {
+                            "question": "Who won the Lausanne Diamond League javelin event?",
+                            "options": [
+                                "Rumesh Pathirage",
+                                "Neeraj Chopra",
+                                "Arshad Nadeem",
+                                "Anderson Peters"
+                            ],
+                            "answer": "Rumesh Pathirage"
+                        },
+                        {
+                            "question": "Which country does Rumesh Pathirage represent?",
+                            "options": [
+                                "Sri Lanka",
+                                "India",
+                                "Pakistan",
+                                "Bangladesh"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "What was Pathirage's winning throw?",
+                            "options": [
+                                "88.14 metres",
+                                "88.05 metres",
+                                "87.06 metres",
+                                "92.62 metres"
+                            ],
+                            "answer": "88.14 metres"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "Students and Other Groups Hold Protest at Jantar Mantar Over Reservation Reforms",
+                    "summary": "A demonstration was held at Delhi's Jantar Mantar over demands for reforms in the reservation system and UGC equity norms. Students, farmers, homemakers, businessmen and others participated in the protest and called for changes in the existing reservation criteria.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Location : Jantar Mantar, New Delhi",
+                        "Main Issue : Reservation Reforms",
+                        "Participants : Students and Other Groups",
+                        "Related Issue : UGC Equity Norms",
+                        "Demand : Reform in Reservation Criteria",
+                        "City : New Delhi"
+                    ],
+                    "mcqs": [{
+                            "question": "Where was the reservation-related protest held?",
+                            "options": [
+                                "Jantar Mantar",
+                                "India Gate",
+                                "Red Fort",
+                                "Parliament House"
+                            ],
+                            "answer": "Jantar Mantar"
+                        },
+                        {
+                            "question": "In which city was the protest held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Lucknow",
+                                "Jaipur"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What was the main issue raised by protesters?",
+                            "options": [
+                                "Reservation Reforms",
+                                "Railway Privatisation",
+                                "Fuel Prices",
+                                "Sports Policy"
+                            ],
+                            "answer": "Reservation Reforms"
+                        },
+                        {
+                            "question": "Which education-related norms were also mentioned?",
+                            "options": [
+                                "UGC Equity Norms",
+                                "CBSE Sports Norms",
+                                "NTA Exam Norms",
+                                "AICTE Fee Norms"
+                            ],
+                            "answer": "UGC Equity Norms"
+                        },
+                        {
+                            "question": "Who participated in the demonstration?",
+                            "options": [
+                                "Students and Other Groups",
+                                "Only Government Employees",
+                                "Only Farmers",
+                                "Only Sports Persons"
+                            ],
+                            "answer": "Students and Other Groups"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment",
+                    "title": "Ken-Betwa Link Project Remains Important for Water and Environmental Management",
+                    "summary": "The Ken-Betwa Link Project continued to receive attention in current affairs because of its importance for water management, irrigation and regional development. The project involves linking the Ken and Betwa river basins and is aimed at addressing water availability and agricultural needs in parts of Madhya Pradesh and Uttar Pradesh.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Project : Ken-Betwa Link Project",
+                        "Rivers : Ken and Betwa",
+                        "States : Madhya Pradesh and Uttar Pradesh",
+                        "Main Focus : Water Management",
+                        "Major Benefit : Irrigation",
+                        "Environmental Issue : River Interlinking"
+                    ],
+                    "mcqs": [{
+                            "question": "Which rivers are connected under the Ken-Betwa Link Project?",
+                            "options": [
+                                "Ken and Betwa",
+                                "Ganga and Yamuna",
+                                "Narmada and Tapi",
+                                "Godavari and Krishna"
+                            ],
+                            "answer": "Ken and Betwa"
+                        },
+                        {
+                            "question": "Which two states are primarily associated with the project?",
+                            "options": [
+                                "Madhya Pradesh and Uttar Pradesh",
+                                "Bihar and Jharkhand",
+                                "Rajasthan and Gujarat",
+                                "Maharashtra and Karnataka"
+                            ],
+                            "answer": "Madhya Pradesh and Uttar Pradesh"
+                        },
+                        {
+                            "question": "The project is mainly related to?",
+                            "options": [
+                                "Water Management",
+                                "Space Research",
+                                "Defence Production",
+                                "Tourism"
+                            ],
+                            "answer": "Water Management"
+                        },
+                        {
+                            "question": "One major expected benefit of the project is?",
+                            "options": [
+                                "Irrigation",
+                                "Air Transport",
+                                "Digital Banking",
+                                "Defence Training"
+                            ],
+                            "answer": "Irrigation"
+                        },
+                        {
+                            "question": "The Ken-Betwa project is an example of?",
+                            "options": [
+                                "River Interlinking",
+                                "Sea-Link Construction",
+                                "Metro Rail Project",
+                                "Space Mission"
+                            ],
+                            "answer": "River Interlinking"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Maritime Affairs",
+                    "title": "Indian Navy Receives Mangrol, Third Anti-Submarine Warfare Shallow Water Craft",
+                    "summary": "The Indian Navy received Mangrol, the third Anti-Submarine Warfare Shallow Water Craft built by Cochin Shipyard Limited in Kochi. The vessel is designed to strengthen India's capabilities for anti-submarine warfare and maritime security in coastal and shallow-water areas.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Vessel : Mangrol",
+                        "Type : Anti-Submarine Warfare Shallow Water Craft",
+                        "Serial Position : Third Craft",
+                        "Builder : Cochin Shipyard Limited",
+                        "Location : Kochi",
+                        "Main Role : Anti-Submarine Warfare",
+                        "Service : Indian Navy"
+                    ],
+                    "mcqs": [{
+                            "question": "What is Mangrol?",
+                            "options": [
+                                "Anti-Submarine Warfare Shallow Water Craft",
+                                "Aircraft Carrier",
+                                "Submarine",
+                                "Destroyer"
+                            ],
+                            "answer": "Anti-Submarine Warfare Shallow Water Craft"
+                        },
+                        {
+                            "question": "Which service will operate Mangrol?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "Indian Army",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Navy"
+                        },
+                        {
+                            "question": "Mangrol is which number in the series mentioned?",
+                            "options": [
+                                "Third",
+                                "First",
+                                "Second",
+                                "Fifth"
+                            ],
+                            "answer": "Third"
+                        },
+                        {
+                            "question": "Which shipyard built Mangrol?",
+                            "options": [
+                                "Cochin Shipyard Limited",
+                                "Mazagon Dock Shipbuilders",
+                                "Garden Reach Shipbuilders",
+                                "Hindustan Shipyard"
+                            ],
+                            "answer": "Cochin Shipyard Limited"
+                        },
+                        {
+                            "question": "What is the main role of Mangrol?",
+                            "options": [
+                                "Anti-Submarine Warfare",
+                                "Air Defence",
+                                "Space Research",
+                                "Humanitarian Tourism"
+                            ],
+                            "answer": "Anti-Submarine Warfare"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "2026-08-23",
+            "date": "23 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 23 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "India Celebrates Third National Space Day on 23 August",
+                    "summary": "India observed the third National Space Day on 23 August 2026 to commemorate the successful landing of Chandrayaan-3's Vikram lander near the lunar south polar region on 23 August 2023. The day highlights India's achievements in space exploration, scientific innovation and the growing role of the country's space ecosystem.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Event : National Space Day 2026",
+                        "Date : 23 August",
+                        "Edition : Third National Space Day",
+                        "Reason : Chandrayaan-3 Lunar Landing",
+                        "Mission : Chandrayaan-3",
+                        "Landing Site : Shiv Shakti Point",
+                        "Organisation : ISRO"
+                    ],
+                    "mcqs": [{
+                            "question": "When is National Space Day celebrated in India?",
+                            "options": [
+                                "23 August",
+                                "15 August",
+                                "26 January",
+                                "28 February"
+                            ],
+                            "answer": "23 August"
+                        },
+                        {
+                            "question": "Which mission's successful landing is commemorated on National Space Day?",
+                            "options": [
+                                "Chandrayaan-3",
+                                "Chandrayaan-2",
+                                "Mangalyaan",
+                                "Aditya-L1"
+                            ],
+                            "answer": "Chandrayaan-3"
+                        },
+                        {
+                            "question": "Which organisation conducted the Chandrayaan-3 mission?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "BARC"
+                            ],
+                            "answer": "ISRO"
+                        },
+                        {
+                            "question": "What was the landing site of Chandrayaan-3 named?",
+                            "options": [
+                                "Shiv Shakti Point",
+                                "Vikram Point",
+                                "Bharat Point",
+                                "Tricolour Point"
+                            ],
+                            "answer": "Shiv Shakti Point"
+                        },
+                        {
+                            "question": "Which edition of National Space Day was observed in 2026?",
+                            "options": [
+                                "Third",
+                                "Second",
+                                "Fourth",
+                                "Fifth"
+                            ],
+                            "answer": "Third"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "PM Modi Interacts with Space Startup CEOs Ahead of National Space Day",
+                    "summary": "Prime Minister Narendra Modi interacted with CEOs and founders of Indian space startups ahead of National Space Day. He highlighted the importance of policy consistency, innovation, private participation and building an ecosystem capable of attracting global talent to India's growing space sector.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Event : Interaction with Space Startup CEOs",
+                        "Participants : CEOs and Founders of Space Startups",
+                        "Prime Minister : Narendra Modi",
+                        "Sector : Space Technology",
+                        "Focus : Innovation and Private Participation",
+                        "Major Goal : Attract Global Talent",
+                        "Occasion : National Space Day"
+                    ],
+                    "mcqs": [{
+                            "question": "Who interacted with CEOs and founders of Indian space startups?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Ashwini Vaishnaw"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Which sector was the focus of the interaction?",
+                            "options": [
+                                "Space Technology",
+                                "Banking",
+                                "Agriculture",
+                                "Railways"
+                            ],
+                            "answer": "Space Technology"
+                        },
+                        {
+                            "question": "Which type of participation was highlighted in India's space ecosystem?",
+                            "options": [
+                                "Private Participation",
+                                "Only Government Participation",
+                                "Only Foreign Participation",
+                                "Only Academic Participation"
+                            ],
+                            "answer": "Private Participation"
+                        },
+                        {
+                            "question": "What kind of talent does India aim to attract to its space ecosystem?",
+                            "options": [
+                                "Global Talent",
+                                "Only Local Talent",
+                                "Only Government Officers",
+                                "Only Sports Talent"
+                            ],
+                            "answer": "Global Talent"
+                        },
+                        {
+                            "question": "The interaction took place ahead of which national observance?",
+                            "options": [
+                                "National Space Day",
+                                "National Science Day",
+                                "National Technology Day",
+                                "Engineers' Day"
+                            ],
+                            "answer": "National Space Day"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India-Bangladesh Relations Focus on Mutual Interests and Common Ground",
+                    "summary": "External Affairs Minister S. Jaishankar emphasised that India-Bangladesh relations should be based on mutual interests and common ground. His remarks came amid uncertainty surrounding Bangladesh Prime Minister Tarique Rahman's possible visit to India and continuing diplomatic discussions between the two countries.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Countries : India and Bangladesh",
+                        "Indian Minister : S. Jaishankar",
+                        "Bangladesh Prime Minister : Tarique Rahman",
+                        "Key Principle : Mutual Interests",
+                        "Diplomatic Focus : Common Ground",
+                        "Major Issue : Bilateral Relations"
+                    ],
+                    "mcqs": [{
+                            "question": "Which two countries were the focus of the diplomatic discussion?",
+                            "options": [
+                                "India and Bangladesh",
+                                "India and Nepal",
+                                "India and Sri Lanka",
+                                "India and Bhutan"
+                            ],
+                            "answer": "India and Bangladesh"
+                        },
+                        {
+                            "question": "Who emphasised the importance of mutual interests in bilateral relations?",
+                            "options": [
+                                "S. Jaishankar",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "S. Jaishankar"
+                        },
+                        {
+                            "question": "Who is the Prime Minister of Bangladesh mentioned in the report?",
+                            "options": [
+                                "Tarique Rahman",
+                                "Muhammad Yunus",
+                                "Sheikh Hasina",
+                                "Abdul Hamid"
+                            ],
+                            "answer": "Tarique Rahman"
+                        },
+                        {
+                            "question": "What principle was highlighted for India-Bangladesh relations?",
+                            "options": [
+                                "Mutual Interests",
+                                "Military Alliance",
+                                "Trade Isolation",
+                                "Border Closure"
+                            ],
+                            "answer": "Mutual Interests"
+                        },
+                        {
+                            "question": "The discussion was mainly related to which area?",
+                            "options": [
+                                "Bilateral Relations",
+                                "Sports",
+                                "Space Research",
+                                "Agriculture"
+                            ],
+                            "answer": "Bilateral Relations"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "RBI Forex Swap and E20 Policy Remain Important Economic Issues",
+                    "summary": "Economic discussions on 23 August highlighted the Reserve Bank of India's foreign exchange swap operations and the ongoing debate around E20 petrol. The forex swap mechanism is relevant to liquidity and foreign exchange management, while E20 policy concerns the blending of 20 percent ethanol with petrol and its impact on consumers and fuel efficiency.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Economic Tool : Foreign Exchange Swap",
+                        "Fuel Policy : E20",
+                        "E20 Meaning : 20% Ethanol Blending",
+                        "Main Economic Issue : Liquidity and Forex Management",
+                        "Consumer Issue : Fuel Efficiency and Pricing"
+                    ],
+                    "mcqs": [{
+                            "question": "Which institution conducts foreign exchange swap operations in India?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "Ministry of Commerce"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "What does E20 refer to?",
+                            "options": [
+                                "20% Ethanol Blending",
+                                "20% Export Growth",
+                                "20% Electricity Generation",
+                                "20% Economic Growth"
+                            ],
+                            "answer": "20% Ethanol Blending"
+                        },
+                        {
+                            "question": "E20 is mainly related to which sector?",
+                            "options": [
+                                "Fuel and Transport",
+                                "Banking",
+                                "Telecommunications",
+                                "Railways"
+                            ],
+                            "answer": "Fuel and Transport"
+                        },
+                        {
+                            "question": "Forex swaps are connected with which area?",
+                            "options": [
+                                "Foreign Exchange and Liquidity Management",
+                                "Agriculture",
+                                "Sports",
+                                "Education"
+                            ],
+                            "answer": "Foreign Exchange and Liquidity Management"
+                        },
+                        {
+                            "question": "What percentage of ethanol is blended in E20 petrol?",
+                            "options": [
+                                "20%",
+                                "10%",
+                                "15%",
+                                "25%"
+                            ],
+                            "answer": "20%"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Maritime Affairs",
+                    "title": "INS Sudarshini Arrives in Lisbon During Lokayan 2026 Expedition",
+                    "summary": "Indian Navy's sail training ship INS Sudarshini arrived in Lisbon, Portugal on 22 August 2026 as part of the ongoing Lokayan 2026 transoceanic expedition. The visit included professional exchanges, cross-deck visits and cultural engagements, strengthening India's maritime goodwill and international cooperation.",
+                    "sourceName": "Press Information Bureau",
+                    "staticGK": [
+                        "Ship : INS Sudarshini",
+                        "Type : Sail Training Ship",
+                        "Expedition : Lokayan 2026",
+                        "Port : Lisbon",
+                        "Country : Portugal",
+                        "Port Visit Number : 15th Port Visit",
+                        "Main Purpose : Maritime Training and International Cooperation"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Indian Navy ship arrived in Lisbon?",
+                            "options": [
+                                "INS Sudarshini",
+                                "INS Vikrant",
+                                "INS Arihant",
+                                "INS Chennai"
+                            ],
+                            "answer": "INS Sudarshini"
+                        },
+                        {
+                            "question": "What type of ship is INS Sudarshini?",
+                            "options": [
+                                "Sail Training Ship",
+                                "Aircraft Carrier",
+                                "Submarine",
+                                "Destroyer"
+                            ],
+                            "answer": "Sail Training Ship"
+                        },
+                        {
+                            "question": "Which expedition is INS Sudarshini participating in?",
+                            "options": [
+                                "Lokayan 2026",
+                                "Maitree 2026",
+                                "Malabar 2026",
+                                "Varuna 2026"
+                            ],
+                            "answer": "Lokayan 2026"
+                        },
+                        {
+                            "question": "Lisbon is the capital of which country?",
+                            "options": [
+                                "Portugal",
+                                "Spain",
+                                "Italy",
+                                "France"
+                            ],
+                            "answer": "Portugal"
+                        },
+                        {
+                            "question": "What is a major objective of the port visit?",
+                            "options": [
+                                "International Maritime Cooperation",
+                                "Space Launch",
+                                "Oil Exploration",
+                                "Agricultural Research"
+                            ],
+                            "answer": "International Maritime Cooperation"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment & Maritime Affairs",
+                    "title": "Panama-Flagged Cargo Ship Sinks in Bay of Bengal Off Odisha Coast",
+                    "summary": "A Panama-flagged bulk carrier, MV Ocean Winner, sank in the Bay of Bengal while carrying iron ore from Paradip in Odisha towards China. The Indian Coast Guard and Indian Navy launched search and rescue operations, with survivors rescued and efforts continuing to locate missing crew members.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Vessel : MV Ocean Winner",
+                        "Flag : Panama",
+                        "Location : Bay of Bengal",
+                        "Origin Port : Paradip, Odisha",
+                        "Destination : China",
+                        "Cargo : Iron Ore",
+                        "Rescue Agencies : Indian Coast Guard and Indian Navy"
+                    ],
+                    "mcqs": [{
+                            "question": "Which vessel sank in the Bay of Bengal?",
+                            "options": [
+                                "MV Ocean Winner",
+                                "MV Ocean India",
+                                "MV Eastern Star",
+                                "MV Bengal Trader"
+                            ],
+                            "answer": "MV Ocean Winner"
+                        },
+                        {
+                            "question": "Which country was the vessel flagged under?",
+                            "options": [
+                                "Panama",
+                                "India",
+                                "China",
+                                "Singapore"
+                            ],
+                            "answer": "Panama"
+                        },
+                        {
+                            "question": "Where did the vessel sink?",
+                            "options": [
+                                "Bay of Bengal",
+                                "Arabian Sea",
+                                "Indian Ocean",
+                                "Andaman Sea"
+                            ],
+                            "answer": "Bay of Bengal"
+                        },
+                        {
+                            "question": "What cargo was the vessel carrying?",
+                            "options": [
+                                "Iron Ore",
+                                "Crude Oil",
+                                "Coal",
+                                "Food Grains"
+                            ],
+                            "answer": "Iron Ore"
+                        },
+                        {
+                            "question": "Which Indian agencies participated in the rescue operation?",
+                            "options": [
+                                "Indian Coast Guard and Indian Navy",
+                                "Indian Army and BSF",
+                                "CRPF and CISF",
+                                "NDRF only"
+                            ],
+                            "answer": "Indian Coast Guard and Indian Navy"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Education & Students",
+                    "title": "National Teachers' Award 2026 Recognises 48 School Educators",
+                    "summary": "The National Teachers' Award 2026 list recognised 48 school educators for their contribution to education and innovative teaching practices. The award highlights teachers who have introduced creative approaches, improved student participation and worked to strengthen learning outcomes in schools.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Award : National Teachers' Award 2026",
+                        "Number of Awardees : 48",
+                        "Field : School Education",
+                        "Purpose : Recognition of Outstanding Teachers",
+                        "Award Importance : India's Highest National Award for School Educators",
+                        "Focus : Innovation and Student Learning"
+                    ],
+                    "mcqs": [{
+                            "question": "How many educators were recognised under the National Teachers' Award 2026?",
+                            "options": [
+                                "48",
+                                "40",
+                                "50",
+                                "60"
+                            ],
+                            "answer": "48"
+                        },
+                        {
+                            "question": "The National Teachers' Award is associated with which field?",
+                            "options": [
+                                "School Education",
+                                "Defence",
+                                "Banking",
+                                "Sports"
+                            ],
+                            "answer": "School Education"
+                        },
+                        {
+                            "question": "The award primarily recognises?",
+                            "options": [
+                                "Outstanding Teachers",
+                                "Government Engineers",
+                                "Scientists",
+                                "Athletes"
+                            ],
+                            "answer": "Outstanding Teachers"
+                        },
+                        {
+                            "question": "The award encourages which quality among teachers?",
+                            "options": [
+                                "Innovation in Teaching",
+                                "Military Training",
+                                "Financial Trading",
+                                "Sports Competition"
+                            ],
+                            "answer": "Innovation in Teaching"
+                        },
+                        {
+                            "question": "The National Teachers' Award is considered India's highest national award for which group?",
+                            "options": [
+                                "School Educators",
+                                "College Athletes",
+                                "Scientists",
+                                "Bankers"
+                            ],
+                            "answer": "School Educators"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "Agriculture Examination Paper Leak Leads to Cancellation and Re-Test in Chhattisgarh",
+                    "summary": "An agriculture examination in Chhattisgarh was cancelled after allegations that an Entomology paper had been leaked and sold to students before the examination. The case highlighted concerns over examination integrity and the need for stronger safeguards against paper leaks in competitive and academic examinations.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "State : Chhattisgarh",
+                        "Examination : Agriculture Examination",
+                        "Paper : Entomology",
+                        "Issue : Question Paper Leak",
+                        "Alleged Paper Price : ₹11,000",
+                        "Action : Examination Cancelled",
+                        "Next Step : Re-Test"
+                    ],
+                    "mcqs": [{
+                            "question": "In which state was the agriculture examination paper leak reported?",
+                            "options": [
+                                "Chhattisgarh",
+                                "Jharkhand",
+                                "Bihar",
+                                "Madhya Pradesh"
+                            ],
+                            "answer": "Chhattisgarh"
+                        },
+                        {
+                            "question": "Which subject's paper was allegedly leaked?",
+                            "options": [
+                                "Entomology",
+                                "Botany",
+                                "Agronomy",
+                                "Soil Science"
+                            ],
+                            "answer": "Entomology"
+                        },
+                        {
+                            "question": "What was the major issue reported?",
+                            "options": [
+                                "Question Paper Leak",
+                                "Exam Centre Change",
+                                "Fee Increase",
+                                "Result Delay"
+                            ],
+                            "answer": "Question Paper Leak"
+                        },
+                        {
+                            "question": "What action was taken after the alleged paper leak?",
+                            "options": [
+                                "Examination Cancelled",
+                                "Exam Result Declared",
+                                "Fees Refunded Only",
+                                "No Action"
+                            ],
+                            "answer": "Examination Cancelled"
+                        },
+                        {
+                            "question": "What was announced after cancellation?",
+                            "options": [
+                                "Re-Test",
+                                "Direct Promotion",
+                                "Online Interview",
+                                "No Further Examination"
+                            ],
+                            "answer": "Re-Test"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Security Alert in Delhi Amid Calls for Protest Over UGC Equity Regulations",
+                    "summary": "Security was intensified in Delhi amid social media calls for a demonstration concerning the University Grants Commission Equity Regulations 2026 and the broader reservation system. The development brought renewed attention to debates over reservation, equity and higher-education regulations.",
+                    "sourceName": "Times of India",
+                    "staticGK": [
+                        "Location : Delhi",
+                        "Venue : Shah Auditorium",
+                        "Issue : UGC Equity Regulations 2026",
+                        "Related Issue : Reservation System",
+                        "Main Theme : Equity in Higher Education",
+                        "Action : Security Measures Intensified"
+                    ],
+                    "mcqs": [{
+                            "question": "Which city saw heightened security amid protest calls?",
+                            "options": [
+                                "Delhi",
+                                "Mumbai",
+                                "Kolkata",
+                                "Chennai"
+                            ],
+                            "answer": "Delhi"
+                        },
+                        {
+                            "question": "Which regulations were linked to the protest calls?",
+                            "options": [
+                                "UGC Equity Regulations 2026",
+                                "UGC Fee Regulations 2026",
+                                "CBSE Regulations 2026",
+                                "NTA Regulations 2026"
+                            ],
+                            "answer": "UGC Equity Regulations 2026"
+                        },
+                        {
+                            "question": "Which venue was placed under heightened security?",
+                            "options": [
+                                "Shah Auditorium",
+                                "Vigyan Bhawan",
+                                "India Gate",
+                                "Red Fort"
+                            ],
+                            "answer": "Shah Auditorium"
+                        },
+                        {
+                            "question": "The controversy was also connected with which broader issue?",
+                            "options": [
+                                "Reservation System",
+                                "Fuel Pricing",
+                                "Defence Procurement",
+                                "Space Policy"
+                            ],
+                            "answer": "Reservation System"
+                        },
+                        {
+                            "question": "The regulations are mainly related to which sector?",
+                            "options": [
+                                "Higher Education",
+                                "Defence",
+                                "Banking",
+                                "Agriculture"
+                            ],
+                            "answer": "Higher Education"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "Treesa Jolly and Gayatri Gopichand Secure Historic Bronze at BWF World Championships",
+                    "summary": "Indian women's doubles pair Treesa Jolly and Gayatri Gopichand secured a historic bronze medal at the BWF World Championships in New Delhi. Their achievement ended India's long wait for a women's doubles medal at the World Championships and marked an important milestone for Indian badminton.",
+                    "sourceName": "The Indian Express",
+                    "staticGK": [
+                        "Tournament : BWF World Championships 2026",
+                        "Venue : New Delhi",
+                        "Indian Pair : Treesa Jolly and Gayatri Gopichand",
+                        "Event : Women's Doubles",
+                        "Medal : Bronze",
+                        "Sport : Badminton",
+                        "Achievement : Historic Women's Doubles Medal"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Indian pair won a bronze medal at the BWF World Championships?",
+                            "options": [
+                                "Treesa Jolly and Gayatri Gopichand",
+                                "P.V. Sindhu and Saina Nehwal",
+                                "Satwik and Chirag",
+                                "Ashwini Ponnappa and Jwala Gutta"
+                            ],
+                            "answer": "Treesa Jolly and Gayatri Gopichand"
+                        },
+                        {
+                            "question": "Which event did the pair compete in?",
+                            "options": [
+                                "Women's Doubles",
+                                "Men's Doubles",
+                                "Women's Singles",
+                                "Mixed Doubles"
+                            ],
+                            "answer": "Women's Doubles"
+                        },
+                        {
+                            "question": "Where were the BWF World Championships 2026 held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which medal did the Indian pair win?",
+                            "options": [
+                                "Bronze",
+                                "Gold",
+                                "Silver",
+                                "No Medal"
+                            ],
+                            "answer": "Bronze"
+                        },
+                        {
+                            "question": "Which sport is associated with Treesa Jolly and Gayatri Gopichand?",
+                            "options": [
+                                "Badminton",
+                                "Tennis",
+                                "Table Tennis",
+                                "Hockey"
+                            ],
+                            "answer": "Badminton"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "2026-08-24",
+            "date": "24 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 24 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "International Affairs",
+                    "title": "NSA Ajit Doval Arrives in Beijing for India-China Boundary Talks",
+                    "summary": "National Security Adviser Ajit Doval arrived in Beijing on 24 August 2026 for the 25th round of Special Representatives' talks on the India-China boundary question. Doval, India's Special Representative, is scheduled to meet Chinese Foreign Minister and Special Representative Wang Yi. The talks come ahead of the expected BRICS Summit in New Delhi.",
+                    "sourceName": "ThePrint / PTI",
+                    "staticGK": [
+                        "Indian Official : Ajit Doval",
+                        "Country Visited : China",
+                        "City : Beijing",
+                        "Talks : 25th Special Representatives' Talks",
+                        "Chinese Counterpart : Wang Yi",
+                        "Issue : India-China Boundary Question",
+                        "Mechanism Established : 2003"
+                    ],
+                    "mcqs": [{
+                            "question": "Who arrived in Beijing for the 25th round of India-China Special Representatives' talks?",
+                            "options": [
+                                "Ajit Doval",
+                                "S. Jaishankar",
+                                "Rajnath Singh",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Ajit Doval"
+                        },
+                        {
+                            "question": "Who is India's Special Representative on the India-China Boundary Question?",
+                            "options": [
+                                "Ajit Doval",
+                                "S. Jaishankar",
+                                "Amit Shah",
+                                "Rajnath Singh"
+                            ],
+                            "answer": "Ajit Doval"
+                        },
+                        {
+                            "question": "Who is China's Special Representative for the boundary talks?",
+                            "options": [
+                                "Wang Yi",
+                                "Li Qiang",
+                                "Xi Jinping",
+                                "Han Zheng"
+                            ],
+                            "answer": "Wang Yi"
+                        },
+                        {
+                            "question": "Where were the talks scheduled to take place?",
+                            "options": [
+                                "Beijing",
+                                "Shanghai",
+                                "New Delhi",
+                                "Mumbai"
+                            ],
+                            "answer": "Beijing"
+                        },
+                        {
+                            "question": "The talks mainly concern which issue?",
+                            "options": [
+                                "India-China Boundary Question",
+                                "Trade Tariffs",
+                                "Climate Change",
+                                "Sports Cooperation"
+                            ],
+                            "answer": "India-China Boundary Question"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "Rajnath Singh Lays Foundation for ₹3,500 Crore Defence Projects in West Bengal",
+                    "summary": "Defence Minister Rajnath Singh virtually inaugurated the foundation of five brownfield expansion projects in West Bengal with an investment of nearly ₹3,500 crore. The projects are associated with Garden Reach Shipbuilders and Engineers and Yantra India Limited and aim to strengthen India's defence manufacturing capacity and self-reliance.",
+                    "sourceName": "Times of India",
+                    "staticGK": [
+                        "Minister : Rajnath Singh",
+                        "State : West Bengal",
+                        "Investment : Nearly ₹3,500 Crore",
+                        "Projects : Five Brownfield Expansion Projects",
+                        "PSU : Garden Reach Shipbuilders and Engineers",
+                        "Other PSU : Yantra India Limited",
+                        "Focus : Defence Manufacturing and Self-Reliance"
+                    ],
+                    "mcqs": [{
+                            "question": "Who laid the foundation for five defence expansion projects in West Bengal?",
+                            "options": [
+                                "Rajnath Singh",
+                                "Amit Shah",
+                                "Narendra Modi",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Rajnath Singh"
+                        },
+                        {
+                            "question": "What is the approximate investment involved?",
+                            "options": [
+                                "₹3,500 Crore",
+                                "₹1,500 Crore",
+                                "₹5,000 Crore",
+                                "₹10,000 Crore"
+                            ],
+                            "answer": "₹3,500 Crore"
+                        },
+                        {
+                            "question": "How many projects were included?",
+                            "options": [
+                                "Five",
+                                "Three",
+                                "Seven",
+                                "Ten"
+                            ],
+                            "answer": "Five"
+                        },
+                        {
+                            "question": "Which PSU is associated with shipbuilding projects?",
+                            "options": [
+                                "Garden Reach Shipbuilders and Engineers",
+                                "HAL",
+                                "BEL",
+                                "BHEL"
+                            ],
+                            "answer": "Garden Reach Shipbuilders and Engineers"
+                        },
+                        {
+                            "question": "The projects aim to strengthen India's?",
+                            "options": [
+                                "Defence Manufacturing",
+                                "Tourism",
+                                "Agriculture",
+                                "Banking"
+                            ],
+                            "answer": "Defence Manufacturing"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "PMFME Bazaar and Conclave 2026 Highlights Micro Food Processing Enterprises",
+                    "summary": "The PMFME Bazaar and PMFME Conclave 2026 were inaugurated at the India Habitat Centre in New Delhi. The event brought together stakeholders from the micro food processing sector and showcased products from Self Help Groups, Farmer Producer Organisations, cooperatives and individual entrepreneurs from across India.",
+                    "sourceName": "GKToday",
+                    "staticGK": [
+                        "Scheme : PMFME",
+                        "Full Form : Pradhan Mantri Formalisation of Micro Food Processing Enterprises",
+                        "Event : PMFME Bazaar and Conclave 2026",
+                        "Venue : India Habitat Centre, New Delhi",
+                        "Participating Region : 25 States and Union Territories",
+                        "Target Sector : Micro Food Processing",
+                        "Launch Year of Scheme : 2020"
+                    ],
+                    "mcqs": [{
+                            "question": "What does PMFME stand for?",
+                            "options": [
+                                "Pradhan Mantri Formalisation of Micro Food Processing Enterprises",
+                                "Prime Minister Food Manufacturing Enterprise",
+                                "Pradhan Mantri Food Market Expansion",
+                                "Public Micro Food Enterprise Scheme"
+                            ],
+                            "answer": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises"
+                        },
+                        {
+                            "question": "Where was the PMFME Bazaar and Conclave 2026 inaugurated?",
+                            "options": [
+                                "India Habitat Centre, New Delhi",
+                                "Bharat Mandapam",
+                                "Vigyan Bhawan",
+                                "Pragati Maidan"
+                            ],
+                            "answer": "India Habitat Centre, New Delhi"
+                        },
+                        {
+                            "question": "The PMFME Scheme primarily supports which sector?",
+                            "options": [
+                                "Micro Food Processing",
+                                "Defence Manufacturing",
+                                "Banking",
+                                "Telecommunications"
+                            ],
+                            "answer": "Micro Food Processing"
+                        },
+                        {
+                            "question": "In which year was the PMFME Scheme launched?",
+                            "options": [
+                                "2020",
+                                "2018",
+                                "2021",
+                                "2022"
+                            ],
+                            "answer": "2020"
+                        },
+                        {
+                            "question": "Which groups participated in the PMFME Bazaar?",
+                            "options": [
+                                "SHGs, FPOs, Cooperatives and Micro Entrepreneurs",
+                                "Only Banks",
+                                "Only Government Employees",
+                                "Only Large Companies"
+                            ],
+                            "answer": "SHGs, FPOs, Cooperatives and Micro Entrepreneurs"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "NEET-PG 2026 Scheduled for 30 August; Admit Cards to Be Released on 25 August",
+                    "summary": "The National Board of Examinations in Medical Sciences announced that NEET-PG 2026 will be conducted on 30 August 2026 in a single shift from 9:00 AM to 12:30 PM through Computer-Based Examination mode. Admit cards were scheduled to be released on 25 August following requests and circumstances concerning Assam and Meghalaya.",
+                    "sourceName": "National Board of Examinations in Medical Sciences",
+                    "staticGK": [
+                        "Examination : NEET-PG 2026",
+                        "Exam Date : 30 August 2026",
+                        "Exam Mode : Computer-Based Examination",
+                        "Shift : Single Shift",
+                        "Exam Time : 9:00 AM to 12:30 PM",
+                        "Admit Card Date : 25 August 2026",
+                        "Conducting Body : NBEMS"
+                    ],
+                    "mcqs": [{
+                            "question": "When will NEET-PG 2026 be conducted?",
+                            "options": [
+                                "30 August 2026",
+                                "25 August 2026",
+                                "28 August 2026",
+                                "1 September 2026"
+                            ],
+                            "answer": "30 August 2026"
+                        },
+                        {
+                            "question": "In which mode will NEET-PG 2026 be conducted?",
+                            "options": [
+                                "Computer-Based Examination",
+                                "Offline Written Examination",
+                                "Interview",
+                                "Online Interview"
+                            ],
+                            "answer": "Computer-Based Examination"
+                        },
+                        {
+                            "question": "What is the scheduled examination timing?",
+                            "options": [
+                                "9:00 AM to 12:30 PM",
+                                "10:00 AM to 1:00 PM",
+                                "8:00 AM to 11:00 AM",
+                                "2:00 PM to 5:00 PM"
+                            ],
+                            "answer": "9:00 AM to 12:30 PM"
+                        },
+                        {
+                            "question": "Which organisation conducts NEET-PG?",
+                            "options": [
+                                "NBEMS",
+                                "NTA",
+                                "UGC",
+                                "CBSE"
+                            ],
+                            "answer": "NBEMS"
+                        },
+                        {
+                            "question": "When were NEET-PG 2026 admit cards scheduled to be released?",
+                            "options": [
+                                "25 August 2026",
+                                "24 August 2026",
+                                "28 August 2026",
+                                "30 August 2026"
+                            ],
+                            "answer": "25 August 2026"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment & Health",
+                    "title": "Crimean-Congo Hemorrhagic Fever Remains an Important Emerging Disease Concern",
+                    "summary": "Crimean-Congo Hemorrhagic Fever was highlighted in current-affairs coverage on 24 August 2026 as an important viral haemorrhagic disease. CCHF is primarily transmitted through ticks and can also spread through contact with infected animal blood or tissues. The disease is caused by Crimean-Congo haemorrhagic fever virus.",
+                    "sourceName": "Vajiram & Ravi",
+                    "staticGK": [
+                        "Disease : Crimean-Congo Hemorrhagic Fever",
+                        "Abbreviation : CCHF",
+                        "Cause : Crimean-Congo Hemorrhagic Fever Virus",
+                        "Major Vector : Ticks",
+                        "Transmission : Infected Animal Blood and Tissues",
+                        "Disease Type : Viral Haemorrhagic Fever",
+                        "Public Health Concern : Emerging Infectious Disease"
+                    ],
+                    "mcqs": [{
+                            "question": "What is the full form of CCHF?",
+                            "options": [
+                                "Crimean-Congo Hemorrhagic Fever",
+                                "Central Congo Health Fever",
+                                "Crimean-Central Health Fever",
+                                "Congo-Crimean Human Fever"
+                            ],
+                            "answer": "Crimean-Congo Hemorrhagic Fever"
+                        },
+                        {
+                            "question": "CCHF is caused by which type of pathogen?",
+                            "options": [
+                                "Virus",
+                                "Bacteria",
+                                "Fungus",
+                                "Protozoa"
+                            ],
+                            "answer": "Virus"
+                        },
+                        {
+                            "question": "Which vector is mainly associated with CCHF transmission?",
+                            "options": [
+                                "Ticks",
+                                "Mosquitoes",
+                                "Houseflies",
+                                "Fleas"
+                            ],
+                            "answer": "Ticks"
+                        },
+                        {
+                            "question": "CCHF belongs to which category of disease?",
+                            "options": [
+                                "Viral Haemorrhagic Fever",
+                                "Bacterial Disease",
+                                "Fungal Infection",
+                                "Nutritional Disorder"
+                            ],
+                            "answer": "Viral Haemorrhagic Fever"
+                        },
+                        {
+                            "question": "CCHF can also spread through contact with infected?",
+                            "options": [
+                                "Animal Blood and Tissues",
+                                "Drinking Water Only",
+                                "Plant Leaves",
+                                "Soil Only"
+                            ],
+                            "answer": "Animal Blood and Tissues"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Environment",
+                    "title": "Delhi-NCR Faces Heavy Rainfall, Waterlogging and Orange Alert",
+                    "summary": "Heavy rainfall affected Delhi-NCR on 24 August 2026, causing waterlogging, traffic disruption and flight diversions at Indira Gandhi International Airport. The India Meteorological Department issued an orange alert for Delhi as intense rainfall continued in parts of the National Capital Region.",
+                    "sourceName": "Times of India",
+                    "staticGK": [
+                        "Region : Delhi-NCR",
+                        "Date : 24 August 2026",
+                        "Weather : Heavy Rainfall",
+                        "Alert : Orange Alert",
+                        "Major Impact : Waterlogging and Traffic Disruption",
+                        "Airport : Indira Gandhi International Airport",
+                        "Agency : India Meteorological Department"
+                    ],
+                    "mcqs": [{
+                            "question": "Which region experienced heavy rainfall on 24 August 2026?",
+                            "options": [
+                                "Delhi-NCR",
+                                "Mumbai-Pune",
+                                "Kolkata-Hooghly",
+                                "Chennai-Coimbatore"
+                            ],
+                            "answer": "Delhi-NCR"
+                        },
+                        {
+                            "question": "Which alert was issued for Delhi?",
+                            "options": [
+                                "Orange Alert",
+                                "Red Alert",
+                                "Yellow Alert",
+                                "Green Alert"
+                            ],
+                            "answer": "Orange Alert"
+                        },
+                        {
+                            "question": "Which organisation issues weather alerts in India?",
+                            "options": [
+                                "India Meteorological Department",
+                                "ISRO",
+                                "NDMA",
+                                "CWC"
+                            ],
+                            "answer": "India Meteorological Department"
+                        },
+                        {
+                            "question": "What was a major impact of the rainfall?",
+                            "options": [
+                                "Waterlogging",
+                                "Earthquake",
+                                "Drought",
+                                "Heatwave"
+                            ],
+                            "answer": "Waterlogging"
+                        },
+                        {
+                            "question": "Which Delhi airport faced weather-related disruptions?",
+                            "options": [
+                                "Indira Gandhi International Airport",
+                                "Safdarjung Airport",
+                                "Palam Airport",
+                                "Hindon Airport"
+                            ],
+                            "answer": "Indira Gandhi International Airport"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Affairs",
+                    "title": "India Calls for Investigation into Attack on UN Peacekeepers in South Sudan",
+                    "summary": "India condemned an attack on United Nations peacekeepers in South Sudan and called for an immediate and thorough investigation. India reiterated the importance of respecting the sanctity and inviolability of UN premises and personnel and called for accountability under relevant UN Security Council provisions.",
+                    "sourceName": "Ministry of External Affairs",
+                    "staticGK": [
+                        "Country : South Sudan",
+                        "Issue : Attack on UN Peacekeepers",
+                        "India's Response : Condemnation",
+                        "Demand : Immediate and Thorough Investigation",
+                        "International Body : United Nations",
+                        "Related Resolution : UN Security Council Resolution 2589",
+                        "Main Theme : Protection of Peacekeepers"
+                    ],
+                    "mcqs": [{
+                            "question": "In which country was the attack on UN peacekeepers highlighted?",
+                            "options": [
+                                "South Sudan",
+                                "Sudan",
+                                "Somalia",
+                                "Syria"
+                            ],
+                            "answer": "South Sudan"
+                        },
+                        {
+                            "question": "Which organisation's peacekeepers were attacked?",
+                            "options": [
+                                "United Nations",
+                                "NATO",
+                                "European Union",
+                                "African Union"
+                            ],
+                            "answer": "United Nations"
+                        },
+                        {
+                            "question": "What did India demand following the attack?",
+                            "options": [
+                                "Immediate and Thorough Investigation",
+                                "Withdrawal of Peacekeepers",
+                                "Closure of UN Offices",
+                                "Trade Sanctions"
+                            ],
+                            "answer": "Immediate and Thorough Investigation"
+                        },
+                        {
+                            "question": "Which UN Security Council resolution was referred to?",
+                            "options": [
+                                "Resolution 2589",
+                                "Resolution 1373",
+                                "Resolution 1325",
+                                "Resolution 242"
+                            ],
+                            "answer": "Resolution 2589"
+                        },
+                        {
+                            "question": "The issue is mainly related to the protection of?",
+                            "options": [
+                                "UN Peacekeepers",
+                                "Tourists",
+                                "Athletes",
+                                "Students"
+                            ],
+                            "answer": "UN Peacekeepers"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "India-China Special Representatives Mechanism Continues to Focus on Border Stability",
+                    "summary": "The 25th round of India-China Special Representatives talks was scheduled amid efforts to stabilise bilateral relations. The mechanism, established in 2003, is intended to explore a political solution to the India-China boundary question. The latest engagement is significant ahead of the BRICS summit expected in New Delhi.",
+                    "sourceName": "ThePrint / PTI",
+                    "staticGK": [
+                        "Mechanism : Special Representatives Talks",
+                        "Established : 2003",
+                        "Round : 25th Round",
+                        "Indian Representative : Ajit Doval",
+                        "Chinese Representative : Wang Yi",
+                        "Main Issue : Boundary Question",
+                        "Broader Goal : Border Peace and Stability"
+                    ],
+                    "mcqs": [{
+                            "question": "In which year was the India-China Special Representatives mechanism established?",
+                            "options": [
+                                "2003",
+                                "2005",
+                                "1999",
+                                "2010"
+                            ],
+                            "answer": "2003"
+                        },
+                        {
+                            "question": "Which round of talks was scheduled in August 2026?",
+                            "options": [
+                                "25th",
+                                "20th",
+                                "15th",
+                                "30th"
+                            ],
+                            "answer": "25th"
+                        },
+                        {
+                            "question": "Who represented India in the Special Representatives mechanism?",
+                            "options": [
+                                "Ajit Doval",
+                                "S. Jaishankar",
+                                "Rajnath Singh",
+                                "Amit Shah"
+                            ],
+                            "answer": "Ajit Doval"
+                        },
+                        {
+                            "question": "What is the main issue addressed by the mechanism?",
+                            "options": [
+                                "India-China Boundary Question",
+                                "Trade Promotion",
+                                "Sports Cooperation",
+                                "Climate Finance"
+                            ],
+                            "answer": "India-China Boundary Question"
+                        },
+                        {
+                            "question": "What is an important broader objective of the talks?",
+                            "options": [
+                                "Border Peace and Stability",
+                                "Tourism Promotion",
+                                "Sports Development",
+                                "Cultural Festivals"
+                            ],
+                            "answer": "Border Peace and Stability"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "India's Hockey Team Exits World Cup Semifinal After Loss to Argentina",
+                    "summary": "India's men's hockey team was knocked out of the Hockey World Cup semifinal after losing 3-5 to Argentina. The result ended India's campaign at the semifinal stage, while the team continued to compete for a podium finish in the tournament.",
+                    "sourceName": "Economic Times",
+                    "staticGK": [
+                        "Sport : Hockey",
+                        "Tournament : Hockey World Cup 2026",
+                        "Stage : Semifinal",
+                        "India Score : 3",
+                        "Argentina Score : 5",
+                        "Opponent : Argentina",
+                        "Result : India Lost"
+                    ],
+                    "mcqs": [{
+                            "question": "Which team defeated India in the Hockey World Cup semifinal?",
+                            "options": [
+                                "Argentina",
+                                "Germany",
+                                "Australia",
+                                "Netherlands"
+                            ],
+                            "answer": "Argentina"
+                        },
+                        {
+                            "question": "What was the final score?",
+                            "options": [
+                                "Argentina 5-3 India",
+                                "India 5-3 Argentina",
+                                "Argentina 4-3 India",
+                                "India 3-2 Argentina"
+                            ],
+                            "answer": "Argentina 5-3 India"
+                        },
+                        {
+                            "question": "At which stage did India lose?",
+                            "options": [
+                                "Semifinal",
+                                "Quarterfinal",
+                                "Final",
+                                "Group Stage"
+                            ],
+                            "answer": "Semifinal"
+                        },
+                        {
+                            "question": "Which sport is associated with the tournament?",
+                            "options": [
+                                "Hockey",
+                                "Cricket",
+                                "Football",
+                                "Badminton"
+                            ],
+                            "answer": "Hockey"
+                        },
+                        {
+                            "question": "How many goals did India score against Argentina?",
+                            "options": [
+                                "3",
+                                "2",
+                                "4",
+                                "5"
+                            ],
+                            "answer": "3"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "NEET-PG and Recruitment Exams Remain in Focus Amid Examination Updates",
+                    "summary": "Competitive examination updates remained important on 24 August 2026. Along with the NEET-PG 2026 schedule, students and aspirants continued to track examination calendars, admit-card releases and recruitment-related developments. The NEET-PG announcement was particularly significant because the examination is scheduled to be conducted in a single computer-based shift.",
+                    "sourceName": "NBEMS / Current Affairs Reports",
+                    "staticGK": [
+                        "Major Examination : NEET-PG 2026",
+                        "Exam Date : 30 August 2026",
+                        "Mode : Computer-Based Examination",
+                        "Shift : Single Shift",
+                        "Admit Card : 25 August 2026",
+                        "Important For : Medical Aspirants",
+                        "Conducting Body : NBEMS"
+                    ],
+                    "mcqs": [{
+                            "question": "Which major medical entrance examination was in focus on 24 August 2026?",
+                            "options": [
+                                "NEET-PG 2026",
+                                "NEET-UG 2026",
+                                "JEE Advanced 2026",
+                                "CUET-PG 2026"
+                            ],
+                            "answer": "NEET-PG 2026"
+                        },
+                        {
+                            "question": "When is NEET-PG 2026 scheduled?",
+                            "options": [
+                                "30 August 2026",
+                                "25 August 2026",
+                                "24 August 2026",
+                                "5 September 2026"
+                            ],
+                            "answer": "30 August 2026"
+                        },
+                        {
+                            "question": "What is the examination mode?",
+                            "options": [
+                                "Computer-Based Examination",
+                                "Pen and Paper",
+                                "Interview",
+                                "Oral Examination"
+                            ],
+                            "answer": "Computer-Based Examination"
+                        },
+                        {
+                            "question": "Who conducts NEET-PG?",
+                            "options": [
+                                "NBEMS",
+                                "NTA",
+                                "UGC",
+                                "CBSE"
+                            ],
+                            "answer": "NBEMS"
+                        },
+                        {
+                            "question": "NEET-PG is primarily relevant for which candidates?",
+                            "options": [
+                                "Medical Aspirants",
+                                "Engineering Aspirants",
+                                "Law Aspirants",
+                                "Banking Aspirants"
+                            ],
+                            "answer": "Medical Aspirants"
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": "2026-08-25",
+            "date": "25 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 25 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "International Affairs",
+                    "title": "India and China Hold 25th Special Representatives Talks on Boundary Question",
+                    "summary": "India's National Security Adviser Ajit Doval and Chinese Foreign Minister Wang Yi held the 25th round of Special Representatives talks in Beijing on the India-China boundary question. Both sides discussed maintaining peace and tranquillity along the border, strengthening bilateral relations and continuing efforts toward a fair, reasonable and mutually acceptable boundary settlement.",
+                    "sourceName": "Reuters",
+                    "staticGK": [
+                        "Indian Representative : Ajit Doval",
+                        "Chinese Representative : Wang Yi",
+                        "Venue : Beijing",
+                        "Round : 25th Special Representatives Talks",
+                        "Main Issue : India-China Boundary Question",
+                        "Focus : Border Peace and Stability",
+                        "Next Round : 2027 in India"
+                    ],
+                    "mcqs": [{
+                            "question": "Who represented India in the 25th Special Representatives talks with China?",
+                            "options": [
+                                "Ajit Doval",
+                                "S. Jaishankar",
+                                "Rajnath Singh",
+                                "Amit Shah"
+                            ],
+                            "answer": "Ajit Doval"
+                        },
+                        {
+                            "question": "Who represented China in the talks?",
+                            "options": [
+                                "Wang Yi",
+                                "Li Qiang",
+                                "Han Zheng",
+                                "Xi Jinping"
+                            ],
+                            "answer": "Wang Yi"
+                        },
+                        {
+                            "question": "Where were the 25th Special Representatives talks held?",
+                            "options": [
+                                "Beijing",
+                                "New Delhi",
+                                "Shanghai",
+                                "Mumbai"
+                            ],
+                            "answer": "Beijing"
+                        },
+                        {
+                            "question": "The talks mainly focused on which issue?",
+                            "options": [
+                                "India-China Boundary Question",
+                                "Trade Tariffs",
+                                "Climate Change",
+                                "Sports Cooperation"
+                            ],
+                            "answer": "India-China Boundary Question"
+                        },
+                        {
+                            "question": "What was one major focus of the discussions?",
+                            "options": [
+                                "Border Peace and Stability",
+                                "Tourism Promotion",
+                                "Sports Development",
+                                "Agricultural Exports"
+                            ],
+                            "answer": "Border Peace and Stability"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Banking",
+                    "title": "UPI Completes 10 Years of India's Digital Payments Revolution",
+                    "summary": "The Unified Payments Interface completed ten years on 25 August 2026. Launched in 2016, UPI has transformed India's digital payments ecosystem by enabling instant bank-to-bank transactions through a single interoperable platform. It has become a major pillar of India's digital public infrastructure and financial inclusion.",
+                    "sourceName": "Newsonair / NPCI",
+                    "staticGK": [
+                        "System : Unified Payments Interface",
+                        "Abbreviation : UPI",
+                        "Launch Year : 2016",
+                        "10th Anniversary : 25 August 2026",
+                        "Organisation : NPCI",
+                        "Sector : Digital Payments",
+                        "Importance : Financial Inclusion and Digital Public Infrastructure"
+                    ],
+                    "mcqs": [{
+                            "question": "When did UPI complete ten years?",
+                            "options": [
+                                "25 August 2026",
+                                "15 August 2026",
+                                "1 July 2026",
+                                "26 January 2026"
+                            ],
+                            "answer": "25 August 2026"
+                        },
+                        {
+                            "question": "What is the full form of UPI?",
+                            "options": [
+                                "Unified Payments Interface",
+                                "Universal Payment India",
+                                "Unified Public Interface",
+                                "Universal Payments Infrastructure"
+                            ],
+                            "answer": "Unified Payments Interface"
+                        },
+                        {
+                            "question": "In which year was UPI launched?",
+                            "options": [
+                                "2016",
+                                "2014",
+                                "2018",
+                                "2020"
+                            ],
+                            "answer": "2016"
+                        },
+                        {
+                            "question": "Which organisation operates UPI?",
+                            "options": [
+                                "NPCI",
+                                "RBI only",
+                                "SEBI",
+                                "NABARD"
+                            ],
+                            "answer": "NPCI"
+                        },
+                        {
+                            "question": "UPI is primarily associated with which sector?",
+                            "options": [
+                                "Digital Payments",
+                                "Railways",
+                                "Defence",
+                                "Agriculture"
+                            ],
+                            "answer": "Digital Payments"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Defence & Strategic Affairs",
+                    "title": "Rajnath Singh Approves Transfer of DRDO Missile Technologies to Indian Industry",
+                    "summary": "Defence Minister Rajnath Singh approved the transfer of technology for conventional missile systems developed by the Defence Research and Development Organisation to Indian defence industries. The move is aimed at shifting indigenous missile technologies from development to large-scale industrial production and strengthening India's defence manufacturing ecosystem.",
+                    "sourceName": "Ministry of Defence",
+                    "staticGK": [
+                        "Minister : Rajnath Singh",
+                        "Organisation : DRDO",
+                        "Technology : Conventional Missile Systems",
+                        "Action : Technology Transfer",
+                        "Recipients : Indian Defence Industries",
+                        "Objective : Large-Scale Industrial Production",
+                        "Focus : Atmanirbhar Bharat in Defence"
+                    ],
+                    "mcqs": [{
+                            "question": "Who approved the transfer of DRDO missile technologies to Indian industries?",
+                            "options": [
+                                "Rajnath Singh",
+                                "Amit Shah",
+                                "S. Jaishankar",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Rajnath Singh"
+                        },
+                        {
+                            "question": "Which organisation developed the missile technologies?",
+                            "options": [
+                                "DRDO",
+                                "ISRO",
+                                "HAL",
+                                "BEL"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "What is being transferred to Indian defence industries?",
+                            "options": [
+                                "Missile Technologies",
+                                "Railway Technologies",
+                                "Banking Software",
+                                "Satellite Television"
+                            ],
+                            "answer": "Missile Technologies"
+                        },
+                        {
+                            "question": "What is the main objective of the technology transfer?",
+                            "options": [
+                                "Large-Scale Industrial Production",
+                                "Tourism Development",
+                                "Agricultural Expansion",
+                                "Sports Development"
+                            ],
+                            "answer": "Large-Scale Industrial Production"
+                        },
+                        {
+                            "question": "The initiative supports which broader objective?",
+                            "options": [
+                                "Atmanirbhar Bharat in Defence",
+                                "Digital India only",
+                                "Swachh Bharat",
+                                "Skill India only"
+                            ],
+                            "answer": "Atmanirbhar Bharat in Defence"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Economy & Employment",
+                    "title": "Youth Unemployment and NEET Population Highlight India's Employment Challenge",
+                    "summary": "Recent analysis of employment data highlighted that India's youth unemployment challenge remains significant despite a decline in the overall unemployment rate. The Periodic Labour Force Survey data and the State of Working India 2026 analysis underline the importance of the NEET indicator, which measures young people who are not in employment, education or training.",
+                    "sourceName": "Vajiram & Ravi / Indian Express",
+                    "staticGK": [
+                        "Key Issue : Youth Unemployment",
+                        "Data Source : Periodic Labour Force Survey",
+                        "Important Indicator : NEET",
+                        "NEET Full Form : Not in Employment, Education or Training",
+                        "Youth Group : 15–29 Years",
+                        "Overall UER in 2025 : 3.1% for Age 15+",
+                        "Policy Concern : Employment and Skill Development"
+                    ],
+                    "mcqs": [{
+                            "question": "What does NEET stand for in employment statistics?",
+                            "options": [
+                                "Not in Employment, Education or Training",
+                                "National Employment Education Test",
+                                "New Employment and Education Target",
+                                "National Education and Employment Trend"
+                            ],
+                            "answer": "Not in Employment, Education or Training"
+                        },
+                        {
+                            "question": "Which survey provides important official employment data in India?",
+                            "options": [
+                                "Periodic Labour Force Survey",
+                                "Economic Census only",
+                                "Agricultural Census",
+                                "Population Census"
+                            ],
+                            "answer": "Periodic Labour Force Survey"
+                        },
+                        {
+                            "question": "Which age group is commonly examined for youth unemployment?",
+                            "options": [
+                                "15–29 Years",
+                                "5–14 Years",
+                                "30–45 Years",
+                                "45–60 Years"
+                            ],
+                            "answer": "15–29 Years"
+                        },
+                        {
+                            "question": "What does the NEET indicator measure?",
+                            "options": [
+                                "Youth outside Employment, Education and Training",
+                                "Only unemployed graduates",
+                                "Only school students",
+                                "Only employed workers"
+                            ],
+                            "answer": "Youth outside Employment, Education and Training"
+                        },
+                        {
+                            "question": "Which area is closely linked with reducing youth unemployment?",
+                            "options": [
+                                "Skill Development",
+                                "Tourism only",
+                                "Sports only",
+                                "Defence imports"
+                            ],
+                            "answer": "Skill Development"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International & Water Affairs",
+                    "title": "Farakka Water Treaty Debate Intensifies as 1996 India-Bangladesh Pact Nears Expiry",
+                    "summary": "Political and diplomatic attention increased around the 1996 India-Bangladesh Ganges Water Sharing Treaty, commonly known as the Farakka Treaty, as its expiry approaches in December 2026. Concerns from Bihar regarding downstream water flows have added a domestic dimension to the issue, while India and Bangladesh continue to discuss the matter through bilateral mechanisms.",
+                    "sourceName": "Indian Express",
+                    "staticGK": [
+                        "Treaty : Ganges Water Sharing Treaty",
+                        "Common Name : Farakka Water Treaty",
+                        "Countries : India and Bangladesh",
+                        "Signed : 1996",
+                        "Expiry : December 2026",
+                        "River : Ganga",
+                        "Concern : Water Sharing and Downstream Flow"
+                    ],
+                    "mcqs": [{
+                            "question": "The Farakka Treaty is officially known as which treaty?",
+                            "options": [
+                                "Ganges Water Sharing Treaty",
+                                "Indus Water Treaty",
+                                "Teesta Water Treaty",
+                                "Brahmaputra Water Treaty"
+                            ],
+                            "answer": "Ganges Water Sharing Treaty"
+                        },
+                        {
+                            "question": "Which two countries are parties to the treaty?",
+                            "options": [
+                                "India and Bangladesh",
+                                "India and Nepal",
+                                "India and Bhutan",
+                                "India and Myanmar"
+                            ],
+                            "answer": "India and Bangladesh"
+                        },
+                        {
+                            "question": "When was the Ganges Water Sharing Treaty signed?",
+                            "options": [
+                                "1996",
+                                "1985",
+                                "2001",
+                                "2010"
+                            ],
+                            "answer": "1996"
+                        },
+                        {
+                            "question": "When is the current treaty scheduled to expire?",
+                            "options": [
+                                "December 2026",
+                                "December 2027",
+                                "August 2026",
+                                "January 2028"
+                            ],
+                            "answer": "December 2026"
+                        },
+                        {
+                            "question": "The treaty primarily concerns sharing of water from which river?",
+                            "options": [
+                                "Ganga",
+                                "Yamuna",
+                                "Godavari",
+                                "Narmada"
+                            ],
+                            "answer": "Ganga"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "International Trade",
+                    "title": "India and Cambodia Conclude Third Joint Working Group on Trade and Investment",
+                    "summary": "India and Cambodia concluded the third meeting of their Joint Working Group on Trade and Investment in Phnom Penh. Discussions focused on strengthening bilateral trade and investment relations and identifying opportunities for deeper economic cooperation between the two countries.",
+                    "sourceName": "Utkarsh Current Affairs",
+                    "staticGK": [
+                        "Countries : India and Cambodia",
+                        "Mechanism : Joint Working Group on Trade and Investment",
+                        "Meeting : Third Meeting",
+                        "Location : Phnom Penh",
+                        "Focus : Trade and Investment",
+                        "Objective : Strengthen Bilateral Economic Cooperation"
+                    ],
+                    "mcqs": [{
+                            "question": "Which two countries held the third Joint Working Group meeting on trade and investment?",
+                            "options": [
+                                "India and Cambodia",
+                                "India and Vietnam",
+                                "India and Thailand",
+                                "India and Indonesia"
+                            ],
+                            "answer": "India and Cambodia"
+                        },
+                        {
+                            "question": "What was the focus of the Joint Working Group?",
+                            "options": [
+                                "Trade and Investment",
+                                "Defence only",
+                                "Space Exploration",
+                                "Sports"
+                            ],
+                            "answer": "Trade and Investment"
+                        },
+                        {
+                            "question": "Which meeting was held?",
+                            "options": [
+                                "Third Meeting",
+                                "First Meeting",
+                                "Fifth Meeting",
+                                "Tenth Meeting"
+                            ],
+                            "answer": "Third Meeting"
+                        },
+                        {
+                            "question": "Where was the meeting held?",
+                            "options": [
+                                "Phnom Penh",
+                                "New Delhi",
+                                "Mumbai",
+                                "Siem Reap"
+                            ],
+                            "answer": "Phnom Penh"
+                        },
+                        {
+                            "question": "The meeting aimed to strengthen which type of relations?",
+                            "options": [
+                                "Bilateral Economic Relations",
+                                "Only Military Relations",
+                                "Only Cultural Relations",
+                                "Only Sports Relations"
+                            ],
+                            "answer": "Bilateral Economic Relations"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Science & Technology",
+                    "title": "India Strengthens Indigenous Defence Technology Through DRDO Industry Partnership",
+                    "summary": "The transfer of DRDO-developed missile technologies to Indian companies marks an important step in connecting defence research with industrial-scale manufacturing. The initiative is expected to improve technology absorption, strengthen domestic defence production and support the development of a self-reliant defence ecosystem.",
+                    "sourceName": "Ministry of Defence",
+                    "staticGK": [
+                        "Research Organisation : DRDO",
+                        "Industry Partner : Indian Defence Industry",
+                        "Technology : Indigenous Missile Systems",
+                        "Process : Technology Transfer",
+                        "Goal : Technology Absorption",
+                        "Manufacturing Goal : Industrial Scale Production",
+                        "National Objective : Defence Self-Reliance"
+                    ],
+                    "mcqs": [{
+                            "question": "Which organisation is India's principal defence research and development agency?",
+                            "options": [
+                                "DRDO",
+                                "ISRO",
+                                "CSIR",
+                                "BARC"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "What is the purpose of technology transfer from DRDO to industry?",
+                            "options": [
+                                "Industrial Scale Production",
+                                "Reducing Defence Production",
+                                "Increasing Imports",
+                                "Stopping Research"
+                            ],
+                            "answer": "Industrial Scale Production"
+                        },
+                        {
+                            "question": "The initiative is intended to strengthen which ecosystem?",
+                            "options": [
+                                "Domestic Defence Ecosystem",
+                                "Tourism Ecosystem",
+                                "Banking Ecosystem",
+                                "Film Ecosystem"
+                            ],
+                            "answer": "Domestic Defence Ecosystem"
+                        },
+                        {
+                            "question": "Which technology area is specifically involved?",
+                            "options": [
+                                "Missile Systems",
+                                "Agricultural Machinery",
+                                "Medical Devices",
+                                "Railway Engines"
+                            ],
+                            "answer": "Missile Systems"
+                        },
+                        {
+                            "question": "Technology transfer supports which national objective?",
+                            "options": [
+                                "Defence Self-Reliance",
+                                "Import Dependence",
+                                "Tourism Expansion",
+                                "Urban Housing"
+                            ],
+                            "answer": "Defence Self-Reliance"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Sports",
+                    "title": "Rishabh Pant's Injury Becomes Talking Point During India Test Against Sri Lanka",
+                    "summary": "India wicketkeeper-batter Rishabh Pant's fitness became a major talking point during the second Test against Sri Lanka in Colombo after he experienced pain in his right shoulder. Dhruv Jurel took over wicketkeeping duties during the match, keeping attention focused on Pant's condition and India's playing combination.",
+                    "sourceName": "Sports Reports",
+                    "staticGK": [
+                        "Player : Rishabh Pant",
+                        "Sport : Cricket",
+                        "Opponent : Sri Lanka",
+                        "Match : Second Test",
+                        "Venue : Colombo",
+                        "Injury Concern : Right Shoulder",
+                        "Wicketkeeper During Play : Dhruv Jurel"
+                    ],
+                    "mcqs": [{
+                            "question": "Which Indian cricketer's injury became a talking point during the second Test?",
+                            "options": [
+                                "Rishabh Pant",
+                                "Virat Kohli",
+                                "Rohit Sharma",
+                                "KL Rahul"
+                            ],
+                            "answer": "Rishabh Pant"
+                        },
+                        {
+                            "question": "India were playing against which country?",
+                            "options": [
+                                "Sri Lanka",
+                                "Australia",
+                                "England",
+                                "South Africa"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "Which body part was reported to be causing Pant pain?",
+                            "options": [
+                                "Right Shoulder",
+                                "Left Knee",
+                                "Right Ankle",
+                                "Left Wrist"
+                            ],
+                            "answer": "Right Shoulder"
+                        },
+                        {
+                            "question": "Who kept wickets after Pant's injury concern?",
+                            "options": [
+                                "Dhruv Jurel",
+                                "KL Rahul",
+                                "Ishan Kishan",
+                                "Sanju Samson"
+                            ],
+                            "answer": "Dhruv Jurel"
+                        },
+                        {
+                            "question": "The match was which format?",
+                            "options": [
+                                "Test Cricket",
+                                "ODI",
+                                "T20",
+                                "T10"
+                            ],
+                            "answer": "Test Cricket"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Government & Polity",
+                    "title": "Creamy Layer and OBC Reservation Debate Remains in Focus",
+                    "summary": "The issue of the creamy layer in Other Backward Classes reservation remained an important constitutional and social justice topic in current-affairs discussions on 25 August. The debate focuses on the exclusion of socially and economically advanced sections among OBC communities from reservation benefits and the principles governing affirmative action.",
+                    "sourceName": "Indian Express",
+                    "staticGK": [
+                        "Issue : OBC Reservation",
+                        "Key Concept : Creamy Layer",
+                        "Constitutional Theme : Social Justice",
+                        "Reservation Category : Other Backward Classes",
+                        "Policy Objective : Affirmative Action",
+                        "Key Debate : Exclusion of Advanced Sections",
+                        "Exam Relevance : Polity and Social Justice"
+                    ],
+                    "mcqs": [{
+                            "question": "The creamy layer concept is mainly associated with which reservation category?",
+                            "options": [
+                                "Other Backward Classes",
+                                "Scheduled Tribes",
+                                "Scheduled Castes",
+                                "Economically Weaker Sections"
+                            ],
+                            "answer": "Other Backward Classes"
+                        },
+                        {
+                            "question": "The creamy layer refers broadly to which section?",
+                            "options": [
+                                "Relatively Advanced Sections within OBCs",
+                                "All OBC Candidates",
+                                "All SC Candidates",
+                                "All Government Employees"
+                            ],
+                            "answer": "Relatively Advanced Sections within OBCs"
+                        },
+                        {
+                            "question": "The issue is closely connected with which constitutional principle?",
+                            "options": [
+                                "Social Justice",
+                                "Foreign Policy",
+                                "Emergency Powers",
+                                "International Trade"
+                            ],
+                            "answer": "Social Justice"
+                        },
+                        {
+                            "question": "Reservation is an example of which broad policy approach?",
+                            "options": [
+                                "Affirmative Action",
+                                "Monetary Policy",
+                                "Trade Policy",
+                                "Foreign Policy"
+                            ],
+                            "answer": "Affirmative Action"
+                        },
+                        {
+                            "question": "The creamy layer debate mainly concerns?",
+                            "options": [
+                                "Eligibility for OBC Reservation Benefits",
+                                "GST Rates",
+                                "Defence Procurement",
+                                "Banking Regulation"
+                            ],
+                            "answer": "Eligibility for OBC Reservation Benefits"
+                        }
+                    ]
+                },
+
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "NEET-PG 2026 Admit Cards Scheduled for Release Ahead of 30 August Examination",
+                    "summary": "The National Board of Examinations in Medical Sciences scheduled the release of NEET-PG 2026 admit cards on 25 August. The examination is scheduled for 30 August 2026 in a single shift through Computer-Based Examination mode from 9:00 AM to 12:30 PM, making the update important for medical aspirants.",
+                    "sourceName": "NBEMS",
+                    "staticGK": [
+                        "Examination : NEET-PG 2026",
+                        "Admit Card : 25 August 2026",
+                        "Examination Date : 30 August 2026",
+                        "Mode : Computer-Based Examination",
+                        "Shift : Single Shift",
+                        "Timing : 9:00 AM to 12:30 PM",
+                        "Conducting Body : NBEMS"
+                    ],
+                    "mcqs": [{
+                            "question": "When were NEET-PG 2026 admit cards scheduled to be released?",
+                            "options": [
+                                "25 August 2026",
+                                "24 August 2026",
+                                "28 August 2026",
+                                "30 August 2026"
+                            ],
+                            "answer": "25 August 2026"
+                        },
+                        {
+                            "question": "When is NEET-PG 2026 scheduled to be conducted?",
+                            "options": [
+                                "30 August 2026",
+                                "25 August 2026",
+                                "1 September 2026",
+                                "15 September 2026"
+                            ],
+                            "answer": "30 August 2026"
+                        },
+                        {
+                            "question": "What is the mode of NEET-PG 2026?",
+                            "options": [
+                                "Computer-Based Examination",
+                                "Pen and Paper",
+                                "Interview",
+                                "Oral Examination"
+                            ],
+                            "answer": "Computer-Based Examination"
+                        },
+                        {
+                            "question": "What is the scheduled examination timing?",
+                            "options": [
+                                "9:00 AM to 12:30 PM",
+                                "10:00 AM to 1:00 PM",
+                                "2:00 PM to 5:00 PM",
+                                "8:00 AM to 11:00 AM"
+                            ],
+                            "answer": "9:00 AM to 12:30 PM"
+                        },
+                        {
+                            "question": "Which organisation conducts NEET-PG?",
+                            "options": [
+                                "NBEMS",
+                                "NTA",
+                                "UGC",
+                                "CBSE"
+                            ],
+                            "answer": "NBEMS"
+                        }
+                    ]
+                }
+
+            ]
         }
 
 
