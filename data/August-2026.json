@@ -16653,6 +16653,675 @@
                 }
 
             ]
+        },
+         {
+            "id": "2026-08-26",
+            "date": "26 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 26 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+
+                {
+                    "category": "National Affairs",
+                    "title": "National Shipping Board Proposes Five-Point Roadmap to Add 100 Merchant Ships",
+                    "summary": "The National Shipping Board held its first 'Sagar Samvad' and proposed a five-point roadmap aimed at adding 100 vessels to India's merchant fleet over the next five years. The initiative focuses on strengthening India's maritime sector and expanding the country's merchant shipping capacity.",
+                    "sourceName": "PIB / Vajiram & Ravi",
+                    "staticGK": [
+                        "Organisation : National Shipping Board",
+                        "Event : First Sagar Samvad",
+                        "Target : Add 100 Vessels",
+                        "Time Frame : Five Years",
+                        "Sector : Merchant Shipping",
+                        "Nodal Ministry : Ministry of Ports, Shipping and Waterways",
+                        "Legal Status : Permanent Statutory Body"
+                    ],
+                    "mcqs": [{
+                            "question": "Which body proposed a roadmap to add 100 vessels to India's merchant fleet?",
+                            "options": [
+                                "National Shipping Board",
+                                "NITI Aayog",
+                                "Inland Waterways Authority of India",
+                                "RBI"
+                            ],
+                            "answer": "National Shipping Board"
+                        },
+                        {
+                            "question": "What is the target number of vessels proposed under the roadmap?",
+                            "options": [
+                                "100",
+                                "50",
+                                "150",
+                                "200"
+                            ],
+                            "answer": "100"
+                        },
+                        {
+                            "question": "Within what period does the roadmap aim to add the vessels?",
+                            "options": [
+                                "Five Years",
+                                "Two Years",
+                                "Ten Years",
+                                "Three Years"
+                            ],
+                            "answer": "Five Years"
+                        },
+                        {
+                            "question": "The National Shipping Board is associated mainly with which sector?",
+                            "options": [
+                                "Shipping and Maritime Development",
+                                "Banking",
+                                "Agriculture",
+                                "Space Research"
+                            ],
+                            "answer": "Shipping and Maritime Development"
+                        },
+                        {
+                            "question": "Which ministry is the nodal ministry for the National Shipping Board?",
+                            "options": [
+                                "Ministry of Ports, Shipping and Waterways",
+                                "Ministry of Defence",
+                                "Ministry of Commerce",
+                                "Ministry of Home Affairs"
+                            ],
+                            "answer": "Ministry of Ports, Shipping and Waterways"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "India Condemns Attack on UN Peacekeepers in South Sudan",
+                    "summary": "India condemned an attack on peacekeepers deployed with the United Nations Mission in South Sudan (UNMISS). The UN mission works to protect civilians, facilitate humanitarian assistance, promote human rights and support peace-building efforts in South Sudan.",
+                    "sourceName": "News On AIR / Vajiram & Ravi",
+                    "staticGK": [
+                        "Mission : UNMISS",
+                        "Full Form : United Nations Mission in South Sudan",
+                        "Country : South Sudan",
+                        "Headquarters : Juba",
+                        "Mandate : Protection of Civilians and Peacebuilding",
+                        "UN Charter : Chapter VII",
+                        "India : Major Troop Contributor"
+                    ],
+                    "mcqs": [{
+                            "question": "What is the full form of UNMISS?",
+                            "options": [
+                                "United Nations Mission in South Sudan",
+                                "United Nations Military Mission in Somalia",
+                                "United Nations Maritime Mission in South Sudan",
+                                "United Nations Mission for International Security"
+                            ],
+                            "answer": "United Nations Mission in South Sudan"
+                        },
+                        {
+                            "question": "UNMISS operates in which country?",
+                            "options": [
+                                "South Sudan",
+                                "Sudan",
+                                "Somalia",
+                                "Ethiopia"
+                            ],
+                            "answer": "South Sudan"
+                        },
+                        {
+                            "question": "What is one major mandate of UNMISS?",
+                            "options": [
+                                "Protection of Civilians",
+                                "Conducting Elections",
+                                "Managing International Trade",
+                                "Running National Banks"
+                            ],
+                            "answer": "Protection of Civilians"
+                        },
+                        {
+                            "question": "Where is the headquarters of South Sudan located?",
+                            "options": [
+                                "Juba",
+                                "Khartoum",
+                                "Addis Ababa",
+                                "Nairobi"
+                            ],
+                            "answer": "Juba"
+                        },
+                        {
+                            "question": "Under which chapter of the UN Charter is UNMISS mandated?",
+                            "options": [
+                                "Chapter VII",
+                                "Chapter I",
+                                "Chapter V",
+                                "Chapter XII"
+                            ],
+                            "answer": "Chapter VII"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Education",
+                    "title": "AIIA Launches Garbhini Mitra Course for 2026-27 Academic Session",
+                    "summary": "The All India Institute of Ayurveda in New Delhi launched the 'Garbhini Mitra' course for the 2026-27 academic session. The course covers areas including infection control, sanitisation, biomedical waste management and workplace safety, and is designed to prepare candidates for support roles related to prenatal and postnatal care.",
+                    "sourceName": "DD News / Vajiram & Ravi",
+                    "staticGK": [
+                        "Course : Garbhini Mitra",
+                        "Academic Session : 2026-27",
+                        "Institution : All India Institute of Ayurveda",
+                        "Location : New Delhi",
+                        "Eligibility : 10+2 Pass",
+                        "Minimum Age : 18 Years",
+                        "Ministry : Ministry of Ayush"
+                    ],
+                    "mcqs": [{
+                            "question": "Which course was launched by AIIA for the 2026-27 academic session?",
+                            "options": [
+                                "Garbhini Mitra",
+                                "Ayush Sathi",
+                                "Swasthya Mitra",
+                                "Arogya Mitra"
+                            ],
+                            "answer": "Garbhini Mitra"
+                        },
+                        {
+                            "question": "Which institution launched the Garbhini Mitra course?",
+                            "options": [
+                                "All India Institute of Ayurveda",
+                                "AIIMS New Delhi",
+                                "NTA",
+                                "National Institute of Ayurveda Jaipur"
+                            ],
+                            "answer": "All India Institute of Ayurveda"
+                        },
+                        {
+                            "question": "What is the minimum educational qualification mentioned for the course?",
+                            "options": [
+                                "10+2 Pass",
+                                "Graduation",
+                                "Post Graduation",
+                                "Class 10 only"
+                            ],
+                            "answer": "10+2 Pass"
+                        },
+                        {
+                            "question": "What is the minimum age eligibility for the course?",
+                            "options": [
+                                "18 Years",
+                                "16 Years",
+                                "21 Years",
+                                "25 Years"
+                            ],
+                            "answer": "18 Years"
+                        },
+                        {
+                            "question": "AIIA functions under which ministry?",
+                            "options": [
+                                "Ministry of Ayush",
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Education",
+                                "Ministry of Women and Child Development"
+                            ],
+                            "answer": "Ministry of Ayush"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Ecology",
+                    "title": "Rare Smew Recorded for the First Time at Assam's Laokhowa Wildlife Sanctuary",
+                    "summary": "Assam's Laokhowa Wildlife Sanctuary recorded its first-ever sighting of the rare migratory Smew, scientifically known as Mergellus albellus. The observation is significant for biodiversity and wetland conservation because the Smew is a migratory waterbird associated with northern Eurasian regions.",
+                    "sourceName": "InsightsIAS",
+                    "staticGK": [
+                        "Sanctuary : Laokhowa Wildlife Sanctuary",
+                        "State : Assam",
+                        "Species : Smew",
+                        "Scientific Name : Mergellus albellus",
+                        "Status : Rare Migratory Waterbird",
+                        "Habitat : Wetlands and Water Bodies",
+                        "Significance : First Recorded Sighting in the Sanctuary"
+                    ],
+                    "mcqs": [{
+                            "question": "Which rare bird was recorded for the first time at Laokhowa Wildlife Sanctuary?",
+                            "options": [
+                                "Smew",
+                                "Sarus Crane",
+                                "Great Indian Bustard",
+                                "Hornbill"
+                            ],
+                            "answer": "Smew"
+                        },
+                        {
+                            "question": "What is the scientific name of the Smew?",
+                            "options": [
+                                "Mergellus albellus",
+                                "Grus antigone",
+                                "Buceros bicornis",
+                                "Ardeotis nigriceps"
+                            ],
+                            "answer": "Mergellus albellus"
+                        },
+                        {
+                            "question": "Laokhowa Wildlife Sanctuary is located in which state?",
+                            "options": [
+                                "Assam",
+                                "Arunachal Pradesh",
+                                "West Bengal",
+                                "Odisha"
+                            ],
+                            "answer": "Assam"
+                        },
+                        {
+                            "question": "The Smew is primarily associated with which type of habitat?",
+                            "options": [
+                                "Wetlands and Water Bodies",
+                                "Deserts",
+                                "High-altitude Grasslands",
+                                "Tropical Dry Forests"
+                            ],
+                            "answer": "Wetlands and Water Bodies"
+                        },
+                        {
+                            "question": "The Smew is best described as a?",
+                            "options": [
+                                "Rare Migratory Waterbird",
+                                "Large Mammal",
+                                "Marine Reptile",
+                                "Forest Predator"
+                            ],
+                            "answer": "Rare Migratory Waterbird"
+                        }
+                    ]
+                },
+                {
+                    "category": "Government & Sports",
+                    "title": "PM to Address Khelo India Dialogue on 27 August",
+                    "summary": "Prime Minister Narendra Modi is scheduled to address the Khelo India Dialogue on 27 August through video conferencing. The programme is being organised as part of National Sports Day 2026 celebrations and will focus on sports, Olympic aspirations, youth leadership, Viksit Bharat and a Nasha Mukt Yuva movement.",
+                    "sourceName": "PIB",
+                    "staticGK": [
+                        "Event : Khelo India Dialogue",
+                        "Date : 27 August 2026",
+                        "Prime Minister : Narendra Modi",
+                        "Mode : Video Conferencing",
+                        "Organisation : MY Bharat",
+                        "Occasion : National Sports Day 2026",
+                        "Themes : Sports, Olympic Aspirations, Youth Leadership, Viksit Bharat and Nasha Mukt Yuva"
+                    ],
+                    "mcqs": [{
+                            "question": "Who is scheduled to address the Khelo India Dialogue?",
+                            "options": [
+                                "Narendra Modi",
+                                "Rajnath Singh",
+                                "Amit Shah",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "When is the Khelo India Dialogue scheduled?",
+                            "options": [
+                                "27 August 2026",
+                                "26 August 2026",
+                                "29 August 2026",
+                                "30 August 2026"
+                            ],
+                            "answer": "27 August 2026"
+                        },
+                        {
+                            "question": "The Khelo India Dialogue is being organised as part of which celebrations?",
+                            "options": [
+                                "National Sports Day 2026",
+                                "Independence Day 2026",
+                                "Republic Day 2026",
+                                "Youth Day 2026"
+                            ],
+                            "answer": "National Sports Day 2026"
+                        },
+                        {
+                            "question": "Which organisation is organising the programme?",
+                            "options": [
+                                "MY Bharat",
+                                "NITI Aayog",
+                                "NTA",
+                                "Sports Authority of India only"
+                            ],
+                            "answer": "MY Bharat"
+                        },
+                        {
+                            "question": "Which of the following is one of the themes of the Khelo India Dialogue?",
+                            "options": [
+                                "Youth Leadership",
+                                "Banking Regulation",
+                                "Agricultural Taxation",
+                                "Foreign Exchange"
+                            ],
+                            "answer": "Youth Leadership"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Banking",
+                    "title": "RBI Flags Inflation and Growth Risks Amid Weak Monsoon and Global Uncertainty",
+                    "summary": "The Reserve Bank of India has highlighted risks to India's economic stability from below-normal monsoon conditions, rising crude oil prices, geopolitical tensions and uncertainty in global trade. The concerns come amid continuing efforts to maintain price stability while supporting economic growth.",
+                    "sourceName": "Times of India / RBI",
+                    "staticGK": [
+                        "Organisation : Reserve Bank of India",
+                        "Key Concern : Inflation and Growth Risks",
+                        "Major Risk : Below-Normal Monsoon",
+                        "Other Risk : Rising Crude Oil Prices",
+                        "Global Risk : Geopolitical Tensions",
+                        "Trade Risk : Global Trade Uncertainty",
+                        "Policy Focus : Price Stability and Growth"
+                    ],
+                    "mcqs": [{
+                            "question": "Which institution highlighted risks related to inflation and economic growth?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "NABARD"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which weather-related factor was identified as a risk?",
+                            "options": [
+                                "Below-Normal Monsoon",
+                                "Heavy Snowfall",
+                                "Cold Wave",
+                                "Cyclone only"
+                            ],
+                            "answer": "Below-Normal Monsoon"
+                        },
+                        {
+                            "question": "Which commodity price was mentioned as an economic risk?",
+                            "options": [
+                                "Crude Oil",
+                                "Gold only",
+                                "Cotton only",
+                                "Rice only"
+                            ],
+                            "answer": "Crude Oil"
+                        },
+                        {
+                            "question": "Which global factor may affect India's economic stability?",
+                            "options": [
+                                "Geopolitical Tensions",
+                                "Sports Events",
+                                "Tourism Promotion",
+                                "Cultural Festivals"
+                            ],
+                            "answer": "Geopolitical Tensions"
+                        },
+                        {
+                            "question": "What is one major policy focus of the RBI?",
+                            "options": [
+                                "Price Stability",
+                                "Defence Production",
+                                "Space Exploration",
+                                "Sports Development"
+                            ],
+                            "answer": "Price Stability"
+                        }
+                    ]
+                },
+                {
+                    "category": "International & Defence Affairs",
+                    "title": "India and Vietnam Coast Guards Hold Seventh High-Level Meeting in Chennai",
+                    "summary": "The Indian Coast Guard and Vietnam Coast Guard held their seventh High-Level Meeting in Chennai. The meeting focused on strengthening cooperation between the two maritime security forces and enhancing coordination in areas related to maritime security and regional cooperation.",
+                    "sourceName": "Utkarsh Current Affairs",
+                    "staticGK": [
+                        "Countries : India and Vietnam",
+                        "Organisations : Indian Coast Guard and Vietnam Coast Guard",
+                        "Meeting : Seventh High-Level Meeting",
+                        "Venue : Chennai",
+                        "Sector : Maritime Security",
+                        "Focus : Coast Guard Cooperation",
+                        "Date : 25 August 2026"
+                    ],
+                    "mcqs": [{
+                            "question": "Which two organisations held the seventh High-Level Meeting?",
+                            "options": [
+                                "Indian Coast Guard and Vietnam Coast Guard",
+                                "Indian Navy and US Navy",
+                                "Indian Army and Vietnam Army",
+                                "BSF and Vietnam Border Guard"
+                            ],
+                            "answer": "Indian Coast Guard and Vietnam Coast Guard"
+                        },
+                        {
+                            "question": "Which meeting was held between the two Coast Guards?",
+                            "options": [
+                                "Seventh High-Level Meeting",
+                                "Fifth High-Level Meeting",
+                                "Tenth High-Level Meeting",
+                                "Second High-Level Meeting"
+                            ],
+                            "answer": "Seventh High-Level Meeting"
+                        },
+                        {
+                            "question": "Where was the meeting held?",
+                            "options": [
+                                "Chennai",
+                                "New Delhi",
+                                "Mumbai",
+                                "Kochi"
+                            ],
+                            "answer": "Chennai"
+                        },
+                        {
+                            "question": "The meeting was mainly related to which sector?",
+                            "options": [
+                                "Maritime Security",
+                                "Agriculture",
+                                "Space Research",
+                                "Banking"
+                            ],
+                            "answer": "Maritime Security"
+                        },
+                        {
+                            "question": "India held the meeting with which country?",
+                            "options": [
+                                "Vietnam",
+                                "Cambodia",
+                                "Indonesia",
+                                "Thailand"
+                            ],
+                            "answer": "Vietnam"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "China's Xi Jinping to Attend SCO Summit in Kyrgyzstan",
+                    "summary": "Chinese President Xi Jinping will attend the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan, from 30 August to 3 September 2026. He is also scheduled to visit Egypt after the summit. The SCO summit will address cooperation and major international and regional issues.",
+                    "sourceName": "Reuters",
+                    "staticGK": [
+                        "Leader : Xi Jinping",
+                        "Organisation : Shanghai Cooperation Organisation",
+                        "Event : SCO Summit 2026",
+                        "Venue : Bishkek, Kyrgyzstan",
+                        "Dates : 30 August to 3 September 2026",
+                        "Additional Visit : Egypt",
+                        "Host Country : Kyrgyzstan"
+                    ],
+                    "mcqs": [{
+                            "question": "Who is scheduled to attend the SCO summit in Bishkek?",
+                            "options": [
+                                "Xi Jinping",
+                                "Vladimir Putin",
+                                "Narendra Modi",
+                                "Emmanuel Macron"
+                            ],
+                            "answer": "Xi Jinping"
+                        },
+                        {
+                            "question": "Where will the SCO summit be held?",
+                            "options": [
+                                "Bishkek",
+                                "New Delhi",
+                                "Beijing",
+                                "Astana"
+                            ],
+                            "answer": "Bishkek"
+                        },
+                        {
+                            "question": "Bishkek is the capital of which country?",
+                            "options": [
+                                "Kyrgyzstan",
+                                "Kazakhstan",
+                                "Uzbekistan",
+                                "Tajikistan"
+                            ],
+                            "answer": "Kyrgyzstan"
+                        },
+                        {
+                            "question": "What does SCO stand for?",
+                            "options": [
+                                "Shanghai Cooperation Organisation",
+                                "South Cooperation Organisation",
+                                "Strategic Cooperation Organisation",
+                                "Shanghai Council Organisation"
+                            ],
+                            "answer": "Shanghai Cooperation Organisation"
+                        },
+                        {
+                            "question": "Which country is Xi Jinping scheduled to visit after the SCO summit?",
+                            "options": [
+                                "Egypt",
+                                "India",
+                                "Russia",
+                                "Iran"
+                            ],
+                            "answer": "Egypt"
+                        }
+                    ]
+                },
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "Supreme Court Declines to Reopen CBSE Class 12 Revaluation Portal",
+                    "summary": "The Supreme Court declined to order the reopening of the CBSE Class 12 examination revaluation and verification portal. The matter involved concerns raised by students regarding evaluation under the On-Screen Marking system.",
+                    "sourceName": "Economic Times",
+                    "staticGK": [
+                        "Court : Supreme Court of India",
+                        "Board : CBSE",
+                        "Examination : Class 12",
+                        "Issue : Revaluation and Verification",
+                        "System : On-Screen Marking",
+                        "Decision : Portal Not Reopened",
+                        "Exam Relevance : Education and Judiciary"
+                    ],
+                    "mcqs": [{
+                            "question": "Which court declined to reopen the CBSE Class 12 revaluation portal?",
+                            "options": [
+                                "Supreme Court of India",
+                                "Delhi High Court",
+                                "Allahabad High Court",
+                                "Bombay High Court"
+                            ],
+                            "answer": "Supreme Court of India"
+                        },
+                        {
+                            "question": "Which board was involved in the matter?",
+                            "options": [
+                                "CBSE",
+                                "ICSE",
+                                "NIOS",
+                                "CISCE"
+                            ],
+                            "answer": "CBSE"
+                        },
+                        {
+                            "question": "Which class examination was involved?",
+                            "options": [
+                                "Class 12",
+                                "Class 10",
+                                "Class 11",
+                                "Class 9"
+                            ],
+                            "answer": "Class 12"
+                        },
+                        {
+                            "question": "Which evaluation system was mentioned in the case?",
+                            "options": [
+                                "On-Screen Marking",
+                                "Manual Marking only",
+                                "Oral Marking",
+                                "Computer Adaptive Marking"
+                            ],
+                            "answer": "On-Screen Marking"
+                        },
+                        {
+                            "question": "What did the Supreme Court decline to order?",
+                            "options": [
+                                "Reopening of the Revaluation Portal",
+                                "Cancellation of CBSE",
+                                "Conduct of Class 12 Examination",
+                                "Release of Results"
+                            ],
+                            "answer": "Reopening of the Revaluation Portal"
+                        }
+                    ]
+                },
+                {
+                    "category": "Students & Competitive Examinations",
+                    "title": "FMGE Row: NBEMS Rejects Demand to Lower Qualifying Marks",
+                    "summary": "The National Board of Examinations in Medical Sciences rejected the demand to lower the qualifying marks for the Foreign Medical Graduate Examination. The board also indicated the possibility of conducting a third examination, while emphasizing the role of FMGE as a mandatory licensing test for Indian students who obtain medical degrees abroad.",
+                    "sourceName": "The New Indian Express",
+                    "staticGK": [
+                        "Examination : FMGE",
+                        "Full Form : Foreign Medical Graduate Examination",
+                        "Conducting Body : NBEMS",
+                        "Purpose : Medical Licensing Examination",
+                        "Candidates : Indian Medical Graduates from Foreign Institutions",
+                        "Issue : Demand to Lower Qualifying Marks",
+                        "Possible Development : Third Examination"
+                    ],
+                    "mcqs": [{
+                            "question": "What is the full form of FMGE?",
+                            "options": [
+                                "Foreign Medical Graduate Examination",
+                                "Foreign Medical Graduate Entrance",
+                                "Federal Medical Graduate Examination",
+                                "Foreign Medical General Examination"
+                            ],
+                            "answer": "Foreign Medical Graduate Examination"
+                        },
+                        {
+                            "question": "Which organisation conducts FMGE?",
+                            "options": [
+                                "NBEMS",
+                                "NTA",
+                                "UGC",
+                                "AIIMS"
+                            ],
+                            "answer": "NBEMS"
+                        },
+                        {
+                            "question": "What is the primary purpose of FMGE?",
+                            "options": [
+                                "Medical Licensing",
+                                "Engineering Admission",
+                                "Bank Recruitment",
+                                "Civil Services Selection"
+                            ],
+                            "answer": "Medical Licensing"
+                        },
+                        {
+                            "question": "The examination is mainly relevant to Indian students who obtain medical degrees from?",
+                            "options": [
+                                "Foreign Medical Institutions",
+                                "Indian IITs",
+                                "Indian Law Colleges",
+                                "Indian Engineering Colleges"
+                            ],
+                            "answer": "Foreign Medical Institutions"
+                        },
+                        {
+                            "question": "What demand did NBEMS reject?",
+                            "options": [
+                                "Lowering the Qualifying Marks",
+                                "Increasing Examination Centres",
+                                "Changing the Examination Language",
+                                "Removing Computer-Based Testing"
+                            ],
+                            "answer": "Lowering the Qualifying Marks"
+                        }
+                    ]
+                }
+            ]
         }
 
 
