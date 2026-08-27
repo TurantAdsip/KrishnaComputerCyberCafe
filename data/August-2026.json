@@ -17322,7 +17322,680 @@
                     ]
                 }
             ]
-         }
+         },
+        {
+  "id": "2026-08-27",
+  "date": "27 August 2026",
+  "totalNews": 10,
+  "description": "Top 10 Current Affairs of 27 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+  "news": [
+    {
+      "category": "National Affairs",
+      "title": "Kerala Officially Renamed Keralam",
+      "summary": "The Central Government has brought the Kerala (Alteration of Name) Act, 2026 into force, officially changing the state's name from Kerala to Keralam. The notification was issued by the Union Home Ministry on 25 August 2026.",
+      "sourceName": "Ministry of Home Affairs / Economic Times",
+      "link": "Government notification on Kerala name change",
+      "staticGK": [
+        "Old Name : Kerala",
+        "New Name : Keralam",
+        "Law : Kerala (Alteration of Name) Act, 2026",
+        "Effective Date : 25 August 2026",
+        "Nodal Ministry : Ministry of Home Affairs",
+        "Capital : Thiruvananthapuram",
+        "State : Keralam"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the new official name of Kerala?",
+          "options": ["Keralam", "Kerala Pradesh", "Keralia", "Keral Nadu"],
+          "answer": "Keralam"
+        },
+        {
+          "question": "Which Act facilitated the change of Kerala's name?",
+          "options": [
+            "Kerala (Alteration of Name) Act, 2026",
+            "Kerala State Act, 2026",
+            "South India Name Act, 2026",
+            "State Reorganisation Act, 2026"
+          ],
+          "answer": "Kerala (Alteration of Name) Act, 2026"
+        },
+        {
+          "question": "Which ministry issued the notification regarding the name change?",
+          "options": [
+            "Ministry of Home Affairs",
+            "Ministry of Culture",
+            "Ministry of Law and Justice",
+            "Ministry of External Affairs"
+          ],
+          "answer": "Ministry of Home Affairs"
+        },
+        {
+          "question": "When did the name-change provisions come into force?",
+          "options": [
+            "25 August 2026",
+            "15 August 2026",
+            "26 January 2026",
+            "1 September 2026"
+          ],
+          "answer": "25 August 2026"
+        },
+        {
+          "question": "What is the capital of Keralam?",
+          "options": [
+            "Thiruvananthapuram",
+            "Kochi",
+            "Kozhikode",
+            "Kannur"
+          ],
+          "answer": "Thiruvananthapuram"
+        }
+      ]
+    },
+    {
+      "category": "Environment & Agriculture",
+      "title": "Government Proposes Complete Ban on Carbosulfan",
+      "summary": "The Ministry of Agriculture and Farmers Welfare has proposed a complete ban on the insecticide Carbosulfan through the Draft Banning of Carbosulfan Order, 2026. The proposal is related to concerns regarding risks to human health and the environment.",
+      "sourceName": "Ministry of Agriculture and Farmers Welfare / Vajiram & Ravi",
+      "link": "Carbosulfan Current Affairs",
+      "staticGK": [
+        "Chemical : Carbosulfan",
+        "Type : Insecticide",
+        "Action : Proposed Complete Ban",
+        "Ministry : Ministry of Agriculture and Farmers Welfare",
+        "Legal Framework : Insecticides Act, 1968",
+        "Order : Draft Banning of Carbosulfan Order, 2026",
+        "Concern : Human Health and Environmental Risks"
+      ],
+      "mcqs": [
+        {
+          "question": "Which insecticide has the government proposed to completely ban?",
+          "options": ["Carbosulfan", "Malathion", "Cypermethrin", "Chlorpyrifos"],
+          "answer": "Carbosulfan"
+        },
+        {
+          "question": "Which ministry proposed the ban on Carbosulfan?",
+          "options": [
+            "Ministry of Agriculture and Farmers Welfare",
+            "Ministry of Environment",
+            "Ministry of Chemicals and Fertilizers",
+            "Ministry of Health"
+          ],
+          "answer": "Ministry of Agriculture and Farmers Welfare"
+        },
+        {
+          "question": "Carbosulfan is primarily used as a?",
+          "options": [
+            "Insecticide",
+            "Fungicide",
+            "Herbicide",
+            "Fertilizer"
+          ],
+          "answer": "Insecticide"
+        },
+        {
+          "question": "The proposed ban is related to which major concern?",
+          "options": [
+            "Human health and environmental risks",
+            "High import cost",
+            "Low agricultural production",
+            "Export restrictions"
+          ],
+          "answer": "Human health and environmental risks"
+        },
+        {
+          "question": "The proposed order is associated with which Act?",
+          "options": [
+            "Insecticides Act, 1968",
+            "Environment Protection Act, 1986",
+            "Fertilizer Control Act, 1955",
+            "Food Safety Act, 2006"
+          ],
+          "answer": "Insecticides Act, 1968"
+        }
+      ]
+    },
+    {
+      "category": "Economy & Social Development",
+      "title": "NITI Aayog Reports Around 8.7 Crore Indian Youth Are NEET",
+      "summary": "A NITI Aayog report highlighted that around 8.7 crore Indians aged 15-29 are Not in Education, Employment or Training (NEET). The report points towards challenges involving skills mismatch, employment opportunities and access to vocational training.",
+      "sourceName": "NITI Aayog / Current Affairs Sources",
+      "link": "NITI Aayog Youth and Skilling Report",
+      "staticGK": [
+        "Organisation : NITI Aayog",
+        "Age Group : 15-29 Years",
+        "NEET : Not in Education, Employment or Training",
+        "Estimated Youth : Around 8.7 Crore",
+        "NEET Rate : Around 28.5%",
+        "Major Concern : Skills and Employment Gap",
+        "Focus : Skilling, Vocational Education and Apprenticeships"
+      ],
+      "mcqs": [
+        {
+          "question": "What does NEET stand for in the NITI Aayog report?",
+          "options": [
+            "Not in Education, Employment or Training",
+            "National Education and Employment Test",
+            "New Education Employment Training",
+            "National Employment Eligibility Test"
+          ],
+          "answer": "Not in Education, Employment or Training"
+        },
+        {
+          "question": "Which organisation released the report on India's NEET youth?",
+          "options": [
+            "NITI Aayog",
+            "NTA",
+            "RBI",
+            "UGC"
+          ],
+          "answer": "NITI Aayog"
+        },
+        {
+          "question": "Which age group was highlighted in the report?",
+          "options": [
+            "15-29 years",
+            "18-35 years",
+            "21-30 years",
+            "10-25 years"
+          ],
+          "answer": "15-29 years"
+        },
+        {
+          "question": "Approximately how many Indian youth were reported as NEET?",
+          "options": [
+            "8.7 crore",
+            "2.5 crore",
+            "5.2 crore",
+            "12.5 crore"
+          ],
+          "answer": "8.7 crore"
+        },
+        {
+          "question": "Which area is suggested as important for addressing the NEET challenge?",
+          "options": [
+            "Vocational education and skilling",
+            "Space research",
+            "Defence exports",
+            "Tourism only"
+          ],
+          "answer": "Vocational education and skilling"
+        }
+      ]
+    },
+    {
+      "category": "International Affairs",
+      "title": "India and Seychelles Strengthen Cooperation in Fisheries and Blue Economy",
+      "summary": "India and Seychelles held a high-level bilateral meeting to strengthen cooperation in fisheries, aquaculture and the Blue Economy. Discussions included tuna fisheries, marine aquaculture, scientific research, technology and sustainable use of marine resources.",
+      "sourceName": "Department of Fisheries / Ministry of Fisheries, Animal Husbandry and Dairying",
+      "link": "India-Seychelles Blue Economy Meeting",
+      "staticGK": [
+        "Countries : India and Seychelles",
+        "Sector : Fisheries and Blue Economy",
+        "Key Areas : Tuna Fisheries and Aquaculture",
+        "Other Area : Scientific Research",
+        "Indian Department : Department of Fisheries",
+        "Seychelles Minister : Wallace Cosgrow",
+        "Focus : Sustainable Marine Resource Utilisation"
+      ],
+      "mcqs": [
+        {
+          "question": "India held a high-level bilateral meeting with which country on Blue Economy cooperation?",
+          "options": ["Seychelles", "Mauritius", "Maldives", "Sri Lanka"],
+          "answer": "Seychelles"
+        },
+        {
+          "question": "Which sector was a major focus of the meeting?",
+          "options": [
+            "Fisheries and Blue Economy",
+            "Space Technology",
+            "Nuclear Energy",
+            "Banking"
+          ],
+          "answer": "Fisheries and Blue Economy"
+        },
+        {
+          "question": "Which type of fishery was specifically discussed?",
+          "options": [
+            "Tuna fisheries",
+            "Salmon fisheries",
+            "Cod fisheries",
+            "Trout fisheries"
+          ],
+          "answer": "Tuna fisheries"
+        },
+        {
+          "question": "Which Indian department hosted the meeting?",
+          "options": [
+            "Department of Fisheries",
+            "Department of Commerce",
+            "Department of Space",
+            "Department of Science and Technology"
+          ],
+          "answer": "Department of Fisheries"
+        },
+        {
+          "question": "The cooperation aims to promote what type of marine resource utilisation?",
+          "options": [
+            "Sustainable utilisation",
+            "Unrestricted utilisation",
+            "Military utilisation",
+            "Industrial mining only"
+          ],
+          "answer": "Sustainable utilisation"
+        }
+      ]
+    },
+    {
+      "category": "Science & Technology",
+      "title": "NASA Astronaut Anil Menon Completes Spacewalk at ISS",
+      "summary": "NASA astronaut Anil Menon and ESA astronaut Sophie Adenot successfully completed a spacewalk at the International Space Station. The spacewalk lasted around 6.5 hours and involved work outside the ISS.",
+      "sourceName": "NASA / ESA / Current Affairs Sources",
+      "link": "Anil Menon Spacewalk Update",
+      "staticGK": [
+        "Astronaut : Anil Menon",
+        "Agency : NASA",
+        "Other Astronaut : Sophie Adenot",
+        "Station : International Space Station",
+        "Activity : Spacewalk",
+        "Duration : Around 6.5 Hours",
+        "Country Association : United States / India-origin Astronaut"
+      ],
+      "mcqs": [
+        {
+          "question": "Which NASA astronaut participated in the recent ISS spacewalk?",
+          "options": [
+            "Anil Menon",
+            "Rakesh Sharma",
+            "Sunita Williams",
+            "Kalpana Chawla"
+          ],
+          "answer": "Anil Menon"
+        },
+        {
+          "question": "Where was the spacewalk conducted?",
+          "options": [
+            "International Space Station",
+            "Lunar Gateway",
+            "Tiangong Space Station",
+            "Hubble Space Telescope"
+          ],
+          "answer": "International Space Station"
+        },
+        {
+          "question": "Which ESA astronaut participated with Anil Menon?",
+          "options": [
+            "Sophie Adenot",
+            "Samantha Cristoforetti",
+            "Claudie Haignere",
+            "Peggy Whitson"
+          ],
+          "answer": "Sophie Adenot"
+        },
+        {
+          "question": "Approximately how long did the spacewalk last?",
+          "options": [
+            "6.5 hours",
+            "2.5 hours",
+            "10 hours",
+            "12 hours"
+          ],
+          "answer": "6.5 hours"
+        },
+        {
+          "question": "Anil Menon is associated with which space agency?",
+          "options": [
+            "NASA",
+            "ISRO",
+            "ESA",
+            "Roscosmos"
+          ],
+          "answer": "NASA"
+        }
+      ]
+    },
+    {
+      "category": "Defence & International Affairs",
+      "title": "India-Vietnam Coast Guards Strengthen Maritime Security Cooperation",
+      "summary": "The Indian Coast Guard and Vietnam Coast Guard held their seventh High-Level Meeting in Chennai. The meeting focused on maritime security, operational cooperation and strengthening coordination between the two maritime security forces.",
+      "sourceName": "Indian Coast Guard / Current Affairs Sources",
+      "link": "India-Vietnam Coast Guard Meeting",
+      "staticGK": [
+        "Countries : India and Vietnam",
+        "Organisations : Indian Coast Guard and Vietnam Coast Guard",
+        "Meeting : Seventh High-Level Meeting",
+        "Venue : Chennai",
+        "Sector : Maritime Security",
+        "Focus : Coast Guard Cooperation",
+        "Date : 25 August 2026"
+      ],
+      "mcqs": [
+        {
+          "question": "Which two organisations held the seventh High-Level Meeting?",
+          "options": [
+            "Indian Coast Guard and Vietnam Coast Guard",
+            "Indian Navy and US Navy",
+            "Indian Army and Vietnam Army",
+            "BSF and Vietnam Border Guard"
+          ],
+          "answer": "Indian Coast Guard and Vietnam Coast Guard"
+        },
+        {
+          "question": "Which High-Level Meeting was held between India and Vietnam?",
+          "options": [
+            "Seventh",
+            "Fifth",
+            "Eighth",
+            "Tenth"
+          ],
+          "answer": "Seventh"
+        },
+        {
+          "question": "Where was the meeting held?",
+          "options": [
+            "Chennai",
+            "New Delhi",
+            "Mumbai",
+            "Kochi"
+          ],
+          "answer": "Chennai"
+        },
+        {
+          "question": "The meeting primarily focused on which sector?",
+          "options": [
+            "Maritime Security",
+            "Banking",
+            "Agriculture",
+            "Space Research"
+          ],
+          "answer": "Maritime Security"
+        },
+        {
+          "question": "India held the meeting with which country?",
+          "options": [
+            "Vietnam",
+            "Cambodia",
+            "Thailand",
+            "Indonesia"
+          ],
+          "answer": "Vietnam"
+        }
+      ]
+    },
+    {
+      "category": "Culture & Tribal Affairs",
+      "title": "National Conclave on Tribal Languages and Museums Held in Mysuru",
+      "summary": "The National Conclave on Tribal Languages and Museums was organised in Mysuru, Karnataka. The initiative focuses on documentation, preservation and revitalisation of tribal languages and strengthening the network of tribal museums and tribal freedom fighter museums.",
+      "sourceName": "Ministry of Tribal Affairs / PIB",
+      "link": "National Conclave on Tribal Languages and Museums",
+      "staticGK": [
+        "Event : National Conclave on Tribal Languages and Museums",
+        "Venue : Mysuru, Karnataka",
+        "Ministry : Ministry of Tribal Affairs",
+        "Focus : Tribal Language Preservation",
+        "Other Focus : Tribal Museums",
+        "Platform : Adi Vaani",
+        "Objective : Documentation and Revitalisation of Tribal Languages"
+      ],
+      "mcqs": [
+        {
+          "question": "Where was the National Conclave on Tribal Languages and Museums organised?",
+          "options": [
+            "Mysuru",
+            "Bhopal",
+            "Ranchi",
+            "Jaipur"
+          ],
+          "answer": "Mysuru"
+        },
+        {
+          "question": "Which ministry organised the conclave?",
+          "options": [
+            "Ministry of Tribal Affairs",
+            "Ministry of Culture",
+            "Ministry of Education",
+            "Ministry of Home Affairs"
+          ],
+          "answer": "Ministry of Tribal Affairs"
+        },
+        {
+          "question": "What is a major objective of the conclave?",
+          "options": [
+            "Preservation of tribal languages",
+            "Promotion of banking",
+            "Defence recruitment",
+            "Urban development"
+          ],
+          "answer": "Preservation of tribal languages"
+        },
+        {
+          "question": "Mysuru is located in which state?",
+          "options": [
+            "Karnataka",
+            "Kerala",
+            "Tamil Nadu",
+            "Telangana"
+          ],
+          "answer": "Karnataka"
+        },
+        {
+          "question": "Which platform is associated with tribal language preservation?",
+          "options": [
+            "Adi Vaani",
+            "DigiLocker",
+            "BHASHINI",
+            "DIKSHA"
+          ],
+          "answer": "Adi Vaani"
+        }
+      ]
+    },
+    {
+      "category": "Transport & Automobile",
+      "title": "ICAT Issues India's First Compliance Certificate for 15-Metre Multi-Axle Sleeper Bus",
+      "summary": "The International Centre for Automotive Technology (ICAT) issued India's first compliance certificate for a 15-metre multi-axle sleeper bus. The development is important for India's public transport and automotive certification ecosystem.",
+      "sourceName": "ICAT / Current Affairs Sources",
+      "link": "ICAT Bus Certification Update",
+      "staticGK": [
+        "Organisation : International Centre for Automotive Technology",
+        "Abbreviation : ICAT",
+        "Vehicle : 15-Metre Multi-Axle Sleeper Bus",
+        "Achievement : First Compliance Certificate in India",
+        "Sector : Automotive Technology",
+        "Purpose : Vehicle Testing and Certification",
+        "Ministry Association : Ministry of Heavy Industries"
+      ],
+      "mcqs": [
+        {
+          "question": "Which organisation issued India's first compliance certificate for the 15-metre sleeper bus?",
+          "options": [
+            "ICAT",
+            "NHAI",
+            "DRDO",
+            "BIS"
+          ],
+          "answer": "ICAT"
+        },
+        {
+          "question": "What is the full form of ICAT?",
+          "options": [
+            "International Centre for Automotive Technology",
+            "Indian Centre for Automobile Transport",
+            "International Council for Auto Testing",
+            "Indian Centre for Advanced Transport"
+          ],
+          "answer": "International Centre for Automotive Technology"
+        },
+        {
+          "question": "What type of vehicle received the certification?",
+          "options": [
+            "15-metre multi-axle sleeper bus",
+            "Electric car",
+            "Metro coach",
+            "High-speed train"
+          ],
+          "answer": "15-metre multi-axle sleeper bus"
+        },
+        {
+          "question": "ICAT is mainly associated with which sector?",
+          "options": [
+            "Automotive technology",
+            "Banking",
+            "Agriculture",
+            "Telecommunications"
+          ],
+          "answer": "Automotive technology"
+        },
+        {
+          "question": "What did ICAT issue?",
+          "options": [
+            "Compliance Certificate",
+            "Driving Licence",
+            "Railway Ticket",
+            "Pollution Tax Certificate"
+          ],
+          "answer": "Compliance Certificate"
+        }
+      ]
+    },
+    {
+      "category": "Economy & Trade",
+      "title": "India Expands Rice Exports to 26 Priority Markets",
+      "summary": "India has expanded its rice export presence across 26 priority international markets, with the move aimed at strengthening agricultural exports and market access. The development is significant for India's food trade and agricultural economy.",
+      "sourceName": "Government Sources / Current Affairs Sources",
+      "link": "India Rice Export Update",
+      "staticGK": [
+        "Commodity : Rice",
+        "Export Markets : 26 Priority Markets",
+        "Sector : Agriculture and Food Trade",
+        "Focus : Export Market Expansion",
+        "Significance : Agricultural Export Growth",
+        "Major Export Product : Rice",
+        "Importance : International Market Access"
+      ],
+      "mcqs": [
+        {
+          "question": "Which agricultural commodity is highlighted in the export update?",
+          "options": [
+            "Rice",
+            "Wheat",
+            "Cotton",
+            "Tea"
+          ],
+          "answer": "Rice"
+        },
+        {
+          "question": "How many priority markets are being targeted for India's rice exports?",
+          "options": [
+            "26",
+            "15",
+            "30",
+            "50"
+          ],
+          "answer": "26"
+        },
+        {
+          "question": "The development is mainly related to which sector?",
+          "options": [
+            "Agricultural exports",
+            "Defence exports",
+            "Software exports",
+            "Mineral imports"
+          ],
+          "answer": "Agricultural exports"
+        },
+        {
+          "question": "What is the main objective of expanding export markets?",
+          "options": [
+            "Increase international market access",
+            "Reduce domestic production",
+            "Stop agricultural exports",
+            "Increase import dependence"
+          ],
+          "answer": "Increase international market access"
+        },
+        {
+          "question": "Rice is primarily classified as which type of commodity?",
+          "options": [
+            "Food grain",
+            "Mineral",
+            "Industrial chemical",
+            "Metal"
+          ],
+          "answer": "Food grain"
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "title": "2026 Asian Games to Be Held in Aichi-Nagoya, Japan",
+      "summary": "The 2026 Asian Games are scheduled to be held in Aichi-Nagoya, Japan, from 19 September to 4 October 2026. The event will bring together athletes from across Asia and is an important international multi-sport competition.",
+      "sourceName": "Olympic Council of Asia / Current Affairs Sources",
+      "link": "2026 Asian Games",
+      "staticGK": [
+        "Event : 2026 Asian Games",
+        "Host : Aichi-Nagoya, Japan",
+        "Start Date : 19 September 2026",
+        "End Date : 4 October 2026",
+        "Continent : Asia",
+        "Event Type : Multi-Sport Event",
+        "Organising Body : Olympic Council of Asia"
+      ],
+      "mcqs": [
+        {
+          "question": "Where will the 2026 Asian Games be held?",
+          "options": [
+            "Aichi-Nagoya, Japan",
+            "Seoul, South Korea",
+            "Beijing, China",
+            "New Delhi, India"
+          ],
+          "answer": "Aichi-Nagoya, Japan"
+        },
+        {
+          "question": "When will the 2026 Asian Games begin?",
+          "options": [
+            "19 September 2026",
+            "15 August 2026",
+            "1 September 2026",
+            "4 October 2026"
+          ],
+          "answer": "19 September 2026"
+        },
+        {
+          "question": "When will the 2026 Asian Games conclude?",
+          "options": [
+            "4 October 2026",
+            "30 September 2026",
+            "10 October 2026",
+            "15 October 2026"
+          ],
+          "answer": "4 October 2026"
+        },
+        {
+          "question": "The Asian Games are organised for athletes from which continent?",
+          "options": [
+            "Asia",
+            "Europe",
+            "Africa",
+            "South America"
+          ],
+          "answer": "Asia"
+        },
+        {
+          "question": "Which organisation is associated with organising the Asian Games?",
+          "options": [
+            "Olympic Council of Asia",
+            "FIFA",
+            "ICC",
+            "International Cricket Council"
+          ],
+          "answer": "Olympic Council of Asia"
+        }
+      ]
+    }
+  ]
+}
 
 
 
