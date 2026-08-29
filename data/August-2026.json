@@ -17995,6 +17995,774 @@
       ]
     }
   ]
+},
+        {
+    "id": "2026-08-28",
+    "date": "28 August 2026",
+    "totalNews": 10,
+    "description": "Top 10 Current Affairs of 28 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+    "news": [
+
+        {
+            "category": "Economy & Banking",
+            "title": "Pradhan Mantri Jan Dhan Yojana Completes 12 Years",
+            "summary": "Pradhan Mantri Jan Dhan Yojana (PMJDY), launched on 28 August 2014, completed 12 years on 28 August 2026. The scheme has played a major role in financial inclusion by providing basic bank accounts, RuPay cards and access to financial services. As of August 2026, 59.09 crore PMJDY accounts had been opened, with total deposits of around Rs. 3.17 lakh crore and more than 41.29 crore RuPay cards issued.",
+            "sourceName": "Press Information Bureau",
+            "sourceUrl": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155102&lang=2&reg=3",
+            "staticGK": [
+                "Scheme : Pradhan Mantri Jan Dhan Yojana",
+                "Launch Date : 28 August 2014",
+                "Ministry : Ministry of Finance",
+                "Objective : Financial Inclusion",
+                "Total Accounts : 59.09 crore",
+                "Total Deposits : Rs. 3.17 lakh crore",
+                "RuPay Cards : 41.29 crore"
+            ],
+            "mcqs": [
+                {
+                    "question": "When was Pradhan Mantri Jan Dhan Yojana launched?",
+                    "options": [
+                        "28 August 2014",
+                        "15 August 2014",
+                        "26 January 2015",
+                        "2 October 2014"
+                    ],
+                    "answer": "28 August 2014"
+                },
+                {
+                    "question": "PMJDY primarily aims to promote?",
+                    "options": [
+                        "Financial Inclusion",
+                        "Industrial Development",
+                        "Defence Production",
+                        "Export Promotion"
+                    ],
+                    "answer": "Financial Inclusion"
+                },
+                {
+                    "question": "Which type of card is issued under PMJDY?",
+                    "options": [
+                        "RuPay Card",
+                        "Visa Platinum Card",
+                        "MasterCard Gold",
+                        "Forex Card"
+                    ],
+                    "answer": "RuPay Card"
+                },
+                {
+                    "question": "PMJDY is mainly associated with which ministry?",
+                    "options": [
+                        "Ministry of Finance",
+                        "Ministry of Commerce",
+                        "Ministry of Rural Development",
+                        "Ministry of Corporate Affairs"
+                    ],
+                    "answer": "Ministry of Finance"
+                },
+                {
+                    "question": "PMJDY completed how many years on 28 August 2026?",
+                    "options": [
+                        "12 years",
+                        "10 years",
+                        "15 years",
+                        "8 years"
+                    ],
+                    "answer": "12 years"
+                }
+            ]
+        },
+
+        {
+            "category": "Defence & Strategic Affairs",
+            "title": "Indian Navy Receives Indigenous Multi-Purpose Vessel Samarthak",
+            "summary": "Samarthak, the first indigenous Multi-Purpose Vessel of the Indian Navy, was delivered on 27 August 2026. Built by Larsen & Toubro at Kattupalli, the vessel contains more than 75% indigenous content. It has been designed as a versatile trial and evaluation platform and can undertake maritime surveillance, reconnaissance, offshore patrolling and Humanitarian Assistance and Disaster Relief operations.",
+            "sourceName": "DD India",
+            "sourceUrl": "https://ddindia.co.in/2026/08/navy-gets-first-indigenous-multi-purpose-vessel-samarthak/",
+            "staticGK": [
+                "Vessel : Samarthak",
+                "Type : Multi-Purpose Vessel",
+                "Force : Indian Navy",
+                "Builder : Larsen & Toubro",
+                "Location : Kattupalli",
+                "Indigenous Content : More than 75%",
+                "Main Uses : Surveillance, Patrolling and HADR"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is Samarthak?",
+                    "options": [
+                        "Multi-Purpose Vessel",
+                        "Submarine",
+                        "Destroyer",
+                        "Aircraft Carrier"
+                    ],
+                    "answer": "Multi-Purpose Vessel"
+                },
+                {
+                    "question": "Samarthak was built for which force?",
+                    "options": [
+                        "Indian Navy",
+                        "Indian Army",
+                        "Indian Air Force",
+                        "Indian Coast Guard"
+                    ],
+                    "answer": "Indian Navy"
+                },
+                {
+                    "question": "Which company built Samarthak?",
+                    "options": [
+                        "Larsen & Toubro",
+                        "Mazagon Dock Shipbuilders",
+                        "Cochin Shipyard",
+                        "Garden Reach Shipbuilders"
+                    ],
+                    "answer": "Larsen & Toubro"
+                },
+                {
+                    "question": "Where was Samarthak built?",
+                    "options": [
+                        "Kattupalli",
+                        "Kochi",
+                        "Mumbai",
+                        "Visakhapatnam"
+                    ],
+                    "answer": "Kattupalli"
+                },
+                {
+                    "question": "Samarthak has more than what percentage of indigenous content?",
+                    "options": [
+                        "75%",
+                        "50%",
+                        "60%",
+                        "90%"
+                    ],
+                    "answer": "75%"
+                }
+            ]
+        },
+
+        {
+            "category": "Defence & Internal Security",
+            "title": "NSG Launches First Mahila Commando Conversion Course",
+            "summary": "The National Security Guard launched its first Mahila Commando Conversion Course at the NSG Training Academy in Manesar, Haryana. The 12-week programme is designed for women personnel from State Police Forces and Central Armed Police Forces. Training includes weapons handling, marksmanship, tactical intervention, hostage rescue and counter-terrorism operations.",
+            "sourceName": "Press Information Bureau",
+            "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2303926&lang=2&reg=48",
+            "staticGK": [
+                "Course : Mahila Commando Conversion Course",
+                "Short Form : MCCC",
+                "Organisation : National Security Guard",
+                "Venue : NSG Training Academy, Manesar",
+                "Duration : 12 Weeks",
+                "Participants : Women Police and CAPF Personnel",
+                "Focus : Counter-Terrorism Operations"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which organisation launched the first Mahila Commando Conversion Course?",
+                    "options": [
+                        "National Security Guard",
+                        "Central Reserve Police Force",
+                        "Border Security Force",
+                        "Indo-Tibetan Border Police"
+                    ],
+                    "answer": "National Security Guard"
+                },
+                {
+                    "question": "Where was the Mahila Commando Conversion Course launched?",
+                    "options": [
+                        "Manesar",
+                        "New Delhi",
+                        "Gurugram City",
+                        "Jaipur"
+                    ],
+                    "answer": "Manesar"
+                },
+                {
+                    "question": "What is the duration of the course?",
+                    "options": [
+                        "12 weeks",
+                        "8 weeks",
+                        "16 weeks",
+                        "24 weeks"
+                    ],
+                    "answer": "12 weeks"
+                },
+                {
+                    "question": "The course is mainly designed for?",
+                    "options": [
+                        "Women Police and CAPF Personnel",
+                        "College Students",
+                        "Army Cadets",
+                        "Civil Servants"
+                    ],
+                    "answer": "Women Police and CAPF Personnel"
+                },
+                {
+                    "question": "Which activity is included in the training?",
+                    "options": [
+                        "Hostage Rescue",
+                        "Agricultural Training",
+                        "Naval Navigation",
+                        "Air Traffic Control"
+                    ],
+                    "answer": "Hostage Rescue"
+                }
+            ]
+        },
+
+        {
+            "category": "Defence & Manufacturing",
+            "title": "₹472 Crore T-Series Tanks Overhaul Project Launched in Jabalpur",
+            "summary": "Defence Minister Rajnath Singh and Madhya Pradesh Chief Minister Mohan Yadav performed the Bhoomi Pujan for the T-Series Tanks Overhaul Project at Vehicle Factory Jabalpur. The Rs. 472 crore project will establish facilities to overhaul T-72 and T-90 tanks. The facility is planned to overhaul around 80 tanks annually and strengthen the operational readiness of the Indian Army.",
+            "sourceName": "Press Information Bureau",
+            "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2303736&lang=2&reg=48",
+            "staticGK": [
+                "Project : T-Series Tanks Overhaul Project",
+                "Location : Vehicle Factory Jabalpur",
+                "Cost : Rs. 472 crore",
+                "Tanks : T-72 and T-90",
+                "Annual Capacity : 80 tanks",
+                "Organisation : Armoured Vehicles Nigam Limited",
+                "Purpose : Indian Army Operational Readiness"
+            ],
+            "mcqs": [
+                {
+                    "question": "Where was the T-Series Tanks Overhaul Project launched?",
+                    "options": [
+                        "Jabalpur",
+                        "Avadi",
+                        "Pune",
+                        "Hyderabad"
+                    ],
+                    "answer": "Jabalpur"
+                },
+                {
+                    "question": "What is the estimated cost of the project?",
+                    "options": [
+                        "Rs. 472 crore",
+                        "Rs. 250 crore",
+                        "Rs. 720 crore",
+                        "Rs. 1,000 crore"
+                    ],
+                    "answer": "Rs. 472 crore"
+                },
+                {
+                    "question": "Which tanks will be overhauled at the facility?",
+                    "options": [
+                        "T-72 and T-90",
+                        "Arjun and T-55",
+                        "BMP-2 and T-72",
+                        "T-90 and Vijayanta"
+                    ],
+                    "answer": "T-72 and T-90"
+                },
+                {
+                    "question": "What is the planned annual overhaul capacity?",
+                    "options": [
+                        "80 tanks",
+                        "50 tanks",
+                        "100 tanks",
+                        "150 tanks"
+                    ],
+                    "answer": "80 tanks"
+                },
+                {
+                    "question": "The project is located at which facility?",
+                    "options": [
+                        "Vehicle Factory Jabalpur",
+                        "Heavy Vehicles Factory Avadi",
+                        "Mazagon Dock",
+                        "Hindustan Aeronautics Limited"
+                    ],
+                    "answer": "Vehicle Factory Jabalpur"
+                }
+            ]
+        },
+
+        {
+            "category": "Health & Government Schemes",
+            "title": "160 District Hospitals to Be Strengthened in First Phase",
+            "summary": "The Union Health Ministry reviewed implementation of key health sector announcements under Union Budget 2026-27. A total of 613 District Hospitals have been categorised for phased implementation, with 160 hospitals identified for Phase I and targeted for strengthening by March 2027. The initiative focuses on improving emergency and trauma care capacity.",
+            "sourceName": "Press Information Bureau",
+            "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2303957&lang=2&reg=48",
+            "staticGK": [
+                "Sector : Health",
+                "Budget : Union Budget 2026-27",
+                "District Hospitals Categorised : 613",
+                "Phase I : 160 Hospitals",
+                "Target : March 2027",
+                "Focus : Emergency and Trauma Care",
+                "Phase II : 203 Hospitals"
+            ],
+            "mcqs": [
+                {
+                    "question": "How many district hospitals have been identified for Phase I strengthening?",
+                    "options": [
+                        "160",
+                        "100",
+                        "203",
+                        "250"
+                    ],
+                    "answer": "160"
+                },
+                {
+                    "question": "By when is Phase I targeted for completion?",
+                    "options": [
+                        "March 2027",
+                        "December 2026",
+                        "March 2028",
+                        "August 2027"
+                    ],
+                    "answer": "March 2027"
+                },
+                {
+                    "question": "How many district hospitals have been categorised for phased implementation?",
+                    "options": [
+                        "613",
+                        "500",
+                        "703",
+                        "413"
+                    ],
+                    "answer": "613"
+                },
+                {
+                    "question": "The initiative primarily focuses on strengthening?",
+                    "options": [
+                        "Emergency and Trauma Care",
+                        "Medical Tourism only",
+                        "Dental Care",
+                        "Veterinary Services"
+                    ],
+                    "answer": "Emergency and Trauma Care"
+                },
+                {
+                    "question": "The initiative is linked with which Union Budget?",
+                    "options": [
+                        "Union Budget 2026-27",
+                        "Union Budget 2025-26",
+                        "Union Budget 2024-25",
+                        "Union Budget 2023-24"
+                    ],
+                    "answer": "Union Budget 2026-27"
+                }
+            ]
+        },
+
+        {
+            "category": "Infrastructure & Economy",
+            "title": "Jawaharlal Nehru Port Emerges as World's Fastest-Growing Container Port",
+            "summary": "Jawaharlal Nehru Port in Mumbai has emerged as the world's fastest-growing container port among the world's top 30 ports. The port recorded 13.6% growth in container throughput during the first half of 2026 and moved to the 21st position globally. The development highlights India's growing maritime and logistics capabilities.",
+            "sourceName": "Akashvani News",
+            "sourceUrl": "https://newsonair.gov.in/jawaharlal-nehru-port-in-mumbai-emerges-as-worlds-fastest-growing-container-port/",
+            "staticGK": [
+                "Port : Jawaharlal Nehru Port",
+                "Location : Mumbai, Maharashtra",
+                "Global Position : 21st",
+                "Container Growth : 13.6%",
+                "Period : First Half of 2026",
+                "Sector : Maritime and Logistics",
+                "Also Known As : Nhava Sheva"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which Indian port emerged as the world's fastest-growing container port?",
+                    "options": [
+                        "Jawaharlal Nehru Port",
+                        "Mundra Port",
+                        "Chennai Port",
+                        "Visakhapatnam Port"
+                    ],
+                    "answer": "Jawaharlal Nehru Port"
+                },
+                {
+                    "question": "Jawaharlal Nehru Port is located in?",
+                    "options": [
+                        "Mumbai",
+                        "Kochi",
+                        "Chennai",
+                        "Kolkata"
+                    ],
+                    "answer": "Mumbai"
+                },
+                {
+                    "question": "What was the container throughput growth recorded by the port?",
+                    "options": [
+                        "13.6%",
+                        "10.5%",
+                        "15.2%",
+                        "8.6%"
+                    ],
+                    "answer": "13.6%"
+                },
+                {
+                    "question": "What was the port's global position?",
+                    "options": [
+                        "21st",
+                        "15th",
+                        "25th",
+                        "30th"
+                    ],
+                    "answer": "21st"
+                },
+                {
+                    "question": "Jawaharlal Nehru Port is also popularly known as?",
+                    "options": [
+                        "Nhava Sheva",
+                        "Kandla",
+                        "Paradip",
+                        "Haldia"
+                    ],
+                    "answer": "Nhava Sheva"
+                }
+            ]
+        },
+
+        {
+            "category": "International Affairs & Disaster Management",
+            "title": "India Sends Second Tranche of Relief Assistance to Flood-Hit Nepal",
+            "summary": "India sent a second tranche of 37.5 tonnes of Humanitarian Assistance and Disaster Relief material, medicines and food packets to Nepal following devastating flash floods. The assistance was sent through a military transport aircraft as India continued coordination with Nepalese authorities for relief and rescue operations.",
+            "sourceName": "Akashvani News",
+            "sourceUrl": "https://newsonair.gov.in/india-sends-second-tranche-of-relief-material-to-flood-hit-nepal/",
+            "staticGK": [
+                "Country : Nepal",
+                "Assistance : Humanitarian Assistance and Disaster Relief",
+                "Short Form : HADR",
+                "Second Tranche : 37.5 tonnes",
+                "First Tranche : 10 tonnes",
+                "Key Materials : Medicines and Food Packets",
+                "Purpose : Flood Relief and Rescue"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which country received India's second tranche of flood relief assistance?",
+                    "options": [
+                        "Nepal",
+                        "Bhutan",
+                        "Bangladesh",
+                        "Sri Lanka"
+                    ],
+                    "answer": "Nepal"
+                },
+                {
+                    "question": "How much relief material was included in the second tranche?",
+                    "options": [
+                        "37.5 tonnes",
+                        "10 tonnes",
+                        "25 tonnes",
+                        "50 tonnes"
+                    ],
+                    "answer": "37.5 tonnes"
+                },
+                {
+                    "question": "What does HADR stand for?",
+                    "options": [
+                        "Humanitarian Assistance and Disaster Relief",
+                        "High Alert Disaster Response",
+                        "Human Development and Relief",
+                        "Humanitarian Aid and Development Resource"
+                    ],
+                    "answer": "Humanitarian Assistance and Disaster Relief"
+                },
+                {
+                    "question": "What was included in the relief assistance?",
+                    "options": [
+                        "Medicines and Food Packets",
+                        "Aircraft and Tanks",
+                        "Books and Computers",
+                        "Fertilizers and Seeds only"
+                    ],
+                    "answer": "Medicines and Food Packets"
+                },
+                {
+                    "question": "India's assistance was provided mainly for?",
+                    "options": [
+                        "Flood Relief and Rescue",
+                        "Trade Promotion",
+                        "Tourism Development",
+                        "Infrastructure Construction"
+                    ],
+                    "answer": "Flood Relief and Rescue"
+                }
+            ]
+        },
+
+        {
+            "category": "Environment & Energy",
+            "title": "India Crosses 300 GW of Non-Fossil Fuel Power Capacity",
+            "summary": "India crossed the landmark of 300 GW of installed non-fossil fuel electricity generation capacity in 2026. The achievement supports India's clean energy transition and its target of reaching 500 GW of non-fossil fuel capacity by 2030. Solar power accounted for the largest share among the major non-fossil sources.",
+            "sourceName": "Press Information Bureau",
+            "sourceUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=293063",
+            "staticGK": [
+                "Milestone : 300 GW Non-Fossil Fuel Capacity",
+                "Total Capacity : 300.50 GW",
+                "Solar : 164.59 GW",
+                "Wind : 58.14 GW",
+                "Hydro : 57.24 GW",
+                "Nuclear : 8.78 GW",
+                "2030 Target : 500 GW"
+            ],
+            "mcqs": [
+                {
+                    "question": "India crossed what landmark in non-fossil fuel power capacity?",
+                    "options": [
+                        "300 GW",
+                        "200 GW",
+                        "400 GW",
+                        "500 GW"
+                    ],
+                    "answer": "300 GW"
+                },
+                {
+                    "question": "What is India's non-fossil fuel capacity target for 2030?",
+                    "options": [
+                        "500 GW",
+                        "300 GW",
+                        "450 GW",
+                        "600 GW"
+                    ],
+                    "answer": "500 GW"
+                },
+                {
+                    "question": "Which source has the largest installed capacity among the listed non-fossil sources?",
+                    "options": [
+                        "Solar Power",
+                        "Wind Power",
+                        "Nuclear Power",
+                        "Bio-power"
+                    ],
+                    "answer": "Solar Power"
+                },
+                {
+                    "question": "What was India's total non-fossil capacity mentioned in the milestone?",
+                    "options": [
+                        "300.50 GW",
+                        "280.50 GW",
+                        "310.50 GW",
+                        "350.50 GW"
+                    ],
+                    "answer": "300.50 GW"
+                },
+                {
+                    "question": "Which of the following is a non-fossil source?",
+                    "options": [
+                        "Solar Power",
+                        "Coal",
+                        "Petroleum",
+                        "Natural Gas"
+                    ],
+                    "answer": "Solar Power"
+                }
+            ]
+        },
+
+        {
+            "category": "International & Environment",
+            "title": "Meghalaya Assembly Passes Resolution Against Uranium Mining",
+            "summary": "The Meghalaya Legislative Assembly unanimously passed a resolution opposing uranium mining and the establishment of uranium ore-processing facilities anywhere in the state. The resolution highlighted environmental concerns, tribal and traditional land rights, health risks and the need to protect local communities. Meghalaya is covered under the Sixth Schedule of the Constitution.",
+            "sourceName": "Sanskriti IAS",
+            "sourceUrl": "https://www.sanskritiias.com/current-affairs/date/28-August-2026",
+            "staticGK": [
+                "State : Meghalaya",
+                "Issue : Uranium Mining",
+                "Resolution : Unanimous Opposition",
+                "Chief Minister : Conrad K. Sangma",
+                "Major Deposit Area : Domiasiat",
+                "Region : West Khasi Hills",
+                "Constitutional Provision : Sixth Schedule"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which State Assembly passed a unanimous resolution against uranium mining?",
+                    "options": [
+                        "Meghalaya",
+                        "Assam",
+                        "Mizoram",
+                        "Nagaland"
+                    ],
+                    "answer": "Meghalaya"
+                },
+                {
+                    "question": "Who moved the resolution?",
+                    "options": [
+                        "Conrad K. Sangma",
+                        "Himanta Biswa Sarma",
+                        "Mukul Sangma",
+                        "Neiphiu Rio"
+                    ],
+                    "answer": "Conrad K. Sangma"
+                },
+                {
+                    "question": "Uranium deposits in Meghalaya are mainly associated with which region?",
+                    "options": [
+                        "West Khasi Hills",
+                        "East Garo Hills",
+                        "Ri-Bhoi",
+                        "West Jaintia Hills"
+                    ],
+                    "answer": "West Khasi Hills"
+                },
+                {
+                    "question": "Meghalaya is covered under which Schedule of the Constitution?",
+                    "options": [
+                        "Sixth Schedule",
+                        "Fifth Schedule",
+                        "Seventh Schedule",
+                        "Ninth Schedule"
+                    ],
+                    "answer": "Sixth Schedule"
+                },
+                {
+                    "question": "Which area is a major uranium-bearing region in Meghalaya?",
+                    "options": [
+                        "Domiasiat",
+                        "Shillong",
+                        "Tura",
+                        "Nongpoh"
+                    ],
+                    "answer": "Domiasiat"
+                }
+            ]
+        },
+
+        {
+            "category": "Sports",
+            "title": "R. Praggnanandhaa Becomes First Indian to Win Grand Chess Tour",
+            "summary": "Indian Grandmaster R. Praggnanandhaa created history by becoming the first Indian to win the Grand Chess Tour. He defeated Fabiano Caruana 15-13 in the final at the Saint Louis Chess Club in the United States after overcoming a six-point deficit. Praggnanandhaa won the rapid games and secured the title after the blitz section.",
+            "sourceName": "FIDE",
+            "sourceUrl": "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/",
+            "staticGK": [
+                "Player : R. Praggnanandhaa Rameshbabu",
+                "Achievement : First Indian to Win Grand Chess Tour",
+                "Opponent : Fabiano Caruana",
+                "Final Score : 15-13",
+                "Venue : Saint Louis Chess Club",
+                "Country : United States",
+                "First Prize : USD 200,000"
+            ],
+            "mcqs": [
+                {
+                    "question": "Who became the first Indian to win the Grand Chess Tour?",
+                    "options": [
+                        "R. Praggnanandhaa",
+                        "Viswanathan Anand",
+                        "D. Gukesh",
+                        "Arjun Erigaisi"
+                    ],
+                    "answer": "R. Praggnanandhaa"
+                },
+                {
+                    "question": "Whom did Praggnanandhaa defeat in the final?",
+                    "options": [
+                        "Fabiano Caruana",
+                        "Wesley So",
+                        "Vincent Keymer",
+                        "Magnus Carlsen"
+                    ],
+                    "answer": "Fabiano Caruana"
+                },
+                {
+                    "question": "What was the final score?",
+                    "options": [
+                        "15-13",
+                        "14-12",
+                        "18-12",
+                        "13-15"
+                    ],
+                    "answer": "15-13"
+                },
+                {
+                    "question": "Where was the Grand Chess Tour final held?",
+                    "options": [
+                        "Saint Louis Chess Club",
+                        "New York Chess Center",
+                        "Moscow Chess Club",
+                        "Dubai Chess Academy"
+                    ],
+                    "answer": "Saint Louis Chess Club"
+                },
+                {
+                    "question": "What was the first prize won by Praggnanandhaa?",
+                    "options": [
+                        "USD 200,000",
+                        "USD 100,000",
+                        "USD 150,000",
+                        "USD 250,000"
+                    ],
+                    "answer": "USD 200,000"
+                }
+            ]
+        },
+
+        {
+            "category": "Sports",
+            "title": "Indian Women’s Hockey Team Finishes Fifth at FIH World Cup",
+            "summary": "The Indian women's hockey team defeated Germany 3-1 in the fifth-place classification match at the FIH Women's Hockey World Cup 2026 in Amstelveen, Netherlands. The fifth-place finish became India's best performance at the Women's Hockey World Cup since the inaugural edition in 1974, when India finished fourth.",
+            "sourceName": "Hockey India",
+            "sourceUrl": "https://hockeyindia.org/news/indian-womens-team-beats-world-no-5-germany-3-1-for-best-fih-womens-world-cup-finish-since-1974",
+            "staticGK": [
+                "Tournament : FIH Women's Hockey World Cup 2026",
+                "Indian Result : Fifth Place",
+                "Opponent : Germany",
+                "Final Score : India 3-1 Germany",
+                "Venue : Amstelveen",
+                "Country : Netherlands",
+                "Best Previous Finish : Fourth Place in 1974"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which team did India defeat in the fifth-place classification match?",
+                    "options": [
+                        "Germany",
+                        "Netherlands",
+                        "Australia",
+                        "Argentina"
+                    ],
+                    "answer": "Germany"
+                },
+                {
+                    "question": "What was India's score against Germany?",
+                    "options": [
+                        "3-1",
+                        "2-1",
+                        "4-2",
+                        "3-2"
+                    ],
+                    "answer": "3-1"
+                },
+                {
+                    "question": "Where was the match played?",
+                    "options": [
+                        "Amstelveen",
+                        "Amsterdam",
+                        "Brussels",
+                        "The Hague"
+                    ],
+                    "answer": "Amstelveen"
+                },
+                {
+                    "question": "What position did India finish at the 2026 Women's Hockey World Cup?",
+                    "options": [
+                        "Fifth",
+                        "Third",
+                        "Fourth",
+                        "Sixth"
+                    ],
+                    "answer": "Fifth"
+                },
+                {
+                    "question": "In which year did India record its previous best Women's Hockey World Cup finish?",
+                    "options": [
+                        "1974",
+                        "1982",
+                        "1998",
+                        "2006"
+                    ],
+                    "answer": "1974"
+                }
+            ]
+        }
+
+    ]
 }
 
 
