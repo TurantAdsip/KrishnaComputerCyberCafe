@@ -18764,774 +18764,762 @@
 
     ]
 },
-        {
-    "id": "2026-08-29",
-    "date": "29 August 2026",
-    "totalNews": 10,
-    "description": "Top 10 Current Affairs of 29 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
-    "news": [
-
-        {
-            "category": "International Affairs",
-            "title": "Prime Minister Modi Begins Two-Nation Visit to Uzbekistan and Kyrgyzstan",
-            "summary": "Prime Minister Narendra Modi began a two-nation visit to Uzbekistan and the Kyrgyz Republic on 29 August 2026. He is visiting Uzbekistan from 29 to 30 August at the invitation of President Shavkat Mirziyoyev and will then travel to Kyrgyzstan. The visit focuses on strengthening India's strategic partnerships in Central Asia, with discussions expected on trade, investment, defence, connectivity, energy and education.",
-            "sourceName": "Ministry of External Affairs",
-            "sourceUrl": "https://www.mea.gov.in/",
-            "staticGK": [
-                "Visitor : Prime Minister Narendra Modi",
-                "First Country : Uzbekistan",
-                "Second Country : Kyrgyz Republic",
-                "Uzbekistan Visit : 29-30 August 2026",
-                "Uzbek President : Shavkat Mirziyoyev",
-                "Region : Central Asia",
-                "Key Areas : Trade, Defence, Energy and Connectivity"
-            ],
-            "mcqs": [
+  {
+            "id": "2026-08-29",
+            "date": "29 August 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 29 August 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
                 {
-                    "question": "Which two countries are included in Prime Minister Modi's two-nation visit beginning on 29 August 2026?",
-                    "options": [
-                        "Uzbekistan and Kyrgyzstan",
-                        "Kazakhstan and Tajikistan",
-                        "Turkmenistan and Kazakhstan",
-                        "Kyrgyzstan and Tajikistan"
+                    "category": "International Affairs",
+                    "title": "Prime Minister Modi Begins Two-Nation Visit to Uzbekistan and Kyrgyzstan",
+                    "summary": "Prime Minister Narendra Modi began a two-nation visit to Uzbekistan and the Kyrgyz Republic on 29 August 2026. He is visiting Uzbekistan from 29 to 30 August at the invitation of President Shavkat Mirziyoyev and will then travel to Kyrgyzstan. The visit focuses on strengthening India's strategic partnerships in Central Asia, with discussions expected on trade, investment, defence, connectivity, energy and education.",
+                    "sourceName": "Ministry of External Affairs",
+                    "sourceUrl": "https://www.mea.gov.in/",
+                    "staticGK": [
+                        "Visitor : Prime Minister Narendra Modi",
+                        "First Country : Uzbekistan",
+                        "Second Country : Kyrgyz Republic",
+                        "Uzbekistan Visit : 29-30 August 2026",
+                        "Uzbek President : Shavkat Mirziyoyev",
+                        "Region : Central Asia",
+                        "Key Areas : Trade, Defence, Energy and Connectivity"
                     ],
-                    "answer": "Uzbekistan and Kyrgyzstan"
+                    "mcqs": [
+                        {
+                            "question": "Which two countries are included in Prime Minister Modi's two-nation visit beginning on 29 August 2026?",
+                            "options": [
+                                "Uzbekistan and Kyrgyzstan",
+                                "Kazakhstan and Tajikistan",
+                                "Turkmenistan and Kazakhstan",
+                                "Kyrgyzstan and Tajikistan"
+                            ],
+                            "answer": "Uzbekistan and Kyrgyzstan"
+                        },
+                        {
+                            "question": "Who is the President of Uzbekistan?",
+                            "options": [
+                                "Shavkat Mirziyoyev",
+                                "Sadyr Japarov",
+                                "Kassym-Jomart Tokayev",
+                                "Emomali Rahmon"
+                            ],
+                            "answer": "Shavkat Mirziyoyev"
+                        },
+                        {
+                            "question": "Uzbekistan is located in which region?",
+                            "options": [
+                                "Central Asia",
+                                "West Asia",
+                                "South Asia",
+                                "Southeast Asia"
+                            ],
+                            "answer": "Central Asia"
+                        },
+                        {
+                            "question": "PM Modi's Uzbekistan visit is scheduled for which dates?",
+                            "options": [
+                                "29-30 August 2026",
+                                "28-29 August 2026",
+                                "30-31 August 2026",
+                                "1-2 September 2026"
+                            ],
+                            "answer": "29-30 August 2026"
+                        },
+                        {
+                            "question": "Which of the following is an important area of India-Central Asia cooperation?",
+                            "options": [
+                                "Connectivity",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Fisheries"
+                            ],
+                            "answer": "Connectivity"
+                        }
+                    ]
                 },
                 {
-                    "question": "Who is the President of Uzbekistan?",
-                    "options": [
-                        "Shavkat Mirziyoyev",
-                        "Sadyr Japarov",
-                        "Kassym-Jomart Tokayev",
-                        "Emomali Rahmon"
+                    "category": "Sports",
+                    "title": "National Sports Day 2026 Celebrated on Birth Anniversary of Major Dhyan Chand",
+                    "summary": "National Sports Day is observed across India on 29 August every year to commemorate the birth anniversary of legendary hockey player Major Dhyan Chand. The 2026 celebrations focus on promoting sports, fitness, discipline and active lifestyles. The government is also promoting the message 'Ek Ghanta Khel Ke Maidan Mein' to encourage citizens, especially young people, to spend time in sports and physical activity.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/",
+                    "staticGK": [
+                        "Day : National Sports Day",
+                        "Date : 29 August",
+                        "Occasion : Birth Anniversary of Major Dhyan Chand",
+                        "Sport : Hockey",
+                        "Major Dhyan Chand Birth Year : 1905",
+                        "First Observed : 2012",
+                        "2026 Campaign : Ek Ghanta Khel Ke Maidan Mein"
                     ],
-                    "answer": "Shavkat Mirziyoyev"
+                    "mcqs": [
+                        {
+                            "question": "National Sports Day is celebrated in India on which date?",
+                            "options": [
+                                "29 August",
+                                "15 August",
+                                "26 January",
+                                "2 October"
+                            ],
+                            "answer": "29 August"
+                        },
+                        {
+                            "question": "National Sports Day commemorates the birth anniversary of whom?",
+                            "options": [
+                                "Major Dhyan Chand",
+                                "Milkha Singh",
+                                "Sachin Tendulkar",
+                                "Balbir Singh Sr."
+                            ],
+                            "answer": "Major Dhyan Chand"
+                        },
+                        {
+                            "question": "Major Dhyan Chand was associated with which sport?",
+                            "options": [
+                                "Hockey",
+                                "Cricket",
+                                "Football",
+                                "Wrestling"
+                            ],
+                            "answer": "Hockey"
+                        },
+                        {
+                            "question": "When was National Sports Day first observed in India?",
+                            "options": [
+                                "2012",
+                                "2008",
+                                "2014",
+                                "2016"
+                            ],
+                            "answer": "2012"
+                        },
+                        {
+                            "question": "What is the 2026 National Sports Day campaign message mentioned by PIB?",
+                            "options": [
+                                "Ek Ghanta Khel Ke Maidan Mein",
+                                "Khelo India, Jeeto India",
+                                "Fit India, Strong India",
+                                "Har Ghar Khel"
+                            ],
+                            "answer": "Ek Ghanta Khel Ke Maidan Mein"
+                        }
+                    ]
                 },
                 {
-                    "question": "Uzbekistan is located in which region?",
-                    "options": [
-                        "Central Asia",
-                        "West Asia",
-                        "South Asia",
-                        "Southeast Asia"
+                    "category": "Economy & Banking",
+                    "title": "India's Foreign Exchange Reserves Reach Record $729.33 Billion",
+                    "summary": "India's foreign exchange reserves reached an all-time high of about $729.33 billion as of 21 August 2026. The rise was supported by strong capital inflows, including foreign currency deposits from Non-Resident Indians. The record reserve level strengthens India's external financial position and provides a buffer against global economic uncertainties.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indias-forex-reserves-hit-record-729-billion-sustained-capital-inflows-2026-08-28/",
+                    "staticGK": [
+                        "Forex Reserves : $729.33 billion",
+                        "Reference Date : 21 August 2026",
+                        "Institution : Reserve Bank of India",
+                        "Major Component : Foreign Currency Assets",
+                        "Gold Reserves : $114.2 billion",
+                        "SDRs : $18.9 billion",
+                        "Importance : External Financial Stability"
                     ],
-                    "answer": "Central Asia"
+                    "mcqs": [
+                        {
+                            "question": "India's foreign exchange reserves reached approximately what level?",
+                            "options": [
+                                "$729.33 billion",
+                                "$629.33 billion",
+                                "$829.33 billion",
+                                "$529.33 billion"
+                            ],
+                            "answer": "$729.33 billion"
+                        },
+                        {
+                            "question": "The record forex reserves were reported as of which date?",
+                            "options": [
+                                "21 August 2026",
+                                "25 August 2026",
+                                "28 August 2026",
+                                "29 August 2026"
+                            ],
+                            "answer": "21 August 2026"
+                        },
+                        {
+                            "question": "Which institution manages India's foreign exchange reserves?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "Ministry of Finance",
+                                "SBI"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which of the following is a component of India's forex reserves?",
+                            "options": [
+                                "Foreign Currency Assets",
+                                "Corporate Loans",
+                                "GST Collections",
+                                "Government Salaries"
+                            ],
+                            "answer": "Foreign Currency Assets"
+                        },
+                        {
+                            "question": "High foreign exchange reserves primarily strengthen India's?",
+                            "options": [
+                                "External Financial Position",
+                                "Agricultural Land",
+                                "Population Growth",
+                                "Railway Network"
+                            ],
+                            "answer": "External Financial Position"
+                        }
+                    ]
                 },
                 {
-                    "question": "PM Modi's Uzbekistan visit is scheduled for which dates?",
-                    "options": [
-                        "29-30 August 2026",
-                        "28-29 August 2026",
-                        "30-31 August 2026",
-                        "1-2 September 2026"
+                    "category": "Economy & Banking",
+                    "title": "RBI Plans ₹30,000 Crore Government Securities Buyback",
+                    "summary": "The Reserve Bank of India announced a government securities buyback of ₹30,000 crore scheduled for 3 September 2026. The operation is aimed at managing liquidity and easing the government's redemption burden. The securities included in the buyback are scheduled to mature during the financial year 2026-27.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/markets/bonds/rbi-plans-buyback-of-rs-30000-crore-gsecs/articleshow/133603407.cms",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Operation : Government Securities Buyback",
+                        "Amount : ₹30,000 crore",
+                        "Scheduled Date : 3 September 2026",
+                        "Purpose : Liquidity and Debt Management",
+                        "Securities : Government Securities",
+                        "Financial Year : 2026-27"
                     ],
-                    "answer": "29-30 August 2026"
+                    "mcqs": [
+                        {
+                            "question": "How much government securities does RBI plan to buy back?",
+                            "options": [
+                                "₹30,000 crore",
+                                "₹20,000 crore",
+                                "₹50,000 crore",
+                                "₹10,000 crore"
+                            ],
+                            "answer": "₹30,000 crore"
+                        },
+                        {
+                            "question": "When is the government securities buyback scheduled?",
+                            "options": [
+                                "3 September 2026",
+                                "29 August 2026",
+                                "1 September 2026",
+                                "10 September 2026"
+                            ],
+                            "answer": "3 September 2026"
+                        },
+                        {
+                            "question": "Which institution will conduct the buyback?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "SBI",
+                                "NABARD"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "The buyback is mainly related to?",
+                            "options": [
+                                "Liquidity and Debt Management",
+                                "Agricultural Subsidies",
+                                "Defence Procurement",
+                                "Foreign Tourism"
+                            ],
+                            "answer": "Liquidity and Debt Management"
+                        },
+                        {
+                            "question": "The securities included in the buyback are scheduled to mature in which financial year?",
+                            "options": [
+                                "2026-27",
+                                "2025-26",
+                                "2027-28",
+                                "2028-29"
+                            ],
+                            "answer": "2026-27"
+                        }
+                    ]
                 },
                 {
-                    "question": "Which of the following is an important area of India-Central Asia cooperation?",
-                    "options": [
-                        "Connectivity",
-                        "Only Tourism",
-                        "Only Sports",
-                        "Only Fisheries"
+                    "category": "Energy & Environment",
+                    "title": "Government Clarifies Revised CBG Pricing Under GOBARdhan Scheme",
+                    "summary": "The Ministry of Petroleum and Natural Gas clarified that the revised procurement price of Compressed Biogas under the GOBARdhan Scheme is intended to support producers without materially increasing the burden on CNG and household PNG consumers. The revised CBG procurement price has been fixed at around ₹2,110 per MMBtu, compared with about ₹1,478 per MMBtu under the earlier mechanism.",
+                    "sourceName": "Ministry of Petroleum and Natural Gas",
+                    "sourceUrl": "https://mopng.gov.in/",
+                    "staticGK": [
+                        "Fuel : Compressed Biogas",
+                        "Short Form : CBG",
+                        "Scheme : GOBARdhan",
+                        "Revised Procurement Price : ₹2,110 per MMBtu",
+                        "Earlier Price : About ₹1,478 per MMBtu",
+                        "Increase : Around 43%",
+                        "Objective : Promote Biogas and Waste-to-Energy"
                     ],
-                    "answer": "Connectivity"
-                }
-            ]
-        },
-
-        {
-            "category": "Sports",
-            "title": "National Sports Day 2026 Celebrated on Birth Anniversary of Major Dhyan Chand",
-            "summary": "National Sports Day is observed across India on 29 August every year to commemorate the birth anniversary of legendary hockey player Major Dhyan Chand. The 2026 celebrations focus on promoting sports, fitness, discipline and active lifestyles. The government is also promoting the message 'Ek Ghanta Khel Ke Maidan Mein' to encourage citizens, especially young people, to spend time in sports and physical activity.",
-            "sourceName": "Press Information Bureau",
-            "sourceUrl": "https://www.pib.gov.in/",
-            "staticGK": [
-                "Day : National Sports Day",
-                "Date : 29 August",
-                "Occasion : Birth Anniversary of Major Dhyan Chand",
-                "Sport : Hockey",
-                "Major Dhyan Chand Birth Year : 1905",
-                "First Observed : 2012",
-                "2026 Campaign : Ek Ghanta Khel Ke Maidan Mein"
-            ],
-            "mcqs": [
-                {
-                    "question": "National Sports Day is celebrated in India on which date?",
-                    "options": [
-                        "29 August",
-                        "15 August",
-                        "26 January",
-                        "2 October"
-                    ],
-                    "answer": "29 August"
+                    "mcqs": [
+                        {
+                            "question": "CBG stands for?",
+                            "options": [
+                                "Compressed Biogas",
+                                "Compressed Bio-Gasoline",
+                                "Clean Bio Gas",
+                                "Central Biogas Grid"
+                            ],
+                            "answer": "Compressed Biogas"
+                        },
+                        {
+                            "question": "Under which scheme was the CBG pricing revised?",
+                            "options": [
+                                "GOBARdhan",
+                                "PM-KUSUM",
+                                "Ujjwala Yojana",
+                                "SATAT"
+                            ],
+                            "answer": "GOBARdhan"
+                        },
+                        {
+                            "question": "What is the revised CBG procurement price?",
+                            "options": [
+                                "₹2,110 per MMBtu",
+                                "₹1,478 per MMBtu",
+                                "₹2,500 per MMBtu",
+                                "₹1,110 per MMBtu"
+                            ],
+                            "answer": "₹2,110 per MMBtu"
+                        },
+                        {
+                            "question": "The revised pricing primarily aims to support?",
+                            "options": [
+                                "CBG Producers",
+                                "Coal Producers",
+                                "Oil Importers",
+                                "Airlines"
+                            ],
+                            "answer": "CBG Producers"
+                        },
+                        {
+                            "question": "CBG is mainly associated with which clean-energy concept?",
+                            "options": [
+                                "Waste-to-Energy",
+                                "Coal Mining",
+                                "Nuclear Fission",
+                                "Thermal Power"
+                            ],
+                            "answer": "Waste-to-Energy"
+                        }
+                    ]
                 },
                 {
-                    "question": "National Sports Day commemorates the birth anniversary of whom?",
-                    "options": [
-                        "Major Dhyan Chand",
-                        "Milkha Singh",
-                        "Sachin Tendulkar",
-                        "Balbir Singh Sr."
+                    "category": "Science & Technology",
+                    "title": "National Test House Celebrates 115th Foundation Day in Bengaluru",
+                    "summary": "The National Test House celebrated its 115th Foundation Day on 29 August 2026 at its Jakkuru Campus in Bengaluru. The event included the inauguration of new testing facilities, the NTH Bengaluru building and the launch of the NTH Suvidha mobile application. The National Test House provides testing, calibration and quality evaluation services across multiple sectors.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304228&lang=2&reg=48",
+                    "staticGK": [
+                        "Organisation : National Test House",
+                        "Abbreviation : NTH",
+                        "Foundation Day : 29 August",
+                        "Year Established : 1912",
+                        "Venue : Jakkuru Campus, Bengaluru",
+                        "Nodal Ministry : Ministry of Consumer Affairs",
+                        "New Initiative : NTH Suvidha App"
                     ],
-                    "answer": "Major Dhyan Chand"
+                    "mcqs": [
+                        {
+                            "question": "Which organisation celebrated its 115th Foundation Day on 29 August 2026?",
+                            "options": [
+                                "National Test House",
+                                "Bureau of Indian Standards",
+                                "CSIR",
+                                "DRDO"
+                            ],
+                            "answer": "National Test House"
+                        },
+                        {
+                            "question": "Where was the 115th Foundation Day event held?",
+                            "options": [
+                                "Bengaluru",
+                                "New Delhi",
+                                "Mumbai",
+                                "Chennai"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "When was the National Test House established?",
+                            "options": [
+                                "1912",
+                                "1922",
+                                "1947",
+                                "1950"
+                            ],
+                            "answer": "1912"
+                        },
+                        {
+                            "question": "What is the name of the new mobile application launched by NTH?",
+                            "options": [
+                                "NTH Suvidha",
+                                "NTH Digital",
+                                "Test India",
+                                "Quality Bharat"
+                            ],
+                            "answer": "NTH Suvidha"
+                        },
+                        {
+                            "question": "NTH mainly provides which services?",
+                            "options": [
+                                "Testing, Calibration and Quality Evaluation",
+                                "Banking and Insurance",
+                                "Defence Recruitment",
+                                "Railway Ticketing"
+                            ],
+                            "answer": "Testing, Calibration and Quality Evaluation"
+                        }
+                    ]
                 },
                 {
-                    "question": "Major Dhyan Chand was associated with which sport?",
-                    "options": [
-                        "Hockey",
-                        "Cricket",
-                        "Football",
-                        "Wrestling"
+                    "category": "Environment & Disaster Management",
+                    "title": "Himalayan Flood Disaster Intensifies Along Nepal-Tibet Border",
+                    "summary": "Severe flash floods and related disasters along the Nepal-Tibet Himalayan region continued to cause major humanitarian challenges on 29 August 2026. Rescue and relief operations remained underway, with thousands of people reported missing and large numbers of residents affected. The disaster has highlighted the risks associated with glacial instability, extreme weather and Himalayan disaster preparedness.",
+                    "sourceName": "The Guardian",
+                    "sourceUrl": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
+                    "staticGK": [
+                        "Region : Nepal-Tibet Himalayan Border",
+                        "Disaster : Flash Floods",
+                        "Major Risk : Glacial Instability",
+                        "Affected Area : Himalayan Region",
+                        "Response : Search and Rescue",
+                        "Key Concern : Disaster Preparedness",
+                        "Environmental Factor : Extreme Weather"
                     ],
-                    "answer": "Hockey"
+                    "mcqs": [
+                        {
+                            "question": "Which region was severely affected by the reported Himalayan floods?",
+                            "options": [
+                                "Nepal-Tibet Border Region",
+                                "Western Ghats",
+                                "Thar Desert",
+                                "Deccan Plateau"
+                            ],
+                            "answer": "Nepal-Tibet Border Region"
+                        },
+                        {
+                            "question": "What type of disaster was prominently reported?",
+                            "options": [
+                                "Flash Floods",
+                                "Cyclone",
+                                "Volcanic Eruption",
+                                "Tsunami"
+                            ],
+                            "answer": "Flash Floods"
+                        },
+                        {
+                            "question": "Which environmental factor can contribute to Himalayan flood risks?",
+                            "options": [
+                                "Glacial Instability",
+                                "Desertification only",
+                                "Ocean Tides",
+                                "Coral Bleaching"
+                            ],
+                            "answer": "Glacial Instability"
+                        },
+                        {
+                            "question": "What type of operation continued in the affected region?",
+                            "options": [
+                                "Search and Rescue",
+                                "Election Campaign",
+                                "Trade Negotiations",
+                                "Mining Operations"
+                            ],
+                            "answer": "Search and Rescue"
+                        },
+                        {
+                            "question": "The disaster highlights the importance of?",
+                            "options": [
+                                "Himalayan Disaster Preparedness",
+                                "Urban Tourism",
+                                "Marine Fisheries",
+                                "Industrial Exports"
+                            ],
+                            "answer": "Himalayan Disaster Preparedness"
+                        }
+                    ]
                 },
                 {
-                    "question": "When was National Sports Day first observed in India?",
-                    "options": [
-                        "2012",
-                        "2008",
-                        "2014",
-                        "2016"
+                    "category": "Transport & Environment",
+                    "title": "Nashik Introduces 50 New Electric Buses Under Central Government Scheme",
+                    "summary": "Nashik introduced 50 new electric buses on 29 August 2026 under a central government initiative aimed at promoting cleaner urban public transport. The buses are scheduled to begin operations from 1 September. The initiative is expected to reduce emissions, improve urban mobility and support the adoption of electric vehicles in public transportation.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/city/nashik/cm-flags-off-50-e-buses-under-centres-scheme-services-from-sept-1/articleshow/133598563.cms",
+                    "staticGK": [
+                        "City : Nashik",
+                        "State : Maharashtra",
+                        "Buses : 50 Electric Buses",
+                        "Type : Electric Public Transport",
+                        "Operations Begin : 1 September 2026",
+                        "Objective : Cleaner Urban Mobility",
+                        "Benefit : Reduced Carbon Emissions"
                     ],
-                    "answer": "2012"
+                    "mcqs": [
+                        {
+                            "question": "How many electric buses were introduced in Nashik?",
+                            "options": [
+                                "50",
+                                "25",
+                                "75",
+                                "100"
+                            ],
+                            "answer": "50"
+                        },
+                        {
+                            "question": "Nashik is located in which state?",
+                            "options": [
+                                "Maharashtra",
+                                "Gujarat",
+                                "Madhya Pradesh",
+                                "Karnataka"
+                            ],
+                            "answer": "Maharashtra"
+                        },
+                        {
+                            "question": "The new buses are powered by?",
+                            "options": [
+                                "Electricity",
+                                "Diesel",
+                                "CNG only",
+                                "Hydrogen only"
+                            ],
+                            "answer": "Electricity"
+                        },
+                        {
+                            "question": "When are the buses scheduled to begin operations?",
+                            "options": [
+                                "1 September 2026",
+                                "29 August 2026",
+                                "15 September 2026",
+                                "1 October 2026"
+                            ],
+                            "answer": "1 September 2026"
+                        },
+                        {
+                            "question": "The electric bus initiative primarily supports?",
+                            "options": [
+                                "Cleaner Urban Mobility",
+                                "Coal Production",
+                                "Airline Expansion",
+                                "Port Development"
+                            ],
+                            "answer": "Cleaner Urban Mobility"
+                        }
+                    ]
                 },
                 {
-                    "question": "What is the 2026 National Sports Day campaign message mentioned by PIB?",
-                    "options": [
-                        "Ek Ghanta Khel Ke Maidan Mein",
-                        "Khelo India, Jeeto India",
-                        "Fit India, Strong India",
-                        "Har Ghar Khel"
+                    "category": "Sports",
+                    "title": "India Finishes Eighth at FIH Women's Hockey World Cup",
+                    "summary": "India's women's hockey team finished eighth at the FIH Women's Hockey World Cup after losing to Belgium in a penalty shootout following a 3-3 draw in regulation time. The tournament provided important international exposure for the Indian team and highlighted the competitive nature of women's hockey at the global level.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/belgium-break-indian-hearts-in-shootout-as-harmanpreets-side-finish-eighth-in-hockey-world-cup/articleshow/133598475.cms",
+                    "staticGK": [
+                        "Tournament : FIH Women's Hockey World Cup",
+                        "India's Position : Eighth",
+                        "Opponent : Belgium",
+                        "Regulation Score : 3-3",
+                        "Result : Belgium Won Penalty Shootout",
+                        "Sport : Hockey",
+                        "Indian Captain : Harmanpreet Singh"
                     ],
-                    "answer": "Ek Ghanta Khel Ke Maidan Mein"
-                }
-            ]
-        },
-
-        {
-            "category": "Economy & Banking",
-            "title": "India's Foreign Exchange Reserves Reach Record $729.33 Billion",
-            "summary": "India's foreign exchange reserves reached an all-time high of about $729.33 billion as of 21 August 2026. The rise was supported by strong capital inflows, including foreign currency deposits from Non-Resident Indians. The record reserve level strengthens India's external financial position and provides a buffer against global economic uncertainties.",
-            "sourceName": "Reuters",
-            "sourceUrl": "https://www.reuters.com/world/india/indias-forex-reserves-hit-record-729-billion-sustained-capital-inflows-2026-08-28/",
-            "staticGK": [
-                "Forex Reserves : $729.33 billion",
-                "Reference Date : 21 August 2026",
-                "Institution : Reserve Bank of India",
-                "Major Component : Foreign Currency Assets",
-                "Gold Reserves : $114.2 billion",
-                "SDRs : $18.9 billion",
-                "Importance : External Financial Stability"
-            ],
-            "mcqs": [
-                {
-                    "question": "India's foreign exchange reserves reached approximately what level?",
-                    "options": [
-                        "$729.33 billion",
-                        "$629.33 billion",
-                        "$829.33 billion",
-                        "$529.33 billion"
-                    ],
-                    "answer": "$729.33 billion"
+                    "mcqs": [
+                        {
+                            "question": "Which team defeated India in the Women's Hockey World Cup classification match?",
+                            "options": [
+                                "Belgium",
+                                "Germany",
+                                "Netherlands",
+                                "Australia"
+                            ],
+                            "answer": "Belgium"
+                        },
+                        {
+                            "question": "What was the score at the end of regulation time?",
+                            "options": [
+                                "3-3",
+                                "2-2",
+                                "1-1",
+                                "4-3"
+                            ],
+                            "answer": "3-3"
+                        },
+                        {
+                            "question": "How was the match decided?",
+                            "options": [
+                                "Penalty Shootout",
+                                "Extra Time Goal",
+                                "Golden Goal",
+                                "Coin Toss"
+                            ],
+                            "answer": "Penalty Shootout"
+                        },
+                        {
+                            "question": "What position did India finish in the tournament?",
+                            "options": [
+                                "Eighth",
+                                "Fifth",
+                                "Sixth",
+                                "Seventh"
+                            ],
+                            "answer": "Eighth"
+                        },
+                        {
+                            "question": "Which sport is associated with the FIH World Cup?",
+                            "options": [
+                                "Hockey",
+                                "Football",
+                                "Cricket",
+                                "Badminton"
+                            ],
+                            "answer": "Hockey"
+                        }
+                    ]
                 },
                 {
-                    "question": "The record forex reserves were reported as of which date?",
-                    "options": [
-                        "21 August 2026",
-                        "25 August 2026",
-                        "28 August 2026",
-                        "29 August 2026"
+                    "category": "Government & Polity",
+                    "title": "National Test House Strengthens India's Testing and Certification Infrastructure",
+                    "summary": "On its 115th Foundation Day, the National Test House highlighted the expansion of India's domestic testing and certification capabilities. New facilities and digital initiatives were launched across its network, including testing facilities for coal, solar water heaters and utensils, along with a new laboratory in Varanasi. The initiatives aim to support India's manufacturing sector and quality infrastructure.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304228&lang=2&reg=48",
+                    "staticGK": [
+                        "Organisation : National Test House",
+                        "Foundation : 1912",
+                        "Administrative Department : Department of Consumer Affairs",
+                        "Ministry : Ministry of Consumer Affairs, Food & Public Distribution",
+                        "Testing Areas : Coal, Solar Water Heaters and Utensils",
+                        "New Laboratory : Varanasi",
+                        "Digital Initiative : NTH Suvidha"
                     ],
-                    "answer": "21 August 2026"
+                    "mcqs": [
+                        {
+                            "question": "The National Test House functions under which department?",
+                            "options": [
+                                "Department of Consumer Affairs",
+                                "Department of Commerce",
+                                "Department of Science and Technology",
+                                "Department of Heavy Industry"
+                            ],
+                            "answer": "Department of Consumer Affairs"
+                        },
+                        {
+                            "question": "Which ministry has administrative control over NTH?",
+                            "options": [
+                                "Ministry of Consumer Affairs, Food & Public Distribution",
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Science and Technology",
+                                "Ministry of Finance"
+                            ],
+                            "answer": "Ministry of Consumer Affairs, Food & Public Distribution"
+                        },
+                        {
+                            "question": "Which city received a new NTH laboratory?",
+                            "options": [
+                                "Varanasi",
+                                "Lucknow",
+                                "Patna",
+                                "Bhopal"
+                            ],
+                            "answer": "Varanasi"
+                        },
+                        {
+                            "question": "Which of the following is a testing facility mentioned in the NTH expansion?",
+                            "options": [
+                                "Coal Testing Facility",
+                                "Railway Ticket Testing",
+                                "Currency Testing",
+                                "Passport Testing"
+                            ],
+                            "answer": "Coal Testing Facility"
+                        },
+                        {
+                            "question": "The NTH initiatives mainly strengthen India's?",
+                            "options": [
+                                "Testing and Quality Infrastructure",
+                                "Sports Infrastructure",
+                                "Tourism Infrastructure",
+                                "Election Infrastructure"
+                            ],
+                            "answer": "Testing and Quality Infrastructure"
+                        }
+                    ]
                 },
                 {
-                    "question": "Which institution manages India's foreign exchange reserves?",
-                    "options": [
-                        "Reserve Bank of India",
-                        "SEBI",
-                        "Ministry of Finance",
-                        "SBI"
+                    "category": "Economy & Infrastructure",
+                    "title": "India Continues Focus on Logistics and Infrastructure Growth",
+                    "summary": "India continued to strengthen its logistics and infrastructure ecosystem in 2026, with major developments in ports, roads, urban transport and digital connectivity. The country's infrastructure push is aimed at reducing logistics costs, improving supply-chain efficiency and supporting long-term economic growth. These developments remain important for India's manufacturing and export competitiveness.",
+                    "sourceName": "Vajiram & Ravi",
+                    "sourceUrl": "https://vajiramandravi.com/current-affairs/news-editorials/29-08-2026/",
+                    "staticGK": [
+                        "Sector : Infrastructure",
+                        "Key Area : Logistics",
+                        "Objective : Reduce Logistics Costs",
+                        "Focus : Supply Chain Efficiency",
+                        "Economic Link : Manufacturing",
+                        "Trade Link : Export Competitiveness",
+                        "Major Infrastructure : Roads, Ports and Urban Transport"
                     ],
-                    "answer": "Reserve Bank of India"
-                },
-                {
-                    "question": "Which of the following is a component of India's forex reserves?",
-                    "options": [
-                        "Foreign Currency Assets",
-                        "Corporate Loans",
-                        "GST Collections",
-                        "Government Salaries"
-                    ],
-                    "answer": "Foreign Currency Assets"
-                },
-                {
-                    "question": "High foreign exchange reserves primarily strengthen India's?",
-                    "options": [
-                        "External Financial Position",
-                        "Agricultural Land",
-                        "Population Growth",
-                        "Railway Network"
-                    ],
-                    "answer": "External Financial Position"
-                }
-            ]
-        },
-
-        {
-            "category": "Economy & Banking",
-            "title": "RBI Plans ₹30,000 Crore Government Securities Buyback",
-            "summary": "The Reserve Bank of India announced a government securities buyback of ₹30,000 crore scheduled for 3 September 2026. The operation is aimed at managing liquidity and easing the government's redemption burden. The securities included in the buyback are scheduled to mature during the financial year 2026-27.",
-            "sourceName": "Economic Times",
-            "sourceUrl": "https://m.economictimes.com/markets/bonds/rbi-plans-buyback-of-rs-30000-crore-gsecs/articleshow/133603407.cms",
-            "staticGK": [
-                "Institution : Reserve Bank of India",
-                "Operation : Government Securities Buyback",
-                "Amount : ₹30,000 crore",
-                "Scheduled Date : 3 September 2026",
-                "Purpose : Liquidity and Debt Management",
-                "Securities : Government Securities",
-                "Financial Year : 2026-27"
-            ],
-            "mcqs": [
-                {
-                    "question": "How much government securities does RBI plan to buy back?",
-                    "options": [
-                        "₹30,000 crore",
-                        "₹20,000 crore",
-                        "₹50,000 crore",
-                        "₹10,000 crore"
-                    ],
-                    "answer": "₹30,000 crore"
-                },
-                {
-                    "question": "When is the government securities buyback scheduled?",
-                    "options": [
-                        "3 September 2026",
-                        "29 August 2026",
-                        "1 September 2026",
-                        "10 September 2026"
-                    ],
-                    "answer": "3 September 2026"
-                },
-                {
-                    "question": "Which institution will conduct the buyback?",
-                    "options": [
-                        "Reserve Bank of India",
-                        "SEBI",
-                        "SBI",
-                        "NABARD"
-                    ],
-                    "answer": "Reserve Bank of India"
-                },
-                {
-                    "question": "The buyback is mainly related to?",
-                    "options": [
-                        "Liquidity and Debt Management",
-                        "Agricultural Subsidies",
-                        "Defence Procurement",
-                        "Foreign Tourism"
-                    ],
-                    "answer": "Liquidity and Debt Management"
-                },
-                {
-                    "question": "The securities included in the buyback are scheduled to mature in which financial year?",
-                    "options": [
-                        "2026-27",
-                        "2025-26",
-                        "2027-28",
-                        "2028-29"
-                    ],
-                    "answer": "2026-27"
-                }
-            ]
-        },
-
-        {
-            "category": "Energy & Environment",
-            "title": "Government Clarifies Revised CBG Pricing Under GOBARdhan Scheme",
-            "summary": "The Ministry of Petroleum and Natural Gas clarified that the revised procurement price of Compressed Biogas under the GOBARdhan Scheme is intended to support producers without materially increasing the burden on CNG and household PNG consumers. The revised CBG procurement price has been fixed at around ₹2,110 per MMBtu, compared with about ₹1,478 per MMBtu under the earlier mechanism.",
-            "sourceName": "Ministry of Petroleum and Natural Gas",
-            "sourceUrl": "https://mopng.gov.in/",
-            "staticGK": [
-                "Fuel : Compressed Biogas",
-                "Short Form : CBG",
-                "Scheme : GOBARdhan",
-                "Revised Procurement Price : ₹2,110 per MMBtu",
-                "Earlier Price : About ₹1,478 per MMBtu",
-                "Increase : Around 43%",
-                "Objective : Promote Biogas and Waste-to-Energy"
-            ],
-            "mcqs": [
-                {
-                    "question": "CBG stands for?",
-                    "options": [
-                        "Compressed Biogas",
-                        "Compressed Bio-Gasoline",
-                        "Clean Bio Gas",
-                        "Central Biogas Grid"
-                    ],
-                    "answer": "Compressed Biogas"
-                },
-                {
-                    "question": "Under which scheme was the CBG pricing revised?",
-                    "options": [
-                        "GOBARdhan",
-                        "PM-KUSUM",
-                        "Ujjwala Yojana",
-                        "SATAT"
-                    ],
-                    "answer": "GOBARdhan"
-                },
-                {
-                    "question": "What is the revised CBG procurement price?",
-                    "options": [
-                        "₹2,110 per MMBtu",
-                        "₹1,478 per MMBtu",
-                        "₹2,500 per MMBtu",
-                        "₹1,110 per MMBtu"
-                    ],
-                    "answer": "₹2,110 per MMBtu"
-                },
-                {
-                    "question": "The revised pricing primarily aims to support?",
-                    "options": [
-                        "CBG Producers",
-                        "Coal Producers",
-                        "Oil Importers",
-                        "Airlines"
-                    ],
-                    "answer": "CBG Producers"
-                },
-                {
-                    "question": "CBG is mainly associated with which clean-energy concept?",
-                    "options": [
-                        "Waste-to-Energy",
-                        "Coal Mining",
-                        "Nuclear Fission",
-                        "Thermal Power"
-                    ],
-                    "answer": "Waste-to-Energy"
-                }
-            ]
-        },
-
-        {
-            "category": "Science & Technology",
-            "title": "National Test House Celebrates 115th Foundation Day in Bengaluru",
-            "summary": "The National Test House celebrated its 115th Foundation Day on 29 August 2026 at its Jakkuru Campus in Bengaluru. The event included the inauguration of new testing facilities, the NTH Bengaluru building and the launch of the NTH Suvidha mobile application. The National Test House provides testing, calibration and quality evaluation services across multiple sectors.",
-            "sourceName": "Press Information Bureau",
-            "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304228&lang=2&reg=48",
-            "staticGK": [
-                "Organisation : National Test House",
-                "Abbreviation : NTH",
-                "Foundation Day : 29 August",
-                "Year Established : 1912",
-                "Venue : Jakkuru Campus, Bengaluru",
-                "Nodal Ministry : Ministry of Consumer Affairs",
-                "New Initiative : NTH Suvidha App"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which organisation celebrated its 115th Foundation Day on 29 August 2026?",
-                    "options": [
-                        "National Test House",
-                        "Bureau of Indian Standards",
-                        "CSIR",
-                        "DRDO"
-                    ],
-                    "answer": "National Test House"
-                },
-                {
-                    "question": "Where was the 115th Foundation Day event held?",
-                    "options": [
-                        "Bengaluru",
-                        "New Delhi",
-                        "Mumbai",
-                        "Chennai"
-                    ],
-                    "answer": "Bengaluru"
-                },
-                {
-                    "question": "When was the National Test House established?",
-                    "options": [
-                        "1912",
-                        "1922",
-                        "1947",
-                        "1950"
-                    ],
-                    "answer": "1912"
-                },
-                {
-                    "question": "What is the name of the new mobile application launched by NTH?",
-                    "options": [
-                        "NTH Suvidha",
-                        "NTH Digital",
-                        "Test India",
-                        "Quality Bharat"
-                    ],
-                    "answer": "NTH Suvidha"
-                },
-                {
-                    "question": "NTH mainly provides which services?",
-                    "options": [
-                        "Testing, Calibration and Quality Evaluation",
-                        "Banking and Insurance",
-                        "Defence Recruitment",
-                        "Railway Ticketing"
-                    ],
-                    "answer": "Testing, Calibration and Quality Evaluation"
-                }
-            ]
-        },
-
-        {
-            "category": "Environment & Disaster Management",
-            "title": "Himalayan Flood Disaster Intensifies Along Nepal-Tibet Border",
-            "summary": "Severe flash floods and related disasters along the Nepal-Tibet Himalayan region continued to cause major humanitarian challenges on 29 August 2026. Rescue and relief operations remained underway, with thousands of people reported missing and large numbers of residents affected. The disaster has highlighted the risks associated with glacial instability, extreme weather and Himalayan disaster preparedness.",
-            "sourceName": "The Guardian",
-            "sourceUrl": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-            "staticGK": [
-                "Region : Nepal-Tibet Himalayan Border",
-                "Disaster : Flash Floods",
-                "Major Risk : Glacial Instability",
-                "Affected Area : Himalayan Region",
-                "Response : Search and Rescue",
-                "Key Concern : Disaster Preparedness",
-                "Environmental Factor : Extreme Weather"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which region was severely affected by the reported Himalayan floods?",
-                    "options": [
-                        "Nepal-Tibet Border Region",
-                        "Western Ghats",
-                        "Thar Desert",
-                        "Deccan Plateau"
-                    ],
-                    "answer": "Nepal-Tibet Border Region"
-                },
-                {
-                    "question": "What type of disaster was prominently reported?",
-                    "options": [
-                        "Flash Floods",
-                        "Cyclone",
-                        "Volcanic Eruption",
-                        "Tsunami"
-                    ],
-                    "answer": "Flash Floods"
-                },
-                {
-                    "question": "Which environmental factor can contribute to Himalayan flood risks?",
-                    "options": [
-                        "Glacial Instability",
-                        "Desertification only",
-                        "Ocean Tides",
-                        "Coral Bleaching"
-                    ],
-                    "answer": "Glacial Instability"
-                },
-                {
-                    "question": "What type of operation continued in the affected region?",
-                    "options": [
-                        "Search and Rescue",
-                        "Election Campaign",
-                        "Trade Negotiations",
-                        "Mining Operations"
-                    ],
-                    "answer": "Search and Rescue"
-                },
-                {
-                    "question": "The disaster highlights the importance of?",
-                    "options": [
-                        "Himalayan Disaster Preparedness",
-                        "Urban Tourism",
-                        "Marine Fisheries",
-                        "Industrial Exports"
-                    ],
-                    "answer": "Himalayan Disaster Preparedness"
-                }
-            ]
-        },
-
-        {
-            "category": "Transport & Environment",
-            "title": "Nashik Introduces 50 New Electric Buses Under Central Government Scheme",
-            "summary": "Nashik introduced 50 new electric buses on 29 August 2026 under a central government initiative aimed at promoting cleaner urban public transport. The buses are scheduled to begin operations from 1 September. The initiative is expected to reduce emissions, improve urban mobility and support the adoption of electric vehicles in public transportation.",
-            "sourceName": "Times of India",
-            "sourceUrl": "https://timesofindia.indiatimes.com/city/nashik/cm-flags-off-50-e-buses-under-centres-scheme-services-from-sept-1/articleshow/133598563.cms",
-            "staticGK": [
-                "City : Nashik",
-                "State : Maharashtra",
-                "Buses : 50 Electric Buses",
-                "Type : Electric Public Transport",
-                "Operations Begin : 1 September 2026",
-                "Objective : Cleaner Urban Mobility",
-                "Benefit : Reduced Carbon Emissions"
-            ],
-            "mcqs": [
-                {
-                    "question": "How many electric buses were introduced in Nashik?",
-                    "options": [
-                        "50",
-                        "25",
-                        "75",
-                        "100"
-                    ],
-                    "answer": "50"
-                },
-                {
-                    "question": "Nashik is located in which state?",
-                    "options": [
-                        "Maharashtra",
-                        "Gujarat",
-                        "Madhya Pradesh",
-                        "Karnataka"
-                    ],
-                    "answer": "Maharashtra"
-                },
-                {
-                    "question": "The new buses are powered by?",
-                    "options": [
-                        "Electricity",
-                        "Diesel",
-                        "CNG only",
-                        "Hydrogen only"
-                    ],
-                    "answer": "Electricity"
-                },
-                {
-                    "question": "When are the buses scheduled to begin operations?",
-                    "options": [
-                        "1 September 2026",
-                        "29 August 2026",
-                        "15 September 2026",
-                        "1 October 2026"
-                    ],
-                    "answer": "1 September 2026"
-                },
-                {
-                    "question": "The electric bus initiative primarily supports?",
-                    "options": [
-                        "Cleaner Urban Mobility",
-                        "Coal Production",
-                        "Airline Expansion",
-                        "Port Development"
-                    ],
-                    "answer": "Cleaner Urban Mobility"
-                }
-            ]
-        },
-
-        {
-            "category": "Sports",
-            "title": "India Finishes Eighth at FIH Women's Hockey World Cup",
-            "summary": "India's women's hockey team finished eighth at the FIH Women's Hockey World Cup after losing to Belgium in a penalty shootout following a 3-3 draw in regulation time. The tournament provided important international exposure for the Indian team and highlighted the competitive nature of women's hockey at the global level.",
-            "sourceName": "Times of India",
-            "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/belgium-break-indian-hearts-in-shootout-as-harmanpreets-side-finish-eighth-in-hockey-world-cup/articleshow/133598475.cms",
-            "staticGK": [
-                "Tournament : FIH Women's Hockey World Cup",
-                "India's Position : Eighth",
-                "Opponent : Belgium",
-                "Regulation Score : 3-3",
-                "Result : Belgium Won Penalty Shootout",
-                "Sport : Hockey",
-                "Indian Captain : Harmanpreet Singh"
-            ],
-            "mcqs": [
-                {
-                    "question": "Which team defeated India in the Women's Hockey World Cup classification match?",
-                    "options": [
-                        "Belgium",
-                        "Germany",
-                        "Netherlands",
-                        "Australia"
-                    ],
-                    "answer": "Belgium"
-                },
-                {
-                    "question": "What was the score at the end of regulation time?",
-                    "options": [
-                        "3-3",
-                        "2-2",
-                        "1-1",
-                        "4-3"
-                    ],
-                    "answer": "3-3"
-                },
-                {
-                    "question": "How was the match decided?",
-                    "options": [
-                        "Penalty Shootout",
-                        "Extra Time Goal",
-                        "Golden Goal",
-                        "Coin Toss"
-                    ],
-                    "answer": "Penalty Shootout"
-                },
-                {
-                    "question": "What position did India finish in the tournament?",
-                    "options": [
-                        "Eighth",
-                        "Fifth",
-                        "Sixth",
-                        "Seventh"
-                    ],
-                    "answer": "Eighth"
-                },
-                {
-                    "question": "Which sport is associated with the FIH World Cup?",
-                    "options": [
-                        "Hockey",
-                        "Football",
-                        "Cricket",
-                        "Badminton"
-                    ],
-                    "answer": "Hockey"
-                }
-            ]
-        },
-
-        {
-            "category": "Government & Polity",
-            "title": "National Test House Strengthens India's Testing and Certification Infrastructure",
-            "summary": "On its 115th Foundation Day, the National Test House highlighted the expansion of India's domestic testing and certification capabilities. New facilities and digital initiatives were launched across its network, including testing facilities for coal, solar water heaters and utensils, along with a new laboratory in Varanasi. The initiatives aim to support India's manufacturing sector and quality infrastructure.",
-            "sourceName": "Press Information Bureau",
-            "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304228&lang=2&reg=48",
-            "staticGK": [
-                "Organisation : National Test House",
-                "Foundation : 1912",
-                "Administrative Department : Department of Consumer Affairs",
-                "Ministry : Ministry of Consumer Affairs, Food & Public Distribution",
-                "Testing Areas : Coal, Solar Water Heaters and Utensils",
-                "New Laboratory : Varanasi",
-                "Digital Initiative : NTH Suvidha"
-            ],
-            "mcqs": [
-                {
-                    "question": "The National Test House functions under which department?",
-                    "options": [
-                        "Department of Consumer Affairs",
-                        "Department of Commerce",
-                        "Department of Science and Technology",
-                        "Department of Heavy Industry"
-                    ],
-                    "answer": "Department of Consumer Affairs"
-                },
-                {
-                    "question": "Which ministry has administrative control over NTH?",
-                    "options": [
-                        "Ministry of Consumer Affairs, Food & Public Distribution",
-                        "Ministry of Commerce and Industry",
-                        "Ministry of Science and Technology",
-                        "Ministry of Finance"
-                    ],
-                    "answer": "Ministry of Consumer Affairs, Food & Public Distribution"
-                },
-                {
-                    "question": "Which city received a new NTH laboratory?",
-                    "options": [
-                        "Varanasi",
-                        "Lucknow",
-                        "Patna",
-                        "Bhopal"
-                    ],
-                    "answer": "Varanasi"
-                },
-                {
-                    "question": "Which of the following is a testing facility mentioned in the NTH expansion?",
-                    "options": [
-                        "Coal Testing Facility",
-                        "Railway Ticket Testing",
-                        "Currency Testing",
-                        "Passport Testing"
-                    ],
-                    "answer": "Coal Testing Facility"
-                },
-                {
-                    "question": "The NTH initiatives mainly strengthen India's?",
-                    "options": [
-                        "Testing and Quality Infrastructure",
-                        "Sports Infrastructure",
-                        "Tourism Infrastructure",
-                        "Election Infrastructure"
-                    ],
-                    "answer": "Testing and Quality Infrastructure"
-                }
-            ]
-        },
-
-        {
-            "category": "Economy & Infrastructure",
-            "title": "India Continues Focus on Logistics and Infrastructure Growth",
-            "summary": "India continued to strengthen its logistics and infrastructure ecosystem in 2026, with major developments in ports, roads, urban transport and digital connectivity. The country's infrastructure push is aimed at reducing logistics costs, improving supply-chain efficiency and supporting long-term economic growth. These developments remain important for India's manufacturing and export competitiveness.",
-            "sourceName": "Vajiram & Ravi",
-            "sourceUrl": "https://vajiramandravi.com/current-affairs/news-editorials/29-08-2026/",
-            "staticGK": [
-                "Sector : Infrastructure",
-                "Key Area : Logistics",
-                "Objective : Reduce Logistics Costs",
-                "Focus : Supply Chain Efficiency",
-                "Economic Link : Manufacturing",
-                "Trade Link : Export Competitiveness",
-                "Major Infrastructure : Roads, Ports and Urban Transport"
-            ],
-            "mcqs": [
-                {
-                    "question": "Improved logistics infrastructure primarily helps reduce?",
-                    "options": [
-                        "Logistics Costs",
-                        "Literacy Rate",
-                        "Birth Rate",
-                        "Rainfall"
-                    ],
-                    "answer": "Logistics Costs"
-                },
-                {
-                    "question": "Efficient logistics directly improves?",
-                    "options": [
-                        "Supply Chain Efficiency",
-                        "Population Growth",
-                        "Forest Cover",
-                        "Ocean Temperature"
-                    ],
-                    "answer": "Supply Chain Efficiency"
-                },
-                {
-                    "question": "Infrastructure development is important for India's manufacturing sector because it can improve?",
-                    "options": [
-                        "Competitiveness",
-                        "Rainfall",
-                        "Population Density",
-                        "Wildlife Migration"
-                    ],
-                    "answer": "Competitiveness"
-                },
-                {
-                    "question": "Which of the following is a major logistics infrastructure component?",
-                    "options": [
-                        "Ports",
-                        "Schools only",
-                        "Hospitals only",
-                        "Museums only"
-                    ],
-                    "answer": "Ports"
-                },
-                {
-                    "question": "Better logistics can support India's?",
-                    "options": [
-                        "Export Competitiveness",
-                        "Only Domestic Tourism",
-                        "Only Agriculture",
-                        "Only Sports"
-                    ],
-                    "answer": "Export Competitiveness"
+                    "mcqs": [
+                        {
+                            "question": "Improved logistics infrastructure primarily helps reduce?",
+                            "options": [
+                                "Logistics Costs",
+                                "Literacy Rate",
+                                "Birth Rate",
+                                "Rainfall"
+                            ],
+                            "answer": "Logistics Costs"
+                        },
+                        {
+                            "question": "Efficient logistics directly improves?",
+                            "options": [
+                                "Supply Chain Efficiency",
+                                "Population Growth",
+                                "Forest Cover",
+                                "Ocean Temperature"
+                            ],
+                            "answer": "Supply Chain Efficiency"
+                        },
+                        {
+                            "question": "Infrastructure development is important for India's manufacturing sector because it can improve?",
+                            "options": [
+                                "Competitiveness",
+                                "Rainfall",
+                                "Population Density",
+                                "Wildlife Migration"
+                            ],
+                            "answer": "Competitiveness"
+                        },
+                        {
+                            "question": "Which of the following is a major logistics infrastructure component?",
+                            "options": [
+                                "Ports",
+                                "Schools only",
+                                "Hospitals only",
+                                "Museums only"
+                            ],
+                            "answer": "Ports"
+                        },
+                        {
+                            "question": "Better logistics can support India's?",
+                            "options": [
+                                "Export Competitiveness",
+                                "Only Domestic Tourism",
+                                "Only Agriculture",
+                                "Only Sports"
+                            ],
+                            "answer": "Export Competitiveness"
+                        }
+                    ]
                 }
             ]
         }
-
-    ]
-}
 
 
 
