@@ -2,13 +2,751 @@
     "month": "September 2026",
     "days": [
 
+      {
+    "id": "2026-09-01",
+    "date": "1 September 2026",
+    "totalNews": 10,
+    "description": "Top 10 Current Affairs of 1 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+    "news": [
         {
-            "id": "2026-09-01",
-            "date": "01 September 2026",
-            "totalNews": 0,
-            "description": "Top Current Affairs of 01 July 2026 for UPSC, SSC, Banking, Railway and Defence Exams.",
-            "news": []
+            "category": "Economy & Banking",
+            "title": "India's GDP Grows 7.8% in First Quarter of FY 2026-27",
+            "summary": "India's real Gross Domestic Product grew by 7.8% year-on-year in the April-June quarter of FY 2026-27. The strong growth was supported by manufacturing, investment and resilient domestic consumption. Prime Minister Narendra Modi welcomed the growth figures on 1 September 2026 and said they reflected growing economic confidence.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2305338&lang=2&reg=48",
+            "staticGK": [
+                "GDP Growth : 7.8%",
+                "Quarter : Q1 FY 2026-27",
+                "Period : April-June 2026",
+                "Growth Drivers : Manufacturing, Investment and Domestic Consumption",
+                "Country : India",
+                "Significance : Strong Economic Growth"
+            ],
+            "mcqs": [
+                {
+                    "question": "What was India's real GDP growth in the first quarter of FY 2026-27?",
+                    "options": [
+                        "7.8%",
+                        "6.8%",
+                        "7.1%",
+                        "8.5%"
+                    ],
+                    "answer": "7.8%"
+                },
+                {
+                    "question": "Q1 of FY 2026-27 covers which period?",
+                    "options": [
+                        "April-June 2026",
+                        "January-March 2026",
+                        "July-September 2026",
+                        "October-December 2026"
+                    ],
+                    "answer": "April-June 2026"
+                },
+                {
+                    "question": "GDP stands for?",
+                    "options": [
+                        "Gross Domestic Product",
+                        "General Domestic Product",
+                        "Gross Development Programme",
+                        "Government Domestic Production"
+                    ],
+                    "answer": "Gross Domestic Product"
+                },
+                {
+                    "question": "Which sector supported India's recent economic growth?",
+                    "options": [
+                        "Manufacturing",
+                        "Tourism only",
+                        "Fishing only",
+                        "Mining only"
+                    ],
+                    "answer": "Manufacturing"
+                },
+                {
+                    "question": "GDP primarily measures?",
+                    "options": [
+                        "Economic Output",
+                        "Population",
+                        "Literacy",
+                        "Rainfall"
+                    ],
+                    "answer": "Economic Output"
+                }
+            ]
         },
+        {
+            "category": "Railways",
+            "title": "Indian Railways Approves ₹272 Crore Adra-Joychandipahar Bypass Line",
+            "summary": "Indian Railways approved an 11-km bypass line between Adra end and Joychandipahar in South Eastern Railway at a cost of ₹272 crore. The project is designed to improve freight movement, reduce congestion and provide a dedicated connection to the upcoming third line. It is expected to support increasing industrial freight traffic.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2305319&lang=2&reg=48",
+            "staticGK": [
+                "Project : Adra-Joychandipahar Bypass Line",
+                "Length : 11 km",
+                "Cost : ₹272 crore",
+                "Railway Zone : South Eastern Railway",
+                "Purpose : Freight Capacity Enhancement",
+                "Date : 1 September 2026"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the length of the newly approved Adra-Joychandipahar bypass line?",
+                    "options": [
+                        "11 km",
+                        "15 km",
+                        "20 km",
+                        "25 km"
+                    ],
+                    "answer": "11 km"
+                },
+                {
+                    "question": "What is the approved cost of the bypass project?",
+                    "options": [
+                        "₹272 crore",
+                        "₹172 crore",
+                        "₹372 crore",
+                        "₹500 crore"
+                    ],
+                    "answer": "₹272 crore"
+                },
+                {
+                    "question": "The project falls under which railway zone?",
+                    "options": [
+                        "South Eastern Railway",
+                        "Eastern Railway",
+                        "Northern Railway",
+                        "Western Railway"
+                    ],
+                    "answer": "South Eastern Railway"
+                },
+                {
+                    "question": "The project mainly aims to improve?",
+                    "options": [
+                        "Freight Movement",
+                        "Passenger Tourism",
+                        "Metro Services",
+                        "Airport Connectivity"
+                    ],
+                    "answer": "Freight Movement"
+                },
+                {
+                    "question": "The bypass will help reduce?",
+                    "options": [
+                        "Railway Congestion",
+                        "Air Pollution only",
+                        "Road Tolls",
+                        "Ticket Prices"
+                    ],
+                    "answer": "Railway Congestion"
+                }
+            ]
+        },
+        {
+            "category": "Railways & Technology",
+            "title": "Kavach 4.0 Approved for Remaining 712 Route Kilometres of Moradabad Division",
+            "summary": "Indian Railways approved the implementation of Kavach Version 4.0 on the remaining 712 route kilometres of the Moradabad Division of Northern Railway. The project has an approved cost of ₹170 crore and will strengthen automatic train protection, railway signalling and overall train safety.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2305330&lang=2&reg=48",
+            "staticGK": [
+                "System : Kavach 4.0",
+                "Division : Moradabad Division",
+                "Railway : Northern Railway",
+                "Coverage : 712 Route Kilometres",
+                "Cost : ₹170 crore",
+                "Purpose : Automatic Train Protection"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which version of Kavach was approved for the remaining Moradabad Division routes?",
+                    "options": [
+                        "Kavach 4.0",
+                        "Kavach 2.0",
+                        "Kavach 3.0",
+                        "Kavach 5.0"
+                    ],
+                    "answer": "Kavach 4.0"
+                },
+                {
+                    "question": "How many route kilometres are covered under the project?",
+                    "options": [
+                        "712 km",
+                        "612 km",
+                        "812 km",
+                        "512 km"
+                    ],
+                    "answer": "712 km"
+                },
+                {
+                    "question": "Moradabad Division belongs to which railway?",
+                    "options": [
+                        "Northern Railway",
+                        "Western Railway",
+                        "Eastern Railway",
+                        "Central Railway"
+                    ],
+                    "answer": "Northern Railway"
+                },
+                {
+                    "question": "What is the approved cost of the Kavach 4.0 project?",
+                    "options": [
+                        "₹170 crore",
+                        "₹270 crore",
+                        "₹100 crore",
+                        "₹370 crore"
+                    ],
+                    "answer": "₹170 crore"
+                },
+                {
+                    "question": "Kavach is primarily associated with?",
+                    "options": [
+                        "Automatic Train Protection",
+                        "Railway Catering",
+                        "Ticket Booking",
+                        "Station Cleaning"
+                    ],
+                    "answer": "Automatic Train Protection"
+                }
+            ]
+        },
+        {
+            "category": "Science & Technology",
+            "title": "Technology Development Board Celebrates 30th Foundation Day",
+            "summary": "The Technology Development Board celebrated its 30th Foundation Day on 1 September 2026 at Manekshaw Centre in New Delhi. The event was attended by Union Minister of State for Science and Technology Dr. Jitendra Singh. The Board plays an important role in supporting the commercialisation of indigenous technologies and technological innovation.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/MediaInvitationShare.aspx?InvitationID=159352&lang=2&reg=48",
+            "staticGK": [
+                "Organisation : Technology Development Board",
+                "Foundation Day : 30th",
+                "Date : 1 September 2026",
+                "Venue : Manekshaw Centre, New Delhi",
+                "Minister : Dr. Jitendra Singh",
+                "Focus : Technology Development and Commercialisation"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which organisation celebrated its 30th Foundation Day on 1 September 2026?",
+                    "options": [
+                        "Technology Development Board",
+                        "NITI Aayog",
+                        "ISRO",
+                        "DRDO"
+                    ],
+                    "answer": "Technology Development Board"
+                },
+                {
+                    "question": "Where was the 30th Foundation Day celebration held?",
+                    "options": [
+                        "Manekshaw Centre, New Delhi",
+                        "Vigyan Bhawan",
+                        "India Gate",
+                        "Bharat Mandapam"
+                    ],
+                    "answer": "Manekshaw Centre, New Delhi"
+                },
+                {
+                    "question": "Who attended the event as Chief Guest?",
+                    "options": [
+                        "Dr. Jitendra Singh",
+                        "Amit Shah",
+                        "Rajnath Singh",
+                        "Piyush Goyal"
+                    ],
+                    "answer": "Dr. Jitendra Singh"
+                },
+                {
+                    "question": "The Technology Development Board is mainly associated with?",
+                    "options": [
+                        "Technology Development and Commercialisation",
+                        "Banking Regulation",
+                        "Railway Operations",
+                        "Agricultural Marketing"
+                    ],
+                    "answer": "Technology Development and Commercialisation"
+                },
+                {
+                    "question": "The Technology Development Board is associated with which ministry?",
+                    "options": [
+                        "Ministry of Science and Technology",
+                        "Ministry of Finance",
+                        "Ministry of Defence",
+                        "Ministry of Railways"
+                    ],
+                    "answer": "Ministry of Science and Technology"
+                }
+            ]
+        },
+        {
+            "category": "Sports",
+            "title": "Vaibhav Sooryavanshi Becomes Youngest Player to Score Duleep Trophy Fifty",
+            "summary": "Teenage Indian cricketer Vaibhav Sooryavanshi created history in the Duleep Trophy by becoming the youngest player to score a half-century in the tournament. He reached the milestone in 42 balls at the age of 15 years and 157 days, surpassing the previous record held by Laxman Singh from the 1969 edition.",
+            "sourceName": "Indian Express",
+            "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-1-2026-j-k-to-host-first-international-film-festival-vaibhav-sooryavanshi-becomes-youngest-player-to-smash-half-century-in-duleep-trophy-10856642/",
+            "staticGK": [
+                "Player : Vaibhav Sooryavanshi",
+                "Tournament : Duleep Trophy",
+                "Age : 15 years 157 days",
+                "Fifty : 42 balls",
+                "Previous Record Holder : Laxman Singh",
+                "Sport : Cricket"
+            ],
+            "mcqs": [
+                {
+                    "question": "Who became the youngest player to score a half-century in the Duleep Trophy?",
+                    "options": [
+                        "Vaibhav Sooryavanshi",
+                        "Yashasvi Jaiswal",
+                        "Ishan Kishan",
+                        "Shubman Gill"
+                    ],
+                    "answer": "Vaibhav Sooryavanshi"
+                },
+                {
+                    "question": "At what age did Vaibhav Sooryavanshi achieve the record?",
+                    "options": [
+                        "15 years 157 days",
+                        "16 years 157 days",
+                        "14 years 200 days",
+                        "17 years 100 days"
+                    ],
+                    "answer": "15 years 157 days"
+                },
+                {
+                    "question": "In how many balls did he reach his half-century?",
+                    "options": [
+                        "42 balls",
+                        "45 balls",
+                        "50 balls",
+                        "36 balls"
+                    ],
+                    "answer": "42 balls"
+                },
+                {
+                    "question": "Who previously held the youngest Duleep Trophy fifty record?",
+                    "options": [
+                        "Laxman Singh",
+                        "Sachin Tendulkar",
+                        "Rahul Dravid",
+                        "Virat Kohli"
+                    ],
+                    "answer": "Laxman Singh"
+                },
+                {
+                    "question": "Duleep Trophy is associated with which sport?",
+                    "options": [
+                        "Cricket",
+                        "Hockey",
+                        "Football",
+                        "Badminton"
+                    ],
+                    "answer": "Cricket"
+                }
+            ]
+        },
+        {
+            "category": "Sports",
+            "title": "India Defeats Thailand by 94 Runs in Women's Asia Cup",
+            "summary": "India began its Women's Asia Cup campaign with a dominant 94-run victory over Thailand. Shafali Verma scored 64 runs as India posted 159/9, while India's bowlers restricted Thailand to 65 runs. Nandini Sharma and Deepti Sharma took three wickets each.",
+            "sourceName": "Indian Express",
+            "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-1-2026-j-k-to-host-first-international-film-festival-vaibhav-sooryavanshi-becomes-youngest-player-to-smash-half-century-in-duleep-trophy-10856642/",
+            "staticGK": [
+                "Tournament : Women's Asia Cup",
+                "Teams : India and Thailand",
+                "Winner : India",
+                "Margin : 94 Runs",
+                "India Score : 159/9",
+                "Top Scorer : Shafali Verma - 64 Runs"
+            ],
+            "mcqs": [
+                {
+                    "question": "India defeated which team in its opening Women's Asia Cup match?",
+                    "options": [
+                        "Thailand",
+                        "Sri Lanka",
+                        "Bangladesh",
+                        "Pakistan"
+                    ],
+                    "answer": "Thailand"
+                },
+                {
+                    "question": "By how many runs did India defeat Thailand?",
+                    "options": [
+                        "94 runs",
+                        "84 runs",
+                        "104 runs",
+                        "74 runs"
+                    ],
+                    "answer": "94 runs"
+                },
+                {
+                    "question": "Who scored 64 runs for India?",
+                    "options": [
+                        "Shafali Verma",
+                        "Smriti Mandhana",
+                        "Harmanpreet Kaur",
+                        "Deepti Sharma"
+                    ],
+                    "answer": "Shafali Verma"
+                },
+                {
+                    "question": "What was India's score?",
+                    "options": [
+                        "159/9",
+                        "169/8",
+                        "149/7",
+                        "179/6"
+                    ],
+                    "answer": "159/9"
+                },
+                {
+                    "question": "Who took three wickets for India?",
+                    "options": [
+                        "Nandini Sharma and Deepti Sharma",
+                        "Shafali Verma and Smriti Mandhana",
+                        "Harmanpreet Kaur and Richa Ghosh",
+                        "Renuka Singh and Jemimah Rodrigues"
+                    ],
+                    "answer": "Nandini Sharma and Deepti Sharma"
+                }
+            ]
+        },
+        {
+            "category": "Important Days & National Affairs",
+            "title": "Akashvani FM Gold Completes 25 Years",
+            "summary": "Akashvani's FM Gold service completed 25 years on 1 September 2026. It was launched on 1 September 2001 and was originally known as AIR FM-II. The channel was introduced as an infotainment service combining news, current affairs and entertainment.",
+            "sourceName": "News On AIR",
+            "sourceUrl": "https://newsonair.gov.in/akashvanis-fm-gold-celebrates-25th-anniversary/",
+            "staticGK": [
+                "Service : Akashvani FM Gold",
+                "Anniversary : 25th",
+                "Launch Date : 1 September 2001",
+                "Original Name : AIR FM-II",
+                "Type : Infotainment Channel",
+                "Content : News, Current Affairs and Entertainment"
+            ],
+            "mcqs": [
+                {
+                    "question": "Akashvani FM Gold completed how many years on 1 September 2026?",
+                    "options": [
+                        "25 years",
+                        "20 years",
+                        "30 years",
+                        "15 years"
+                    ],
+                    "answer": "25 years"
+                },
+                {
+                    "question": "When was FM Gold launched?",
+                    "options": [
+                        "1 September 2001",
+                        "1 September 2000",
+                        "15 August 2001",
+                        "26 January 2002"
+                    ],
+                    "answer": "1 September 2001"
+                },
+                {
+                    "question": "What was FM Gold originally known as?",
+                    "options": [
+                        "AIR FM-II",
+                        "AIR FM-I",
+                        "AIR Gold",
+                        "AIR News FM"
+                    ],
+                    "answer": "AIR FM-II"
+                },
+                {
+                    "question": "FM Gold combines news, current affairs and?",
+                    "options": [
+                        "Entertainment",
+                        "Only Sports",
+                        "Only Education",
+                        "Only Music"
+                    ],
+                    "answer": "Entertainment"
+                },
+                {
+                    "question": "FM Gold is associated with which broadcaster?",
+                    "options": [
+                        "Akashvani",
+                        "Doordarshan",
+                        "Prasar Bharati Sports",
+                        "Press Information Bureau"
+                    ],
+                    "answer": "Akashvani"
+                }
+            ]
+        },
+        {
+            "category": "Government & Recruitment",
+            "title": "India Post Opens Registration for 23,757 Gramin Dak Sevak Posts",
+            "summary": "India Post began the registration process for Gramin Dak Sevak Schedule-II recruitment 2026. A total of 23,757 vacancies have been announced for GDS posts including Branch Postmaster, Assistant Branch Postmaster and Dak Sevak. The recruitment is open across India and requires candidates to have passed Class 10 along with basic computer and cycling knowledge.",
+            "sourceName": "India Post / Recruitment Reports",
+            "sourceUrl": "https://www.indiapostgdsonline.gov.in/",
+            "staticGK": [
+                "Recruitment : India Post GDS Schedule-II 2026",
+                "Vacancies : 23,757",
+                "Posts : BPM, ABPM and Dak Sevak",
+                "Minimum Qualification : Class 10 Pass",
+                "Mode : Online",
+                "Recruitment Area : All India"
+            ],
+            "mcqs": [
+                {
+                    "question": "How many vacancies were announced under India Post GDS Schedule-II 2026?",
+                    "options": [
+                        "23,757",
+                        "13,757",
+                        "25,000",
+                        "20,500"
+                    ],
+                    "answer": "23,757"
+                },
+                {
+                    "question": "GDS stands for?",
+                    "options": [
+                        "Gramin Dak Sevak",
+                        "General Dak Service",
+                        "Government Delivery Service",
+                        "Gramin Delivery System"
+                    ],
+                    "answer": "Gramin Dak Sevak"
+                },
+                {
+                    "question": "What is the minimum educational qualification for GDS recruitment?",
+                    "options": [
+                        "Class 10 Pass",
+                        "Class 12 Pass",
+                        "Graduation",
+                        "Post Graduation"
+                    ],
+                    "answer": "Class 10 Pass"
+                },
+                {
+                    "question": "Which post is included under GDS recruitment?",
+                    "options": [
+                        "Branch Postmaster",
+                        "Income Tax Officer",
+                        "Railway Clerk",
+                        "Police Inspector"
+                    ],
+                    "answer": "Branch Postmaster"
+                },
+                {
+                    "question": "The GDS recruitment is conducted by?",
+                    "options": [
+                        "India Post",
+                        "UPSC",
+                        "SSC",
+                        "Railway Recruitment Board"
+                    ],
+                    "answer": "India Post"
+                }
+            ]
+        },
+        {
+            "category": "Education & Recruitment",
+            "title": "AIIMS Cancels Jaipur CRE-5 Re-Examination at Affected Centre",
+            "summary": "AIIMS cancelled the Common Recruitment Examination-5 examination at an affected test centre in Jaipur after technical and power-related problems disrupted the examination. A fresh examination has been scheduled for affected candidates. The CRE-5 recruitment covers various Group B and Group C non-faculty posts in AIIMS and participating institutions.",
+            "sourceName": "AIIMS / Recruitment Reports",
+            "sourceUrl": "https://www.aiimsexams.ac.in/",
+            "staticGK": [
+                "Exam : AIIMS Common Recruitment Examination-5",
+                "Abbreviation : CRE-5",
+                "Location : Jaipur",
+                "Issue : Technical/Power Failure",
+                "Action : Examination Cancelled at Affected Centre",
+                "Purpose : Recruitment to Group B and Group C Posts"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which examination was affected by technical problems in Jaipur?",
+                    "options": [
+                        "AIIMS CRE-5",
+                        "NEET-UG",
+                        "UPSC CSE",
+                        "SSC CGL"
+                    ],
+                    "answer": "AIIMS CRE-5"
+                },
+                {
+                    "question": "CRE-5 is conducted by which organisation?",
+                    "options": [
+                        "AIIMS",
+                        "NTA",
+                        "UPSC",
+                        "SSC"
+                    ],
+                    "answer": "AIIMS"
+                },
+                {
+                    "question": "Where was the affected examination centre located?",
+                    "options": [
+                        "Jaipur",
+                        "Delhi",
+                        "Lucknow",
+                        "Patna"
+                    ],
+                    "answer": "Jaipur"
+                },
+                {
+                    "question": "What caused disruption at the affected centre?",
+                    "options": [
+                        "Technical/Power Failure",
+                        "Flood",
+                        "Earthquake",
+                        "Strike"
+                    ],
+                    "answer": "Technical/Power Failure"
+                },
+                {
+                    "question": "CRE-5 mainly recruits candidates for?",
+                    "options": [
+                        "Group B and Group C Non-Faculty Posts",
+                        "Only Medical PG Seats",
+                        "Only Nursing Courses",
+                        "Only Engineering Seats"
+                    ],
+                    "answer": "Group B and Group C Non-Faculty Posts"
+                }
+            ]
+        },
+        {
+            "category": "International Affairs",
+            "title": "SCO Summit 2026 Continues in Bishkek",
+            "summary": "The 26th Summit of the Shanghai Cooperation Organisation continued in Bishkek, Kyrgyzstan, from 31 August to 1 September 2026. The summit focuses on regional security, connectivity, trade, energy, development and cooperation among member states. India is participating in the summit led by Prime Minister Narendra Modi.",
+            "sourceName": "Vajiram & Ravi",
+            "sourceUrl": "https://vajiramandravi.com/current-affairs/sco-summit-2026/",
+            "staticGK": [
+                "Organisation : Shanghai Cooperation Organisation",
+                "Summit : 26th SCO Summit",
+                "Venue : Bishkek, Kyrgyzstan",
+                "Dates : 31 August - 1 September 2026",
+                "Key Areas : Security, Connectivity, Trade and Energy",
+                "Indian Leader : Narendra Modi"
+            ],
+            "mcqs": [
+                {
+                    "question": "Where is the 26th SCO Summit being held?",
+                    "options": [
+                        "Bishkek",
+                        "Tashkent",
+                        "Astana",
+                        "Dushanbe"
+                    ],
+                    "answer": "Bishkek"
+                },
+                {
+                    "question": "Bishkek is the capital of?",
+                    "options": [
+                        "Kyrgyzstan",
+                        "Kazakhstan",
+                        "Uzbekistan",
+                        "Tajikistan"
+                    ],
+                    "answer": "Kyrgyzstan"
+                },
+                {
+                    "question": "SCO stands for?",
+                    "options": [
+                        "Shanghai Cooperation Organisation",
+                        "South Cooperation Organisation",
+                        "Strategic Countries Organisation",
+                        "Shanghai Council Organisation"
+                    ],
+                    "answer": "Shanghai Cooperation Organisation"
+                },
+                {
+                    "question": "Which Indian leader is participating in the SCO Summit?",
+                    "options": [
+                        "Narendra Modi",
+                        "Amit Shah",
+                        "Rajnath Singh",
+                        "S. Jaishankar"
+                    ],
+                    "answer": "Narendra Modi"
+                },
+                {
+                    "question": "Which of the following is a key SCO focus area?",
+                    "options": [
+                        "Regional Security",
+                        "International Cricket",
+                        "Film Production",
+                        "Olympic Games"
+                    ],
+                    "answer": "Regional Security"
+                }
+            ]
+        },
+        {
+            "category": "Economy & Infrastructure",
+            "title": "Six Railway Lines Approved Under Hybrid Annuity Model",
+            "summary": "The Public Private Partnership Appraisal Committee under the Ministry of Finance approved six railway line projects covering approximately 647 km. The projects will be developed under the Hybrid Annuity Model, under which the government and private sector share project costs and risks. The projects are aimed at improving freight and railway infrastructure capacity.",
+            "sourceName": "Indian Express",
+            "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-1-2026-j-k-to-host-first-international-film-festival-vaibhav-sooryavanshi-becomes-youngest-player-to-smash-half-century-in-duleep-trophy-10856642/",
+            "staticGK": [
+                "Committee : Public Private Partnership Appraisal Committee",
+                "Ministry : Ministry of Finance",
+                "Projects : Six Railway Lines",
+                "Total Length : 647 km",
+                "Model : Hybrid Annuity Model",
+                "Focus : Railway Infrastructure and Freight Capacity"
+            ],
+            "mcqs": [
+                {
+                    "question": "How many railway line projects were approved under the Hybrid Annuity Model?",
+                    "options": [
+                        "Six",
+                        "Four",
+                        "Eight",
+                        "Ten"
+                    ],
+                    "answer": "Six"
+                },
+                {
+                    "question": "What is the combined length of the approved railway lines?",
+                    "options": [
+                        "647 km",
+                        "547 km",
+                        "747 km",
+                        "847 km"
+                    ],
+                    "answer": "647 km"
+                },
+                {
+                    "question": "Which committee approved the projects?",
+                    "options": [
+                        "Public Private Partnership Appraisal Committee",
+                        "Economic Affairs Committee",
+                        "Railway Board",
+                        "NITI Aayog"
+                    ],
+                    "answer": "Public Private Partnership Appraisal Committee"
+                },
+                {
+                    "question": "HAM stands for?",
+                    "options": [
+                        "Hybrid Annuity Model",
+                        "Highway Annuity Mechanism",
+                        "Hybrid Asset Management",
+                        "Highway Allocation Model"
+                    ],
+                    "answer": "Hybrid Annuity Model"
+                },
+                {
+                    "question": "The projects are expected to improve?",
+                    "options": [
+                        "Railway Infrastructure and Freight Capacity",
+                        "Only Tourism",
+                        "Only Passenger Fares",
+                        "Only Railway Catering"
+                    ],
+                    "answer": "Railway Infrastructure and Freight Capacity"
+                }
+            ]
+        }
+    ]
+},
 
         {
             "id": "2026-09-02",
