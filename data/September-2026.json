@@ -748,13 +748,751 @@
     ]
 },
 
+       {
+    "id": "2026-09-02",
+    "date": "2 September 2026",
+    "totalNews": 10,
+    "description": "Top 10 Current Affairs of 2 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+    "news": [
         {
-            "id": "2026-09-02",
-            "date": "02 September 2026",
-            "totalNews": 0,
-            "description": "Top Current Affairs of 02 July 2026 for UPSC, SSC, Banking, Railway and Defence Exams.",
-            "news": []
+            "category": "National Affairs & Water Security",
+            "title": "PM Modi to Address Departmental Summit on Water Security",
+            "summary": "Prime Minister Narendra Modi is scheduled to participate in the valedictory session of the Departmental Summit of the Ministry of Jal Shakti on 2 September 2026 at Sushma Swaraj Bhawan, New Delhi. The two-day summit focuses on water infrastructure, Jal Sanchay Jan Bhagidari, drinking water source sustainability and Jal Jeevan Mission 2.0. The summit is the first in a planned series of Departmental Summits aimed at strengthening cooperative federalism and Centre-State collaboration.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2305533&lang=1&reg=3",
+            "staticGK": [
+                "Event : Departmental Summit on Water Security",
+                "Date : 1-2 September 2026",
+                "Venue : Sushma Swaraj Bhawan, New Delhi",
+                "Ministry : Ministry of Jal Shakti",
+                "Key Areas : Water Infrastructure, Jal Sanchay Jan Bhagidari and Jal Jeevan Mission 2.0",
+                "Prime Minister : Narendra Modi"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which ministry is organising the Departmental Summit on Water Security?",
+                    "options": [
+                        "Ministry of Jal Shakti",
+                        "Ministry of Environment",
+                        "Ministry of Agriculture",
+                        "Ministry of Rural Development"
+                    ],
+                    "answer": "Ministry of Jal Shakti"
+                },
+                {
+                    "question": "Where is the Departmental Summit on Water Security being held?",
+                    "options": [
+                        "Sushma Swaraj Bhawan, New Delhi",
+                        "Vigyan Bhawan, New Delhi",
+                        "Bharat Mandapam, New Delhi",
+                        "Rashtrapati Bhavan"
+                    ],
+                    "answer": "Sushma Swaraj Bhawan, New Delhi"
+                },
+                {
+                    "question": "Who is scheduled to participate in the valedictory session?",
+                    "options": [
+                        "Narendra Modi",
+                        "Amit Shah",
+                        "Rajnath Singh",
+                        "Shivraj Singh Chouhan"
+                    ],
+                    "answer": "Narendra Modi"
+                },
+                {
+                    "question": "Which mission is one of the key focus areas of the summit?",
+                    "options": [
+                        "Jal Jeevan Mission 2.0",
+                        "PM-KISAN",
+                        "PMAY",
+                        "PM SVANidhi"
+                    ],
+                    "answer": "Jal Jeevan Mission 2.0"
+                },
+                {
+                    "question": "The summit aims to strengthen which form of cooperation?",
+                    "options": [
+                        "Cooperative Federalism",
+                        "Military Cooperation",
+                        "International Trade",
+                        "Judicial Cooperation"
+                    ],
+                    "answer": "Cooperative Federalism"
+                }
+            ]
+        },
+        {
+            "category": "Economy & Banking",
+            "title": "India's GDP Growth Reaches 7.8% in Q1 FY 2026-27",
+            "summary": "India's real Gross Domestic Product grew by 7.8% year-on-year in the April-June quarter of FY 2026-27. The growth exceeded the RBI's earlier 7% forecast and was supported by strong manufacturing and services activity. Manufacturing expanded by 9.2%, while services grew by 10% during the quarter.",
+            "sourceName": "PIB / Indian Express",
+            "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304949&lang=1&reg=48",
+            "staticGK": [
+                "GDP Growth : 7.8%",
+                "Quarter : Q1 FY 2026-27",
+                "Period : April-June 2026",
+                "Manufacturing Growth : 9.2%",
+                "Services Growth : 10%",
+                "RBI Earlier Forecast : 7%"
+            ],
+            "mcqs": [
+                {
+                    "question": "What was India's real GDP growth in Q1 FY 2026-27?",
+                    "options": [
+                        "7.8%",
+                        "7.0%",
+                        "6.8%",
+                        "8.5%"
+                    ],
+                    "answer": "7.8%"
+                },
+                {
+                    "question": "Q1 FY 2026-27 covers which period?",
+                    "options": [
+                        "April-June 2026",
+                        "January-March 2026",
+                        "July-September 2026",
+                        "October-December 2026"
+                    ],
+                    "answer": "April-June 2026"
+                },
+                {
+                    "question": "What was the manufacturing growth during the quarter?",
+                    "options": [
+                        "9.2%",
+                        "7.8%",
+                        "10.5%",
+                        "6.2%"
+                    ],
+                    "answer": "9.2%"
+                },
+                {
+                    "question": "What was the services sector growth?",
+                    "options": [
+                        "10%",
+                        "8%",
+                        "7%",
+                        "9%"
+                    ],
+                    "answer": "10%"
+                },
+                {
+                    "question": "GDP stands for?",
+                    "options": [
+                        "Gross Domestic Product",
+                        "General Domestic Product",
+                        "Gross Development Programme",
+                        "Government Domestic Production"
+                    ],
+                    "answer": "Gross Domestic Product"
+                }
+            ]
+        },
+        {
+            "category": "International Affairs",
+            "title": "26th SCO Summit Held in Bishkek, Kyrgyzstan",
+            "summary": "The 26th Summit of the Shanghai Cooperation Organisation was held in Bishkek, Kyrgyzstan, from 31 August to 1 September 2026. Prime Minister Narendra Modi participated in the summit and highlighted India's priorities of Security, Connectivity and Opportunity. India also stressed the need for stronger cooperation against terrorism, separatism and extremism.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2304395&lang=1&reg=48",
+            "staticGK": [
+                "Organisation : Shanghai Cooperation Organisation",
+                "Summit : 26th SCO Summit",
+                "Venue : Bishkek, Kyrgyzstan",
+                "Dates : 31 August - 1 September 2026",
+                "India's Priorities : Security, Connectivity and Opportunity",
+                "Indian Leader : Narendra Modi"
+            ],
+            "mcqs": [
+                {
+                    "question": "Where was the 26th SCO Summit held?",
+                    "options": [
+                        "Bishkek",
+                        "Tashkent",
+                        "Astana",
+                        "Dushanbe"
+                    ],
+                    "answer": "Bishkek"
+                },
+                {
+                    "question": "Bishkek is the capital of which country?",
+                    "options": [
+                        "Kyrgyzstan",
+                        "Kazakhstan",
+                        "Uzbekistan",
+                        "Tajikistan"
+                    ],
+                    "answer": "Kyrgyzstan"
+                },
+                {
+                    "question": "SCO stands for?",
+                    "options": [
+                        "Shanghai Cooperation Organisation",
+                        "South Cooperation Organisation",
+                        "Strategic Countries Organisation",
+                        "Shanghai Council Organisation"
+                    ],
+                    "answer": "Shanghai Cooperation Organisation"
+                },
+                {
+                    "question": "Who represented India at the SCO Summit?",
+                    "options": [
+                        "Narendra Modi",
+                        "Amit Shah",
+                        "S. Jaishankar",
+                        "Rajnath Singh"
+                    ],
+                    "answer": "Narendra Modi"
+                },
+                {
+                    "question": "Which of the following was highlighted as an Indian priority at the SCO?",
+                    "options": [
+                        "Security",
+                        "International Cricket",
+                        "Film Production",
+                        "Olympic Games"
+                    ],
+                    "answer": "Security"
+                }
+            ]
+        },
+        {
+            "category": "Railways & Technology",
+            "title": "Kavach 4.0 Approved for 712 Route Kilometres of Moradabad Division",
+            "summary": "Indian Railways has approved the implementation of Kavach Version 4.0 on the remaining 712 route kilometres of the Moradabad Division of Northern Railway. The project has an approved cost of ₹170 crore and is aimed at strengthening automatic train protection, signalling and overall railway safety.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2305330&lang=2&reg=48",
+            "staticGK": [
+                "System : Kavach 4.0",
+                "Division : Moradabad Division",
+                "Railway : Northern Railway",
+                "Coverage : 712 Route Kilometres",
+                "Cost : ₹170 crore",
+                "Purpose : Automatic Train Protection"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which version of Kavach has been approved for the Moradabad Division?",
+                    "options": [
+                        "Kavach 4.0",
+                        "Kavach 2.0",
+                        "Kavach 3.0",
+                        "Kavach 5.0"
+                    ],
+                    "answer": "Kavach 4.0"
+                },
+                {
+                    "question": "How many route kilometres are covered?",
+                    "options": [
+                        "712 km",
+                        "612 km",
+                        "812 km",
+                        "512 km"
+                    ],
+                    "answer": "712 km"
+                },
+                {
+                    "question": "Moradabad Division belongs to which railway?",
+                    "options": [
+                        "Northern Railway",
+                        "Western Railway",
+                        "Eastern Railway",
+                        "Central Railway"
+                    ],
+                    "answer": "Northern Railway"
+                },
+                {
+                    "question": "What is the approved cost of the project?",
+                    "options": [
+                        "₹170 crore",
+                        "₹270 crore",
+                        "₹100 crore",
+                        "₹370 crore"
+                    ],
+                    "answer": "₹170 crore"
+                },
+                {
+                    "question": "Kavach is primarily associated with?",
+                    "options": [
+                        "Automatic Train Protection",
+                        "Railway Catering",
+                        "Ticket Booking",
+                        "Station Cleaning"
+                    ],
+                    "answer": "Automatic Train Protection"
+                }
+            ]
+        },
+        {
+            "category": "Government & Consumer Affairs",
+            "title": "Government Reduces Sugar Stockholding Limit for Dealers",
+            "summary": "The government has reduced the maximum sugar stockholding limit for dealers from 4,000 quintals to 2,000 quintals, effective from 15 September 2026. The measure is aimed at improving market availability, preventing excessive stock accumulation and supporting stable sugar prices.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305404&lang=1&reg=3",
+            "staticGK": [
+                "Commodity : Sugar",
+                "New Stockholding Limit : 2,000 quintals",
+                "Earlier Limit : 4,000 quintals",
+                "Effective From : 15 September 2026",
+                "Authority : Government of India",
+                "Purpose : Market Availability and Price Stability"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the new sugar stockholding limit for dealers?",
+                    "options": [
+                        "2,000 quintals",
+                        "4,000 quintals",
+                        "3,000 quintals",
+                        "5,000 quintals"
+                    ],
+                    "answer": "2,000 quintals"
+                },
+                {
+                    "question": "What was the earlier stockholding limit?",
+                    "options": [
+                        "4,000 quintals",
+                        "2,000 quintals",
+                        "5,000 quintals",
+                        "1,000 quintals"
+                    ],
+                    "answer": "4,000 quintals"
+                },
+                {
+                    "question": "From which date will the revised limit apply?",
+                    "options": [
+                        "15 September 2026",
+                        "1 September 2026",
+                        "2 September 2026",
+                        "30 September 2026"
+                    ],
+                    "answer": "15 September 2026"
+                },
+                {
+                    "question": "Which commodity is covered by the new stockholding limit?",
+                    "options": [
+                        "Sugar",
+                        "Wheat",
+                        "Rice",
+                        "Cotton"
+                    ],
+                    "answer": "Sugar"
+                },
+                {
+                    "question": "The measure primarily aims to improve?",
+                    "options": [
+                        "Market Availability and Price Stability",
+                        "Railway Safety",
+                        "Export of Cars",
+                        "Tourism"
+                    ],
+                    "answer": "Market Availability and Price Stability"
+                }
+            ]
+        },
+        {
+            "category": "Sports",
+            "title": "Lionel Messi Announces Retirement from International Football",
+            "summary": "Argentine football star Lionel Messi has announced his retirement from international football at the age of 39, ending a 21-year career with Argentina. Messi leaves international football as Argentina's record scorer with 125 goals in 207 appearances. He won the 2022 FIFA World Cup and two Copa América titles with Argentina.",
+            "sourceName": "Indian Express",
+            "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-2-2026-pm-modi-urges-citizens-to-promote-wed-in-india-campaign-lionel-messi-retires-from-international-football-10858577/",
+            "staticGK": [
+                "Player : Lionel Messi",
+                "Country : Argentina",
+                "Age : 39 years",
+                "International Goals : 125",
+                "International Appearances : 207",
+                "Major Titles : 2022 FIFA World Cup and Two Copa América Titles"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which footballer announced retirement from international football?",
+                    "options": [
+                        "Lionel Messi",
+                        "Cristiano Ronaldo",
+                        "Neymar",
+                        "Kylian Mbappé"
+                    ],
+                    "answer": "Lionel Messi"
+                },
+                {
+                    "question": "Lionel Messi represents which country?",
+                    "options": [
+                        "Argentina",
+                        "Brazil",
+                        "Spain",
+                        "Portugal"
+                    ],
+                    "answer": "Argentina"
+                },
+                {
+                    "question": "How many international goals had Messi scored according to the report?",
+                    "options": [
+                        "125",
+                        "115",
+                        "135",
+                        "105"
+                    ],
+                    "answer": "125"
+                },
+                {
+                    "question": "How many international appearances did Messi have?",
+                    "options": [
+                        "207",
+                        "197",
+                        "217",
+                        "187"
+                    ],
+                    "answer": "207"
+                },
+                {
+                    "question": "Which FIFA World Cup did Messi win with Argentina?",
+                    "options": [
+                        "2022",
+                        "2018",
+                        "2014",
+                        "2026"
+                    ],
+                    "answer": "2022"
+                }
+            ]
+        },
+        {
+            "category": "Sports",
+            "title": "India Announces Squad for Afghanistan T20I Series",
+            "summary": "India has announced its squad for the upcoming three-match T20I series against Afghanistan, scheduled in Delhi from 13 to 17 September 2026. Sanju Samson, Jasprit Bumrah and Varun Chakravarthy return to the squad, while Hardik Pandya remains unavailable due to fitness concerns.",
+            "sourceName": "Times of India",
+            "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samson-jasprit-bumrah-return-for-afghanistan-t20i-series-hardik-pandya-unfit/articleshow/133697458.cms",
+            "staticGK": [
+                "Series : India vs Afghanistan T20I",
+                "Matches : Three T20Is",
+                "Venue : Delhi",
+                "Dates : 13-17 September 2026",
+                "Returning Players : Sanju Samson, Jasprit Bumrah and Varun Chakravarthy",
+                "Hardik Pandya : Unavailable due to Fitness Concerns"
+            ],
+            "mcqs": [
+                {
+                    "question": "India will play a T20I series against which country?",
+                    "options": [
+                        "Afghanistan",
+                        "Australia",
+                        "England",
+                        "South Africa"
+                    ],
+                    "answer": "Afghanistan"
+                },
+                {
+                    "question": "How many T20I matches are scheduled in the series?",
+                    "options": [
+                        "Three",
+                        "Two",
+                        "Four",
+                        "Five"
+                    ],
+                    "answer": "Three"
+                },
+                {
+                    "question": "Where will the series be played?",
+                    "options": [
+                        "Delhi",
+                        "Mumbai",
+                        "Chennai",
+                        "Kolkata"
+                    ],
+                    "answer": "Delhi"
+                },
+                {
+                    "question": "Which Indian fast bowler returned to the squad?",
+                    "options": [
+                        "Jasprit Bumrah",
+                        "Mohammed Shami",
+                        "Mohammed Siraj",
+                        "Arshdeep Singh"
+                    ],
+                    "answer": "Jasprit Bumrah"
+                },
+                {
+                    "question": "Which player remains unavailable due to fitness concerns?",
+                    "options": [
+                        "Hardik Pandya",
+                        "Jasprit Bumrah",
+                        "Sanju Samson",
+                        "Varun Chakravarthy"
+                    ],
+                    "answer": "Hardik Pandya"
+                }
+            ]
+        },
+        {
+            "category": "Government & Recruitment",
+            "title": "India Post GDS Recruitment 2026 Opens Registration",
+            "summary": "India Post has opened registration for the Gramin Dak Sevak recruitment drive for 2026. The recruitment includes thousands of vacancies for Branch Postmaster, Assistant Branch Postmaster and Dak Sevak posts. The recruitment is aimed primarily at Class 10 pass candidates and applications are submitted online.",
+            "sourceName": "India Post",
+            "sourceUrl": "https://indiapostgdsonline.gov.in/",
+            "staticGK": [
+                "Recruitment : Gramin Dak Sevak 2026",
+                "Posts : BPM, ABPM and Dak Sevak",
+                "Minimum Qualification : Class 10 Pass",
+                "Mode : Online",
+                "Organisation : India Post",
+                "Ministry : Ministry of Communications"
+            ],
+            "mcqs": [
+                {
+                    "question": "GDS stands for?",
+                    "options": [
+                        "Gramin Dak Sevak",
+                        "General Dak Service",
+                        "Government Delivery Service",
+                        "Gramin Delivery System"
+                    ],
+                    "answer": "Gramin Dak Sevak"
+                },
+                {
+                    "question": "What is the minimum educational qualification generally required for GDS recruitment?",
+                    "options": [
+                        "Class 10 Pass",
+                        "Class 12 Pass",
+                        "Graduation",
+                        "Post Graduation"
+                    ],
+                    "answer": "Class 10 Pass"
+                },
+                {
+                    "question": "Which organisation conducts GDS recruitment?",
+                    "options": [
+                        "India Post",
+                        "UPSC",
+                        "SSC",
+                        "Railway Recruitment Board"
+                    ],
+                    "answer": "India Post"
+                },
+                {
+                    "question": "Which post is included in GDS recruitment?",
+                    "options": [
+                        "Branch Postmaster",
+                        "Income Tax Officer",
+                        "Railway Clerk",
+                        "Police Inspector"
+                    ],
+                    "answer": "Branch Postmaster"
+                },
+                {
+                    "question": "GDS recruitment applications are submitted through which mode?",
+                    "options": [
+                        "Online",
+                        "Offline only",
+                        "Postal mail only",
+                        "Walk-in only"
+                    ],
+                    "answer": "Online"
+                }
+            ]
+        },
+        {
+            "category": "Defence & National Security",
+            "title": "Government Targets ₹3 Lakh Crore Annual Defence Production",
+            "summary": "The government has reiterated its target of increasing India's annual defence production to ₹3 lakh crore. The target is part of India's broader efforts to strengthen domestic defence manufacturing, reduce import dependence and promote indigenous defence technologies and exports.",
+            "sourceName": "Economic Times",
+            "sourceUrl": "https://m.economictimes.com/news/new-updates/school-assembly-news-headlines-for-september-2-top-india-world-sports-and-business-updates/articleshow/133682658.cms",
+            "staticGK": [
+                "Target : ₹3 lakh crore Annual Defence Production",
+                "Sector : Defence Manufacturing",
+                "Focus : Atmanirbhar Bharat",
+                "Objective : Reduce Import Dependence",
+                "Additional Focus : Defence Exports",
+                "Country : India"
+            ],
+            "mcqs": [
+                {
+                    "question": "What annual defence production target has been highlighted by the government?",
+                    "options": [
+                        "₹3 lakh crore",
+                        "₹1 lakh crore",
+                        "₹5 lakh crore",
+                        "₹10 lakh crore"
+                    ],
+                    "answer": "₹3 lakh crore"
+                },
+                {
+                    "question": "The target is related to which sector?",
+                    "options": [
+                        "Defence Manufacturing",
+                        "Agriculture",
+                        "Tourism",
+                        "Banking"
+                    ],
+                    "answer": "Defence Manufacturing"
+                },
+                {
+                    "question": "One major objective is to reduce India's dependence on?",
+                    "options": [
+                        "Defence Imports",
+                        "Agricultural Imports",
+                        "Tourism",
+                        "Railway Tickets"
+                    ],
+                    "answer": "Defence Imports"
+                },
+                {
+                    "question": "The defence production push supports which broader initiative?",
+                    "options": [
+                        "Atmanirbhar Bharat",
+                        "Digital India only",
+                        "Swachh Bharat only",
+                        "Skill India only"
+                    ],
+                    "answer": "Atmanirbhar Bharat"
+                },
+                {
+                    "question": "The government also aims to promote India's defence?",
+                    "options": [
+                        "Exports",
+                        "Tourism",
+                        "Banking",
+                        "Sports"
+                    ],
+                    "answer": "Exports"
+                }
+            ]
+        },
+        {
+            "category": "International Affairs & Disaster Management",
+            "title": "Nepal Flood Crisis: Rescue and Repatriation Operations Continue",
+            "summary": "Rescue and relief operations continued in Nepal following severe flash floods and widespread devastation. Thousands of people have been rescued, while Indian authorities have continued assistance related to the identification and repatriation of Indian nationals affected by the disaster.",
+            "sourceName": "Economic Times",
+            "sourceUrl": "https://m.economictimes.com/news/new-updates/school-assembly-news-headlines-for-september-2-top-india-world-sports-and-business-updates/articleshow/133682658.cms",
+            "staticGK": [
+                "Country : Nepal",
+                "Disaster : Flash Floods",
+                "Response : Rescue and Relief Operations",
+                "India's Role : Assistance to Affected Indian Nationals",
+                "Focus : Identification and Repatriation",
+                "Region : South Asia"
+            ],
+            "mcqs": [
+                {
+                    "question": "Which country was affected by severe flash floods?",
+                    "options": [
+                        "Nepal",
+                        "Bhutan",
+                        "Sri Lanka",
+                        "Bangladesh"
+                    ],
+                    "answer": "Nepal"
+                },
+                {
+                    "question": "What type of disaster affected Nepal?",
+                    "options": [
+                        "Flash Floods",
+                        "Volcanic Eruption",
+                        "Tsunami",
+                        "Cyclone"
+                    ],
+                    "answer": "Flash Floods"
+                },
+                {
+                    "question": "What type of operations continued after the disaster?",
+                    "options": [
+                        "Rescue and Relief Operations",
+                        "Election Operations",
+                        "Trade Operations",
+                        "Sports Operations"
+                    ],
+                    "answer": "Rescue and Relief Operations"
+                },
+                {
+                    "question": "India assisted affected nationals mainly with identification and?",
+                    "options": [
+                        "Repatriation",
+                        "Banking",
+                        "Tourism",
+                        "Education"
+                    ],
+                    "answer": "Repatriation"
+                },
+                {
+                    "question": "Nepal is located in which region?",
+                    "options": [
+                        "South Asia",
+                        "West Asia",
+                        "Central Europe",
+                        "South America"
+                    ],
+                    "answer": "South Asia"
+                }
+            ]
+        },
+        {
+            "category": "National Affairs",
+            "title": "Vice President C. P. Radhakrishnan to Visit Chhattisgarh",
+            "summary": "Vice President of India C. P. Radhakrishnan is scheduled to visit Raipur, Chhattisgarh, on 2 September 2026. During the visit, he will attend the 3rd Convocation of AIIMS Raipur.",
+            "sourceName": "PIB",
+            "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2305469&lang=1&reg=3",
+            "staticGK": [
+                "Vice President : C. P. Radhakrishnan",
+                "State : Chhattisgarh",
+                "City : Raipur",
+                "Date : 2 September 2026",
+                "Event : 3rd Convocation of AIIMS Raipur",
+                "Institution : AIIMS Raipur"
+            ],
+            "mcqs": [
+                {
+                    "question": "Who is scheduled to visit Chhattisgarh on 2 September 2026?",
+                    "options": [
+                        "C. P. Radhakrishnan",
+                        "Jagdeep Dhankhar",
+                        "Narendra Modi",
+                        "Amit Shah"
+                    ],
+                    "answer": "C. P. Radhakrishnan"
+                },
+                {
+                    "question": "Which city will the Vice President visit?",
+                    "options": [
+                        "Raipur",
+                        "Bilaspur",
+                        "Durg",
+                        "Bhilai"
+                    ],
+                    "answer": "Raipur"
+                },
+                {
+                    "question": "Which state is Raipur located in?",
+                    "options": [
+                        "Chhattisgarh",
+                        "Madhya Pradesh",
+                        "Odisha",
+                        "Jharkhand"
+                    ],
+                    "answer": "Chhattisgarh"
+                },
+                {
+                    "question": "Which institution's convocation will the Vice President attend?",
+                    "options": [
+                        "AIIMS Raipur",
+                        "IIT Bhilai",
+                        "NIT Raipur",
+                        "AIIMS Bilaspur"
+                    ],
+                    "answer": "AIIMS Raipur"
+                },
+                {
+                    "question": "Which edition of the AIIMS Raipur convocation will be held?",
+                    "options": [
+                        "3rd",
+                        "2nd",
+                        "4th",
+                        "5th"
+                    ],
+                    "answer": "3rd"
+                }
+            ]
         }
+    ]
+}
 
     ]
 }
