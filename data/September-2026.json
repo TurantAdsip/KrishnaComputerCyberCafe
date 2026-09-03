@@ -1492,7 +1492,685 @@
             ]
         }
     ]
-}
+},
+        {
+            "id": "2026-09-03",
+            "date": "3 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 3 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Science & Technology",
+                    "title": "ISRO to Launch EOS-05 Earth Observation Satellite",
+                    "summary": "The Indian Space Research Organisation (ISRO) is scheduled to launch the EOS-05 Earth observation satellite on 4 September 2026 at 2:55 AM from the Satish Dhawan Space Centre in Sriharikota. The satellite will be launched using the GSLV-F17 rocket and is an important mission in India's Earth observation programme.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-3-2026-isro-all-set-to-launch-satellite-eos-05-nepal-death-toll-crosses-thousand-mark-10860305/",
+                    "staticGK": [
+                        "Organisation : ISRO",
+                        "Satellite : EOS-05",
+                        "Launch Vehicle : GSLV-F17",
+                        "Launch Date : 4 September 2026",
+                        "Launch Time : 2:55 AM",
+                        "Launch Site : Sriharikota"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation is scheduled to launch EOS-05?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "NASA",
+                                "HAL"
+                            ],
+                            "answer": "ISRO"
+                        },
+                        {
+                            "question": "What type of satellite is EOS-05?",
+                            "options": [
+                                "Earth Observation Satellite",
+                                "Navigation Satellite",
+                                "Communication Satellite",
+                                "Weather Balloon"
+                            ],
+                            "answer": "Earth Observation Satellite"
+                        },
+                        {
+                            "question": "Which rocket will launch EOS-05?",
+                            "options": [
+                                "GSLV-F17",
+                                "PSLV-C60",
+                                "SSLV-D5",
+                                "GSLV-F15"
+                            ],
+                            "answer": "GSLV-F17"
+                        },
+                        {
+                            "question": "From where will EOS-05 be launched?",
+                            "options": [
+                                "Sriharikota",
+                                "Bengaluru",
+                                "Thumba",
+                                "Chandipur"
+                            ],
+                            "answer": "Sriharikota"
+                        },
+                        {
+                            "question": "When is EOS-05 scheduled to be launched?",
+                            "options": [
+                                "4 September 2026",
+                                "3 September 2026",
+                                "5 September 2026",
+                                "10 September 2026"
+                            ],
+                            "answer": "4 September 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Women Empowerment",
+                    "title": "Air Vice Marshal Shakti Sharma Becomes First Non-Medical Woman Two-Star Officer",
+                    "summary": "Air Vice Marshal Shakti Sharma has created history by becoming the first non-medical woman officer in India's defence services to attain the rank of Air Vice Marshal. She has taken charge as Assistant Chief of the Air Staff (Education) at Air Headquarters, marking an important milestone for women in India's armed forces.",
+                    "sourceName": "PIB",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?MenuId=23&PMO=1&lang=1&reg=1",
+                    "staticGK": [
+                        "Officer : Air Vice Marshal Shakti Sharma",
+                        "Rank : Air Vice Marshal",
+                        "Achievement : First Non-Medical Woman Two-Star Officer",
+                        "Service : Indian Air Force",
+                        "Appointment : Assistant Chief of the Air Staff (Education)",
+                        "Organisation : Indian Air Force"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who became the first non-medical woman officer in India's defence services to attain the rank of Air Vice Marshal?",
+                            "options": [
+                                "Shakti Sharma",
+                                "Bhavna Kanth",
+                                "Avani Chaturvedi",
+                                "Mohana Singh"
+                            ],
+                            "answer": "Shakti Sharma"
+                        },
+                        {
+                            "question": "Air Vice Marshal Shakti Sharma belongs to which service?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Army",
+                                "Indian Navy",
+                                "Coast Guard"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "What rank did Shakti Sharma attain?",
+                            "options": [
+                                "Air Vice Marshal",
+                                "Air Marshal",
+                                "Group Captain",
+                                "Air Commodore"
+                            ],
+                            "answer": "Air Vice Marshal"
+                        },
+                        {
+                            "question": "What appointment did she assume?",
+                            "options": [
+                                "Assistant Chief of the Air Staff (Education)",
+                                "Chief of Air Staff",
+                                "Air Officer Commanding",
+                                "Director General of Medical Services"
+                            ],
+                            "answer": "Assistant Chief of the Air Staff (Education)"
+                        },
+                        {
+                            "question": "Her achievement is especially significant for which area?",
+                            "options": [
+                                "Women in Defence Services",
+                                "Space Tourism",
+                                "Banking Reforms",
+                                "Railway Modernisation"
+                            ],
+                            "answer": "Women in Defence Services"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "External Affairs Minister S. Jaishankar Begins Visit to Ukraine and Poland",
+                    "summary": "External Affairs Minister Dr. S. Jaishankar is scheduled to visit Ukraine and Poland from 3 to 5 September 2026. The visit focuses on bilateral relations, regional developments and issues of mutual interest. The engagement is significant for India's diplomatic outreach in Europe.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/india/eam-jaishankar-to-visit-ukraine-poland-from-sept-3-5-war-diplomacy-bilateral-ties-on-agenda/articleshow/133711183.cms",
+                    "staticGK": [
+                        "Minister : S. Jaishankar",
+                        "Position : External Affairs Minister",
+                        "Countries : Ukraine and Poland",
+                        "Visit Dates : 3-5 September 2026",
+                        "Focus : Bilateral Relations and Regional Developments",
+                        "Region : Europe"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is visiting Ukraine and Poland from 3 to 5 September 2026?",
+                            "options": [
+                                "S. Jaishankar",
+                                "Rajnath Singh",
+                                "Amit Shah",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "S. Jaishankar"
+                        },
+                        {
+                            "question": "S. Jaishankar is India's?",
+                            "options": [
+                                "External Affairs Minister",
+                                "Defence Minister",
+                                "Finance Minister",
+                                "Home Minister"
+                            ],
+                            "answer": "External Affairs Minister"
+                        },
+                        {
+                            "question": "Which two European countries are included in the visit?",
+                            "options": [
+                                "Ukraine and Poland",
+                                "Germany and France",
+                                "Italy and Spain",
+                                "Russia and Belarus"
+                            ],
+                            "answer": "Ukraine and Poland"
+                        },
+                        {
+                            "question": "The visit is scheduled during which period?",
+                            "options": [
+                                "3-5 September 2026",
+                                "1-3 September 2026",
+                                "5-7 September 2026",
+                                "10-12 September 2026"
+                            ],
+                            "answer": "3-5 September 2026"
+                        },
+                        {
+                            "question": "One major focus of the visit is?",
+                            "options": [
+                                "Bilateral Relations",
+                                "Olympic Games",
+                                "Cricket Development",
+                                "Tourism Promotion only"
+                            ],
+                            "answer": "Bilateral Relations"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Banking",
+                    "title": "India Receives $136.38 Billion Through Special Foreign Currency Mobilisation Schemes",
+                    "summary": "India has attracted around $136.38 billion through special foreign-currency mobilisation schemes, significantly strengthening the country's foreign exchange position. The inflows include substantial non-resident deposits and other overseas borrowings, giving the Reserve Bank of India greater room to support the Indian rupee.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-draws-13638-billion-forex-inflows-boosting-reserves-2026-09-02/",
+                    "staticGK": [
+                        "Total Inflows : $136.38 billion",
+                        "Major Source : Non-Resident Foreign Currency Deposits",
+                        "NRI Deposits : $127.23 billion",
+                        "Purpose : Strengthen Foreign Exchange Position",
+                        "Institution : Reserve Bank of India",
+                        "Foreign Exchange Reserves : $729.33 billion as of 21 August 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much foreign-currency inflow did India attract through the special schemes?",
+                            "options": [
+                                "$136.38 billion",
+                                "$100 billion",
+                                "$127.23 billion",
+                                "$150 billion"
+                            ],
+                            "answer": "$136.38 billion"
+                        },
+                        {
+                            "question": "What was the major component of the inflows?",
+                            "options": [
+                                "Non-Resident Foreign Currency Deposits",
+                                "Gold Imports",
+                                "Tourism Revenue",
+                                "Agricultural Exports"
+                            ],
+                            "answer": "Non-Resident Foreign Currency Deposits"
+                        },
+                        {
+                            "question": "How much came from non-resident foreign-currency deposits?",
+                            "options": [
+                                "$127.23 billion",
+                                "$136.38 billion",
+                                "$5.26 billion",
+                                "$3.89 billion"
+                            ],
+                            "answer": "$127.23 billion"
+                        },
+                        {
+                            "question": "Which institution benefits from the stronger foreign exchange position?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "NABARD"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "What is one major benefit of the inflows?",
+                            "options": [
+                                "Greater ability to support the rupee",
+                                "Higher railway fares",
+                                "Lower agricultural production",
+                                "Reduction in exports"
+                            ],
+                            "answer": "Greater ability to support the rupee"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs & Disaster Management",
+                    "title": "Nepal Flood Disaster: Death Toll Crosses 1,000",
+                    "summary": "Severe flash floods in Nepal have caused widespread destruction and a major humanitarian crisis. Reports on 3 September indicated that the death toll had crossed 1,000, while thousands of people remained missing. Rescue and relief operations continued, with India also assisting in efforts related to affected Indian nationals.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-3-2026-isro-all-set-to-launch-satellite-eos-05-nepal-death-toll-crosses-thousand-mark-10860305/",
+                    "staticGK": [
+                        "Country : Nepal",
+                        "Disaster : Severe Flash Floods",
+                        "Death Toll : More than 1,000",
+                        "Missing : Thousands",
+                        "Response : Rescue and Relief Operations",
+                        "Region : South Asia"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country has been severely affected by flash floods?",
+                            "options": [
+                                "Nepal",
+                                "Bhutan",
+                                "Bangladesh",
+                                "Sri Lanka"
+                            ],
+                            "answer": "Nepal"
+                        },
+                        {
+                            "question": "What type of disaster affected Nepal?",
+                            "options": [
+                                "Flash Floods",
+                                "Earthquake",
+                                "Cyclone",
+                                "Tsunami"
+                            ],
+                            "answer": "Flash Floods"
+                        },
+                        {
+                            "question": "The death toll in Nepal crossed approximately?",
+                            "options": [
+                                "1,000",
+                                "100",
+                                "500",
+                                "5,000"
+                            ],
+                            "answer": "1,000"
+                        },
+                        {
+                            "question": "What type of operations continued in affected areas?",
+                            "options": [
+                                "Rescue and Relief Operations",
+                                "Election Operations",
+                                "Trade Operations",
+                                "Tourism Operations"
+                            ],
+                            "answer": "Rescue and Relief Operations"
+                        },
+                        {
+                            "question": "Nepal is located in which region?",
+                            "options": [
+                                "South Asia",
+                                "Central Asia",
+                                "West Asia",
+                                "Southeast Asia"
+                            ],
+                            "answer": "South Asia"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Energy",
+                    "title": "India's Russian Crude Oil Imports Fall to Around 26%",
+                    "summary": "India's share of crude oil imports from Russia has declined to around 26% amid changing global energy markets and geopolitical developments. The development is important for India's energy security, import diversification and crude oil sourcing strategy.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-3-2026-isro-all-set-to-launch-satellite-eos-05-nepal-death-toll-crosses-thousand-mark-10860305/",
+                    "staticGK": [
+                        "Country : India",
+                        "Major Supplier Discussed : Russia",
+                        "Russian Crude Import Share : Around 26%",
+                        "Sector : Energy",
+                        "Key Issue : Crude Oil Imports",
+                        "Importance : Energy Security"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India's crude oil imports from Russia declined to approximately what share?",
+                            "options": [
+                                "26%",
+                                "36%",
+                                "46%",
+                                "16%"
+                            ],
+                            "answer": "26%"
+                        },
+                        {
+                            "question": "The development is related to which sector?",
+                            "options": [
+                                "Energy",
+                                "Education",
+                                "Defence",
+                                "Tourism"
+                            ],
+                            "answer": "Energy"
+                        },
+                        {
+                            "question": "Which country was India's major crude oil supplier discussed in the report?",
+                            "options": [
+                                "Russia",
+                                "Japan",
+                                "France",
+                                "Canada"
+                            ],
+                            "answer": "Russia"
+                        },
+                        {
+                            "question": "Crude oil imports are directly linked with India's?",
+                            "options": [
+                                "Energy Security",
+                                "Sports Policy",
+                                "Education Policy",
+                                "Tourism Policy"
+                            ],
+                            "answer": "Energy Security"
+                        },
+                        {
+                            "question": "Why is diversification of crude oil sources important for India?",
+                            "options": [
+                                "To strengthen energy security",
+                                "To reduce railway traffic",
+                                "To increase school holidays",
+                                "To promote cricket"
+                            ],
+                            "answer": "To strengthen energy security"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Appointments",
+                    "title": "RBI Appoints Suman Ray as Executive Director",
+                    "summary": "The Reserve Bank of India has appointed Suman Ray as Executive Director with effect from 1 September 2026. In his new role, he will oversee the Deposit Insurance and Credit Guarantee Corporation (DICGC) and the Premises Department. Before his elevation, he served as Regional Director for Maharashtra.",
+                    "sourceName": "Business Standard",
+                    "sourceUrl": "https://www.business-standard.com/finance/news/rbi-appoints-suman-ray-as-executive-director-with-effect-from-september-1-126090101035_1.html",
+                    "staticGK": [
+                        "Officer : Suman Ray",
+                        "New Position : Executive Director",
+                        "Institution : Reserve Bank of India",
+                        "Effective Date : 1 September 2026",
+                        "Departments : DICGC and Premises Department",
+                        "Previous Position : Regional Director, Maharashtra"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who has been appointed Executive Director of RBI?",
+                            "options": [
+                                "Suman Ray",
+                                "Shaktikanta Das",
+                                "Sanjay Malhotra",
+                                "Rajesh Kumar"
+                            ],
+                            "answer": "Suman Ray"
+                        },
+                        {
+                            "question": "Suman Ray's appointment became effective from?",
+                            "options": [
+                                "1 September 2026",
+                                "3 September 2026",
+                                "15 August 2026",
+                                "1 October 2026"
+                            ],
+                            "answer": "1 September 2026"
+                        },
+                        {
+                            "question": "Which institution appointed Suman Ray?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NABARD",
+                                "SBI"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which corporation will Suman Ray oversee?",
+                            "options": [
+                                "DICGC",
+                                "LIC",
+                                "EPFO",
+                                "NHAI"
+                            ],
+                            "answer": "DICGC"
+                        },
+                        {
+                            "question": "Before becoming Executive Director, Suman Ray was Regional Director for which state?",
+                            "options": [
+                                "Maharashtra",
+                                "Gujarat",
+                                "Punjab",
+                                "Karnataka"
+                            ],
+                            "answer": "Maharashtra"
+                        }
+                    ]
+                },
+                {
+                    "category": "Space & International Cooperation",
+                    "title": "Türkiye Becomes 71st Signatory of Artemis Accords",
+                    "summary": "Türkiye has joined NASA's Artemis Accords, becoming the 71st country to sign the international framework for peaceful, transparent and cooperative exploration of space. The agreement establishes principles for responsible exploration of the Moon, Mars and beyond.",
+                    "sourceName": "NASA",
+                    "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+                    "staticGK": [
+                        "Country : Türkiye",
+                        "Agreement : Artemis Accords",
+                        "Signatory Number : 71st",
+                        "Organisation : NASA",
+                        "Purpose : Peaceful and Transparent Space Exploration",
+                        "Scope : Moon, Mars and Beyond"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country became the 71st signatory of the Artemis Accords?",
+                            "options": [
+                                "Türkiye",
+                                "Brazil",
+                                "India",
+                                "Indonesia"
+                            ],
+                            "answer": "Türkiye"
+                        },
+                        {
+                            "question": "The Artemis Accords are associated with?",
+                            "options": [
+                                "Space Exploration",
+                                "International Banking",
+                                "Climate Finance",
+                                "Global Trade"
+                            ],
+                            "answer": "Space Exploration"
+                        },
+                        {
+                            "question": "How many countries had signed the Artemis Accords after Türkiye joined?",
+                            "options": [
+                                "71",
+                                "70",
+                                "72",
+                                "69"
+                            ],
+                            "answer": "71"
+                        },
+                        {
+                            "question": "Which organisation is associated with the Artemis Accords?",
+                            "options": [
+                                "NASA",
+                                "WHO",
+                                "WTO",
+                                "UNESCO"
+                            ],
+                            "answer": "NASA"
+                        },
+                        {
+                            "question": "The Artemis Accords promote what type of space exploration?",
+                            "options": [
+                                "Peaceful and Transparent",
+                                "Military Only",
+                                "Commercial Only",
+                                "Secret Exploration"
+                            ],
+                            "answer": "Peaceful and Transparent"
+                        }
+                    ]
+                },
+                {
+                    "category": "Financial Inclusion & Digital Payments",
+                    "title": "India Post Payments Bank Launches DakPay Sound Box",
+                    "summary": "India Post Payments Bank (IPPB) marked its 9th Foundation Day and launched the DakPay Sound Box for merchants. The bank also announced new digital platforms, including a Digital Insurance Technology Platform, to expand technology-enabled financial services and digital payment acceptance.",
+                    "sourceName": "PIB",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2305689&fg=&lang=1&reg=48",
+                    "staticGK": [
+                        "Bank : India Post Payments Bank",
+                        "Foundation Day : 9th",
+                        "Product : DakPay Sound Box",
+                        "Target Users : Merchants",
+                        "Other Platform : Digital Insurance Technology Platform",
+                        "Ministry : Ministry of Communications"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which bank launched the DakPay Sound Box?",
+                            "options": [
+                                "India Post Payments Bank",
+                                "State Bank of India",
+                                "Punjab National Bank",
+                                "Bank of Baroda"
+                            ],
+                            "answer": "India Post Payments Bank"
+                        },
+                        {
+                            "question": "Which foundation day did IPPB celebrate in 2026?",
+                            "options": [
+                                "9th",
+                                "5th",
+                                "10th",
+                                "8th"
+                            ],
+                            "answer": "9th"
+                        },
+                        {
+                            "question": "Who is the DakPay Sound Box primarily designed for?",
+                            "options": [
+                                "Merchants",
+                                "Farmers only",
+                                "Students only",
+                                "Government employees only"
+                            ],
+                            "answer": "Merchants"
+                        },
+                        {
+                            "question": "IPPB functions under which ministry?",
+                            "options": [
+                                "Ministry of Communications",
+                                "Ministry of Finance",
+                                "Ministry of Commerce",
+                                "Ministry of Home Affairs"
+                            ],
+                            "answer": "Ministry of Communications"
+                        },
+                        {
+                            "question": "What is one purpose of the DakPay Sound Box?",
+                            "options": [
+                                "Digital Payment Acceptance",
+                                "Railway Ticket Printing",
+                                "Weather Forecasting",
+                                "Crop Harvesting"
+                            ],
+                            "answer": "Digital Payment Acceptance"
+                        }
+                    ]
+                },
+                {
+                    "category": "Nutrition & Health Awareness",
+                    "title": "National Nutrition Week 2026 Observed from 1 to 7 September",
+                    "summary": "National Nutrition Week 2026 is being observed from 1 to 7 September to raise awareness about nutrition, balanced diets and healthy eating practices. The observance focuses on improving nutritional awareness and encouraging healthier lifestyles among citizens.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-3-september-2026/",
+                    "staticGK": [
+                        "Event : National Nutrition Week",
+                        "Year : 2026",
+                        "Dates : 1-7 September",
+                        "Focus : Nutrition Awareness",
+                        "Key Theme : Balanced Diet and Healthy Eating",
+                        "Importance : Public Health Awareness"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is National Nutrition Week 2026 being observed?",
+                            "options": [
+                                "1-7 September",
+                                "1-7 August",
+                                "5-11 September",
+                                "10-16 September"
+                            ],
+                            "answer": "1-7 September"
+                        },
+                        {
+                            "question": "What is the main focus of National Nutrition Week?",
+                            "options": [
+                                "Nutrition Awareness",
+                                "Road Safety",
+                                "Digital Banking",
+                                "Space Exploration"
+                            ],
+                            "answer": "Nutrition Awareness"
+                        },
+                        {
+                            "question": "Which practice is encouraged during Nutrition Week?",
+                            "options": [
+                                "Balanced Diet",
+                                "Excessive Sugar Consumption",
+                                "Skipping Meals",
+                                "Unhealthy Eating"
+                            ],
+                            "answer": "Balanced Diet"
+                        },
+                        {
+                            "question": "National Nutrition Week is mainly related to?",
+                            "options": [
+                                "Public Health",
+                                "Defence",
+                                "Railways",
+                                "Banking"
+                            ],
+                            "answer": "Public Health"
+                        },
+                        {
+                            "question": "National Nutrition Week 2026 is observed for how many days?",
+                            "options": [
+                                "7 days",
+                                "5 days",
+                                "10 days",
+                                "15 days"
+                            ],
+                            "answer": "7 days"
+                        }
+                    ]
+                }
+            ]
+        }
 
     ]
 }
