@@ -2170,7 +2170,685 @@
                     ]
                 }
             ]
+        },
+        {
+  "id": "2026-09-04",
+  "date": "4 September 2026",
+  "totalNews": 10,
+  "description": "Top 10 Current Affairs of 4 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+  "news": [
+    {
+      "category": "Science & Technology",
+      "title": "ISRO Launches EOS-05 Earth Observation Satellite",
+      "summary": "The Indian Space Research Organisation (ISRO) launched the EOS-05 Earth observation satellite on 4 September 2026 using the GSLV-F17 rocket from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. The mission is an important addition to India's Earth observation capabilities.",
+      "sourceName": "GKToday",
+      "sourceUrl": "https://www.gktoday.in/isro-launches-gslv-f17-with-eos-05-satellite/",
+      "staticGK": [
+        "Organisation : ISRO",
+        "Satellite : EOS-05",
+        "Launch Vehicle : GSLV-F17",
+        "Launch Date : 4 September 2026",
+        "Launch Site : Satish Dhawan Space Centre, Sriharikota",
+        "Mission Type : Earth Observation"
+      ],
+      "mcqs": [
+        {
+          "question": "Which organisation launched EOS-05?",
+          "options": [
+            "ISRO",
+            "DRDO",
+            "NASA",
+            "HAL"
+          ],
+          "answer": "ISRO"
+        },
+        {
+          "question": "What type of satellite is EOS-05?",
+          "options": [
+            "Earth Observation Satellite",
+            "Navigation Satellite",
+            "Communication Satellite",
+            "Weather Satellite"
+          ],
+          "answer": "Earth Observation Satellite"
+        },
+        {
+          "question": "Which rocket launched EOS-05?",
+          "options": [
+            "GSLV-F17",
+            "PSLV-C60",
+            "SSLV-D5",
+            "GSLV-F15"
+          ],
+          "answer": "GSLV-F17"
+        },
+        {
+          "question": "From where was EOS-05 launched?",
+          "options": [
+            "Sriharikota",
+            "Bengaluru",
+            "Thumba",
+            "Chandipur"
+          ],
+          "answer": "Sriharikota"
+        },
+        {
+          "question": "EOS-05 is mainly associated with which field?",
+          "options": [
+            "Earth Observation",
+            "Human Spaceflight",
+            "Deep Sea Exploration",
+            "Military Training"
+          ],
+          "answer": "Earth Observation"
         }
+      ]
+    },
+    {
+      "category": "Banking & Economy",
+      "title": "RBI Intervenes to Support Indian Rupee",
+      "summary": "The Reserve Bank of India intervened in the foreign exchange market on 4 September 2026 by selling US dollars to support the Indian rupee. The intervention came as rising global crude oil prices put pressure on the domestic currency.",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/india-central-bank-intervenes-protect-rupee-oil-strain-traders-say-2026-09-04/",
+      "staticGK": [
+        "Institution : Reserve Bank of India",
+        "Action : Foreign Exchange Market Intervention",
+        "Currency Supported : Indian Rupee",
+        "Intervention Instrument : US Dollar Sales",
+        "Major Pressure : Rising Global Oil Prices",
+        "Date : 4 September 2026"
+      ],
+      "mcqs": [
+        {
+          "question": "Which institution intervened in the foreign exchange market?",
+          "options": [
+            "RBI",
+            "SEBI",
+            "NABARD",
+            "SBI"
+          ],
+          "answer": "RBI"
+        },
+        {
+          "question": "Which currency was RBI trying to support?",
+          "options": [
+            "Indian Rupee",
+            "US Dollar",
+            "Euro",
+            "Japanese Yen"
+          ],
+          "answer": "Indian Rupee"
+        },
+        {
+          "question": "What did RBI reportedly sell during the intervention?",
+          "options": [
+            "US Dollars",
+            "Gold",
+            "Government Bonds",
+            "Euros"
+          ],
+          "answer": "US Dollars"
+        },
+        {
+          "question": "Which factor was putting pressure on the rupee?",
+          "options": [
+            "Rising Global Oil Prices",
+            "Lower Food Production",
+            "Tourism Growth",
+            "Higher Railway Revenue"
+          ],
+          "answer": "Rising Global Oil Prices"
+        },
+        {
+          "question": "RBI is India's central?",
+          "options": [
+            "Bank",
+            "Stock Exchange",
+            "Insurance Company",
+            "Development Ministry"
+          ],
+          "answer": "Bank"
+        }
+      ]
+    },
+    {
+      "category": "Economy & Stock Market",
+      "title": "Indian Stock Markets Open Higher on 4 September",
+      "summary": "Indian equity markets opened higher on 4 September 2026 after four consecutive sessions of losses. Early trading saw the Nifty 50 and Sensex gain as expectations of a September US Federal Reserve rate hike weakened.",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/indian-shares-may-open-higher-traders-trim-fed-hike-bets-2026-09-04/",
+      "staticGK": [
+        "Date : 4 September 2026",
+        "Market : Indian Equity Market",
+        "Index 1 : Nifty 50",
+        "Index 2 : BSE Sensex",
+        "Key Factor : Reduced US Fed Rate-Hike Expectations",
+        "Commodity Pressure : Brent Crude Oil"
+      ],
+      "mcqs": [
+        {
+          "question": "Which major Indian stock index is mentioned in the report?",
+          "options": [
+            "Nifty 50",
+            "Nikkei 225",
+            "Dow Jones",
+            "FTSE 100"
+          ],
+          "answer": "Nifty 50"
+        },
+        {
+          "question": "Which other major Indian index gained in early trading?",
+          "options": [
+            "BSE Sensex",
+            "Hang Seng",
+            "Nasdaq",
+            "DAX"
+          ],
+          "answer": "BSE Sensex"
+        },
+        {
+          "question": "Indian markets opened higher after how many consecutive sessions of losses?",
+          "options": [
+            "Four",
+            "Two",
+            "Six",
+            "Ten"
+          ],
+          "answer": "Four"
+        },
+        {
+          "question": "Which global institution's rate expectations influenced market sentiment?",
+          "options": [
+            "US Federal Reserve",
+            "European Central Bank",
+            "Bank of Japan",
+            "World Bank"
+          ],
+          "answer": "US Federal Reserve"
+        },
+        {
+          "question": "Which commodity remained a concern for Indian markets?",
+          "options": [
+            "Crude Oil",
+            "Cotton",
+            "Wheat",
+            "Tea"
+          ],
+          "answer": "Crude Oil"
+        }
+      ]
+    },
+    {
+      "category": "Judiciary & Education",
+      "title": "Supreme Court Upholds NCTE Authority to Seek Appraisal Reports",
+      "summary": "The Supreme Court of India upheld the validity of a 2019 Public Notice issued by the National Council for Teacher Education (NCTE), allowing it to seek annual Performance Appraisal Reports from Teacher Education Institutions. The decision emphasizes accountability and quality in teacher education.",
+      "sourceName": "Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/legal-news/supreme-court-upholds-ncte-notice-seeking-appraisal-reports-from-teachers-education-institutes-10862404/",
+      "staticGK": [
+        "Court : Supreme Court of India",
+        "Organisation : NCTE",
+        "Full Form : National Council for Teacher Education",
+        "Report : Performance Appraisal Report",
+        "Institutions : Teacher Education Institutions",
+        "Notice : 2019 Public Notice"
+      ],
+      "mcqs": [
+        {
+          "question": "Which court upheld the NCTE notice?",
+          "options": [
+            "Supreme Court of India",
+            "Delhi High Court",
+            "Bombay High Court",
+            "Allahabad High Court"
+          ],
+          "answer": "Supreme Court of India"
+        },
+        {
+          "question": "What does NCTE stand for?",
+          "options": [
+            "National Council for Teacher Education",
+            "National Commission for Technical Education",
+            "National Council for Training and Education",
+            "National Committee for Teacher Examination"
+          ],
+          "answer": "National Council for Teacher Education"
+        },
+        {
+          "question": "What type of reports can NCTE seek?",
+          "options": [
+            "Performance Appraisal Reports",
+            "Financial Audit Reports",
+            "Election Reports",
+            "Sports Reports"
+          ],
+          "answer": "Performance Appraisal Reports"
+        },
+        {
+          "question": "Which institutions are required to submit the reports?",
+          "options": [
+            "Teacher Education Institutions",
+            "Banks",
+            "Railway Zones",
+            "Hospitals"
+          ],
+          "answer": "Teacher Education Institutions"
+        },
+        {
+          "question": "The decision is mainly related to quality in which field?",
+          "options": [
+            "Teacher Education",
+            "Banking",
+            "Defence",
+            "Space Science"
+          ],
+          "answer": "Teacher Education"
+        }
+      ]
+    },
+    {
+      "category": "Sports & Para Sports",
+      "title": "Ahmedabad to Host Hyundai World Archery Para Series",
+      "summary": "Ahmedabad is set to host the third stage of the 2026 Hyundai World Archery Para Series from 5 to 9 September. It marks India's international hosting debut in the series, with 109 para archers from 19 countries scheduled to participate.",
+      "sourceName": "World Archery",
+      "sourceUrl": "https://www.worldarchery.sport/news/202599/top-archers-ready-indias-historic-hosting-debut-ahmedabad",
+      "staticGK": [
+        "Event : Hyundai World Archery Para Series",
+        "Host City : Ahmedabad",
+        "Venue : Sabarmati Riverfront",
+        "Dates : 5-9 September 2026",
+        "Participants : 109 Para Archers",
+        "Countries : 19"
+      ],
+      "mcqs": [
+        {
+          "question": "Which Indian city will host the 2026 Hyundai World Archery Para Series?",
+          "options": [
+            "Ahmedabad",
+            "New Delhi",
+            "Mumbai",
+            "Jaipur"
+          ],
+          "answer": "Ahmedabad"
+        },
+        {
+          "question": "Where will the event be held in Ahmedabad?",
+          "options": [
+            "Sabarmati Riverfront",
+            "Narendra Modi Stadium",
+            "Kankaria Lake",
+            "Sardar Patel Stadium"
+          ],
+          "answer": "Sabarmati Riverfront"
+        },
+        {
+          "question": "When will the event be held?",
+          "options": [
+            "5-9 September 2026",
+            "1-5 September 2026",
+            "10-15 September 2026",
+            "15-20 September 2026"
+          ],
+          "answer": "5-9 September 2026"
+        },
+        {
+          "question": "How many para archers are expected to participate?",
+          "options": [
+            "109",
+            "89",
+            "119",
+            "150"
+          ],
+          "answer": "109"
+        },
+        {
+          "question": "The event is related to which sport?",
+          "options": [
+            "Para Archery",
+            "Para Swimming",
+            "Para Athletics",
+            "Wheelchair Basketball"
+          ],
+          "answer": "Para Archery"
+        }
+      ]
+    },
+    {
+      "category": "International Relations",
+      "title": "India and Belgium Strengthen Bilateral Cooperation",
+      "summary": "India and Belgium agreed to strengthen cooperation in trade, defence, clean energy, critical minerals, semiconductors, research and talent mobility. The two countries also announced an Investment Fast-Track Mechanism and expressed an ambition to double bilateral trade within five years.",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/india/india-belgium-agree-strengthen-trade-defence-ties-2026-09-03/",
+      "staticGK": [
+        "Countries : India and Belgium",
+        "Key Areas : Trade, Defence and Clean Energy",
+        "Mechanism : Investment Fast-Track Mechanism",
+        "Trade Goal : Double Bilateral Trade in Five Years",
+        "Other Areas : Critical Minerals and Semiconductors",
+        "Date : September 2026"
+      ],
+      "mcqs": [
+        {
+          "question": "Which country strengthened bilateral cooperation with India?",
+          "options": [
+            "Belgium",
+            "Brazil",
+            "Canada",
+            "Australia"
+          ],
+          "answer": "Belgium"
+        },
+        {
+          "question": "What mechanism was announced to facilitate Belgian investments?",
+          "options": [
+            "Investment Fast-Track Mechanism",
+            "Green Trade Mechanism",
+            "Defence Investment Scheme",
+            "Export Promotion Scheme"
+          ],
+          "answer": "Investment Fast-Track Mechanism"
+        },
+        {
+          "question": "India and Belgium aim to double bilateral trade within how many years?",
+          "options": [
+            "Five years",
+            "Two years",
+            "Ten years",
+            "Three years"
+          ],
+          "answer": "Five years"
+        },
+        {
+          "question": "Which of the following is an area of cooperation?",
+          "options": [
+            "Semiconductors",
+            "Cricket",
+            "Film Production",
+            "Railway Tourism"
+          ],
+          "answer": "Semiconductors"
+        },
+        {
+          "question": "Belgium is a country in which continent?",
+          "options": [
+            "Europe",
+            "Asia",
+            "Africa",
+            "South America"
+          ],
+          "answer": "Europe"
+        }
+      ]
+    },
+    {
+      "category": "National Affairs",
+      "title": "Vice-President C. P. Radhakrishnan to Visit Chandigarh",
+      "summary": "Vice-President of India C. P. Radhakrishnan is scheduled to visit Chandigarh on 4 September 2026. The visit is part of his official engagements in the Union Territory.",
+      "sourceName": "PIB",
+      "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306300&lang=1&reg=48",
+      "staticGK": [
+        "Vice-President : C. P. Radhakrishnan",
+        "Visit Location : Chandigarh",
+        "Visit Date : 4 September 2026",
+        "Position : Vice-President of India",
+        "Region : Chandigarh",
+        "Nature : Official Visit"
+      ],
+      "mcqs": [
+        {
+          "question": "Who is scheduled to visit Chandigarh on 4 September 2026?",
+          "options": [
+            "C. P. Radhakrishnan",
+            "Jagdeep Dhankhar",
+            "Om Birla",
+            "Rajnath Singh"
+          ],
+          "answer": "C. P. Radhakrishnan"
+        },
+        {
+          "question": "What constitutional position does C. P. Radhakrishnan hold?",
+          "options": [
+            "Vice-President of India",
+            "President of India",
+            "Prime Minister of India",
+            "Chief Justice of India"
+          ],
+          "answer": "Vice-President of India"
+        },
+        {
+          "question": "Which city is the Vice-President scheduled to visit?",
+          "options": [
+            "Chandigarh",
+            "Jaipur",
+            "Lucknow",
+            "Bhopal"
+          ],
+          "answer": "Chandigarh"
+        },
+        {
+          "question": "Chandigarh is the capital of which two states?",
+          "options": [
+            "Punjab and Haryana",
+            "Punjab and Himachal Pradesh",
+            "Haryana and Rajasthan",
+            "Delhi and Haryana"
+          ],
+          "answer": "Punjab and Haryana"
+        },
+        {
+          "question": "The visit is scheduled on which date?",
+          "options": [
+            "4 September 2026",
+            "5 September 2026",
+            "3 September 2026",
+            "10 September 2026"
+          ],
+          "answer": "4 September 2026"
+        }
+      ]
+    },
+    {
+      "category": "National Festival",
+      "title": "Krishna Janmashtami Celebrated Across India",
+      "summary": "Krishna Janmashtami is being observed across India on 4 September 2026. The festival commemorates the birth of Lord Krishna and is marked by prayers, devotional programmes and cultural celebrations in different parts of the country.",
+      "sourceName": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/education/news/janmashtami-2026-school-holiday-are-schools-closed-today-check-state-wise-list/articleshow/133749601.cms",
+      "staticGK": [
+        "Festival : Krishna Janmashtami",
+        "Date : 4 September 2026",
+        "Occasion : Birth of Lord Krishna",
+        "Religious Tradition : Hinduism",
+        "Major Celebration : Krishna Birth Anniversary",
+        "Common Practice : Prayer and Devotional Celebrations"
+      ],
+      "mcqs": [
+        {
+          "question": "What does Janmashtami commemorate?",
+          "options": [
+            "Birth of Lord Krishna",
+            "Birth of Lord Rama",
+            "Birth of Lord Shiva",
+            "Birth of Lord Ganesha"
+          ],
+          "answer": "Birth of Lord Krishna"
+        },
+        {
+          "question": "Krishna Janmashtami is associated with which religion?",
+          "options": [
+            "Hinduism",
+            "Buddhism",
+            "Jainism",
+            "Sikhism"
+          ],
+          "answer": "Hinduism"
+        },
+        {
+          "question": "On which date is Janmashtami being observed in 2026 according to the current report?",
+          "options": [
+            "4 September",
+            "2 September",
+            "5 September",
+            "7 September"
+          ],
+          "answer": "4 September"
+        },
+        {
+          "question": "Lord Krishna is traditionally associated with which city?",
+          "options": [
+            "Mathura",
+            "Ayodhya",
+            "Varanasi",
+            "Ujjain"
+          ],
+          "answer": "Mathura"
+        },
+        {
+          "question": "Janmashtami celebrations commonly include?",
+          "options": [
+            "Prayers and devotional programmes",
+            "Republic Day Parade",
+            "Harvest Festival only",
+            "Military Parade"
+          ],
+          "answer": "Prayers and devotional programmes"
+        }
+      ]
+    },
+    {
+      "category": "Banking & Recruitment",
+      "title": "SBI SO Wealth Management Recruitment 2026 Begins",
+      "summary": "State Bank of India has opened applications for Specialist Cadre Officer posts in Wealth Management. The recruitment notification provides 220 vacancies, with the application window beginning on 4 September 2026 and continuing until 25 September 2026.",
+      "sourceName": "Adda247",
+      "sourceUrl": "https://www.adda247.com/exams/bank/sbi-so-wealth-management-recruitment-2026/",
+      "staticGK": [
+        "Bank : State Bank of India",
+        "Recruitment : Specialist Cadre Officer",
+        "Area : Wealth Management",
+        "Vacancies : 220",
+        "Application Start : 4 September 2026",
+        "Last Date : 25 September 2026"
+      ],
+      "mcqs": [
+        {
+          "question": "Which bank released the Wealth Management recruitment notification?",
+          "options": [
+            "State Bank of India",
+            "Punjab National Bank",
+            "Bank of Baroda",
+            "Canara Bank"
+          ],
+          "answer": "State Bank of India"
+        },
+        {
+          "question": "How many vacancies are announced?",
+          "options": [
+            "220",
+            "200",
+            "250",
+            "320"
+          ],
+          "answer": "220"
+        },
+        {
+          "question": "The recruitment is for which type of posts?",
+          "options": [
+            "Specialist Cadre Officer",
+            "Probationary Officer",
+            "Clerk",
+            "Assistant Manager only"
+          ],
+          "answer": "Specialist Cadre Officer"
+        },
+        {
+          "question": "When does the application process begin?",
+          "options": [
+            "4 September 2026",
+            "1 September 2026",
+            "10 September 2026",
+            "25 September 2026"
+          ],
+          "answer": "4 September 2026"
+        },
+        {
+          "question": "What is the last date to apply according to the notification?",
+          "options": [
+            "25 September 2026",
+            "20 September 2026",
+            "30 September 2026",
+            "15 September 2026"
+          ],
+          "answer": "25 September 2026"
+        }
+      ]
+    },
+    {
+      "category": "Environment & Weather",
+      "title": "Heavy Rain and Thunderstorm Alerts Issued Across Several States",
+      "summary": "The India Meteorological Department has issued weather alerts for several parts of India on 4 September 2026, with heavy rainfall and strong winds expected in multiple states. The weather situation is important for disaster management and public safety.",
+      "sourceName": "Navbharat Times",
+      "sourceUrl": "https://navbharattimes.indiatimes.com/india/today-weather-4-september-2026-storm-and-rain-alert-in-20-statest-in-the-next-9-hours-wind-speed-up-to-72-kmph-delhi-up-bihar-temperature/articleshow/133748870.cms",
+      "staticGK": [
+        "Organisation : India Meteorological Department",
+        "Date : 4 September 2026",
+        "Weather : Heavy Rain and Thunderstorms",
+        "Affected Areas : Several Indian States",
+        "Wind Speed : Up to Around 72 kmph in Alerted Areas",
+        "Importance : Disaster Management and Public Safety"
+      ],
+      "mcqs": [
+        {
+          "question": "Which organisation issues weather forecasts and alerts in India?",
+          "options": [
+            "India Meteorological Department",
+            "ISRO",
+            "DRDO",
+            "NITI Aayog"
+          ],
+          "answer": "India Meteorological Department"
+        },
+        {
+          "question": "What type of weather was highlighted in the 4 September alert?",
+          "options": [
+            "Heavy Rain and Thunderstorms",
+            "Snowfall only",
+            "Heatwave only",
+            "Dust Storm only"
+          ],
+          "answer": "Heavy Rain and Thunderstorms"
+        },
+        {
+          "question": "Weather alerts are important for which area?",
+          "options": [
+            "Disaster Management",
+            "Banking Regulation",
+            "Space Research",
+            "Railway Recruitment"
+          ],
+          "answer": "Disaster Management"
+        },
+        {
+          "question": "Which organisation does IMD belong to?",
+          "options": [
+            "Ministry of Earth Sciences",
+            "Ministry of Defence",
+            "Ministry of Finance",
+            "Ministry of Education"
+          ],
+          "answer": "Ministry of Earth Sciences"
+        },
+        {
+          "question": "What is the primary purpose of a severe weather warning?",
+          "options": [
+            "Public Safety",
+            "Increasing Tourism",
+            "Promoting Sports",
+            "Increasing Bank Deposits"
+          ],
+          "answer": "Public Safety"
+        }
+      ]
+    }
+  ]
+}
 
     ]
 }
