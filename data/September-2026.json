@@ -3526,6 +3526,684 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "2026-09-06",
+            "date": "6 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 6 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Chief Justices' Forum Continues in New Delhi",
+                    "summary": "India is hosting the three-day BRICS Chief Justices' Forum in New Delhi from 4 to 6 September 2026. The forum brings together senior judicial representatives of BRICS countries ahead of the 18th BRICS Summit.",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/india-to-host-brics-chief-justices-forum/",
+                    "staticGK": [
+                        "Event : BRICS Chief Justices' Forum",
+                        "Host Country : India",
+                        "Venue : New Delhi",
+                        "Dates : 4-6 September 2026",
+                        "Duration : Three Days",
+                        "Significance : Judicial Cooperation among BRICS Countries"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country is hosting the BRICS Chief Justices' Forum 2026?",
+                            "options": [
+                                "India",
+                                "Brazil",
+                                "Russia",
+                                "China"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Where is the BRICS Chief Justices' Forum being held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Chennai",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "The BRICS Chief Justices' Forum is related to which field?",
+                            "options": [
+                                "Judicial Cooperation",
+                                "Sports",
+                                "Banking",
+                                "Agriculture"
+                            ],
+                            "answer": "Judicial Cooperation"
+                        },
+                        {
+                            "question": "How long is the BRICS Chief Justices' Forum scheduled to run?",
+                            "options": [
+                                "Three Days",
+                                "Two Days",
+                                "Five Days",
+                                "Seven Days"
+                            ],
+                            "answer": "Three Days"
+                        },
+                        {
+                            "question": "The forum is being held ahead of which major event?",
+                            "options": [
+                                "18th BRICS Summit",
+                                "G20 Summit",
+                                "COP31",
+                                "ASEAN Summit"
+                            ],
+                            "answer": "18th BRICS Summit"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Fitness",
+                    "title": "89th Fit India Sundays on Cycle to Be Held in Surat",
+                    "summary": "The 89th edition of Fit India Sundays on Cycle is being organised in Surat on 6 September 2026. The event is focused on promoting fitness and encouraging youth to stay away from drugs under the theme 'Nasha Mukt Yuva for Viksit Bharat'.",
+                    "sourceName": "PIB",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2306717&lang=1&reg=48",
+                    "staticGK": [
+                        "Event : Fit India Sundays on Cycle",
+                        "Edition : 89th",
+                        "Venue : Surat, Gujarat",
+                        "Date : 6 September 2026",
+                        "Theme : Nasha Mukt Yuva for Viksit Bharat",
+                        "Lead : Mansukh Mandaviya"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of Fit India Sundays on Cycle is being organised on 6 September 2026?",
+                            "options": [
+                                "89th",
+                                "79th",
+                                "99th",
+                                "69th"
+                            ],
+                            "answer": "89th"
+                        },
+                        {
+                            "question": "Where will the 89th Fit India Sundays on Cycle be held?",
+                            "options": [
+                                "Surat",
+                                "Ahmedabad",
+                                "New Delhi",
+                                "Mumbai"
+                            ],
+                            "answer": "Surat"
+                        },
+                        {
+                            "question": "What is the theme of the event?",
+                            "options": [
+                                "Nasha Mukt Yuva for Viksit Bharat",
+                                "Fit India for All",
+                                "Khelo India for Youth",
+                                "Healthy India 2047"
+                            ],
+                            "answer": "Nasha Mukt Yuva for Viksit Bharat"
+                        },
+                        {
+                            "question": "Who will lead the cycling initiative?",
+                            "options": [
+                                "Mansukh Mandaviya",
+                                "Piyush Goyal",
+                                "Rajnath Singh",
+                                "Dharmendra Pradhan"
+                            ],
+                            "answer": "Mansukh Mandaviya"
+                        },
+                        {
+                            "question": "The Fit India Sundays on Cycle initiative mainly promotes?",
+                            "options": [
+                                "Fitness and Healthy Lifestyle",
+                                "Banking",
+                                "Tourism",
+                                "Digital Payments"
+                            ],
+                            "answer": "Fitness and Healthy Lifestyle"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Weather",
+                    "title": "IMD Issues Heavy Rain Warning for Delhi and Haryana",
+                    "summary": "The India Meteorological Department has issued a heavy rain warning for Delhi, Haryana and Chandigarh for 6 September 2026. The warning is part of the department's subdivision-wise weather alert system.",
+                    "sourceName": "India Meteorological Department",
+                    "sourceUrl": "https://mausam.imd.gov.in/imd_latest/contents/subdivisionwise-warning_mc.php?id=7",
+                    "staticGK": [
+                        "Organisation : India Meteorological Department",
+                        "Date : 6 September 2026",
+                        "Weather Alert : Heavy Rain",
+                        "Region : Delhi, Haryana and Chandigarh",
+                        "Season : Southwest Monsoon",
+                        "Importance : Public Safety"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation issued the heavy rain warning?",
+                            "options": [
+                                "India Meteorological Department",
+                                "ISRO",
+                                "DRDO",
+                                "NITI Aayog"
+                            ],
+                            "answer": "India Meteorological Department"
+                        },
+                        {
+                            "question": "What type of warning was issued for 6 September 2026?",
+                            "options": [
+                                "Heavy Rain",
+                                "Heatwave",
+                                "Cold Wave",
+                                "Dust Storm"
+                            ],
+                            "answer": "Heavy Rain"
+                        },
+                        {
+                            "question": "Which region is specifically included in the warning?",
+                            "options": [
+                                "Delhi, Haryana and Chandigarh",
+                                "Kerala and Tamil Nadu",
+                                "Gujarat and Goa",
+                                "Assam and Tripura"
+                            ],
+                            "answer": "Delhi, Haryana and Chandigarh"
+                        },
+                        {
+                            "question": "IMD works under which ministry?",
+                            "options": [
+                                "Ministry of Earth Sciences",
+                                "Ministry of Defence",
+                                "Ministry of Home Affairs",
+                                "Ministry of Finance"
+                            ],
+                            "answer": "Ministry of Earth Sciences"
+                        },
+                        {
+                            "question": "Weather warnings are important mainly for?",
+                            "options": [
+                                "Public Safety",
+                                "Banking Regulation",
+                                "Space Research",
+                                "Sports Recruitment"
+                            ],
+                            "answer": "Public Safety"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "BRICS Summit Preparations Continue in New Delhi",
+                    "summary": "Preparations for the upcoming BRICS Summit are continuing in New Delhi. Traffic arrangements and security measures are being implemented in the capital ahead of the summit scheduled at Bharat Mandapam on 12-13 September 2026.",
+                    "sourceName": "Aaj Tak",
+                    "sourceUrl": "https://www.aajtak.in/india/delhi/story/brics-summit-2026-delhi-police-traffic-advisory-ntc-rmxk-dskc-2637251-2026-09-06",
+                    "staticGK": [
+                        "Event : BRICS Summit 2026",
+                        "Host City : New Delhi",
+                        "Venue : Bharat Mandapam",
+                        "Summit Dates : 12-13 September 2026",
+                        "Preparation : Security and Traffic Arrangements",
+                        "Important Date : 6 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where will the BRICS Summit 2026 be held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What is the venue of the BRICS Summit 2026?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Vigyan Bhawan",
+                                "Rashtrapati Bhavan",
+                                "Pragati Maidan Hall"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        },
+                        {
+                            "question": "On which dates is the BRICS Summit scheduled?",
+                            "options": [
+                                "12-13 September 2026",
+                                "10-11 September 2026",
+                                "15-16 September 2026",
+                                "20-21 September 2026"
+                            ],
+                            "answer": "12-13 September 2026"
+                        },
+                        {
+                            "question": "What arrangements are being made ahead of the summit?",
+                            "options": [
+                                "Security and Traffic Arrangements",
+                                "Agricultural Arrangements",
+                                "Banking Arrangements",
+                                "Railway Recruitment"
+                            ],
+                            "answer": "Security and Traffic Arrangements"
+                        },
+                        {
+                            "question": "Which city is hosting the 2026 BRICS Summit?",
+                            "options": [
+                                "New Delhi",
+                                "Chennai",
+                                "Kolkata",
+                                "Pune"
+                            ],
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Pharmaceuticals",
+                    "title": "Bharat Health Global Expo 2026 to Begin in New Delhi",
+                    "summary": "The first edition of Bharat Health Global Expo 2026 and the 12th edition of iPHEX 2026 are scheduled around 6 September 2026 at Bharat Mandapam, New Delhi. The inaugural ceremony is scheduled to be attended by Commerce and Industry Minister Piyush Goyal.",
+                    "sourceName": "Pharmexcil",
+                    "sourceUrl": "https://pharmexcil.com/content/viewsearchcontent/5/9576135656571344bd4d1351fc6ba5d1.html",
+                    "staticGK": [
+                        "Event : Bharat Health Global Expo 2026",
+                        "Edition : 1st",
+                        "iPHEX : 12th Edition",
+                        "Venue : Bharat Mandapam, New Delhi",
+                        "Inauguration : 6 September 2026",
+                        "Minister : Piyush Goyal"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of Bharat Health Global Expo is being organised in 2026?",
+                            "options": [
+                                "1st",
+                                "2nd",
+                                "10th",
+                                "12th"
+                            ],
+                            "answer": "1st"
+                        },
+                        {
+                            "question": "Where will Bharat Health Global Expo 2026 be held?",
+                            "options": [
+                                "Bharat Mandapam, New Delhi",
+                                "Vigyan Bhawan",
+                                "India Expo Centre, Noida",
+                                "Pragati Maidan, Mumbai"
+                            ],
+                            "answer": "Bharat Mandapam, New Delhi"
+                        },
+                        {
+                            "question": "Which edition of iPHEX is being held along with the event?",
+                            "options": [
+                                "12th",
+                                "10th",
+                                "11th",
+                                "15th"
+                            ],
+                            "answer": "12th"
+                        },
+                        {
+                            "question": "Who is scheduled to inaugurate the event?",
+                            "options": [
+                                "Piyush Goyal",
+                                "Mansukh Mandaviya",
+                                "Dharmendra Pradhan",
+                                "Amit Shah"
+                            ],
+                            "answer": "Piyush Goyal"
+                        },
+                        {
+                            "question": "Bharat Health Global Expo is mainly related to which sector?",
+                            "options": [
+                                "Healthcare and Pharmaceuticals",
+                                "Railways",
+                                "Defence",
+                                "Banking"
+                            ],
+                            "answer": "Healthcare and Pharmaceuticals"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Fitness",
+                    "title": "RedTape 10K Run Delhi Scheduled at Jawaharlal Nehru Stadium",
+                    "summary": "The second edition of the RedTape 10K Run Delhi is scheduled for 6 September 2026 at Jawaharlal Nehru Stadium in New Delhi. The event promotes running, fitness and environmental awareness under the mission 'Run for Clean Air'.",
+                    "sourceName": "RaceMart",
+                    "sourceUrl": "https://racemart.in/events/redtape-10k-run-delhi-2nd-edition",
+                    "staticGK": [
+                        "Event : RedTape 10K Run Delhi",
+                        "Edition : 2nd",
+                        "Date : 6 September 2026",
+                        "Venue : Jawaharlal Nehru Stadium",
+                        "City : New Delhi",
+                        "Mission : Run for Clean Air"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of RedTape 10K Run Delhi is scheduled for 2026?",
+                            "options": [
+                                "2nd",
+                                "1st",
+                                "3rd",
+                                "5th"
+                            ],
+                            "answer": "2nd"
+                        },
+                        {
+                            "question": "Where will the RedTape 10K Run Delhi be held?",
+                            "options": [
+                                "Jawaharlal Nehru Stadium",
+                                "Arun Jaitley Stadium",
+                                "Major Dhyan Chand Stadium",
+                                "Indira Gandhi Stadium"
+                            ],
+                            "answer": "Jawaharlal Nehru Stadium"
+                        },
+                        {
+                            "question": "On which date is the event scheduled?",
+                            "options": [
+                                "6 September 2026",
+                                "5 September 2026",
+                                "10 September 2026",
+                                "15 September 2026"
+                            ],
+                            "answer": "6 September 2026"
+                        },
+                        {
+                            "question": "What is the mission of the event?",
+                            "options": [
+                                "Run for Clean Air",
+                                "Run for Education",
+                                "Run for Peace",
+                                "Run for India"
+                            ],
+                            "answer": "Run for Clean Air"
+                        },
+                        {
+                            "question": "The event is primarily related to?",
+                            "options": [
+                                "Running and Fitness",
+                                "Cricket",
+                                "Football",
+                                "Hockey"
+                            ],
+                            "answer": "Running and Fitness"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Football",
+                    "title": "India-Panama Football Friendly Rescheduled to 25 September",
+                    "summary": "India's international friendly against Panama has been rescheduled to 25 September 2026. The match will continue to be played at Sree Kanteerava Stadium in Bengaluru as part of the FIFA Men's International Match Window.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/football/india-vs-panama-friendly-rescheduled-to-september-25-10864704/",
+                    "staticGK": [
+                        "Match : India vs Panama",
+                        "Sport : Football",
+                        "New Date : 25 September 2026",
+                        "Venue : Sree Kanteerava Stadium",
+                        "City : Bengaluru",
+                        "Competition Window : FIFA Men's International Match Window"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India's friendly match has been rescheduled against which country?",
+                            "options": [
+                                "Panama",
+                                "Brazil",
+                                "Uruguay",
+                                "Argentina"
+                            ],
+                            "answer": "Panama"
+                        },
+                        {
+                            "question": "On which date is the India-Panama friendly scheduled?",
+                            "options": [
+                                "25 September 2026",
+                                "20 September 2026",
+                                "27 September 2026",
+                                "30 September 2026"
+                            ],
+                            "answer": "25 September 2026"
+                        },
+                        {
+                            "question": "Where will the India-Panama friendly be played?",
+                            "options": [
+                                "Sree Kanteerava Stadium",
+                                "Salt Lake Stadium",
+                                "Jawaharlal Nehru Stadium",
+                                "DY Patil Stadium"
+                            ],
+                            "answer": "Sree Kanteerava Stadium"
+                        },
+                        {
+                            "question": "In which city is the venue located?",
+                            "options": [
+                                "Bengaluru",
+                                "Kolkata",
+                                "New Delhi",
+                                "Mumbai"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "The match is part of which international football window?",
+                            "options": [
+                                "FIFA Men's International Match Window",
+                                "UEFA Nations League",
+                                "AFC Asian Cup",
+                                "FIFA World Cup Final"
+                            ],
+                            "answer": "FIFA Men's International Match Window"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy",
+                    "title": "India's Economy Records Strong 7.8% Growth in April-June Quarter",
+                    "summary": "India's economy grew by 7.8% year-on-year in the April-June 2026 quarter. Recent data also indicated stronger private investment and continued growth in consumption, supporting the broader economic outlook.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/private-sector-steps-up-indias-growth-engine-broadens-2026-09-01/",
+                    "staticGK": [
+                        "Quarter : April-June 2026",
+                        "GDP Growth : 7.8%",
+                        "Growth Type : Year-on-Year",
+                        "Private Investment : Increased",
+                        "Consumption Growth : 7.1%",
+                        "Key Theme : Economic Expansion"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's GDP growth in the April-June 2026 quarter?",
+                            "options": [
+                                "7.8%",
+                                "6.5%",
+                                "8.9%",
+                                "5.7%"
+                            ],
+                            "answer": "7.8%"
+                        },
+                        {
+                            "question": "The reported GDP growth is measured on which basis?",
+                            "options": [
+                                "Year-on-Year",
+                                "Month-on-Month",
+                                "Day-on-Day",
+                                "Quarter-on-Quarter only"
+                            ],
+                            "answer": "Year-on-Year"
+                        },
+                        {
+                            "question": "Which area showed stronger growth according to the report?",
+                            "options": [
+                                "Private Investment",
+                                "Gold Imports",
+                                "Oil Production",
+                                "Tourism only"
+                            ],
+                            "answer": "Private Investment"
+                        },
+                        {
+                            "question": "What was the reported consumption growth?",
+                            "options": [
+                                "7.1%",
+                                "4.2%",
+                                "5.5%",
+                                "9.3%"
+                            ],
+                            "answer": "7.1%"
+                        },
+                        {
+                            "question": "The data mainly indicates what about India's economy?",
+                            "options": [
+                                "Strong Economic Expansion",
+                                "Economic Contraction",
+                                "Deflation",
+                                "Recession"
+                            ],
+                            "answer": "Strong Economic Expansion"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Trade",
+                    "title": "India and Belgium Strengthen Trade and Defence Cooperation",
+                    "summary": "India and Belgium agreed to strengthen cooperation in trade, defence, clean energy, critical minerals, semiconductors, research and talent mobility. The two countries also agreed to establish an Investment Fast-Track Mechanism and aim to double bilateral trade within five years.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-belgium-agree-strengthen-trade-defence-ties-2026-09-03/",
+                    "staticGK": [
+                        "Countries : India and Belgium",
+                        "Cooperation Areas : Trade and Defence",
+                        "Other Areas : Clean Energy and Critical Minerals",
+                        "Mechanism : Investment Fast-Track Mechanism",
+                        "Trade Goal : Double Bilateral Trade",
+                        "Timeframe : Five Years"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country agreed to strengthen cooperation with India?",
+                            "options": [
+                                "Belgium",
+                                "Germany",
+                                "France",
+                                "Italy"
+                            ],
+                            "answer": "Belgium"
+                        },
+                        {
+                            "question": "Which mechanism was proposed to facilitate Belgian investments?",
+                            "options": [
+                                "Investment Fast-Track Mechanism",
+                                "Trade Security Mechanism",
+                                "Export Growth Mechanism",
+                                "Digital Investment Scheme"
+                            ],
+                            "answer": "Investment Fast-Track Mechanism"
+                        },
+                        {
+                            "question": "India and Belgium aim to achieve what regarding bilateral trade?",
+                            "options": [
+                                "Double Bilateral Trade",
+                                "Reduce Bilateral Trade",
+                                "End Bilateral Trade",
+                                "Freeze Bilateral Trade"
+                            ],
+                            "answer": "Double Bilateral Trade"
+                        },
+                        {
+                            "question": "Within what period do the two countries aim to double bilateral trade?",
+                            "options": [
+                                "Five Years",
+                                "Two Years",
+                                "Ten Years",
+                                "One Year"
+                            ],
+                            "answer": "Five Years"
+                        },
+                        {
+                            "question": "Which of the following is an area of cooperation between India and Belgium?",
+                            "options": [
+                                "Critical Minerals",
+                                "Only Tourism",
+                                "Only Sports",
+                                "Only Agriculture"
+                            ],
+                            "answer": "Critical Minerals"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Cricket",
+                    "title": "Women's Asia Cup T20 Continues with Sri Lanka Facing Bangladesh",
+                    "summary": "The Women's Asia Cup T20 2026 schedule includes a match between Sri Lanka Women and Bangladesh Women on 6 September 2026. The tournament is part of the women's international T20 cricket calendar.",
+                    "sourceName": "Times Now",
+                    "sourceUrl": "https://www.sports-now.com/schedule",
+                    "staticGK": [
+                        "Tournament : Women's Asia Cup T20 2026",
+                        "Date : 6 September 2026",
+                        "Match : Sri Lanka Women vs Bangladesh Women",
+                        "Sport : Cricket",
+                        "Format : T20",
+                        "Category : Women's International Cricket"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two teams are scheduled to play on 6 September 2026?",
+                            "options": [
+                                "Sri Lanka Women and Bangladesh Women",
+                                "India Women and Pakistan Women",
+                                "Australia Women and England Women",
+                                "India Women and Bangladesh Women"
+                            ],
+                            "answer": "Sri Lanka Women and Bangladesh Women"
+                        },
+                        {
+                            "question": "Which tournament is the match part of?",
+                            "options": [
+                                "Women's Asia Cup T20",
+                                "Women's World Cup",
+                                "Women's Champions Trophy",
+                                "Women's Test Championship"
+                            ],
+                            "answer": "Women's Asia Cup T20"
+                        },
+                        {
+                            "question": "What is the format of the tournament?",
+                            "options": [
+                                "T20",
+                                "ODI",
+                                "Test",
+                                "T10"
+                            ],
+                            "answer": "T20"
+                        },
+                        {
+                            "question": "Which sport is associated with the Women's Asia Cup T20?",
+                            "options": [
+                                "Cricket",
+                                "Football",
+                                "Hockey",
+                                "Badminton"
+                            ],
+                            "answer": "Cricket"
+                        },
+                        {
+                            "question": "Which team is playing against Sri Lanka Women?",
+                            "options": [
+                                "Bangladesh Women",
+                                "India Women",
+                                "Pakistan Women",
+                                "Nepal Women"
+                            ],
+                            "answer": "Bangladesh Women"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
