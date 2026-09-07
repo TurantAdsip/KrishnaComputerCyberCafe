@@ -4204,6 +4204,683 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-09-07",
+            "date": "7 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 7 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Relations",
+                    "title": "India Supports UN World Map Resolution on Official Indian Map",
+                    "summary": "India has supported a newly adopted United Nations resolution related to the world map and emphasized that maps used in UN-related contexts should accurately reflect India's official political map, particularly regarding Jammu and Kashmir and Ladakh.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-7-2026-mea-supports-united-nations-world-map-resolution-exacts-strict-adherence-indian-map-for-jammu-kashmir-ladakh-10865519/",
+                    "staticGK": [
+                        "Organisation : United Nations",
+                        "Indian Ministry : Ministry of External Affairs",
+                        "Issue : Official Indian Political Map",
+                        "Regions Mentioned : Jammu and Kashmir and Ladakh",
+                        "Significance : Territorial Representation and International Diplomacy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation adopted the resolution related to the world map?",
+                            "options": [
+                                "United Nations",
+                                "World Bank",
+                                "WTO",
+                                "IMF"
+                            ],
+                            "answer": "United Nations"
+                        },
+                        {
+                            "question": "Which Indian ministry responded to the issue?",
+                            "options": [
+                                "Ministry of External Affairs",
+                                "Ministry of Defence",
+                                "Ministry of Home Affairs",
+                                "Ministry of Finance"
+                            ],
+                            "answer": "Ministry of External Affairs"
+                        },
+                        {
+                            "question": "Which regions were specifically highlighted by India?",
+                            "options": [
+                                "Jammu and Kashmir and Ladakh",
+                                "Punjab and Haryana",
+                                "Gujarat and Rajasthan",
+                                "Assam and Meghalaya"
+                            ],
+                            "answer": "Jammu and Kashmir and Ladakh"
+                        },
+                        {
+                            "question": "The issue is mainly related to which subject?",
+                            "options": [
+                                "Territorial Representation",
+                                "International Trade",
+                                "Climate Finance",
+                                "Sports Diplomacy"
+                            ],
+                            "answer": "Territorial Representation"
+                        },
+                        {
+                            "question": "The United Nations headquarters is located in which city?",
+                            "options": [
+                                "New York",
+                                "Geneva",
+                                "Paris",
+                                "London"
+                            ],
+                            "answer": "New York"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "Delhi Schools to Remain Closed on 11 September for BRICS Summit",
+                    "summary": "The Delhi Directorate of Education has announced that government, government-aided and recognised private schools will remain closed on 11 September 2026 in view of the 18th BRICS Summit and related security and traffic arrangements in the national capital.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/all-schools-office-remain-closed-september-11-delhi-brics-summit-10865726/",
+                    "staticGK": [
+                        "Event : 18th BRICS Summit",
+                        "Host City : New Delhi",
+                        "Venue : Bharat Mandapam",
+                        "Summit Dates : 11-13 September 2026",
+                        "School Holiday : 11 September 2026",
+                        "Reason : Security and Logistical Arrangements"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Why will schools in Delhi remain closed on 11 September 2026?",
+                            "options": [
+                                "BRICS Summit",
+                                "Independence Day",
+                                "Republic Day",
+                                "G20 Summit"
+                            ],
+                            "answer": "BRICS Summit"
+                        },
+                        {
+                            "question": "Which edition of the BRICS Summit is scheduled in New Delhi?",
+                            "options": [
+                                "18th",
+                                "17th",
+                                "19th",
+                                "20th"
+                            ],
+                            "answer": "18th"
+                        },
+                        {
+                            "question": "Where will the BRICS Summit 2026 be held?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Vigyan Bhawan",
+                                "Rashtrapati Bhavan",
+                                "India Gate"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        },
+                        {
+                            "question": "On which date will Delhi schools remain closed?",
+                            "options": [
+                                "11 September 2026",
+                                "12 September 2026",
+                                "13 September 2026",
+                                "10 September 2026"
+                            ],
+                            "answer": "11 September 2026"
+                        },
+                        {
+                            "question": "BRICS is primarily a grouping of which type of countries?",
+                            "options": [
+                                "Major emerging economies",
+                                "European Union members",
+                                "Island nations",
+                                "NATO members"
+                            ],
+                            "answer": "Major emerging economies"
+                        }
+                    ]
+                },
+                {
+                    "category": "Internal Security",
+                    "title": "Amit Shah Announces Roadmap for Drug-Free India by 2029",
+                    "summary": "Union Home Minister Amit Shah has outlined a three-year roadmap aimed at making India drug-free by 2029. The campaign focuses on enforcement, intelligence sharing, control of precursor and synthetic drugs, demand reduction, rehabilitation and coordination among agencies.",
+                    "sourceName": "News On AIR",
+                    "sourceUrl": "https://newsonair.gov.in/amit-shah-outlines-three-year-roadmap-to-make-india-drug-free-by-2029/",
+                    "staticGK": [
+                        "Target : Drug-Free India",
+                        "Target Year : 2029",
+                        "Announced By : Amit Shah",
+                        "Location : Goa",
+                        "Roadmap Duration : Three Years",
+                        "Major Focus : Narcotics Control and Rehabilitation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "By which year does the government aim to make India drug-free?",
+                            "options": [
+                                "2029",
+                                "2030",
+                                "2047",
+                                "2027"
+                            ],
+                            "answer": "2029"
+                        },
+                        {
+                            "question": "Who announced the roadmap for a drug-free India?",
+                            "options": [
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Piyush Goyal",
+                                "Mansukh Mandaviya"
+                            ],
+                            "answer": "Amit Shah"
+                        },
+                        {
+                            "question": "Where did Amit Shah outline the roadmap?",
+                            "options": [
+                                "Goa",
+                                "New Delhi",
+                                "Mumbai",
+                                "Gandhinagar"
+                            ],
+                            "answer": "Goa"
+                        },
+                        {
+                            "question": "How long is the roadmap?",
+                            "options": [
+                                "Three Years",
+                                "Two Years",
+                                "Five Years",
+                                "Ten Years"
+                            ],
+                            "answer": "Three Years"
+                        },
+                        {
+                            "question": "Which issue is the roadmap primarily concerned with?",
+                            "options": [
+                                "Narcotics Control",
+                                "Cyber Security",
+                                "Border Trade",
+                                "Climate Change"
+                            ],
+                            "answer": "Narcotics Control"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Badminton",
+                    "title": "Satwik-Chirag Win Maiden China Masters Title",
+                    "summary": "Indian badminton pair Satwiksairaj Rankireddy and Chirag Shetty won their maiden China Masters men's doubles title in Shenzhen. They defeated China's He Ji Ting and Ren Xiang Yu in the final, giving India its first China Masters men's doubles title.",
+                    "sourceName": "GK Now",
+                    "sourceUrl": "https://gknow.in/current-affairs-7-september-2026/",
+                    "staticGK": [
+                        "Tournament : China Masters 2026",
+                        "Sport : Badminton",
+                        "Event : Men's Doubles",
+                        "Indian Pair : Satwiksairaj Rankireddy and Chirag Shetty",
+                        "Venue : Shenzhen, China",
+                        "Achievement : First Indian Men's Doubles China Masters Title"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian pair won the China Masters men's doubles title?",
+                            "options": [
+                                "Satwiksairaj Rankireddy and Chirag Shetty",
+                                "Lakshya Sen and HS Prannoy",
+                                "Rohan Bopanna and Yuki Bhambri",
+                                "Manu Attri and B. Sumeeth Reddy"
+                            ],
+                            "answer": "Satwiksairaj Rankireddy and Chirag Shetty"
+                        },
+                        {
+                            "question": "Which sport is associated with the China Masters?",
+                            "options": [
+                                "Badminton",
+                                "Tennis",
+                                "Table Tennis",
+                                "Squash"
+                            ],
+                            "answer": "Badminton"
+                        },
+                        {
+                            "question": "Where was the China Masters held?",
+                            "options": [
+                                "Shenzhen",
+                                "Beijing",
+                                "Shanghai",
+                                "Guangzhou"
+                            ],
+                            "answer": "Shenzhen"
+                        },
+                        {
+                            "question": "Which category did Satwik and Chirag win?",
+                            "options": [
+                                "Men's Doubles",
+                                "Men's Singles",
+                                "Mixed Doubles",
+                                "Team Event"
+                            ],
+                            "answer": "Men's Doubles"
+                        },
+                        {
+                            "question": "Which country did the Indian pair defeat in the final?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "Malaysia",
+                                "Indonesia"
+                            ],
+                            "answer": "China"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Cricket",
+                    "title": "Harmanpreet Kaur Becomes First Cricketer to Captain in 150 T20Is",
+                    "summary": "India women's cricket captain Harmanpreet Kaur became the first cricketer, male or female, to captain a team in 150 T20 International matches. She achieved the landmark during India's Women's Asia Cup match against Pakistan.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/cricket/harmanpreet-kaur-record-first-captain-150-t20is-india-pakistan-womens-asia-cup-10864832/",
+                    "staticGK": [
+                        "Player : Harmanpreet Kaur",
+                        "Sport : Cricket",
+                        "Format : T20 International",
+                        "Milestone : 150 Matches as Captain",
+                        "Team : India Women's Cricket Team",
+                        "Tournament : Women's Asia Cup 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who became the first cricketer to captain in 150 T20I matches?",
+                            "options": [
+                                "Harmanpreet Kaur",
+                                "Smriti Mandhana",
+                                "Mithali Raj",
+                                "Deepti Sharma"
+                            ],
+                            "answer": "Harmanpreet Kaur"
+                        },
+                        {
+                            "question": "How many T20I matches did Harmanpreet captain to reach the milestone?",
+                            "options": [
+                                "150",
+                                "100",
+                                "125",
+                                "175"
+                            ],
+                            "answer": "150"
+                        },
+                        {
+                            "question": "Against which team did she reach the milestone?",
+                            "options": [
+                                "Pakistan",
+                                "Sri Lanka",
+                                "Bangladesh",
+                                "Australia"
+                            ],
+                            "answer": "Pakistan"
+                        },
+                        {
+                            "question": "The milestone was achieved in which tournament?",
+                            "options": [
+                                "Women's Asia Cup",
+                                "Women's World Cup",
+                                "Women's Champions Trophy",
+                                "Commonwealth Games"
+                            ],
+                            "answer": "Women's Asia Cup"
+                        },
+                        {
+                            "question": "T20I stands for?",
+                            "options": [
+                                "Twenty20 International",
+                                "Twenty-Two International",
+                                "Twenty Tournament International",
+                                "Team Twenty International"
+                            ],
+                            "answer": "Twenty20 International"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Cricket",
+                    "title": "Ishan Kishan Scores Unbeaten 111 in Duleep Trophy Final",
+                    "summary": "East Zone captain Ishan Kishan scored an unbeaten 111 on the opening day of the Duleep Trophy 2026-27 final against South Zone at the MA Chidambaram Stadium in Chennai. East Zone finished the day at 385/4.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/cricket/ishan-kishan-century-red-ball-duleep-trophy-final-day-1-east-zone-south-zone-chepauk-10865889/",
+                    "staticGK": [
+                        "Tournament : Duleep Trophy 2026-27",
+                        "Match : East Zone vs South Zone",
+                        "Venue : MA Chidambaram Stadium",
+                        "City : Chennai",
+                        "Ishan Kishan Score : 111*",
+                        "East Zone Score : 385/4"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who scored an unbeaten 111 in the Duleep Trophy final?",
+                            "options": [
+                                "Ishan Kishan",
+                                "Shubman Gill",
+                                "Ruturaj Gaikwad",
+                                "Abhishek Sharma"
+                            ],
+                            "answer": "Ishan Kishan"
+                        },
+                        {
+                            "question": "Which team was led by Ishan Kishan?",
+                            "options": [
+                                "East Zone",
+                                "South Zone",
+                                "West Zone",
+                                "North Zone"
+                            ],
+                            "answer": "East Zone"
+                        },
+                        {
+                            "question": "Who was East Zone playing against?",
+                            "options": [
+                                "South Zone",
+                                "North Zone",
+                                "West Zone",
+                                "Central Zone"
+                            ],
+                            "answer": "South Zone"
+                        },
+                        {
+                            "question": "Where was the Duleep Trophy final being played?",
+                            "options": [
+                                "MA Chidambaram Stadium",
+                                "Eden Gardens",
+                                "Wankhede Stadium",
+                                "Arun Jaitley Stadium"
+                            ],
+                            "answer": "MA Chidambaram Stadium"
+                        },
+                        {
+                            "question": "What was East Zone's score at the end of Day 1?",
+                            "options": [
+                                "385/4",
+                                "285/4",
+                                "385/6",
+                                "350/5"
+                            ],
+                            "answer": "385/4"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Agriculture",
+                    "title": "Centre Sells 4,000 Tonnes of Buffer Onions Across 17 Cities",
+                    "summary": "The Central Government has sold around 4,000 tonnes of buffer onions across 17 cities during the first ten days of a subsidised retail intervention aimed at controlling rising onion prices. Onions are being sold at a subsidised rate of Rs 35 per kg in selected cities.",
+                    "sourceName": "Business Standard",
+                    "sourceUrl": "https://www.business-standard.com/economy/news/govt-sells-4-000-tonnes-of-buffer-onions-across-17-cities-to-cool-prices-126090600239_1.html",
+                    "staticGK": [
+                        "Commodity : Onion",
+                        "Buffer Onion Sold : About 4,000 Tonnes",
+                        "Cities Covered : 17",
+                        "Subsidised Price : Rs 35 per kg",
+                        "Buffer Stock for 2026 : 1.21 Lakh Tonnes",
+                        "Agencies : NCCF and NAFED"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much buffer onion had the government sold across 17 cities?",
+                            "options": [
+                                "About 4,000 tonnes",
+                                "About 1,000 tonnes",
+                                "About 10,000 tonnes",
+                                "About 20,000 tonnes"
+                            ],
+                            "answer": "About 4,000 tonnes"
+                        },
+                        {
+                            "question": "Across how many cities was the buffer onion sold?",
+                            "options": [
+                                "17",
+                                "10",
+                                "25",
+                                "50"
+                            ],
+                            "answer": "17"
+                        },
+                        {
+                            "question": "At what subsidised rate are onions being sold in selected cities?",
+                            "options": [
+                                "Rs 35 per kg",
+                                "Rs 25 per kg",
+                                "Rs 40 per kg",
+                                "Rs 50 per kg"
+                            ],
+                            "answer": "Rs 35 per kg"
+                        },
+                        {
+                            "question": "Which two agencies are involved in distributing the buffer onions?",
+                            "options": [
+                                "NCCF and NAFED",
+                                "RBI and SEBI",
+                                "ISRO and DRDO",
+                                "LIC and SBI"
+                            ],
+                            "answer": "NCCF and NAFED"
+                        },
+                        {
+                            "question": "What is the main purpose of the onion intervention?",
+                            "options": [
+                                "Control Rising Prices",
+                                "Increase Exports",
+                                "Promote Tourism",
+                                "Increase Imports"
+                            ],
+                            "answer": "Control Rising Prices"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "India Co-Sponsors UN Resolution Declaring 27 November as International Day Against Child Marriage",
+                    "summary": "India has co-sponsored a United Nations General Assembly resolution proclaiming 27 November every year as the International Day for the Elimination of Child, Early and Forced Marriage. The resolution was adopted by consensus.",
+                    "sourceName": "Hindustan Times",
+                    "sourceUrl": "https://www.hindustantimes.com/world-news/us-news/india-co-sponsors-unga-resolution-declaring-nov-27-as-day-against-child-marriage-101788669390829-amp.html",
+                    "staticGK": [
+                        "Organisation : United Nations General Assembly",
+                        "New International Day : International Day for the Elimination of Child, Early and Forced Marriage",
+                        "Date : 27 November",
+                        "Resolution : Adopted by Consensus",
+                        "Lead Country : Sierra Leone",
+                        "India : Co-Sponsor"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which date has been proclaimed as the International Day for the Elimination of Child, Early and Forced Marriage?",
+                            "options": [
+                                "27 November",
+                                "14 November",
+                                "20 November",
+                                "10 December"
+                            ],
+                            "answer": "27 November"
+                        },
+                        {
+                            "question": "Which organisation adopted the resolution?",
+                            "options": [
+                                "United Nations General Assembly",
+                                "UN Security Council",
+                                "World Bank",
+                                "UNESCO"
+                            ],
+                            "answer": "United Nations General Assembly"
+                        },
+                        {
+                            "question": "Which country led the resolution?",
+                            "options": [
+                                "Sierra Leone",
+                                "India",
+                                "France",
+                                "Brazil"
+                            ],
+                            "answer": "Sierra Leone"
+                        },
+                        {
+                            "question": "How was the resolution adopted?",
+                            "options": [
+                                "By Consensus",
+                                "By Military Vote",
+                                "By Referendum",
+                                "By Presidential Order"
+                            ],
+                            "answer": "By Consensus"
+                        },
+                        {
+                            "question": "What was India's role in the resolution?",
+                            "options": [
+                                "Co-Sponsor",
+                                "Opponent",
+                                "Observer Only",
+                                "Chairperson"
+                            ],
+                            "answer": "Co-Sponsor"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Banking",
+                    "title": "RBI Intervention and Liquidity Measures Influence Rupee and Bond Markets",
+                    "summary": "The Indian rupee and government bond markets are expected to remain influenced by Reserve Bank of India interventions and liquidity management. The rupee recently strengthened as the RBI continued measures to support currency stability amid global oil and interest-rate pressures.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-rupee-bonds-be-driven-by-rbi-intervention-liquidity-action-2026-09-07/",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Market : Indian Rupee and Government Bonds",
+                        "Key Tool : Liquidity Management",
+                        "Currency : Indian Rupee",
+                        "Global Factors : Crude Oil and US Interest Rates",
+                        "Importance : Financial Market Stability"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution is intervening to support liquidity and currency stability?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "Finance Commission"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which currency is being discussed in the report?",
+                            "options": [
+                                "Indian Rupee",
+                                "US Dollar",
+                                "Euro",
+                                "Japanese Yen"
+                            ],
+                            "answer": "Indian Rupee"
+                        },
+                        {
+                            "question": "Which market is also being influenced by RBI liquidity actions?",
+                            "options": [
+                                "Government Bond Market",
+                                "Agricultural Market",
+                                "Real Estate Market",
+                                "Tourism Market"
+                            ],
+                            "answer": "Government Bond Market"
+                        },
+                        {
+                            "question": "Which global commodity is putting pressure on the Indian economy?",
+                            "options": [
+                                "Crude Oil",
+                                "Cotton",
+                                "Rice",
+                                "Coffee"
+                            ],
+                            "answer": "Crude Oil"
+                        },
+                        {
+                            "question": "RBI stands for?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "Regional Bank of India",
+                                "Revenue Bank of India",
+                                "Rural Banking Institution"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Disaster Management",
+                    "title": "Anak Krakatau Eruption Disrupts Flights and Education in Indonesia",
+                    "summary": "The eruption of Mount Anak Krakatau in Indonesia has caused volcanic ash disruptions, affecting aviation and educational activities in several areas. Flight cancellations and temporary distance-learning measures were reported as authorities prioritised public safety.",
+                    "sourceName": "Singapore Airlines",
+                    "sourceUrl": "https://www.singaporeair.com/en_UK/dk/corporate/newsroom/newsalert-listing/advisory-on-singapore-airlines-flights-impacted-by-the-eruption-/",
+                    "staticGK": [
+                        "Volcano : Mount Anak Krakatau",
+                        "Country : Indonesia",
+                        "Hazard : Volcanic Ash",
+                        "Major Impact : Air Travel Disruption",
+                        "Emergency Concern : Public and Aviation Safety",
+                        "Region : Sunda Strait Area"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which volcano caused the aviation disruption?",
+                            "options": [
+                                "Mount Anak Krakatau",
+                                "Mount Merapi",
+                                "Mount Fuji",
+                                "Mount Bromo"
+                            ],
+                            "answer": "Mount Anak Krakatau"
+                        },
+                        {
+                            "question": "In which country is Mount Anak Krakatau located?",
+                            "options": [
+                                "Indonesia",
+                                "Japan",
+                                "Philippines",
+                                "Malaysia"
+                            ],
+                            "answer": "Indonesia"
+                        },
+                        {
+                            "question": "What caused the major disruption to flights?",
+                            "options": [
+                                "Volcanic Ash",
+                                "Heavy Snow",
+                                "Earthquake",
+                                "Cyclone"
+                            ],
+                            "answer": "Volcanic Ash"
+                        },
+                        {
+                            "question": "Which sector was directly affected by the volcanic ash?",
+                            "options": [
+                                "Aviation",
+                                "Banking",
+                                "Railways",
+                                "Agriculture only"
+                            ],
+                            "answer": "Aviation"
+                        },
+                        {
+                            "question": "What is the primary concern during volcanic ash disruption?",
+                            "options": [
+                                "Aviation and Public Safety",
+                                "Banking Growth",
+                                "Tourism Promotion",
+                                "Sports Development"
+                            ],
+                            "answer": "Aviation and Public Safety"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
