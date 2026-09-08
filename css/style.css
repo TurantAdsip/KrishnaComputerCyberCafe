@@ -87,21 +87,165 @@
 
 /* Mobile Responsive */
 
-@media(max-width:768px) {
-    .top-header {
-        flex-direction: column;
-        text-align: center;
-        gap: 10px;
-        padding: 10px;
-    }
+/* =====================================================
+   MOBILE + TABLET HAMBURGER MENU
+   Desktop Menu Remains Normal
+===================================================== */
+
+.menu-toggle {
+    display: none;
+    border: none;
+    background: transparent;
+    color: #002b6b;
+    font-size: 28px;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.mobile-whatsapp {
+    display: none;
+}
+
+
+/* =====================================================
+   TABLET + MOBILE
+   991px and below
+===================================================== */
+
+@media (max-width: 991px) {
+
     .navbar {
-        flex-direction: column;
-        gap: 20px;
+        position: relative;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 12px 20px;
     }
-    .menu {
+
+    /* Hamburger Show */
+    .menu-toggle {
+        display: block;
+        margin-left: auto;
+        z-index: 10001;
+    }
+
+    /* Desktop WhatsApp Hide */
+    .navbar > .whatsapp-btn {
+        display: none;
+    }
+
+    /* Menu Hide */
+    .navbar .menu {
+        display: none;
+
+        position: absolute;
+        top: 100%;
+        left: 0;
+
+        width: 100%;
+
+        background: #ffffff;
+
         flex-direction: column;
+        gap: 0;
+
+        padding: 10px 0;
+        margin: 0;
+
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+
+        z-index: 10000;
+    }
+
+    /* Menu Open */
+    .navbar .menu.active {
+        display: flex;
+    }
+
+    /* Menu Items */
+    .navbar .menu li {
+        width: 100%;
         text-align: center;
-        gap: 15px;
+        list-style: none;
+    }
+
+    .navbar .menu li a {
+        display: block;
+        width: 100%;
+
+        padding: 14px 20px;
+
+        color: #222;
+        text-decoration: none;
+
+        border-bottom: 1px solid #eeeeee;
+    }
+
+    .navbar .menu li a:hover {
+        background: #f5f7fb;
+        color: #003b8b;
+    }
+
+    /* WhatsApp inside hamburger */
+    .navbar .menu .mobile-whatsapp {
+        display: block;
+    }
+
+    .navbar .menu .mobile-whatsapp a {
+        color: #25D366;
+        font-weight: bold;
+    }
+}
+
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width: 600px) {
+
+    .navbar {
+        padding: 10px 15px;
+    }
+
+    .logo {
+        gap: 8px;
+    }
+
+    .logo img {
+        width: 48px;
+    }
+
+    .logo h2 {
+        font-size: 20px;
+    }
+
+    .logo p {
+        font-size: 12px;
+    }
+
+    .menu-toggle {
+        font-size: 24px;
+    }
+}
+
+
+/* =====================================================
+   TABLET
+===================================================== */
+
+@media (min-width: 601px) and (max-width: 991px) {
+
+    .navbar {
+        padding: 12px 30px;
+    }
+
+    .logo img {
+        width: 55px;
+    }
+
+    .menu-toggle {
+        font-size: 28px;
     }
 }
 
