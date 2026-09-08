@@ -4881,6 +4881,684 @@
                     ]
                 }
             ]
+        },
+         {
+            "id": "2026-09-08",
+            "date": "8 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 8 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "National Affairs",
+                    "title": "PM Modi to Dedicate Western Dedicated Freight Corridor Sections to Nation",
+                    "summary": "Prime Minister Narendra Modi is scheduled to visit Gujarat and Maharashtra on 8 September 2026 and dedicate important sections of the Western Dedicated Freight Corridor to the nation. The programme also includes the inauguration and foundation stone laying of development projects worth more than Rs 35,000 crore in Gujarat.",
+                    "sourceName": "News On AIR",
+                    "sourceUrl": "https://newsonair.gov.in/pm-modi-to-inaugurate-development-projects-in-gujarat-and-maharashtra-today/",
+                    "staticGK": [
+                        "Project : Western Dedicated Freight Corridor",
+                        "Abbreviation : WDFC",
+                        "Prime Minister : Narendra Modi",
+                        "States Covered : Gujarat and Maharashtra",
+                        "Project Significance : Dedicated Freight Transportation",
+                        "Major Benefit : Faster and More Efficient Freight Movement"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which freight corridor sections are being dedicated to the nation?",
+                            "options": [
+                                "Western Dedicated Freight Corridor",
+                                "Eastern Dedicated Freight Corridor",
+                                "North-South Freight Corridor",
+                                "East-West Freight Corridor"
+                            ],
+                            "answer": "Western Dedicated Freight Corridor"
+                        },
+                        {
+                            "question": "Who is scheduled to dedicate the WDFC sections to the nation?",
+                            "options": [
+                                "Narendra Modi",
+                                "Ashwini Vaishnaw",
+                                "Nitin Gadkari",
+                                "Rajnath Singh"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Which two states are included in the Prime Minister's visit?",
+                            "options": [
+                                "Gujarat and Maharashtra",
+                                "Gujarat and Rajasthan",
+                                "Maharashtra and Madhya Pradesh",
+                                "Gujarat and Karnataka"
+                            ],
+                            "answer": "Gujarat and Maharashtra"
+                        },
+                        {
+                            "question": "What is the primary purpose of a dedicated freight corridor?",
+                            "options": [
+                                "Freight Transportation",
+                                "Passenger Aviation",
+                                "Tourism Development",
+                                "Metro Rail Services"
+                            ],
+                            "answer": "Freight Transportation"
+                        },
+                        {
+                            "question": "WDFC stands for?",
+                            "options": [
+                                "Western Dedicated Freight Corridor",
+                                "Western Development Freight Corridor",
+                                "World Dedicated Freight Corridor",
+                                "Western Domestic Freight Centre"
+                            ],
+                            "answer": "Western Dedicated Freight Corridor"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence",
+                    "title": "Defence Acquisition Council Clears Proposals Worth Rs 1.10 Lakh Crore",
+                    "summary": "The Defence Acquisition Council has cleared military procurement proposals worth around Rs 1.10 lakh crore for the Indian Armed Forces. The approvals include advanced systems for the Army, Navy and Air Force, strengthening India's defence preparedness and indigenous capabilities.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/rs-1-1-lakh-crore-military-procurements-cleared-in-boost-for-army-navy-air-force-10867700/",
+                    "staticGK": [
+                        "Institution : Defence Acquisition Council",
+                        "Amount : About Rs 1.10 Lakh Crore",
+                        "Beneficiaries : Army, Navy and Air Force",
+                        "Key Systems : CBRN Recce Vehicles, ALH and Arudhra Radars",
+                        "Focus : Defence Modernisation",
+                        "Importance : Strengthening Armed Forces"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which body cleared military procurement proposals worth around Rs 1.10 lakh crore?",
+                            "options": [
+                                "Defence Acquisition Council",
+                                "NITI Aayog",
+                                "Finance Commission",
+                                "National Security Council"
+                            ],
+                            "answer": "Defence Acquisition Council"
+                        },
+                        {
+                            "question": "What is the approximate value of the approved procurement proposals?",
+                            "options": [
+                                "Rs 1.10 Lakh Crore",
+                                "Rs 50,000 Crore",
+                                "Rs 75,000 Crore",
+                                "Rs 2 Lakh Crore"
+                            ],
+                            "answer": "Rs 1.10 Lakh Crore"
+                        },
+                        {
+                            "question": "Which three armed forces will benefit from the procurement?",
+                            "options": [
+                                "Army, Navy and Air Force",
+                                "Army, BSF and CRPF",
+                                "Navy, Coast Guard and BSF",
+                                "Air Force, CISF and CRPF"
+                            ],
+                            "answer": "Army, Navy and Air Force"
+                        },
+                        {
+                            "question": "Which radar is mentioned among the approved systems?",
+                            "options": [
+                                "Arudhra Radar",
+                                "Rohini Radar",
+                                "Swordfish Radar",
+                                "Rajendra Radar"
+                            ],
+                            "answer": "Arudhra Radar"
+                        },
+                        {
+                            "question": "The procurement primarily aims to strengthen India's?",
+                            "options": [
+                                "Defence Preparedness",
+                                "Tourism Sector",
+                                "Agricultural Exports",
+                                "Banking Sector"
+                            ],
+                            "answer": "Defence Preparedness"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "ISRO Reaffirms Central Role Amid Growing Private Space Sector",
+                    "summary": "ISRO has clarified that there will be no privatisation of the organisation despite the growing participation of private companies in India's space sector. ISRO will continue as India's principal institution for advanced space research while private enterprises are encouraged to participate in commercial and non-strategic space activities.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/isro-privatisation-space-economy-narayanan-10867656/",
+                    "staticGK": [
+                        "Organisation : ISRO",
+                        "Full Form : Indian Space Research Organisation",
+                        "Chairman : V. Narayanan",
+                        "Policy : Indian Space Policy 2023",
+                        "Focus : Expansion of Indian Space Economy",
+                        "Private Sector : Encouraged in Commercial and Non-Strategic Activities"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation clarified that it will not be privatised?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "BHEL"
+                            ],
+                            "answer": "ISRO"
+                        },
+                        {
+                            "question": "Who is the Chairman of ISRO mentioned in the report?",
+                            "options": [
+                                "V. Narayanan",
+                                "S. Somanath",
+                                "K. Sivan",
+                                "G. Madhavan Nair"
+                            ],
+                            "answer": "V. Narayanan"
+                        },
+                        {
+                            "question": "Which policy is helping create a larger Indian space ecosystem?",
+                            "options": [
+                                "Indian Space Policy 2023",
+                                "National Space Policy 2020",
+                                "Space Mission Policy 2022",
+                                "National Science Policy 2025"
+                            ],
+                            "answer": "Indian Space Policy 2023"
+                        },
+                        {
+                            "question": "Private companies are encouraged mainly in which activities?",
+                            "options": [
+                                "Commercial and Non-Strategic Activities",
+                                "Military Command",
+                                "Nuclear Weapons",
+                                "Government Administration"
+                            ],
+                            "answer": "Commercial and Non-Strategic Activities"
+                        },
+                        {
+                            "question": "ISRO stands for?",
+                            "options": [
+                                "Indian Space Research Organisation",
+                                "Indian Satellite Research Organisation",
+                                "International Space Research Organisation",
+                                "Indian Science Research Office"
+                            ],
+                            "answer": "Indian Space Research Organisation"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "International Literacy Day 2026 Observed on 8 September",
+                    "summary": "International Literacy Day is observed every year on 8 September to highlight the importance of literacy and lifelong learning. UNESCO is organising the global celebration in Mexico on 8 and 9 September 2026.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/international-literacy-day-2026-why-is-celebrated-on-september-8-history-unesco-theme-significance-10866511/",
+                    "staticGK": [
+                        "Day : International Literacy Day",
+                        "Date : 8 September",
+                        "Organisation : UNESCO",
+                        "Global Celebration : Mexico",
+                        "Celebration Dates : 8-9 September 2026",
+                        "Main Focus : Literacy and Education"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is International Literacy Day observed?",
+                            "options": [
+                                "8 September",
+                                "5 September",
+                                "10 September",
+                                "15 September"
+                            ],
+                            "answer": "8 September"
+                        },
+                        {
+                            "question": "Which organisation leads the global literacy celebration?",
+                            "options": [
+                                "UNESCO",
+                                "UNICEF",
+                                "WHO",
+                                "UNDP"
+                            ],
+                            "answer": "UNESCO"
+                        },
+                        {
+                            "question": "Where will the global International Literacy Day celebration be held in 2026?",
+                            "options": [
+                                "Mexico",
+                                "India",
+                                "France",
+                                "Brazil"
+                            ],
+                            "answer": "Mexico"
+                        },
+                        {
+                            "question": "International Literacy Day mainly highlights the importance of?",
+                            "options": [
+                                "Literacy and Education",
+                                "International Trade",
+                                "Climate Finance",
+                                "Sports"
+                            ],
+                            "answer": "Literacy and Education"
+                        },
+                        {
+                            "question": "International Literacy Day is observed annually on?",
+                            "options": [
+                                "8 September",
+                                "8 October",
+                                "5 June",
+                                "24 January"
+                            ],
+                            "answer": "8 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "Delhi Plans Structural Safety Audits After Satya Niketan Hostel Collapse",
+                    "summary": "Following the collapse of a private hostel building in Delhi's Satya Niketan area, the Delhi government is considering a new safety policy for buildings used for public purposes, including student PG accommodations. Structural audits of buildings in PG hubs are also being planned.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/cities/delhi/delhi-building-collapse-new-safety-policy-structural-audit-in-pg-hubs-on-the-cards-10867736/",
+                    "staticGK": [
+                        "Location : Satya Niketan, Delhi",
+                        "Incident : Private Hostel Building Collapse",
+                        "Affected Area : Student PG Hub",
+                        "Proposed Action : Structural Safety Audit",
+                        "Authority : Delhi Government and MCD",
+                        "Objective : Improve Building Safety"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where did the recent hostel building collapse take place?",
+                            "options": [
+                                "Satya Niketan",
+                                "Connaught Place",
+                                "Rohini",
+                                "Dwarka"
+                            ],
+                            "answer": "Satya Niketan"
+                        },
+                        {
+                            "question": "What major measure is being considered after the collapse?",
+                            "options": [
+                                "Structural Safety Audit",
+                                "New Metro Line",
+                                "Tourism Survey",
+                                "Industrial Survey"
+                            ],
+                            "answer": "Structural Safety Audit"
+                        },
+                        {
+                            "question": "Which type of accommodation is specifically mentioned?",
+                            "options": [
+                                "Student PG Accommodation",
+                                "Government Quarters",
+                                "Hotels",
+                                "Army Barracks"
+                            ],
+                            "answer": "Student PG Accommodation"
+                        },
+                        {
+                            "question": "Which civic body is involved in building safety enforcement in Delhi?",
+                            "options": [
+                                "MCD",
+                                "NDMC",
+                                "DDA",
+                                "PWD"
+                            ],
+                            "answer": "MCD"
+                        },
+                        {
+                            "question": "What is the main objective of the proposed audit?",
+                            "options": [
+                                "Improve Building Safety",
+                                "Increase Tourism",
+                                "Increase Taxes",
+                                "Promote Trade"
+                            ],
+                            "answer": "Improve Building Safety"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Talks to Focus on India-China Technology Imports and Investment Restrictions",
+                    "summary": "Ahead of the 18th BRICS Summit in New Delhi, India and China are expected to discuss economic issues including technology imports and investment restrictions. The talks are aimed at balancing economic cooperation with India's national security and strategic interests.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/business/brics-meet-focus-on-talks-with-china-over-tech-import-investment-curbs-10867660/",
+                    "staticGK": [
+                        "Event : 18th BRICS Summit",
+                        "Host Country : India",
+                        "Host City : New Delhi",
+                        "Key Bilateral Issue : Technology Imports and Investments",
+                        "Countries : India and China",
+                        "Focus : Economic Cooperation and Strategic Interests"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which summit is expected to provide a platform for India-China economic discussions?",
+                            "options": [
+                                "BRICS Summit",
+                                "G7 Summit",
+                                "G20 Summit",
+                                "SCO Summit"
+                            ],
+                            "answer": "BRICS Summit"
+                        },
+                        {
+                            "question": "Where is the 18th BRICS Summit being hosted?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Jaipur"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country is India expected to hold talks with on technology imports?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "France",
+                                "Germany"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Which issue is central to the proposed discussions?",
+                            "options": [
+                                "Technology Imports and Investments",
+                                "Sports Exchanges",
+                                "Tourism",
+                                "Agricultural Festivals"
+                            ],
+                            "answer": "Technology Imports and Investments"
+                        },
+                        {
+                            "question": "BRICS is primarily associated with cooperation among?",
+                            "options": [
+                                "Emerging Economies",
+                                "European Countries",
+                                "NATO Members",
+                                "Island Nations"
+                            ],
+                            "answer": "Emerging Economies"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Banking",
+                    "title": "RBI Liquidity Management Remains a Key Focus for Financial Markets",
+                    "summary": "The Reserve Bank of India is dealing with a large liquidity surplus in the banking system. Market participants are watching RBI tools such as variable rate reverse repo operations, incremental cash reserve requirements and other liquidity-management measures.",
+                    "sourceName": "Financial Express",
+                    "sourceUrl": "https://www.financialexpress.com/policy/economy/",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Issue : Banking System Liquidity",
+                        "Key Tool : VRRR",
+                        "Other Tool : I-CRR",
+                        "Market : Banking and Financial Markets",
+                        "Objective : Liquidity Management"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution manages liquidity in India's banking system?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "Finance Commission"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "What is the main issue highlighted in the report?",
+                            "options": [
+                                "Banking System Liquidity",
+                                "Food Production",
+                                "Tourism",
+                                "Defence Exports"
+                            ],
+                            "answer": "Banking System Liquidity"
+                        },
+                        {
+                            "question": "Which instrument is mentioned as an RBI liquidity-management tool?",
+                            "options": [
+                                "VRRR",
+                                "IPO",
+                                "GST",
+                                "FDI"
+                            ],
+                            "answer": "VRRR"
+                        },
+                        {
+                            "question": "RBI stands for?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "Regional Bank of India",
+                                "Revenue Bank of India",
+                                "Rural Banking Institution"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Liquidity management is mainly related to the?",
+                            "options": [
+                                "Financial System",
+                                "Tourism Industry",
+                                "Sports Sector",
+                                "Education Sector"
+                            ],
+                            "answer": "Financial System"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Ecology",
+                    "title": "BSI Discovers New Flowering Plant Species Osbeckia ulotricha",
+                    "summary": "The Botanical Survey of India has reported the discovery of a new flowering plant species named Osbeckia ulotricha. The species was identified from the damp margins of shola and montane ecosystems in the Kerala-Tamil Nadu region.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-8-september-2026/",
+                    "staticGK": [
+                        "Species : Osbeckia ulotricha",
+                        "Organisation : Botanical Survey of India",
+                        "Abbreviation : BSI",
+                        "Region : Kerala-Tamil Nadu",
+                        "Ecosystem : Shola and Montane Ecosystems",
+                        "Family : Melastomataceae"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the name of the newly discovered flowering plant species?",
+                            "options": [
+                                "Osbeckia ulotricha",
+                                "Osbeckia yercaudensis",
+                                "Osbeckia indica",
+                                "Osbeckia keralaensis"
+                            ],
+                            "answer": "Osbeckia ulotricha"
+                        },
+                        {
+                            "question": "Which organisation reported the discovery?",
+                            "options": [
+                                "Botanical Survey of India",
+                                "Zoological Survey of India",
+                                "ISRO",
+                                "CSIR"
+                            ],
+                            "answer": "Botanical Survey of India"
+                        },
+                        {
+                            "question": "In which region was the species identified?",
+                            "options": [
+                                "Kerala-Tamil Nadu Region",
+                                "Punjab-Haryana Region",
+                                "Gujarat-Rajasthan Region",
+                                "Assam-Arunachal Region"
+                            ],
+                            "answer": "Kerala-Tamil Nadu Region"
+                        },
+                        {
+                            "question": "Osbeckia ulotricha belongs to which plant family?",
+                            "options": [
+                                "Melastomataceae",
+                                "Fabaceae",
+                                "Poaceae",
+                                "Asteraceae"
+                            ],
+                            "answer": "Melastomataceae"
+                        },
+                        {
+                            "question": "BSI stands for?",
+                            "options": [
+                                "Botanical Survey of India",
+                                "Biodiversity Survey of India",
+                                "Botanical Science Institute",
+                                "Biological Survey Institute"
+                            ],
+                            "answer": "Botanical Survey of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Andrea Kimi Antonelli Wins 2026 Italian Grand Prix at Monza",
+                    "summary": "Italian driver Andrea Kimi Antonelli won the 2026 Italian Grand Prix at Monza, marking a major achievement in Formula One. The result is significant as the race was held in Italy at the historic Monza circuit.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-8-september-2026/",
+                    "staticGK": [
+                        "Sport : Formula One",
+                        "Race : Italian Grand Prix 2026",
+                        "Winner : Andrea Kimi Antonelli",
+                        "Circuit : Monza",
+                        "Country : Italy",
+                        "Achievement : Italian Grand Prix Victory"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the 2026 Italian Grand Prix?",
+                            "options": [
+                                "Andrea Kimi Antonelli",
+                                "Lewis Hamilton",
+                                "Charles Leclerc",
+                                "Max Verstappen"
+                            ],
+                            "answer": "Andrea Kimi Antonelli"
+                        },
+                        {
+                            "question": "Which sport is associated with the Italian Grand Prix?",
+                            "options": [
+                                "Formula One",
+                                "MotoGP",
+                                "Tennis",
+                                "Cycling"
+                            ],
+                            "answer": "Formula One"
+                        },
+                        {
+                            "question": "Where was the Italian Grand Prix held?",
+                            "options": [
+                                "Monza",
+                                "Imola",
+                                "Rome",
+                                "Milan"
+                            ],
+                            "answer": "Monza"
+                        },
+                        {
+                            "question": "Andrea Kimi Antonelli represents which country?",
+                            "options": [
+                                "Italy",
+                                "Spain",
+                                "France",
+                                "Germany"
+                            ],
+                            "answer": "Italy"
+                        },
+                        {
+                            "question": "The Italian Grand Prix is part of which championship?",
+                            "options": [
+                                "Formula One World Championship",
+                                "World Rally Championship",
+                                "MotoGP World Championship",
+                                "Formula E Championship"
+                            ],
+                            "answer": "Formula One World Championship"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "Rajnath Singh Begins Three-Day Visit to Sri Lanka",
+                    "summary": "Defence Minister Rajnath Singh is undertaking a three-day visit to Sri Lanka, focusing on defence cooperation and bilateral relations between India and Sri Lanka. The visit is significant for strengthening India's defence and strategic engagement in the Indian Ocean region.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-8-september-2026/",
+                    "staticGK": [
+                        "Visitor : Rajnath Singh",
+                        "Designation : Defence Minister of India",
+                        "Country : Sri Lanka",
+                        "Visit Duration : Three Days",
+                        "Focus : Defence Cooperation",
+                        "Region : Indian Ocean Region"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who began a three-day visit to Sri Lanka?",
+                            "options": [
+                                "Rajnath Singh",
+                                "S. Jaishankar",
+                                "Amit Shah",
+                                "Nitin Gadkari"
+                            ],
+                            "answer": "Rajnath Singh"
+                        },
+                        {
+                            "question": "What is Rajnath Singh's portfolio?",
+                            "options": [
+                                "Defence",
+                                "Finance",
+                                "External Affairs",
+                                "Home Affairs"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "Which country is he visiting?",
+                            "options": [
+                                "Sri Lanka",
+                                "Maldives",
+                                "Nepal",
+                                "Bhutan"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "How long is the visit?",
+                            "options": [
+                                "Three Days",
+                                "Two Days",
+                                "Five Days",
+                                "Seven Days"
+                            ],
+                            "answer": "Three Days"
+                        },
+                        {
+                            "question": "The visit primarily focuses on strengthening which area?",
+                            "options": [
+                                "Defence Cooperation",
+                                "Sports Cooperation",
+                                "Tourism",
+                                "Agricultural Trade"
+                            ],
+                            "answer": "Defence Cooperation"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
