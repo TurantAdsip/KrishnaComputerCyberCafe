@@ -24,6 +24,112 @@ fetch("../includes/header.html")
         }
     });
 
+// =====================================================
+// COMMON HAMBURGER MENU
+// Mobile + Tablet Only
+// =====================================================
+
+function setupMobileMenu() {
+
+    const menuToggle = document.getElementById("menuToggle");
+    const mainMenu = document.getElementById("mainMenu");
+
+    // Agar menu elements nahi mile
+    if (!menuToggle || !mainMenu) {
+
+        console.log("Hamburger menu elements not found");
+
+        return;
+    }
+
+
+    // =================================================
+    // OPEN / CLOSE MENU
+    // =================================================
+
+    menuToggle.addEventListener("click", function (event) {
+
+        event.stopPropagation();
+
+        mainMenu.classList.toggle("active");
+
+
+        // Menu Open
+        if (mainMenu.classList.contains("active")) {
+
+            menuToggle.innerHTML = "×";
+
+            menuToggle.setAttribute(
+                "aria-label",
+                "Close Menu"
+            );
+
+        }
+
+        // Menu Close
+        else {
+
+            menuToggle.innerHTML = "☰";
+
+            menuToggle.setAttribute(
+                "aria-label",
+                "Open Menu"
+            );
+        }
+
+    });
+
+
+    // =================================================
+    // CLOSE MENU AFTER CLICKING LINK
+    // =================================================
+
+    const menuLinks = mainMenu.querySelectorAll("a");
+
+    menuLinks.forEach(function (link) {
+
+        link.addEventListener("click", function () {
+
+            mainMenu.classList.remove("active");
+
+            menuToggle.innerHTML = "☰";
+
+            menuToggle.setAttribute(
+                "aria-label",
+                "Open Menu"
+            );
+
+        });
+
+    });
+
+
+    // =================================================
+    // CLOSE MENU WHEN CLICKING OUTSIDE
+    // =================================================
+
+    document.addEventListener("click", function (event) {
+
+        if (
+            !event.target.closest(".navbar") &&
+            mainMenu.classList.contains("active")
+        ) {
+
+            mainMenu.classList.remove("active");
+
+            menuToggle.innerHTML = "☰";
+
+            menuToggle.setAttribute(
+                "aria-label",
+                "Open Menu"
+            );
+        }
+
+    });
+
+}
+
+
 
 // Motivation Load
 fetch("includes/moti.html")
