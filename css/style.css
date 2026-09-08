@@ -85,21 +85,25 @@
 }
 
 
+
 /* Mobile Responsive */
 
 /* =====================================================
    MOBILE + TABLET HAMBURGER MENU
-   Desktop Menu Remains Normal
+   Desktop remains unchanged
 ===================================================== */
 
 .menu-toggle {
     display: none;
     border: none;
+    outline: none;
     background: transparent;
     color: #002b6b;
-    font-size: 28px;
+    font-size: 32px;
+    font-weight: bold;
     cursor: pointer;
-    padding: 8px;
+    padding: 5px 10px;
+    line-height: 1;
 }
 
 .mobile-whatsapp {
@@ -117,52 +121,43 @@
     .navbar {
         position: relative;
         flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
         padding: 12px 20px;
     }
 
-    /* Hamburger Show */
+    /* Hamburger visible */
     .menu-toggle {
         display: block;
         margin-left: auto;
         z-index: 10001;
     }
 
-    /* Desktop WhatsApp Hide */
-    .navbar > .whatsapp-btn {
+    /* Desktop WhatsApp hidden */
+    .navbar>.whatsapp-btn {
         display: none;
     }
 
-    /* Menu Hide */
+    /* Navigation menu hidden initially */
     .navbar .menu {
         display: none;
-
         position: absolute;
         top: 100%;
         left: 0;
-
         width: 100%;
-
         background: #ffffff;
-
         flex-direction: column;
         gap: 0;
-
         padding: 10px 0;
         margin: 0;
-
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
-
         z-index: 10000;
     }
 
-    /* Menu Open */
+    /* Menu open */
     .navbar .menu.active {
         display: flex;
     }
 
-    /* Menu Items */
+    /* Menu items */
     .navbar .menu li {
         width: 100%;
         text-align: center;
@@ -172,12 +167,9 @@
     .navbar .menu li a {
         display: block;
         width: 100%;
-
         padding: 14px 20px;
-
         color: #222;
         text-decoration: none;
-
         border-bottom: 1px solid #eeeeee;
     }
 
@@ -186,7 +178,7 @@
         color: #003b8b;
     }
 
-    /* WhatsApp inside hamburger */
+    /* WhatsApp inside menu */
     .navbar .menu .mobile-whatsapp {
         display: block;
     }
@@ -195,6 +187,7 @@
         color: #25D366;
         font-weight: bold;
     }
+
 }
 
 
@@ -227,6 +220,7 @@
     .menu-toggle {
         font-size: 24px;
     }
+
 }
 
 
@@ -247,6 +241,7 @@
     .menu-toggle {
         font-size: 28px;
     }
+
 }
 
 
@@ -256,6 +251,7 @@
 /* Google Font (Optional) */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -364,12 +360,15 @@ body {
     .guidance-section {
         padding: 60px 20px;
     }
+
     .section-title h2 {
         font-size: 32px;
     }
+
     .section-title p {
         font-size: 15px;
     }
+
     .guidance-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 20px;
@@ -392,32 +391,41 @@ body {
     .guidance-section {
         padding: 50px 15px;
     }
+
     .section-title {
         margin-bottom: 35px;
     }
+
     .section-title h2 {
         font-size: 28px;
     }
+
     .section-title p {
         font-size: 14px;
         line-height: 1.6;
     }
+
     .guidance-grid {
         grid-template-columns: 1fr;
         gap: 20px;
     }
+
     .guide-card {
         padding: 30px 20px;
     }
+
     .guide-card>i {
         font-size: 42px;
     }
+
     .guide-card h3 {
         font-size: 22px;
     }
+
     .guide-card p {
         font-size: 14px;
     }
+
     .guide-btn {
         width: 100%;
         justify-content: center;
@@ -439,24 +447,31 @@ body {
     .guidance-section {
         padding: 40px 12px;
     }
+
     .section-title h2 {
         font-size: 24px;
     }
+
     .section-title p {
         font-size: 13px;
     }
+
     .guide-card {
         padding: 25px 18px;
     }
+
     .guide-card>i {
         font-size: 38px;
     }
+
     .guide-card h3 {
         font-size: 20px;
     }
+
     .guide-card p {
         font-size: 13px;
     }
+
     .guide-btn {
         font-size: 14px;
         padding: 12px;
@@ -581,17 +596,21 @@ body {
         text-align: center;
         padding: 50px 20px;
     }
+
     .hero-content,
     .hero-image {
         width: 100%;
     }
+
     .hero-content h1 {
         font-size: 45px;
     }
+
     .hero-buttons {
         justify-content: center;
         flex-wrap: wrap;
     }
+
     .hero-image {
         margin-top: 40px;
     }
@@ -806,10 +825,12 @@ body {
         flex-direction: column;
         text-align: center;
     }
+
     .about-image,
     .about-content {
         width: 100%;
     }
+
     .about-features {
         grid-template-columns: 1fr;
     }
