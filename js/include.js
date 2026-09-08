@@ -17,11 +17,19 @@
 fetch("../includes/header.html")
     .then(res => res.text())
     .then(data => {
+
         const header = document.getElementById("header");
 
         if (header) {
             header.innerHTML = data;
+
+            // Header load hone ke baad
+            setupMobileMenu();
         }
+
+    })
+    .catch(error => {
+        console.error("Header Load Error:", error);
     });
 
 // =====================================================
