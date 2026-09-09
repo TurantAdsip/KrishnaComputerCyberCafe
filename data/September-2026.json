@@ -5559,6 +5559,684 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-09-09",
+            "date": "9 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 9 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Government Schemes",
+                    "title": "PM-SETU Approves Rs 735.70 Crore Investment Plans for ITI Clusters",
+                    "summary": "The 5th National Steering Committee of PM-SETU has approved Strategic Investment Plans worth Rs 735.70 crore for ITI clusters in Rajasthan, Uttar Pradesh and Telangana. The approvals take the total sanctioned investment under PM-SETU to Rs 2,171 crore across nine ITI clusters, with a focus on industry-led modernization and future-ready skill development.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "[https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307775](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307775)",
+                    "staticGK": [
+                        "Scheme : PM-SETU",
+                        "Full Form : Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs",
+                        "Latest Approval : Rs 735.70 Crore",
+                        "States : Rajasthan, Uttar Pradesh and Telangana",
+                        "Total Sanctioned Investment : Rs 2,171 Crore",
+                        "Total ITI Clusters : 9"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which scheme approved Strategic Investment Plans worth Rs 735.70 crore?",
+                            "options": [
+                                "PM-SETU",
+                                "PM-KUSUM",
+                                "PMKVY",
+                                "PM Vishwakarma"
+                            ],
+                            "answer": "PM-SETU"
+                        },
+                        {
+                            "question": "What is the approximate value of the latest PM-SETU investment plans?",
+                            "options": [
+                                "Rs 735.70 Crore",
+                                "Rs 500 Crore",
+                                "Rs 1,000 Crore",
+                                "Rs 2,171 Crore"
+                            ],
+                            "answer": "Rs 735.70 Crore"
+                        },
+                        {
+                            "question": "Which three states are covered under the latest PM-SETU approval?",
+                            "options": [
+                                "Rajasthan, Uttar Pradesh and Telangana",
+                                "Gujarat, Maharashtra and Karnataka",
+                                "Punjab, Haryana and Delhi",
+                                "Bihar, Jharkhand and Odisha"
+                            ],
+                            "answer": "Rajasthan, Uttar Pradesh and Telangana"
+                        },
+                        {
+                            "question": "What is the total sanctioned PM-SETU investment after the latest approval?",
+                            "options": [
+                                "Rs 2,171 Crore",
+                                "Rs 1,171 Crore",
+                                "Rs 3,171 Crore",
+                                "Rs 735.70 Crore"
+                            ],
+                            "answer": "Rs 2,171 Crore"
+                        },
+                        {
+                            "question": "PM-SETU primarily focuses on transforming which institutions?",
+                            "options": [
+                                "Industrial Training Institutes",
+                                "Universities",
+                                "Hospitals",
+                                "Banks"
+                            ],
+                            "answer": "Industrial Training Institutes"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence",
+                    "title": "India and Japan Begin Veer Guardian-2026 Air Exercise in Jodhpur",
+                    "summary": "The Indian Air Force and Japan Air Self-Defence Force have commenced the bilateral air exercise Veer Guardian-2026 at Air Force Station Jodhpur. The two-week exercise is scheduled from 9 to 22 September 2026 and aims to strengthen interoperability, operational coordination and defence cooperation between India and Japan.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "[https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms](https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms)",
+                    "staticGK": [
+                        "Exercise : Veer Guardian-2026",
+                        "Countries : India and Japan",
+                        "Indian Force : Indian Air Force",
+                        "Japanese Force : Japan Air Self-Defence Force",
+                        "Venue : Air Force Station Jodhpur",
+                        "Dates : 9-22 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two countries are participating in Veer Guardian-2026?",
+                            "options": [
+                                "India and Japan",
+                                "India and France",
+                                "India and USA",
+                                "India and Australia"
+                            ],
+                            "answer": "India and Japan"
+                        },
+                        {
+                            "question": "Which Indian force is participating in Veer Guardian-2026?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Navy",
+                                "Indian Army",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Where is Veer Guardian-2026 being conducted?",
+                            "options": [
+                                "Jodhpur",
+                                "Jaipur",
+                                "New Delhi",
+                                "Pune"
+                            ],
+                            "answer": "Jodhpur"
+                        },
+                        {
+                            "question": "Which Japanese force is participating in the exercise?",
+                            "options": [
+                                "Japan Air Self-Defence Force",
+                                "Japan Maritime Self-Defence Force",
+                                "Japan Ground Self-Defence Force",
+                                "Japan Coast Guard"
+                            ],
+                            "answer": "Japan Air Self-Defence Force"
+                        },
+                        {
+                            "question": "Veer Guardian-2026 is primarily an exercise related to?",
+                            "options": [
+                                "Air Defence and Operations",
+                                "Naval Warfare",
+                                "Cyber Security",
+                                "Mountain Warfare"
+                            ],
+                            "answer": "Air Defence and Operations"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "India Adds Four More Heritage Sites to UNESCO Tentative List",
+                    "summary": "India has added four cultural heritage sites to the UNESCO World Heritage Tentative List, taking the country's total number of sites on the list to 73. The newly added sites include the Rangpur-Sivasagar Historic Ensemble, Colonial Penal Settlement of the Andaman Islands, Nicobarese Cultural Continuity and Painted Haveli Towns of Shekhawati.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "[https://affairscloud.com/current-affairs-9-september-2026/](https://affairscloud.com/current-affairs-9-september-2026/)",
+                    "staticGK": [
+                        "Organisation : UNESCO",
+                        "New Additions : 4 Heritage Sites",
+                        "India's Tentative List : 73 Sites",
+                        "Category : Cultural Heritage",
+                        "Rangpur-Sivasagar : Assam",
+                        "Painted Haveli Towns : Shekhawati, Rajasthan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many new Indian heritage sites were added to the UNESCO Tentative List?",
+                            "options": [
+                                "Four",
+                                "Three",
+                                "Five",
+                                "Six"
+                            ],
+                            "answer": "Four"
+                        },
+                        {
+                            "question": "What is India's total number of sites on the UNESCO Tentative List after the addition?",
+                            "options": [
+                                "73",
+                                "69",
+                                "70",
+                                "75"
+                            ],
+                            "answer": "73"
+                        },
+                        {
+                            "question": "The newly added sites mainly belong to which category?",
+                            "options": [
+                                "Cultural Heritage",
+                                "Natural Heritage",
+                                "Marine Heritage",
+                                "Industrial Heritage"
+                            ],
+                            "answer": "Cultural Heritage"
+                        },
+                        {
+                            "question": "The Rangpur-Sivasagar Historic Ensemble is located in which state?",
+                            "options": [
+                                "Assam",
+                                "Rajasthan",
+                                "Odisha",
+                                "West Bengal"
+                            ],
+                            "answer": "Assam"
+                        },
+                        {
+                            "question": "Painted Haveli Towns are associated with which region?",
+                            "options": [
+                                "Shekhawati",
+                                "Malwa",
+                                "Konkan",
+                                "Bundelkhand"
+                            ],
+                            "answer": "Shekhawati"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "India Joins Global 6G Initiative with 24 Countries and the USA",
+                    "summary": "India has joined the international 'Call to Action for 6G Leadership and Security' initiative led by the United States. The initiative brings together India, the USA and 24 other countries to promote secure, interoperable and innovation-driven next-generation telecommunications networks.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "[https://affairscloud.com/current-affairs-9-september-2026/](https://affairscloud.com/current-affairs-9-september-2026/)",
+                    "staticGK": [
+                        "Initiative : Call to Action for 6G Leadership and Security",
+                        "Technology : 6G",
+                        "India's Initiative : Bharat 6G Mission",
+                        "Lead Country : United States",
+                        "India's Position : 26th Country",
+                        "Target : Secure and Interoperable Next-Generation Networks"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which next-generation technology initiative has India recently joined?",
+                            "options": [
+                                "Global 6G Initiative",
+                                "Global 5G Alliance",
+                                "Digital India 2.0",
+                                "Global AI Mission"
+                            ],
+                            "answer": "Global 6G Initiative"
+                        },
+                        {
+                            "question": "What is the name of the initiative joined by India?",
+                            "options": [
+                                "Call to Action for 6G Leadership and Security",
+                                "Global Digital Security Mission",
+                                "6G Innovation Partnership",
+                                "International Telecom Mission"
+                            ],
+                            "answer": "Call to Action for 6G Leadership and Security"
+                        },
+                        {
+                            "question": "Which country leads the 6G initiative?",
+                            "options": [
+                                "United States",
+                                "India",
+                                "Japan",
+                                "South Korea"
+                            ],
+                            "answer": "United States"
+                        },
+                        {
+                            "question": "Which Indian mission is associated with domestic 6G development?",
+                            "options": [
+                                "Bharat 6G Mission",
+                                "Digital India Mission",
+                                "India AI Mission",
+                                "BharatNet Mission"
+                            ],
+                            "answer": "Bharat 6G Mission"
+                        },
+                        {
+                            "question": "India joined the initiative as which numbered country?",
+                            "options": [
+                                "26th",
+                                "24th",
+                                "25th",
+                                "27th"
+                            ],
+                            "answer": "26th"
+                        }
+                    ]
+                },
+                {
+                    "category": "Social Welfare",
+                    "title": "9th Rashtriya Poshan Maah 2026 to Be Launched in Varanasi",
+                    "summary": "The 9th Rashtriya Poshan Maah 2026 is being launched in Varanasi, Uttar Pradesh, on 9 September. The campaign focuses on nutrition, maternal and child health and strengthening community participation through Anganwadi Centres under the broader framework of Mission Saksham Anganwadi and Poshan 2.0.",
+                    "sourceName": "PIB / Ministry of Women and Child Development",
+                    "sourceUrl": "[https://www.pib.gov.in/](https://www.pib.gov.in/)",
+                    "staticGK": [
+                        "Event : 9th Rashtriya Poshan Maah",
+                        "Launch Date : 9 September 2026",
+                        "Venue : Varanasi, Uttar Pradesh",
+                        "Ministry : Ministry of Women and Child Development",
+                        "Focus : Nutrition and Child Development",
+                        "Theme : Hamari Anganwadi Hamari Jimmedari"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of Rashtriya Poshan Maah is being observed in 2026?",
+                            "options": [
+                                "9th",
+                                "8th",
+                                "10th",
+                                "7th"
+                            ],
+                            "answer": "9th"
+                        },
+                        {
+                            "question": "Where will Rashtriya Poshan Maah 2026 be launched?",
+                            "options": [
+                                "Varanasi",
+                                "Lucknow",
+                                "New Delhi",
+                                "Jaipur"
+                            ],
+                            "answer": "Varanasi"
+                        },
+                        {
+                            "question": "Rashtriya Poshan Maah is associated with which ministry?",
+                            "options": [
+                                "Ministry of Women and Child Development",
+                                "Ministry of Health",
+                                "Ministry of Education",
+                                "Ministry of Rural Development"
+                            ],
+                            "answer": "Ministry of Women and Child Development"
+                        },
+                        {
+                            "question": "What is the theme of Poshan Maah 2026?",
+                            "options": [
+                                "Hamari Anganwadi Hamari Jimmedari",
+                                "Poshan Se Vikas",
+                                "Swasth Bharat Abhiyan",
+                                "Suposhit Bharat Mission"
+                            ],
+                            "answer": "Hamari Anganwadi Hamari Jimmedari"
+                        },
+                        {
+                            "question": "Poshan Maah mainly focuses on?",
+                            "options": [
+                                "Nutrition and Child Development",
+                                "Industrial Development",
+                                "Digital Banking",
+                                "Defence Modernisation"
+                            ],
+                            "answer": "Nutrition and Child Development"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Finance",
+                    "title": "RBI Grants Scheduled Bank Status to Coastal Local Area Bank",
+                    "summary": "The Reserve Bank of India has included Coastal Local Area Bank in the Second Schedule to the RBI Act, 1934, granting it scheduled bank status. The development marks an important milestone for the regional banking institution headquartered in Vijayawada.",
+                    "sourceName": "IASPOINT",
+                    "sourceUrl": "[https://iaspoint.com/rbi-grants-scheduled-status-to-coastal-lab/](https://iaspoint.com/rbi-grants-scheduled-status-to-coastal-lab/)",
+                    "staticGK": [
+                        "Bank : Coastal Local Area Bank",
+                        "Regulator : Reserve Bank of India",
+                        "Legal Basis : RBI Act, 1934",
+                        "Schedule : Second Schedule",
+                        "Bank Type : Local Area Bank",
+                        "Headquarters : Vijayawada"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which bank received scheduled bank status from RBI?",
+                            "options": [
+                                "Coastal Local Area Bank",
+                                "Bandhan Bank",
+                                "Ujjivan Small Finance Bank",
+                                "Jana Small Finance Bank"
+                            ],
+                            "answer": "Coastal Local Area Bank"
+                        },
+                        {
+                            "question": "Which institution granted the scheduled bank status?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "Finance Ministry",
+                                "NITI Aayog"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Under which Act is scheduled bank classification provided?",
+                            "options": [
+                                "RBI Act, 1934",
+                                "Banking Regulation Act, 1949",
+                                "Companies Act, 2013",
+                                "SEBI Act, 1992"
+                            ],
+                            "answer": "RBI Act, 1934"
+                        },
+                        {
+                            "question": "In which Schedule was Coastal Local Area Bank included?",
+                            "options": [
+                                "Second Schedule",
+                                "First Schedule",
+                                "Third Schedule",
+                                "Fourth Schedule"
+                            ],
+                            "answer": "Second Schedule"
+                        },
+                        {
+                            "question": "Where is Coastal Local Area Bank headquartered?",
+                            "options": [
+                                "Vijayawada",
+                                "Hyderabad",
+                                "Chennai",
+                                "Visakhapatnam"
+                            ],
+                            "answer": "Vijayawada"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Infrastructure",
+                    "title": "ADB Signs First Transaction Advisory Services Mandate in India with Madhya Pradesh",
+                    "summary": "The Asian Development Bank has entered into an agreement with the Government of Madhya Pradesh for renewable energy public-private partnership projects. The initiative is expected to mobilise up to USD 1 billion in private investment and includes clean energy projects such as solar power generation and battery energy storage.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "[https://economictimes.indiatimes.com/industry/renewables/adb-signs-first-transaction-advisory-pact-in-india-to-mobilise-1-billion-for-green-energy-projects/articleshow/133872369.cms](https://economictimes.indiatimes.com/industry/renewables/adb-signs-first-transaction-advisory-pact-in-india-to-mobilise-1-billion-for-green-energy-projects/articleshow/133872369.cms)",
+                    "staticGK": [
+                        "Institution : Asian Development Bank",
+                        "Partner State : Madhya Pradesh",
+                        "Investment Potential : USD 1 Billion",
+                        "Model : Public-Private Partnership",
+                        "Sector : Renewable Energy",
+                        "ADB's India TAS Mandate : First"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution signed the renewable energy advisory agreement with Madhya Pradesh?",
+                            "options": [
+                                "Asian Development Bank",
+                                "World Bank",
+                                "IMF",
+                                "AIIB"
+                            ],
+                            "answer": "Asian Development Bank"
+                        },
+                        {
+                            "question": "Which state is partnering with ADB in this initiative?",
+                            "options": [
+                                "Madhya Pradesh",
+                                "Rajasthan",
+                                "Gujarat",
+                                "Maharashtra"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "The initiative aims to mobilise up to how much private investment?",
+                            "options": [
+                                "USD 1 Billion",
+                                "USD 500 Million",
+                                "USD 2 Billion",
+                                "USD 750 Million"
+                            ],
+                            "answer": "USD 1 Billion"
+                        },
+                        {
+                            "question": "The projects are being developed under which model?",
+                            "options": [
+                                "Public-Private Partnership",
+                                "Build-Own-Transfer",
+                                "Government-to-Government",
+                                "Cooperative Model"
+                            ],
+                            "answer": "Public-Private Partnership"
+                        },
+                        {
+                            "question": "Which sector is the main focus of the agreement?",
+                            "options": [
+                                "Renewable Energy",
+                                "Railways",
+                                "Defence",
+                                "Tourism"
+                            ],
+                            "answer": "Renewable Energy"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Chief Justices' Forum Held in New Delhi",
+                    "summary": "The Supreme Court of India hosted the BRICS Chief Justices' Forum in New Delhi from 4 to 6 September 2026. The forum brought together senior judicial leaders from BRICS member and partner countries and discussed justice delivery, international dispute resolution, artificial intelligence and the judiciary, and sustainable development.",
+                    "sourceName": "Supreme Court of India",
+                    "sourceUrl": "[https://www.sci.gov.in/press-release-dated-12-05-2026-regarding-brics-chief-justic/](https://www.sci.gov.in/press-release-dated-12-05-2026-regarding-brics-chief-justic/)",
+                    "staticGK": [
+                        "Event : BRICS Chief Justices' Forum",
+                        "Venue : New Delhi",
+                        "Host : Supreme Court of India",
+                        "Dates : 4-6 September 2026",
+                        "Chief Justice of India : Justice Surya Kant",
+                        "Key Topics : AI, Arbitration, Justice Delivery and Sustainable Development"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the BRICS Chief Justices' Forum 2026 held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Chennai",
+                                "Bengaluru"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which institution hosted the BRICS Chief Justices' Forum?",
+                            "options": [
+                                "Supreme Court of India",
+                                "Ministry of Law and Justice",
+                                "NITI Aayog",
+                                "Delhi High Court"
+                            ],
+                            "answer": "Supreme Court of India"
+                        },
+                        {
+                            "question": "Who was the Chief Justice of India during the forum?",
+                            "options": [
+                                "Justice Surya Kant",
+                                "Justice D.Y. Chandrachud",
+                                "Justice Sanjiv Khanna",
+                                "Justice B.R. Gavai"
+                            ],
+                            "answer": "Justice Surya Kant"
+                        },
+                        {
+                            "question": "Which technology-related issue was discussed at the forum?",
+                            "options": [
+                                "Artificial Intelligence and Judiciary",
+                                "Blockchain Banking",
+                                "Quantum Computing in Defence",
+                                "5G Infrastructure"
+                            ],
+                            "answer": "Artificial Intelligence and Judiciary"
+                        },
+                        {
+                            "question": "The forum primarily promoted cooperation among?",
+                            "options": [
+                                "Judiciaries",
+                                "Central Banks",
+                                "Armed Forces",
+                                "Universities"
+                            ],
+                            "answer": "Judiciaries"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "Pranos Fusion Unveils PRAGYA, India's First Privately Developed Compact Tokamak",
+                    "summary": "Bengaluru-based deep-tech startup Pranos Fusion has unveiled PRAGYA, described as India's first privately developed compact tokamak. The experimental machine is designed to study and control plasma and serve as a testbed for fusion technologies rather than generate commercial electricity.",
+                    "sourceName": "India Today",
+                    "sourceUrl": "[https://www.indiatoday.in/amp/science/story/bengaluru-based-pranos-unveils-indias-1st-private-compact-nuclear-fusion-reactor-pragya-2986249-2026-09-03](https://www.indiatoday.in/amp/science/story/bengaluru-based-pranos-unveils-indias-1st-private-compact-nuclear-fusion-reactor-pragya-2986249-2026-09-03)",
+                    "staticGK": [
+                        "Machine : PRAGYA",
+                        "Developer : Pranos Fusion",
+                        "Location : Bengaluru",
+                        "Technology : Compact Tokamak",
+                        "Purpose : Plasma and Fusion Research",
+                        "Commercial Power Generation : Not Yet Designed For"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the name of the compact tokamak unveiled by Pranos Fusion?",
+                            "options": [
+                                "PRAGYA",
+                                "PRITHVI",
+                                "AGNI",
+                                "VIKRAM"
+                            ],
+                            "answer": "PRAGYA"
+                        },
+                        {
+                            "question": "Which startup developed PRAGYA?",
+                            "options": [
+                                "Pranos Fusion",
+                                "Skyroot Aerospace",
+                                "Agnikul Cosmos",
+                                "Pixxel"
+                            ],
+                            "answer": "Pranos Fusion"
+                        },
+                        {
+                            "question": "Where is Pranos Fusion based?",
+                            "options": [
+                                "Bengaluru",
+                                "Hyderabad",
+                                "Mumbai",
+                                "Ahmedabad"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "PRAGYA is a type of which device?",
+                            "options": [
+                                "Tokamak",
+                                "Particle Accelerator",
+                                "Space Telescope",
+                                "Quantum Computer"
+                            ],
+                            "answer": "Tokamak"
+                        },
+                        {
+                            "question": "What is the primary purpose of PRAGYA?",
+                            "options": [
+                                "Plasma and Fusion Research",
+                                "Commercial Electricity Generation",
+                                "Satellite Communication",
+                                "Nuclear Weapon Development"
+                            ],
+                            "answer": "Plasma and Fusion Research"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Satwiksairaj Rankireddy and Chirag Shetty Win China Masters Super 750 Title",
+                    "summary": "Indian men's doubles badminton pair Satwiksairaj Rankireddy and Chirag Shetty won the China Masters Super 750 title in Shenzhen. They defeated China's He Ji Ting and Ren Xiang Yu in three games, securing India's first-ever China Masters men's doubles title.",
+                    "sourceName": "News On AIR",
+                    "sourceUrl": "[https://newsonair.gov.in/satwiksairaj-chirag-clinch-maiden-china-masters-title/](https://newsonair.gov.in/satwiksairaj-chirag-clinch-maiden-china-masters-title/)",
+                    "staticGK": [
+                        "Tournament : China Masters",
+                        "Category : Men's Doubles",
+                        "Indian Pair : Satwiksairaj Rankireddy and Chirag Shetty",
+                        "Venue : Shenzhen, China",
+                        "Final Opponents : He Ji Ting and Ren Xiang Yu",
+                        "Achievement : India's First China Masters Men's Doubles Title"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the China Masters Super 750 men's doubles title?",
+                            "options": [
+                                "Satwiksairaj Rankireddy and Chirag Shetty",
+                                "Lakshya Sen and Kidambi Srikanth",
+                                "Rohan Bopanna and Yuki Bhambri",
+                                "He Ji Ting and Ren Xiang Yu"
+                            ],
+                            "answer": "Satwiksairaj Rankireddy and Chirag Shetty"
+                        },
+                        {
+                            "question": "The China Masters is associated with which sport?",
+                            "options": [
+                                "Badminton",
+                                "Tennis",
+                                "Table Tennis",
+                                "Squash"
+                            ],
+                            "answer": "Badminton"
+                        },
+                        {
+                            "question": "Where was the China Masters final held?",
+                            "options": [
+                                "Shenzhen",
+                                "Beijing",
+                                "Shanghai",
+                                "Guangzhou"
+                            ],
+                            "answer": "Shenzhen"
+                        },
+                        {
+                            "question": "Whom did Satwik-Chirag defeat in the final?",
+                            "options": [
+                                "He Ji Ting and Ren Xiang Yu",
+                                "Liang Wei Keng and Wang Chang",
+                                "Aaron Chia and Soh Wooi Yik",
+                                "Kim Astrup and Anders Skaarup"
+                            ],
+                            "answer": "He Ji Ting and Ren Xiang Yu"
+                        },
+                        {
+                            "question": "What was special about the victory for India?",
+                            "options": [
+                                "India's First China Masters Men's Doubles Title",
+                                "India's First Olympic Badminton Gold",
+                                "India's First Thomas Cup Title",
+                                "India's First Asian Games Gold"
+                            ],
+                            "answer": "India's First China Masters Men's Doubles Title"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
