@@ -5560,7 +5560,7 @@
                 }
             ]
         },
-           {
+             {
             "id": "2026-09-09",
             "date": "9 September 2026",
             "totalNews": 10,
@@ -5568,84 +5568,84 @@
             "news": [
                 {
                     "category": "Government Schemes",
-                    "title": "PM-SETU Approves Rs 735.70 Crore Investment Plans for ITI Clusters",
-                    "summary": "The 5th National Steering Committee of PM-SETU has approved Strategic Investment Plans worth Rs 735.70 crore for ITI clusters in Rajasthan, Uttar Pradesh and Telangana. The approvals take the total sanctioned investment under PM-SETU to Rs 2,171 crore across nine ITI clusters, with a focus on industry-led modernization and future-ready skill development.",
+                    "title": "9th Rashtriya Poshan Maah 2026 Launched in Varanasi",
+                    "summary": "The 9th Rashtriya Poshan Maah 2026 is being launched on 9 September in Varanasi, Uttar Pradesh. The month-long campaign focuses on nutrition, maternal and child health, balanced diets and community participation through Anganwadi Centres. The 2026 campaign carries the theme 'Hamari Anganwadi Hamari Jimmedari'.",
                     "sourceName": "Press Information Bureau",
-                    "sourceUrl": "[https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307775](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307775)",
+                    "sourceUrl": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=294367",
                     "staticGK": [
-                        "Scheme : PM-SETU",
-                        "Full Form : Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs",
-                        "Latest Approval : Rs 735.70 Crore",
-                        "States : Rajasthan, Uttar Pradesh and Telangana",
-                        "Total Sanctioned Investment : Rs 2,171 Crore",
-                        "Total ITI Clusters : 9"
+                        "Event : 9th Rashtriya Poshan Maah 2026",
+                        "Launch Date : 9 September 2026",
+                        "Venue : Varanasi, Uttar Pradesh",
+                        "Ministry : Ministry of Women and Child Development",
+                        "Theme : Hamari Anganwadi Hamari Jimmedari",
+                        "Focus : Nutrition and Early Childhood Development"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which scheme approved Strategic Investment Plans worth Rs 735.70 crore?",
+                            "question": "Which edition of Rashtriya Poshan Maah is being launched in 2026?",
                             "options": [
-                                "PM-SETU",
-                                "PM-KUSUM",
-                                "PMKVY",
-                                "PM Vishwakarma"
+                                "9th",
+                                "8th",
+                                "10th",
+                                "7th"
                             ],
-                            "answer": "PM-SETU"
+                            "answer": "9th"
                         },
                         {
-                            "question": "What is the approximate value of the latest PM-SETU investment plans?",
+                            "question": "Where is Rashtriya Poshan Maah 2026 being launched?",
                             "options": [
-                                "Rs 735.70 Crore",
-                                "Rs 500 Crore",
-                                "Rs 1,000 Crore",
-                                "Rs 2,171 Crore"
+                                "Varanasi",
+                                "Lucknow",
+                                "New Delhi",
+                                "Jaipur"
                             ],
-                            "answer": "Rs 735.70 Crore"
+                            "answer": "Varanasi"
                         },
                         {
-                            "question": "Which three states are covered under the latest PM-SETU approval?",
+                            "question": "Which ministry is responsible for Rashtriya Poshan Maah?",
                             "options": [
-                                "Rajasthan, Uttar Pradesh and Telangana",
-                                "Gujarat, Maharashtra and Karnataka",
-                                "Punjab, Haryana and Delhi",
-                                "Bihar, Jharkhand and Odisha"
+                                "Ministry of Women and Child Development",
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Education",
+                                "Ministry of Rural Development"
                             ],
-                            "answer": "Rajasthan, Uttar Pradesh and Telangana"
+                            "answer": "Ministry of Women and Child Development"
                         },
                         {
-                            "question": "What is the total sanctioned PM-SETU investment after the latest approval?",
+                            "question": "What is the theme of Poshan Maah 2026?",
                             "options": [
-                                "Rs 2,171 Crore",
-                                "Rs 1,171 Crore",
-                                "Rs 3,171 Crore",
-                                "Rs 735.70 Crore"
+                                "Hamari Anganwadi Hamari Jimmedari",
+                                "Poshan Se Vikas",
+                                "Swasth Bharat",
+                                "Suposhit Bharat"
                             ],
-                            "answer": "Rs 2,171 Crore"
+                            "answer": "Hamari Anganwadi Hamari Jimmedari"
                         },
                         {
-                            "question": "PM-SETU primarily focuses on transforming which institutions?",
+                            "question": "Rashtriya Poshan Maah mainly focuses on?",
                             "options": [
-                                "Industrial Training Institutes",
-                                "Universities",
-                                "Hospitals",
-                                "Banks"
+                                "Nutrition and Early Childhood Development",
+                                "Defence Modernisation",
+                                "Digital Banking",
+                                "Industrial Development"
                             ],
-                            "answer": "Industrial Training Institutes"
+                            "answer": "Nutrition and Early Childhood Development"
                         }
                     ]
                 },
                 {
                     "category": "Defence",
-                    "title": "India and Japan Begin Veer Guardian-2026 Air Exercise in Jodhpur",
-                    "summary": "The Indian Air Force and Japan Air Self-Defence Force have commenced the bilateral air exercise Veer Guardian-2026 at Air Force Station Jodhpur. The two-week exercise is scheduled from 9 to 22 September 2026 and aims to strengthen interoperability, operational coordination and defence cooperation between India and Japan.",
+                    "title": "India-Japan Veer Guardian-2026 Air Exercise Begins in Jodhpur",
+                    "summary": "The Indian Air Force and Japan Air Self-Defense Force are conducting the bilateral air exercise Veer Guardian-2026 at Air Force Station Jodhpur and adjoining areas from 9 September 2026. The exercise aims to strengthen interoperability, coordination and operational understanding between the two air forces.",
                     "sourceName": "Times of India",
-                    "sourceUrl": "[https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms](https://timesofindia.indiatimes.com/defence/news/india-japan-to-conduct-two-week-air-exercise-veer-guardian-2026-in-jodhpur-from-today/articleshow/133940712.cms)",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/city/jaipur/india-japan-air-exercise-veer-guardian-2026-to-begin-in-jodhpur-on-september-9/articleshow/133929815.cms",
                     "staticGK": [
                         "Exercise : Veer Guardian-2026",
                         "Countries : India and Japan",
                         "Indian Force : Indian Air Force",
-                        "Japanese Force : Japan Air Self-Defence Force",
+                        "Japanese Force : Japan Air Self-Defense Force",
                         "Venue : Air Force Station Jodhpur",
-                        "Dates : 9-22 September 2026"
+                        "Start Date : 9 September 2026"
                     ],
                     "mcqs": [
                         {
@@ -5679,560 +5679,560 @@
                             "answer": "Jodhpur"
                         },
                         {
-                            "question": "Which Japanese force is participating in the exercise?",
+                            "question": "Which Japanese force is participating?",
                             "options": [
-                                "Japan Air Self-Defence Force",
-                                "Japan Maritime Self-Defence Force",
-                                "Japan Ground Self-Defence Force",
+                                "Japan Air Self-Defense Force",
+                                "Japan Maritime Self-Defense Force",
+                                "Japan Ground Self-Defense Force",
                                 "Japan Coast Guard"
                             ],
-                            "answer": "Japan Air Self-Defence Force"
+                            "answer": "Japan Air Self-Defense Force"
                         },
                         {
-                            "question": "Veer Guardian-2026 is primarily an exercise related to?",
+                            "question": "Veer Guardian is primarily an exercise related to?",
                             "options": [
-                                "Air Defence and Operations",
-                                "Naval Warfare",
-                                "Cyber Security",
+                                "Air Operations",
+                                "Naval Operations",
+                                "Cyber Warfare",
                                 "Mountain Warfare"
                             ],
-                            "answer": "Air Defence and Operations"
+                            "answer": "Air Operations"
                         }
                     ]
                 },
                 {
-                    "category": "International Affairs",
-                    "title": "India Adds Four More Heritage Sites to UNESCO Tentative List",
-                    "summary": "India has added four cultural heritage sites to the UNESCO World Heritage Tentative List, taking the country's total number of sites on the list to 73. The newly added sites include the Rangpur-Sivasagar Historic Ensemble, Colonial Penal Settlement of the Andaman Islands, Nicobarese Cultural Continuity and Painted Haveli Towns of Shekhawati.",
-                    "sourceName": "AffairsCloud",
-                    "sourceUrl": "[https://affairscloud.com/current-affairs-9-september-2026/](https://affairscloud.com/current-affairs-9-september-2026/)",
+                    "category": "Economy & Banking",
+                    "title": "Global Fintech Fest 2026 Highlights Global Expansion of UPI",
+                    "summary": "Global Fintech Fest 2026 is being held in Mumbai from 8 to 11 September. Prime Minister Narendra Modi highlighted the need to expand UPI's global footprint and connect it with payment systems of more countries. The event focuses on digital payments, artificial intelligence, fintech innovation and financial inclusion.",
+                    "sourceName": "Business Standard",
+                    "sourceUrl": "https://www.business-standard.com/finance/news",
                     "staticGK": [
-                        "Organisation : UNESCO",
-                        "New Additions : 4 Heritage Sites",
-                        "India's Tentative List : 73 Sites",
-                        "Category : Cultural Heritage",
-                        "Rangpur-Sivasagar : Assam",
-                        "Painted Haveli Towns : Shekhawati, Rajasthan"
+                        "Event : Global Fintech Fest 2026",
+                        "Venue : Mumbai",
+                        "Dates : 8-11 September 2026",
+                        "Key Platform : UPI",
+                        "Focus : Fintech and Digital Payments",
+                        "Key Technologies : AI, Tokenisation and Quantum Technology"
                     ],
                     "mcqs": [
                         {
-                            "question": "How many new Indian heritage sites were added to the UNESCO Tentative List?",
+                            "question": "Where is Global Fintech Fest 2026 being held?",
                             "options": [
-                                "Four",
-                                "Three",
+                                "Mumbai",
+                                "New Delhi",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "Mumbai"
+                        },
+                        {
+                            "question": "Which Indian digital payment system did PM Modi highlight for global expansion?",
+                            "options": [
+                                "UPI",
+                                "NEFT",
+                                "RTGS",
+                                "IMPS"
+                            ],
+                            "answer": "UPI"
+                        },
+                        {
+                            "question": "Global Fintech Fest primarily focuses on which sector?",
+                            "options": [
+                                "Financial Technology",
+                                "Defence Technology",
+                                "Agriculture",
+                                "Space Technology"
+                            ],
+                            "answer": "Financial Technology"
+                        },
+                        {
+                            "question": "Which technology was highlighted as a future frontier in fintech?",
+                            "options": [
+                                "Artificial Intelligence",
+                                "Steam Technology",
+                                "Coal Technology",
+                                "Traditional Banking"
+                            ],
+                            "answer": "Artificial Intelligence"
+                        },
+                        {
+                            "question": "Global Fintech Fest 2026 is being held during which dates?",
+                            "options": [
+                                "8-11 September 2026",
+                                "1-5 September 2026",
+                                "9-12 September 2026",
+                                "15-18 September 2026"
+                            ],
+                            "answer": "8-11 September 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education",
+                    "title": "NTA Conducts UGC-NET Re-Examination for English and Commerce",
+                    "summary": "The National Testing Agency is conducting the re-examination of UGC-NET June 2026 for English and Commerce on 9 September. The Sociology paper is scheduled for 10 September. The re-examination was ordered after issues were identified in the original question papers.",
+                    "sourceName": "SCC Times",
+                    "sourceUrl": "https://www.scconline.com/blog/post/2026/08/17/nta-reconducts-ugc-net-june-2026-english-commerce-sociology/",
+                    "staticGK": [
+                        "Exam : UGC-NET June 2026 Re-Examination",
+                        "Conducting Body : National Testing Agency",
+                        "9 September Subjects : English and Commerce",
+                        "10 September Subject : Sociology",
+                        "English Shift : 9 AM-12 Noon",
+                        "Commerce Shift : 3 PM-6 PM"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation conducts the UGC-NET examination?",
+                            "options": [
+                                "National Testing Agency",
+                                "UPSC",
+                                "SSC",
+                                "UGC"
+                            ],
+                            "answer": "National Testing Agency"
+                        },
+                        {
+                            "question": "Which UGC-NET subject is being re-conducted on 9 September 2026 in Shift 1?",
+                            "options": [
+                                "English",
+                                "Sociology",
+                                "History",
+                                "Political Science"
+                            ],
+                            "answer": "English"
+                        },
+                        {
+                            "question": "Which subject is scheduled for 9 September in Shift 2?",
+                            "options": [
+                                "Commerce",
+                                "Sociology",
+                                "English",
+                                "Economics"
+                            ],
+                            "answer": "Commerce"
+                        },
+                        {
+                            "question": "When is the Sociology re-examination scheduled?",
+                            "options": [
+                                "10 September 2026",
+                                "9 September 2026",
+                                "11 September 2026",
+                                "12 September 2026"
+                            ],
+                            "answer": "10 September 2026"
+                        },
+                        {
+                            "question": "What is the timing of the English re-examination?",
+                            "options": [
+                                "9 AM-12 Noon",
+                                "10 AM-1 PM",
+                                "2 PM-5 PM",
+                                "3 PM-6 PM"
+                            ],
+                            "answer": "9 AM-12 Noon"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Ecology",
+                    "title": "Five Baby Orangutans Found in Odisha; Investigation Underway",
+                    "summary": "Five baby orangutans were found near Badapai village in Balasore district of Odisha on 8 September. The forest department rescued the animals and began an investigation into how they reached India, as orangutans are not native to Indian forests and are naturally found in Southeast Asia.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-9-2026-five-baby-orangutans-found-in-odisha-probe-underway-10868467/",
+                    "staticGK": [
+                        "Animal : Orangutan",
+                        "Location : Balasore, Odisha",
+                        "Number Found : Five",
+                        "Conservation Status : Critically Endangered",
+                        "Natural Range : Southeast Asia",
+                        "Concern : Possible Illegal Wildlife Trade"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many baby orangutans were found in Odisha?",
+                            "options": [
                                 "Five",
+                                "Three",
+                                "Four",
                                 "Six"
                             ],
-                            "answer": "Four"
+                            "answer": "Five"
                         },
                         {
-                            "question": "What is India's total number of sites on the UNESCO Tentative List after the addition?",
+                            "question": "In which Indian state were the orangutans found?",
                             "options": [
-                                "73",
-                                "69",
-                                "70",
-                                "75"
-                            ],
-                            "answer": "73"
-                        },
-                        {
-                            "question": "The newly added sites mainly belong to which category?",
-                            "options": [
-                                "Cultural Heritage",
-                                "Natural Heritage",
-                                "Marine Heritage",
-                                "Industrial Heritage"
-                            ],
-                            "answer": "Cultural Heritage"
-                        },
-                        {
-                            "question": "The Rangpur-Sivasagar Historic Ensemble is located in which state?",
-                            "options": [
-                                "Assam",
-                                "Rajasthan",
                                 "Odisha",
-                                "West Bengal"
+                                "West Bengal",
+                                "Assam",
+                                "Jharkhand"
                             ],
-                            "answer": "Assam"
+                            "answer": "Odisha"
                         },
                         {
-                            "question": "Painted Haveli Towns are associated with which region?",
+                            "question": "Orangutans are naturally found mainly in which region?",
                             "options": [
-                                "Shekhawati",
-                                "Malwa",
-                                "Konkan",
-                                "Bundelkhand"
+                                "Southeast Asia",
+                                "South America",
+                                "Africa",
+                                "Australia"
                             ],
-                            "answer": "Shekhawati"
-                        }
-                    ]
-                },
-                {
-                    "category": "Science & Technology",
-                    "title": "India Joins Global 6G Initiative with 24 Countries and the USA",
-                    "summary": "India has joined the international 'Call to Action for 6G Leadership and Security' initiative led by the United States. The initiative brings together India, the USA and 24 other countries to promote secure, interoperable and innovation-driven next-generation telecommunications networks.",
-                    "sourceName": "AffairsCloud",
-                    "sourceUrl": "[https://affairscloud.com/current-affairs-9-september-2026/](https://affairscloud.com/current-affairs-9-september-2026/)",
-                    "staticGK": [
-                        "Initiative : Call to Action for 6G Leadership and Security",
-                        "Technology : 6G",
-                        "India's Initiative : Bharat 6G Mission",
-                        "Lead Country : United States",
-                        "India's Position : 26th Country",
-                        "Target : Secure and Interoperable Next-Generation Networks"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which next-generation technology initiative has India recently joined?",
-                            "options": [
-                                "Global 6G Initiative",
-                                "Global 5G Alliance",
-                                "Digital India 2.0",
-                                "Global AI Mission"
-                            ],
-                            "answer": "Global 6G Initiative"
+                            "answer": "Southeast Asia"
                         },
                         {
-                            "question": "What is the name of the initiative joined by India?",
+                            "question": "What is the IUCN conservation status of orangutans?",
                             "options": [
-                                "Call to Action for 6G Leadership and Security",
-                                "Global Digital Security Mission",
-                                "6G Innovation Partnership",
-                                "International Telecom Mission"
+                                "Critically Endangered",
+                                "Vulnerable",
+                                "Least Concern",
+                                "Near Threatened"
                             ],
-                            "answer": "Call to Action for 6G Leadership and Security"
+                            "answer": "Critically Endangered"
                         },
                         {
-                            "question": "Which country leads the 6G initiative?",
+                            "question": "Which issue is being investigated in connection with the discovery?",
                             "options": [
-                                "United States",
-                                "India",
-                                "Japan",
-                                "South Korea"
+                                "Illegal Wildlife Trade",
+                                "Forest Fire",
+                                "Poaching of Fish",
+                                "Mining"
                             ],
-                            "answer": "United States"
-                        },
-                        {
-                            "question": "Which Indian mission is associated with domestic 6G development?",
-                            "options": [
-                                "Bharat 6G Mission",
-                                "Digital India Mission",
-                                "India AI Mission",
-                                "BharatNet Mission"
-                            ],
-                            "answer": "Bharat 6G Mission"
-                        },
-                        {
-                            "question": "India joined the initiative as which numbered country?",
-                            "options": [
-                                "26th",
-                                "24th",
-                                "25th",
-                                "27th"
-                            ],
-                            "answer": "26th"
-                        }
-                    ]
-                },
-                {
-                    "category": "Social Welfare",
-                    "title": "9th Rashtriya Poshan Maah 2026 to Be Launched in Varanasi",
-                    "summary": "The 9th Rashtriya Poshan Maah 2026 is being launched in Varanasi, Uttar Pradesh, on 9 September. The campaign focuses on nutrition, maternal and child health and strengthening community participation through Anganwadi Centres under the broader framework of Mission Saksham Anganwadi and Poshan 2.0.",
-                    "sourceName": "PIB / Ministry of Women and Child Development",
-                    "sourceUrl": "[https://www.pib.gov.in/](https://www.pib.gov.in/)",
-                    "staticGK": [
-                        "Event : 9th Rashtriya Poshan Maah",
-                        "Launch Date : 9 September 2026",
-                        "Venue : Varanasi, Uttar Pradesh",
-                        "Ministry : Ministry of Women and Child Development",
-                        "Focus : Nutrition and Child Development",
-                        "Theme : Hamari Anganwadi Hamari Jimmedari"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which edition of Rashtriya Poshan Maah is being observed in 2026?",
-                            "options": [
-                                "9th",
-                                "8th",
-                                "10th",
-                                "7th"
-                            ],
-                            "answer": "9th"
-                        },
-                        {
-                            "question": "Where will Rashtriya Poshan Maah 2026 be launched?",
-                            "options": [
-                                "Varanasi",
-                                "Lucknow",
-                                "New Delhi",
-                                "Jaipur"
-                            ],
-                            "answer": "Varanasi"
-                        },
-                        {
-                            "question": "Rashtriya Poshan Maah is associated with which ministry?",
-                            "options": [
-                                "Ministry of Women and Child Development",
-                                "Ministry of Health",
-                                "Ministry of Education",
-                                "Ministry of Rural Development"
-                            ],
-                            "answer": "Ministry of Women and Child Development"
-                        },
-                        {
-                            "question": "What is the theme of Poshan Maah 2026?",
-                            "options": [
-                                "Hamari Anganwadi Hamari Jimmedari",
-                                "Poshan Se Vikas",
-                                "Swasth Bharat Abhiyan",
-                                "Suposhit Bharat Mission"
-                            ],
-                            "answer": "Hamari Anganwadi Hamari Jimmedari"
-                        },
-                        {
-                            "question": "Poshan Maah mainly focuses on?",
-                            "options": [
-                                "Nutrition and Child Development",
-                                "Industrial Development",
-                                "Digital Banking",
-                                "Defence Modernisation"
-                            ],
-                            "answer": "Nutrition and Child Development"
-                        }
-                    ]
-                },
-                {
-                    "category": "Banking & Finance",
-                    "title": "RBI Grants Scheduled Bank Status to Coastal Local Area Bank",
-                    "summary": "The Reserve Bank of India has included Coastal Local Area Bank in the Second Schedule to the RBI Act, 1934, granting it scheduled bank status. The development marks an important milestone for the regional banking institution headquartered in Vijayawada.",
-                    "sourceName": "IASPOINT",
-                    "sourceUrl": "[https://iaspoint.com/rbi-grants-scheduled-status-to-coastal-lab/](https://iaspoint.com/rbi-grants-scheduled-status-to-coastal-lab/)",
-                    "staticGK": [
-                        "Bank : Coastal Local Area Bank",
-                        "Regulator : Reserve Bank of India",
-                        "Legal Basis : RBI Act, 1934",
-                        "Schedule : Second Schedule",
-                        "Bank Type : Local Area Bank",
-                        "Headquarters : Vijayawada"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which bank received scheduled bank status from RBI?",
-                            "options": [
-                                "Coastal Local Area Bank",
-                                "Bandhan Bank",
-                                "Ujjivan Small Finance Bank",
-                                "Jana Small Finance Bank"
-                            ],
-                            "answer": "Coastal Local Area Bank"
-                        },
-                        {
-                            "question": "Which institution granted the scheduled bank status?",
-                            "options": [
-                                "Reserve Bank of India",
-                                "SEBI",
-                                "Finance Ministry",
-                                "NITI Aayog"
-                            ],
-                            "answer": "Reserve Bank of India"
-                        },
-                        {
-                            "question": "Under which Act is scheduled bank classification provided?",
-                            "options": [
-                                "RBI Act, 1934",
-                                "Banking Regulation Act, 1949",
-                                "Companies Act, 2013",
-                                "SEBI Act, 1992"
-                            ],
-                            "answer": "RBI Act, 1934"
-                        },
-                        {
-                            "question": "In which Schedule was Coastal Local Area Bank included?",
-                            "options": [
-                                "Second Schedule",
-                                "First Schedule",
-                                "Third Schedule",
-                                "Fourth Schedule"
-                            ],
-                            "answer": "Second Schedule"
-                        },
-                        {
-                            "question": "Where is Coastal Local Area Bank headquartered?",
-                            "options": [
-                                "Vijayawada",
-                                "Hyderabad",
-                                "Chennai",
-                                "Visakhapatnam"
-                            ],
-                            "answer": "Vijayawada"
-                        }
-                    ]
-                },
-                {
-                    "category": "Economy & Infrastructure",
-                    "title": "ADB Signs First Transaction Advisory Services Mandate in India with Madhya Pradesh",
-                    "summary": "The Asian Development Bank has entered into an agreement with the Government of Madhya Pradesh for renewable energy public-private partnership projects. The initiative is expected to mobilise up to USD 1 billion in private investment and includes clean energy projects such as solar power generation and battery energy storage.",
-                    "sourceName": "Economic Times",
-                    "sourceUrl": "[https://economictimes.indiatimes.com/industry/renewables/adb-signs-first-transaction-advisory-pact-in-india-to-mobilise-1-billion-for-green-energy-projects/articleshow/133872369.cms](https://economictimes.indiatimes.com/industry/renewables/adb-signs-first-transaction-advisory-pact-in-india-to-mobilise-1-billion-for-green-energy-projects/articleshow/133872369.cms)",
-                    "staticGK": [
-                        "Institution : Asian Development Bank",
-                        "Partner State : Madhya Pradesh",
-                        "Investment Potential : USD 1 Billion",
-                        "Model : Public-Private Partnership",
-                        "Sector : Renewable Energy",
-                        "ADB's India TAS Mandate : First"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which institution signed the renewable energy advisory agreement with Madhya Pradesh?",
-                            "options": [
-                                "Asian Development Bank",
-                                "World Bank",
-                                "IMF",
-                                "AIIB"
-                            ],
-                            "answer": "Asian Development Bank"
-                        },
-                        {
-                            "question": "Which state is partnering with ADB in this initiative?",
-                            "options": [
-                                "Madhya Pradesh",
-                                "Rajasthan",
-                                "Gujarat",
-                                "Maharashtra"
-                            ],
-                            "answer": "Madhya Pradesh"
-                        },
-                        {
-                            "question": "The initiative aims to mobilise up to how much private investment?",
-                            "options": [
-                                "USD 1 Billion",
-                                "USD 500 Million",
-                                "USD 2 Billion",
-                                "USD 750 Million"
-                            ],
-                            "answer": "USD 1 Billion"
-                        },
-                        {
-                            "question": "The projects are being developed under which model?",
-                            "options": [
-                                "Public-Private Partnership",
-                                "Build-Own-Transfer",
-                                "Government-to-Government",
-                                "Cooperative Model"
-                            ],
-                            "answer": "Public-Private Partnership"
-                        },
-                        {
-                            "question": "Which sector is the main focus of the agreement?",
-                            "options": [
-                                "Renewable Energy",
-                                "Railways",
-                                "Defence",
-                                "Tourism"
-                            ],
-                            "answer": "Renewable Energy"
+                            "answer": "Illegal Wildlife Trade"
                         }
                     ]
                 },
                 {
                     "category": "International Relations",
-                    "title": "BRICS Chief Justices' Forum Held in New Delhi",
-                    "summary": "The Supreme Court of India hosted the BRICS Chief Justices' Forum in New Delhi from 4 to 6 September 2026. The forum brought together senior judicial leaders from BRICS member and partner countries and discussed justice delivery, international dispute resolution, artificial intelligence and the judiciary, and sustainable development.",
-                    "sourceName": "Supreme Court of India",
-                    "sourceUrl": "[https://www.sci.gov.in/press-release-dated-12-05-2026-regarding-brics-chief-justic/](https://www.sci.gov.in/press-release-dated-12-05-2026-regarding-brics-chief-justic/)",
+                    "title": "Prime Minister Modi and President Putin to Discuss Energy and Defence Cooperation",
+                    "summary": "Russian President Vladimir Putin is scheduled to meet Prime Minister Narendra Modi during his visit to India. Energy cooperation and defence ties are expected to be important areas of discussion, along with possible cooperation in critical and rare-earth minerals.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms",
                     "staticGK": [
-                        "Event : BRICS Chief Justices' Forum",
-                        "Venue : New Delhi",
-                        "Host : Supreme Court of India",
-                        "Dates : 4-6 September 2026",
-                        "Chief Justice of India : Justice Surya Kant",
-                        "Key Topics : AI, Arbitration, Justice Delivery and Sustainable Development"
+                        "Russian President : Vladimir Putin",
+                        "Indian Prime Minister : Narendra Modi",
+                        "Key Areas : Energy and Defence",
+                        "Additional Area : Rare-Earth Minerals",
+                        "Countries : India and Russia",
+                        "Importance : Strategic Partnership"
                     ],
                     "mcqs": [
                         {
-                            "question": "Where was the BRICS Chief Justices' Forum 2026 held?",
+                            "question": "Which Russian leader is scheduled to meet PM Narendra Modi?",
                             "options": [
-                                "New Delhi",
-                                "Mumbai",
+                                "Vladimir Putin",
+                                "Mikhail Mishustin",
+                                "Sergey Lavrov",
+                                "Dmitry Medvedev"
+                            ],
+                            "answer": "Vladimir Putin"
+                        },
+                        {
+                            "question": "Which two areas are expected to dominate India-Russia discussions?",
+                            "options": [
+                                "Energy and Defence",
+                                "Sports and Tourism",
+                                "Agriculture and Education",
+                                "Health and Culture"
+                            ],
+                            "answer": "Energy and Defence"
+                        },
+                        {
+                            "question": "India and Russia are also exploring cooperation in which area?",
+                            "options": [
+                                "Rare-Earth Minerals",
+                                "Textiles",
+                                "Tourism",
+                                "Fisheries"
+                            ],
+                            "answer": "Rare-Earth Minerals"
+                        },
+                        {
+                            "question": "Who is the President of Russia?",
+                            "options": [
+                                "Vladimir Putin",
+                                "Sergey Lavrov",
+                                "Dmitry Medvedev",
+                                "Mikhail Mishustin"
+                            ],
+                            "answer": "Vladimir Putin"
+                        },
+                        {
+                            "question": "India-Russia relations are particularly important in which strategic area?",
+                            "options": [
+                                "Defence Cooperation",
+                                "Tourism",
+                                "Sports",
+                                "Fashion"
+                            ],
+                            "answer": "Defence Cooperation"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "PM Modi Highlights Major Infrastructure Projects Worth Over Rs 35,000 Crore in Gujarat",
+                    "summary": "Prime Minister Narendra Modi inaugurated, laid foundation stones for and dedicated development projects worth more than Rs 35,000 crore in Vadodara, Gujarat, on 8 September. The projects cover infrastructure and development sectors and form part of the government's broader development agenda.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PMContents/PMContents.aspx?Lang=1&RegionId=20&menuid=1&reg=20",
+                    "staticGK": [
+                        "Location : Vadodara, Gujarat",
+                        "Prime Minister : Narendra Modi",
+                        "Project Value : More than Rs 35,000 Crore",
+                        "State : Gujarat",
+                        "Nature : Inauguration and Foundation Stone Laying",
+                        "Focus : Infrastructure and Development"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which state were development projects worth more than Rs 35,000 crore highlighted?",
+                            "options": [
+                                "Gujarat",
+                                "Maharashtra",
+                                "Rajasthan",
+                                "Madhya Pradesh"
+                            ],
+                            "answer": "Gujarat"
+                        },
+                        {
+                            "question": "Where did PM Modi undertake the major development programme?",
+                            "options": [
+                                "Vadodara",
+                                "Ahmedabad",
+                                "Surat",
+                                "Rajkot"
+                            ],
+                            "answer": "Vadodara"
+                        },
+                        {
+                            "question": "What was the approximate value of the projects?",
+                            "options": [
+                                "More than Rs 35,000 Crore",
+                                "Rs 10,000 Crore",
+                                "Rs 20,000 Crore",
+                                "Rs 50,000 Crore"
+                            ],
+                            "answer": "More than Rs 35,000 Crore"
+                        },
+                        {
+                            "question": "Who inaugurated and dedicated the projects to the nation?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Nitin Gadkari",
+                                "Ashwini Vaishnaw"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "The projects are mainly related to which broad area?",
+                            "options": [
+                                "Infrastructure and Development",
+                                "Sports",
+                                "Defence Recruitment",
+                                "Tourism Only"
+                            ],
+                            "answer": "Infrastructure and Development"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Renewable Energy",
+                    "title": "Windergy India 2026 to Target 100 GW Wind Capacity by 2030",
+                    "summary": "Windergy India 2026 is scheduled to be held at Chennai Trade Centre from 7 to 9 October. The wind-energy industry is focusing on strengthening manufacturing capacity, supply chains and domestic value addition as India aims to reach 100 GW of installed wind power capacity by 2030.",
+                    "sourceName": "PrelimsAI citing The Hindu",
+                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-09",
+                    "staticGK": [
+                        "Event : Windergy India 2026",
+                        "Venue : Chennai Trade Centre",
+                        "Dates : 7-9 October 2026",
+                        "Current Wind Capacity : Around 54 GW",
+                        "2030 Target : 100 GW",
+                        "Sector : Wind Energy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Windergy India 2026 will be held in which city?",
+                            "options": [
                                 "Chennai",
+                                "Mumbai",
+                                "New Delhi",
                                 "Bengaluru"
                             ],
-                            "answer": "New Delhi"
+                            "answer": "Chennai"
                         },
                         {
-                            "question": "Which institution hosted the BRICS Chief Justices' Forum?",
+                            "question": "What is India's cited wind-energy capacity target for 2030?",
                             "options": [
-                                "Supreme Court of India",
-                                "Ministry of Law and Justice",
-                                "NITI Aayog",
-                                "Delhi High Court"
+                                "100 GW",
+                                "75 GW",
+                                "150 GW",
+                                "200 GW"
                             ],
-                            "answer": "Supreme Court of India"
+                            "answer": "100 GW"
                         },
                         {
-                            "question": "Who was the Chief Justice of India during the forum?",
+                            "question": "Windergy India is associated with which sector?",
                             "options": [
-                                "Justice Surya Kant",
-                                "Justice D.Y. Chandrachud",
-                                "Justice Sanjiv Khanna",
-                                "Justice B.R. Gavai"
+                                "Wind Energy",
+                                "Solar Energy",
+                                "Hydrogen Energy",
+                                "Nuclear Energy"
                             ],
-                            "answer": "Justice Surya Kant"
+                            "answer": "Wind Energy"
                         },
                         {
-                            "question": "Which technology-related issue was discussed at the forum?",
+                            "question": "Where will Windergy India 2026 be held?",
                             "options": [
-                                "Artificial Intelligence and Judiciary",
-                                "Blockchain Banking",
-                                "Quantum Computing in Defence",
-                                "5G Infrastructure"
+                                "Chennai Trade Centre",
+                                "Bharat Mandapam",
+                                "Jio World Centre",
+                                "Pragati Maidan"
                             ],
-                            "answer": "Artificial Intelligence and Judiciary"
+                            "answer": "Chennai Trade Centre"
                         },
                         {
-                            "question": "The forum primarily promoted cooperation among?",
+                            "question": "India's installed wind capacity was reported at approximately?",
                             "options": [
-                                "Judiciaries",
-                                "Central Banks",
-                                "Armed Forces",
-                                "Universities"
+                                "54 GW",
+                                "25 GW",
+                                "75 GW",
+                                "100 GW"
                             ],
-                            "answer": "Judiciaries"
+                            "answer": "54 GW"
                         }
                     ]
                 },
                 {
-                    "category": "Science & Technology",
-                    "title": "Pranos Fusion Unveils PRAGYA, India's First Privately Developed Compact Tokamak",
-                    "summary": "Bengaluru-based deep-tech startup Pranos Fusion has unveiled PRAGYA, described as India's first privately developed compact tokamak. The experimental machine is designed to study and control plasma and serve as a testbed for fusion technologies rather than generate commercial electricity.",
-                    "sourceName": "India Today",
-                    "sourceUrl": "[https://www.indiatoday.in/amp/science/story/bengaluru-based-pranos-unveils-indias-1st-private-compact-nuclear-fusion-reactor-pragya-2986249-2026-09-03](https://www.indiatoday.in/amp/science/story/bengaluru-based-pranos-unveils-indias-1st-private-compact-nuclear-fusion-reactor-pragya-2986249-2026-09-03)",
+                    "category": "Economy",
+                    "title": "Tamil Nadu GSDP Grew 15.98% in 2024-25: CAG Report",
+                    "summary": "According to the Comptroller and Auditor General's report on Tamil Nadu state finances, the state's GSDP grew by 15.98% in 2024-25 compared with 13.34% in the previous year. The report also highlighted a total debt stock of Rs 8.53 lakh crore and a debt-to-GSDP ratio of 27.38%.",
+                    "sourceName": "PrelimsAI citing The Hindu",
+                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-09",
                     "staticGK": [
-                        "Machine : PRAGYA",
-                        "Developer : Pranos Fusion",
-                        "Location : Bengaluru",
-                        "Technology : Compact Tokamak",
-                        "Purpose : Plasma and Fusion Research",
-                        "Commercial Power Generation : Not Yet Designed For"
+                        "State : Tamil Nadu",
+                        "GSDP Growth : 15.98%",
+                        "Previous Growth : 13.34%",
+                        "Total Debt : Rs 8.53 Lakh Crore",
+                        "Debt-to-GSDP Ratio : 27.38%",
+                        "Authority : Comptroller and Auditor General"
                     ],
                     "mcqs": [
                         {
-                            "question": "What is the name of the compact tokamak unveiled by Pranos Fusion?",
+                            "question": "What was Tamil Nadu's GSDP growth in 2024-25 according to the CAG report?",
                             "options": [
-                                "PRAGYA",
-                                "PRITHVI",
-                                "AGNI",
-                                "VIKRAM"
+                                "15.98%",
+                                "13.34%",
+                                "12.50%",
+                                "17.38%"
                             ],
-                            "answer": "PRAGYA"
+                            "answer": "15.98%"
                         },
                         {
-                            "question": "Which startup developed PRAGYA?",
+                            "question": "What was Tamil Nadu's total debt stock?",
                             "options": [
-                                "Pranos Fusion",
-                                "Skyroot Aerospace",
-                                "Agnikul Cosmos",
-                                "Pixxel"
+                                "Rs 8.53 Lakh Crore",
+                                "Rs 6.53 Lakh Crore",
+                                "Rs 10.53 Lakh Crore",
+                                "Rs 5.83 Lakh Crore"
                             ],
-                            "answer": "Pranos Fusion"
+                            "answer": "Rs 8.53 Lakh Crore"
                         },
                         {
-                            "question": "Where is Pranos Fusion based?",
+                            "question": "What was Tamil Nadu's debt-to-GSDP ratio?",
                             "options": [
-                                "Bengaluru",
-                                "Hyderabad",
-                                "Mumbai",
-                                "Ahmedabad"
+                                "27.38%",
+                                "28.90%",
+                                "25.38%",
+                                "30.38%"
                             ],
-                            "answer": "Bengaluru"
+                            "answer": "27.38%"
                         },
                         {
-                            "question": "PRAGYA is a type of which device?",
+                            "question": "Which institution prepared the state finances report?",
                             "options": [
-                                "Tokamak",
-                                "Particle Accelerator",
-                                "Space Telescope",
-                                "Quantum Computer"
+                                "Comptroller and Auditor General",
+                                "Reserve Bank of India",
+                                "Finance Commission",
+                                "NITI Aayog"
                             ],
-                            "answer": "Tokamak"
+                            "answer": "Comptroller and Auditor General"
                         },
                         {
-                            "question": "What is the primary purpose of PRAGYA?",
+                            "question": "Tamil Nadu's GSDP growth in 2024-25 was compared with what growth in the previous year?",
                             "options": [
-                                "Plasma and Fusion Research",
-                                "Commercial Electricity Generation",
-                                "Satellite Communication",
-                                "Nuclear Weapon Development"
+                                "13.34%",
+                                "11.34%",
+                                "14.34%",
+                                "16.34%"
                             ],
-                            "answer": "Plasma and Fusion Research"
+                            "answer": "13.34%"
                         }
                     ]
                 },
                 {
-                    "category": "Sports",
-                    "title": "Satwiksairaj Rankireddy and Chirag Shetty Win China Masters Super 750 Title",
-                    "summary": "Indian men's doubles badminton pair Satwiksairaj Rankireddy and Chirag Shetty won the China Masters Super 750 title in Shenzhen. They defeated China's He Ji Ting and Ren Xiang Yu in three games, securing India's first-ever China Masters men's doubles title.",
-                    "sourceName": "News On AIR",
-                    "sourceUrl": "[https://newsonair.gov.in/satwiksairaj-chirag-clinch-maiden-china-masters-title/](https://newsonair.gov.in/satwiksairaj-chirag-clinch-maiden-china-masters-title/)",
+                    "category": "International Affairs",
+                    "title": "India Strengthens Global Digital Payment Push Through UPI",
+                    "summary": "India is seeking to expand UPI's international footprint by connecting the Indian payment system with local payment systems in more countries. The initiative is aimed at reducing remittance costs, increasing digital payment interoperability and strengthening India's role in global digital public infrastructure.",
+                    "sourceName": "Business Standard",
+                    "sourceUrl": "https://www.business-standard.com/finance/news",
                     "staticGK": [
-                        "Tournament : China Masters",
-                        "Category : Men's Doubles",
-                        "Indian Pair : Satwiksairaj Rankireddy and Chirag Shetty",
-                        "Venue : Shenzhen, China",
-                        "Final Opponents : He Ji Ting and Ren Xiang Yu",
-                        "Achievement : India's First China Masters Men's Doubles Title"
+                        "Payment System : UPI",
+                        "Full Form : Unified Payments Interface",
+                        "Indian Institution : NPCI",
+                        "Focus : Global Payment Connectivity",
+                        "Major Benefit : Lower Remittance Costs",
+                        "Concept : Digital Public Infrastructure"
                     ],
                     "mcqs": [
                         {
-                            "question": "Who won the China Masters Super 750 men's doubles title?",
+                            "question": "Which Indian payment system is being promoted globally?",
                             "options": [
-                                "Satwiksairaj Rankireddy and Chirag Shetty",
-                                "Lakshya Sen and Kidambi Srikanth",
-                                "Rohan Bopanna and Yuki Bhambri",
-                                "He Ji Ting and Ren Xiang Yu"
+                                "UPI",
+                                "NEFT",
+                                "RTGS",
+                                "AePS"
                             ],
-                            "answer": "Satwiksairaj Rankireddy and Chirag Shetty"
+                            "answer": "UPI"
                         },
                         {
-                            "question": "The China Masters is associated with which sport?",
+                            "question": "UPI stands for?",
                             "options": [
-                                "Badminton",
-                                "Tennis",
-                                "Table Tennis",
-                                "Squash"
+                                "Unified Payments Interface",
+                                "Universal Payment India",
+                                "United Payments Institution",
+                                "Unified Public Interface"
                             ],
-                            "answer": "Badminton"
+                            "answer": "Unified Payments Interface"
                         },
                         {
-                            "question": "Where was the China Masters final held?",
+                            "question": "Which organisation operates India's UPI infrastructure?",
                             "options": [
-                                "Shenzhen",
-                                "Beijing",
-                                "Shanghai",
-                                "Guangzhou"
+                                "NPCI",
+                                "RBI",
+                                "SEBI",
+                                "NITI Aayog"
                             ],
-                            "answer": "Shenzhen"
+                            "answer": "NPCI"
                         },
                         {
-                            "question": "Whom did Satwik-Chirag defeat in the final?",
+                            "question": "Global expansion of UPI can help reduce?",
                             "options": [
-                                "He Ji Ting and Ren Xiang Yu",
-                                "Liang Wei Keng and Wang Chang",
-                                "Aaron Chia and Soh Wooi Yik",
-                                "Kim Astrup and Anders Skaarup"
+                                "Remittance Costs",
+                                "Import Duties",
+                                "Income Tax",
+                                "Railway Fares"
                             ],
-                            "answer": "He Ji Ting and Ren Xiang Yu"
+                            "answer": "Remittance Costs"
                         },
                         {
-                            "question": "What was special about the victory for India?",
+                            "question": "UPI is an example of India's?",
                             "options": [
-                                "India's First China Masters Men's Doubles Title",
-                                "India's First Olympic Badminton Gold",
-                                "India's First Thomas Cup Title",
-                                "India's First Asian Games Gold"
+                                "Digital Public Infrastructure",
+                                "Defence Infrastructure",
+                                "Railway Infrastructure",
+                                "Agricultural Infrastructure"
                             ],
-                            "answer": "India's First China Masters Men's Doubles Title"
+                            "answer": "Digital Public Infrastructure"
                         }
                     ]
                 }
