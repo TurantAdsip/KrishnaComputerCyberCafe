@@ -6238,7 +6238,7 @@
                 }
             ]
         },
-         {
+           {
             "id": "2026-09-10",
             "date": "10 September 2026",
             "totalNews": 10,
@@ -6247,13 +6247,13 @@
                 {
                     "category": "Skill Development",
                     "title": "PM-SETU Approves Rs 735.70 Crore Investment for Three ITI Clusters",
-                    "summary": "The 5th National Steering Committee under PM-SETU approved strategic investments worth Rs 735.70 crore for three ITI clusters in Rajasthan, Uttar Pradesh and Telangana. With this approval, cumulative sanctioned investment under PM-SETU increased to Rs 2,171 crore across nine ITI clusters. The initiative aims to modernise ITIs and make them industry-oriented and future-ready.",
+                    "summary": "The 5th National Steering Committee meeting under PM-SETU approved strategic investments worth Rs 735.70 crore for three ITI clusters in Rajasthan, Uttar Pradesh and Telangana. The latest approvals increased the cumulative sanctioned investment under PM-SETU to Rs 2,171 crore across nine ITI clusters. The initiative aims to modernise Industrial Training Institutes and improve industry-oriented skill development.",
                     "sourceName": "Press Information Bureau",
-                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2307775&lang=1&reg=3",
+                    "sourceUrl": "https://www.pib.gov.in/",
                     "staticGK": [
                         "Scheme : PM-SETU",
                         "Full Form : Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs",
-                        "Investment Approved : Rs 735.70 Crore",
+                        "Latest Investment : Rs 735.70 Crore",
                         "States : Rajasthan, Uttar Pradesh and Telangana",
                         "Cumulative Investment : Rs 2,171 Crore",
                         "Clusters Covered : 9 ITI Clusters"
@@ -6280,14 +6280,14 @@
                             "answer": "Rs 735.70 Crore"
                         },
                         {
-                            "question": "Which of the following states is NOT among the three latest PM-SETU beneficiaries?",
+                            "question": "Which state is included among the latest PM-SETU ITI clusters?",
                             "options": [
-                                "Haryana",
-                                "Rajasthan",
-                                "Uttar Pradesh",
-                                "Telangana"
+                                "Telangana",
+                                "Punjab",
+                                "Kerala",
+                                "Bihar"
                             ],
-                            "answer": "Haryana"
+                            "answer": "Telangana"
                         },
                         {
                             "question": "PM-SETU is mainly associated with upgrading which institutions?",
@@ -6300,7 +6300,7 @@
                             "answer": "Industrial Training Institutes"
                         },
                         {
-                            "question": "What was the cumulative sanctioned PM-SETU investment after the latest approval?",
+                            "question": "What is the cumulative sanctioned investment under PM-SETU?",
                             "options": [
                                 "Rs 2,171 Crore",
                                 "Rs 1,171 Crore",
@@ -6312,286 +6312,85 @@
                     ]
                 },
                 {
-                    "category": "Defence",
-                    "title": "India-Japan Veer Guardian-2026 Air Exercise Begins in Jodhpur",
-                    "summary": "The Indian Air Force and Japan Air Self-Defense Force began the second edition of the bilateral air exercise Veer Guardian-2026 at Air Force Station Jodhpur, Rajasthan. The exercise is being conducted from 9 to 22 September 2026 and focuses on interoperability, tactical proficiency and operational coordination between the two air forces.",
+                    "category": "National Affairs",
+                    "title": "Goa Police Receives President's Colour from Amit Shah",
+                    "summary": "Union Home Minister Amit Shah presented the President's Colour to Goa Police at a ceremony in Panaji. The honour recognises the force's long record of service, courage and professionalism. Goa Police has also introduced an AI-based call agent for the national cybercrime helpline 1930, initially supporting Konkani, Marathi and Hindi.",
                     "sourceName": "AffairsCloud",
                     "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
                     "staticGK": [
-                        "Exercise : Veer Guardian-2026",
-                        "Edition : 2nd",
-                        "Countries : India and Japan",
-                        "Indian Force : Indian Air Force",
-                        "Japanese Force : Japan Air Self-Defense Force",
-                        "Venue : Air Force Station Jodhpur"
+                        "Award : President's Colour",
+                        "Force : Goa Police",
+                        "Presented By : Amit Shah",
+                        "Venue : Panaji, Goa",
+                        "Cybercrime Helpline : 1930",
+                        "Initial Languages : Konkani, Marathi and Hindi"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which two countries participate in Veer Guardian-2026?",
+                            "question": "Which police force received the President's Colour?",
                             "options": [
-                                "India and Japan",
-                                "India and France",
-                                "India and USA",
-                                "India and Australia"
+                                "Goa Police",
+                                "Delhi Police",
+                                "Kerala Police",
+                                "Rajasthan Police"
                             ],
-                            "answer": "India and Japan"
+                            "answer": "Goa Police"
                         },
                         {
-                            "question": "Which Indian force participates in Veer Guardian-2026?",
+                            "question": "Who presented the President's Colour to Goa Police?",
                             "options": [
-                                "Indian Air Force",
-                                "Indian Navy",
-                                "Indian Army",
-                                "Indian Coast Guard"
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Narendra Modi",
+                                "S. Jaishankar"
                             ],
-                            "answer": "Indian Air Force"
+                            "answer": "Amit Shah"
                         },
                         {
-                            "question": "Where is Veer Guardian-2026 being conducted?",
+                            "question": "Where was the President's Colour ceremony held?",
                             "options": [
-                                "Jodhpur",
-                                "Jaipur",
+                                "Panaji",
+                                "Mumbai",
                                 "New Delhi",
                                 "Pune"
                             ],
-                            "answer": "Jodhpur"
+                            "answer": "Panaji"
                         },
                         {
-                            "question": "Which Japanese force participates in the exercise?",
+                            "question": "Which helpline is supported by Goa Police's AI-based call agent?",
                             "options": [
-                                "Japan Air Self-Defense Force",
-                                "Japan Maritime Self-Defense Force",
-                                "Japan Ground Self-Defense Force",
-                                "Japan Coast Guard"
+                                "1930",
+                                "112",
+                                "1098",
+                                "181"
                             ],
-                            "answer": "Japan Air Self-Defense Force"
+                            "answer": "1930"
                         },
                         {
-                            "question": "Veer Guardian is primarily related to which type of operations?",
+                            "question": "Which language is initially NOT included in the AI-based cybercrime call agent?",
                             "options": [
-                                "Air Operations",
-                                "Naval Operations",
-                                "Cyber Operations",
-                                "Mountain Warfare"
-                            ],
-                            "answer": "Air Operations"
-                        }
-                    ]
-                },
-                {
-                    "category": "Education",
-                    "title": "UGC-NET Sociology Re-Examination Conducted on 10 September",
-                    "summary": "The National Testing Agency is conducting the re-examination of the UGC-NET June 2026 Sociology paper on 10 September 2026. The English and Commerce papers were re-conducted on 9 September after errors and other issues were identified in the original question papers. No additional examination fee is being charged for the re-conduct.",
-                    "sourceName": "SCC Times",
-                    "sourceUrl": "https://www.scconline.com/blog/post/2026/08/17/nta-reconducts-ugc-net-june-2026-english-commerce-sociology/",
-                    "staticGK": [
-                        "Exam : UGC-NET June 2026",
-                        "Conducting Body : National Testing Agency",
-                        "10 September Subject : Sociology",
-                        "Timing : 9 AM-12 Noon",
-                        "9 September Subjects : English and Commerce",
-                        "Additional Fee : Not Charged"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which organisation conducts UGC-NET?",
-                            "options": [
-                                "National Testing Agency",
-                                "UPSC",
-                                "SSC",
-                                "UGC"
-                            ],
-                            "answer": "National Testing Agency"
-                        },
-                        {
-                            "question": "Which subject is being re-conducted on 10 September 2026?",
-                            "options": [
-                                "Sociology",
                                 "English",
-                                "Commerce",
-                                "History"
+                                "Konkani",
+                                "Marathi",
+                                "Hindi"
                             ],
-                            "answer": "Sociology"
-                        },
-                        {
-                            "question": "What is the timing of the Sociology re-examination?",
-                            "options": [
-                                "9 AM-12 Noon",
-                                "10 AM-1 PM",
-                                "2 PM-5 PM",
-                                "3 PM-6 PM"
-                            ],
-                            "answer": "9 AM-12 Noon"
-                        },
-                        {
-                            "question": "Which two UGC-NET subjects were re-conducted on 9 September?",
-                            "options": [
-                                "English and Commerce",
-                                "Commerce and Sociology",
-                                "English and Sociology",
-                                "History and Commerce"
-                            ],
-                            "answer": "English and Commerce"
-                        },
-                        {
-                            "question": "Are candidates required to pay an additional examination fee for the re-conduct?",
-                            "options": [
-                                "No",
-                                "Yes",
-                                "Only for Sociology",
-                                "Only for Commerce"
-                            ],
-                            "answer": "No"
-                        }
-                    ]
-                },
-                {
-                    "category": "Economy & Banking",
-                    "title": "RBI Conducts Rs 6 Lakh Crore Overnight VRRR Auction",
-                    "summary": "The Reserve Bank of India scheduled a one-day Variable Rate Reverse Repo auction under the Liquidity Adjustment Facility on 10 September 2026. The notified amount was Rs 6,00,000 crore, with the auction window from 9:30 AM to 10:00 AM and reversal scheduled for 11 September.",
-                    "sourceName": "PrelimsAI",
-                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-10",
-                    "staticGK": [
-                        "Institution : Reserve Bank of India",
-                        "Operation : Variable Rate Reverse Repo",
-                        "Tenor : One Day",
-                        "Notified Amount : Rs 6,00,000 Crore",
-                        "Auction Time : 9:30 AM-10:00 AM",
-                        "Reversal Date : 11 September 2026"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which institution conducts the VRRR auction?",
-                            "options": [
-                                "Reserve Bank of India",
-                                "SEBI",
-                                "NABARD",
-                                "Ministry of Finance"
-                            ],
-                            "answer": "Reserve Bank of India"
-                        },
-                        {
-                            "question": "What does VRRR stand for?",
-                            "options": [
-                                "Variable Rate Reverse Repo",
-                                "Variable Reserve Rate Repo",
-                                "Value Rate Reverse Reserve",
-                                "Variable Repo Rate Regulation"
-                            ],
-                            "answer": "Variable Rate Reverse Repo"
-                        },
-                        {
-                            "question": "What was the notified amount for the 10 September 2026 auction?",
-                            "options": [
-                                "Rs 6,00,000 Crore",
-                                "Rs 60,000 Crore",
-                                "Rs 3,00,000 Crore",
-                                "Rs 8,00,000 Crore"
-                            ],
-                            "answer": "Rs 6,00,000 Crore"
-                        },
-                        {
-                            "question": "What was the tenor of the VRRR operation?",
-                            "options": [
-                                "One Day",
-                                "Three Days",
-                                "Seven Days",
-                                "Fourteen Days"
-                            ],
-                            "answer": "One Day"
-                        },
-                        {
-                            "question": "Under which facility was the VRRR auction conducted?",
-                            "options": [
-                                "Liquidity Adjustment Facility",
-                                "Marginal Standing Facility",
-                                "Market Stabilisation Scheme",
-                                "Standing Deposit Facility"
-                            ],
-                            "answer": "Liquidity Adjustment Facility"
-                        }
-                    ]
-                },
-                {
-                    "category": "Defence Technology",
-                    "title": "Indian Army Sets Up AASHVAST Lab for Drone Security",
-                    "summary": "The Indian Army has established the AASHVAST software analysis and validation laboratory at the Directorate General of Electronics and Mechanical Engineers headquarters in New Delhi. The laboratory is intended to strengthen the Army's ability to analyse and validate software and detect potentially suspicious components in drones.",
-                    "sourceName": "AffairsCloud",
-                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
-                    "staticGK": [
-                        "Laboratory : AASHVAST",
-                        "Organisation : Indian Army",
-                        "Location : New Delhi",
-                        "Purpose : Software Analysis and Validation",
-                        "Focus : Drone Security",
-                        "Headquarters : DG EME"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which organisation has established the AASHVAST laboratory?",
-                            "options": [
-                                "Indian Army",
-                                "Indian Air Force",
-                                "DRDO",
-                                "Indian Navy"
-                            ],
-                            "answer": "Indian Army"
-                        },
-                        {
-                            "question": "Where is the AASHVAST laboratory located?",
-                            "options": [
-                                "New Delhi",
-                                "Bengaluru",
-                                "Hyderabad",
-                                "Pune"
-                            ],
-                            "answer": "New Delhi"
-                        },
-                        {
-                            "question": "AASHVAST is primarily related to which area?",
-                            "options": [
-                                "Software Analysis and Validation",
-                                "Satellite Launches",
-                                "Naval Training",
-                                "Medical Research"
-                            ],
-                            "answer": "Software Analysis and Validation"
-                        },
-                        {
-                            "question": "The laboratory is particularly important for security of which systems?",
-                            "options": [
-                                "Drones",
-                                "Submarines",
-                                "Railways",
-                                "Satellites"
-                            ],
-                            "answer": "Drones"
-                        },
-                        {
-                            "question": "AASHVAST has been established at the headquarters of which organisation?",
-                            "options": [
-                                "DG EME",
-                                "DRDO",
-                                "ISRO",
-                                "DGAQA"
-                            ],
-                            "answer": "DG EME"
+                            "answer": "English"
                         }
                     ]
                 },
                 {
                     "category": "Food Security",
                     "title": "DFPD and FCI Sign MoU for Modernisation of Foodgrain Management",
-                    "summary": "The Department of Food and Public Distribution and the Food Corporation of India have signed an MoU aimed at strengthening modernisation, efficiency, technology and accountability in foodgrain management. The initiative focuses on improving systems associated with foodgrain storage and distribution.",
-                    "sourceName": "Press Information Bureau",
-                    "sourceUrl": "https://www.pib.gov.in/",
+                    "summary": "The Department of Food and Public Distribution and the Food Corporation of India signed an MoU for 2026-27 to improve operational efficiency, accountability and modernisation in foodgrain management. The agreement focuses on storage, logistics, quality control, technology adoption and reduction of storage losses.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
                     "staticGK": [
                         "Organisations : DFPD and FCI",
                         "Full Form FCI : Food Corporation of India",
+                        "Financial Year : 2026-27",
                         "Sector : Foodgrain Management",
-                        "Focus : Modernisation",
-                        "Key Areas : Efficiency, Technology and Accountability",
-                        "Ministry : Ministry of Consumer Affairs, Food and Public Distribution"
+                        "Focus : Storage, Logistics and Quality Control",
+                        "FCI Headquarters : New Delhi"
                     ],
                     "mcqs": [
                         {
@@ -6625,40 +6424,308 @@
                             "answer": "Foodgrain Management"
                         },
                         {
-                            "question": "Which of the following is a key focus of the MoU?",
+                            "question": "Which area is covered under the MoU?",
                             "options": [
-                                "Technology and Accountability",
+                                "Storage and Logistics",
                                 "Defence Procurement",
                                 "Space Exploration",
                                 "Tourism Promotion"
                             ],
-                            "answer": "Technology and Accountability"
+                            "answer": "Storage and Logistics"
                         },
                         {
-                            "question": "FCI works under which Union ministry?",
+                            "question": "Where is the headquarters of FCI?",
                             "options": [
-                                "Ministry of Consumer Affairs, Food and Public Distribution",
-                                "Ministry of Agriculture and Farmers Welfare",
-                                "Ministry of Rural Development",
-                                "Ministry of Finance"
+                                "New Delhi",
+                                "Mumbai",
+                                "Lucknow",
+                                "Hyderabad"
                             ],
-                            "answer": "Ministry of Consumer Affairs, Food and Public Distribution"
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence Technology",
+                    "title": "Indian Army Sets Up AASHVAST Lab in New Delhi for Drone Security",
+                    "summary": "The Indian Army has established the AASHVAST laboratory at the Directorate General of Electronics and Mechanical Engineering headquarters in New Delhi. The facility is designed to analyse electronic systems, identify vulnerabilities and help detect potentially suspicious components in unmanned systems such as drones.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
+                    "staticGK": [
+                        "Laboratory : AASHVAST",
+                        "Full Form : Assessment and Analysis of Electronic Systems Hardware for Vulnerabilities and Security Threats",
+                        "Organisation : Indian Army",
+                        "Location : New Delhi",
+                        "Headquarters : DG EME",
+                        "Focus : Drone and Electronic System Security"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation established the AASHVAST laboratory?",
+                            "options": [
+                                "Indian Army",
+                                "Indian Air Force",
+                                "DRDO",
+                                "Indian Navy"
+                            ],
+                            "answer": "Indian Army"
+                        },
+                        {
+                            "question": "Where is the AASHVAST laboratory located?",
+                            "options": [
+                                "New Delhi",
+                                "Bengaluru",
+                                "Hyderabad",
+                                "Pune"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "AASHVAST is mainly related to which area?",
+                            "options": [
+                                "Electronic System Security",
+                                "Satellite Launch",
+                                "Naval Training",
+                                "Medical Research"
+                            ],
+                            "answer": "Electronic System Security"
+                        },
+                        {
+                            "question": "The laboratory is particularly important for examining which systems?",
+                            "options": [
+                                "Drones",
+                                "Submarines",
+                                "Railways",
+                                "Satellites"
+                            ],
+                            "answer": "Drones"
+                        },
+                        {
+                            "question": "AASHVAST was established at the headquarters of which organisation?",
+                            "options": [
+                                "DG EME",
+                                "DRDO",
+                                "ISRO",
+                                "DGAQA"
+                            ],
+                            "answer": "DG EME"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Finance",
+                    "title": "RBI Grants Regulatory Approvals to RNFI Services and Other Financial Entities",
+                    "summary": "The Reserve Bank of India granted regulatory approvals to several financial entities in September 2026. RNFI Services received in-principle authorisation to operate as a Payment Aggregator-Physical, while PB Pay received authorisation to commence commercial operations as a Payment Aggregator. RBI also approved ICICI Prudential Asset Management Company's proposed acquisition of up to 9.95 percent in CSB Bank.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
+                    "staticGK": [
+                        "Regulator : Reserve Bank of India",
+                        "RNFI Approval : Payment Aggregator-Physical",
+                        "PB Pay : Payment Aggregator",
+                        "CSB Bank Stake : Up to 9.95%",
+                        "Acquirer : ICICI Prudential Asset Management Company",
+                        "Law : Payment and Settlement Systems Act, 2007"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution granted the regulatory approvals?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NABARD",
+                                "IRDAI"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "RNFI Services received in-principle authorisation as which type of entity?",
+                            "options": [
+                                "Payment Aggregator-Physical",
+                                "Payment Bank",
+                                "Small Finance Bank",
+                                "Insurance Broker"
+                            ],
+                            "answer": "Payment Aggregator-Physical"
+                        },
+                        {
+                            "question": "PB Pay received authorisation to operate as a?",
+                            "options": [
+                                "Payment Aggregator",
+                                "Payment Bank",
+                                "Credit Rating Agency",
+                                "Stock Exchange"
+                            ],
+                            "answer": "Payment Aggregator"
+                        },
+                        {
+                            "question": "Up to what percentage of CSB Bank can ICICI Prudential AMC acquire?",
+                            "options": [
+                                "9.95%",
+                                "5.95%",
+                                "12.95%",
+                                "15.95%"
+                            ],
+                            "answer": "9.95%"
+                        },
+                        {
+                            "question": "Which law regulates payment systems in India?",
+                            "options": [
+                                "Payment and Settlement Systems Act, 2007",
+                                "Banking Regulation Act, 1949",
+                                "Companies Act, 2013",
+                                "SEBI Act, 1992"
+                            ],
+                            "answer": "Payment and Settlement Systems Act, 2007"
+                        }
+                    ]
+                },
+                {
+                    "category": "Financial Technology",
+                    "title": "Niyo Gets GIFT City Licence to Expand Cross-Border Financial Services",
+                    "summary": "Fintech platform Niyo received a Payment Service Provider licence from the International Financial Services Centres Authority to operate from GIFT City in Gandhinagar, Gujarat. The licence will allow Niyo to expand its services beyond travel foreign exchange into areas such as international education, overseas employment and cross-border financial transactions.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
+                    "staticGK": [
+                        "Company : Niyo",
+                        "Licence : Payment Service Provider",
+                        "Regulator : IFSCA",
+                        "Location : GIFT City, Gandhinagar",
+                        "Headquarters : Bengaluru",
+                        "Focus : Cross-Border Financial Services"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which fintech platform received a PSP licence from IFSCA?",
+                            "options": [
+                                "Niyo",
+                                "Razorpay",
+                                "Paytm",
+                                "PhonePe"
+                            ],
+                            "answer": "Niyo"
+                        },
+                        {
+                            "question": "Which organisation granted the licence?",
+                            "options": [
+                                "IFSCA",
+                                "RBI",
+                                "SEBI",
+                                "IRDAI"
+                            ],
+                            "answer": "IFSCA"
+                        },
+                        {
+                            "question": "Where will Niyo operate under the new licence?",
+                            "options": [
+                                "GIFT City",
+                                "Noida",
+                                "Mumbai",
+                                "Hyderabad"
+                            ],
+                            "answer": "GIFT City"
+                        },
+                        {
+                            "question": "GIFT City is located in which state?",
+                            "options": [
+                                "Gujarat",
+                                "Maharashtra",
+                                "Rajasthan",
+                                "Karnataka"
+                            ],
+                            "answer": "Gujarat"
+                        },
+                        {
+                            "question": "The licence will help Niyo expand into which area?",
+                            "options": [
+                                "Cross-Border Financial Services",
+                                "Railway Services",
+                                "Defence Manufacturing",
+                                "Agricultural Equipment"
+                            ],
+                            "answer": "Cross-Border Financial Services"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Industry",
+                    "title": "Jindal Stainless Signs Technical Assistance Agreement with Japan's JFE Steel",
+                    "summary": "Jindal Stainless Limited signed a Technical Assistance Agreement with Japan's JFE Steel Corporation to strengthen its manufacturing capabilities for selected ferritic stainless steel grades. The collaboration aims to improve product quality, process efficiency and manufacturing practices for value-added stainless steel applications.",
+                    "sourceName": "AffairsCloud",
+                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
+                    "staticGK": [
+                        "Indian Company : Jindal Stainless Limited",
+                        "Japanese Company : JFE Steel Corporation",
+                        "Agreement : Technical Assistance Agreement",
+                        "Product : Ferritic Stainless Steel",
+                        "Sector : Steel Manufacturing",
+                        "Applications : Automotive, Railways and Industrial Equipment"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian company signed the Technical Assistance Agreement?",
+                            "options": [
+                                "Jindal Stainless Limited",
+                                "Tata Steel",
+                                "SAIL",
+                                "JSW Steel"
+                            ],
+                            "answer": "Jindal Stainless Limited"
+                        },
+                        {
+                            "question": "Which Japanese company signed the agreement?",
+                            "options": [
+                                "JFE Steel Corporation",
+                                "Toyota",
+                                "Mitsubishi",
+                                "Nippon Motors"
+                            ],
+                            "answer": "JFE Steel Corporation"
+                        },
+                        {
+                            "question": "The agreement focuses on which type of steel?",
+                            "options": [
+                                "Ferritic Stainless Steel",
+                                "Carbon Steel",
+                                "Tool Steel",
+                                "Cast Iron"
+                            ],
+                            "answer": "Ferritic Stainless Steel"
+                        },
+                        {
+                            "question": "The collaboration aims to improve which area?",
+                            "options": [
+                                "Product Quality and Process Efficiency",
+                                "Tourism",
+                                "Banking Services",
+                                "Defence Recruitment"
+                            ],
+                            "answer": "Product Quality and Process Efficiency"
+                        },
+                        {
+                            "question": "Which country is JFE Steel from?",
+                            "options": [
+                                "Japan",
+                                "South Korea",
+                                "Germany",
+                                "France"
+                            ],
+                            "answer": "Japan"
                         }
                     ]
                 },
                 {
                     "category": "Science & Technology",
                     "title": "GalaxEye Becomes First Indian Startup to Secure US Patent for Satellite Imaging Technology",
-                    "summary": "Indian space technology startup GalaxEye has secured a US patent related to its satellite imaging technology. The development highlights the growing role of Indian private space startups in advanced Earth observation and satellite-based imaging technologies.",
+                    "summary": "Bengaluru-based space technology startup GalaxEye secured a US patent for the core technology behind its OptoSAR imaging system. The technology combines optical and Synthetic Aperture Radar sensors for coordinated satellite imaging and has applications in agriculture, infrastructure, disaster management, maritime intelligence and national security.",
                     "sourceName": "AffairsCloud",
                     "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
                     "staticGK": [
                         "Startup : GalaxEye",
-                        "Country : India",
-                        "Achievement : US Patent",
-                        "Sector : Space Technology",
-                        "Technology : Satellite Imaging",
-                        "Application : Earth Observation"
+                        "Headquarters : Bengaluru, Karnataka",
+                        "Patent : United States Patent",
+                        "Technology : OptoSAR",
+                        "Full Form : Optical Synthetic Aperture Radar",
+                        "Sector : Space Technology"
                     ],
                     "mcqs": [
                         {
@@ -6666,251 +6733,184 @@
                             "options": [
                                 "GalaxEye",
                                 "Pixxel",
-                                "Agnikul Cosmos",
-                                "Skyroot Aerospace"
+                                "Skyroot Aerospace",
+                                "Agnikul Cosmos"
                             ],
                             "answer": "GalaxEye"
                         },
                         {
-                            "question": "GalaxEye operates primarily in which sector?",
+                            "question": "GalaxEye is based in which city?",
                             "options": [
-                                "Space Technology",
-                                "Banking Technology",
-                                "Agricultural Technology",
-                                "Defence Manufacturing"
+                                "Bengaluru",
+                                "Hyderabad",
+                                "Mumbai",
+                                "Ahmedabad"
                             ],
-                            "answer": "Space Technology"
+                            "answer": "Bengaluru"
                         },
                         {
-                            "question": "The patent is related to which technology?",
+                            "question": "What is the name of GalaxEye's imaging technology?",
                             "options": [
-                                "Satellite Imaging",
-                                "Quantum Computing",
-                                "Electric Vehicles",
-                                "Drone Manufacturing"
+                                "OptoSAR",
+                                "NavIC",
+                                "GAGAN",
+                                "RISAT"
                             ],
-                            "answer": "Satellite Imaging"
+                            "answer": "OptoSAR"
                         },
                         {
-                            "question": "Which country granted the patent mentioned in the news?",
+                            "question": "What does SAR stand for?",
                             "options": [
-                                "United States",
-                                "Japan",
-                                "France",
-                                "Germany"
+                                "Synthetic Aperture Radar",
+                                "Satellite Aperture Receiver",
+                                "Space Analysis Radar",
+                                "Synthetic Aviation Radar"
                             ],
-                            "answer": "United States"
+                            "answer": "Synthetic Aperture Radar"
                         },
                         {
-                            "question": "Satellite imaging is especially useful for?",
+                            "question": "Satellite imaging technology can be used for which of the following?",
                             "options": [
-                                "Earth Observation",
+                                "Disaster Management",
                                 "Currency Printing",
                                 "Railway Ticketing",
-                                "Banking Transactions"
+                                "Bank Account Opening"
                             ],
-                            "answer": "Earth Observation"
+                            "answer": "Disaster Management"
                         }
                     ]
                 },
                 {
-                    "category": "Environment",
-                    "title": "New Lichen Species Buellia maharajensis Discovered in Kerala",
-                    "summary": "Researchers from Maharaja's College, Kerala Forest Research Institute and CSIR-National Botanical Research Institute discovered a new lichen species named Buellia maharajensis in Mathikettan Shola National Park of Kerala. The species was recorded at an altitude of around 1,351 metres and highlights the rich biodiversity of the Western Ghats.",
+                    "category": "Industry & Mining",
+                    "title": "NALCO and EGA Sign Agreement for Aluminium Smelter Expansion in Odisha",
+                    "summary": "National Aluminium Company Limited and Emirates Global Aluminium signed a technology licensing agreement for expansion of NALCO's aluminium smelter at Angul, Odisha. The project will use EGA's DX+ Ultra technology and is expected to add around 0.5 million tonnes per annum to NALCO's production capacity.",
                     "sourceName": "AffairsCloud",
                     "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
                     "staticGK": [
-                        "Species : Buellia maharajensis",
-                        "State : Kerala",
-                        "Location : Mathikettan Shola National Park",
-                        "District : Idukki",
-                        "Altitude : Around 1,351 Metres",
-                        "Family : Caliciaceae"
+                        "Indian Company : NALCO",
+                        "Foreign Partner : Emirates Global Aluminium",
+                        "Technology : DX+ Ultra",
+                        "Location : Angul, Odisha",
+                        "Additional Capacity : 0.5 MTPA",
+                        "Expected Total Capacity : Around 1 MTPA"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which new lichen species was discovered in Kerala?",
+                            "question": "Which Indian company signed the technology licensing agreement with EGA?",
                             "options": [
-                                "Buellia maharajensis",
-                                "Buellia keralaensis",
-                                "Buellia indica",
-                                "Buellia sholaensis"
+                                "NALCO",
+                                "SAIL",
+                                "Hindalco",
+                                "NMDC"
                             ],
-                            "answer": "Buellia maharajensis"
+                            "answer": "NALCO"
                         },
                         {
-                            "question": "In which state was the new lichen species discovered?",
+                            "question": "EGA stands for?",
                             "options": [
-                                "Kerala",
-                                "Tamil Nadu",
-                                "Karnataka",
-                                "Odisha"
+                                "Emirates Global Aluminium",
+                                "Eastern Global Aluminium",
+                                "Emirates Green Aluminium",
+                                "Energy Global Aluminium"
                             ],
-                            "answer": "Kerala"
+                            "answer": "Emirates Global Aluminium"
                         },
                         {
-                            "question": "Where was Buellia maharajensis discovered?",
+                            "question": "Where is the aluminium smelter expansion located?",
                             "options": [
-                                "Mathikettan Shola National Park",
-                                "Silent Valley National Park",
-                                "Periyar National Park",
-                                "Eravikulam National Park"
+                                "Angul, Odisha",
+                                "Bhubaneswar, Odisha",
+                                "Visakhapatnam, Andhra Pradesh",
+                                "Ranchi, Jharkhand"
                             ],
-                            "answer": "Mathikettan Shola National Park"
+                            "answer": "Angul, Odisha"
                         },
                         {
-                            "question": "Mathikettan Shola National Park is located in which district?",
+                            "question": "Which technology will be used for the expansion?",
                             "options": [
-                                "Idukki",
-                                "Kochi",
-                                "Wayanad",
-                                "Kollam"
+                                "DX+ Ultra",
+                                "OptoSAR",
+                                "GaN SSPA",
+                                "UPI"
                             ],
-                            "answer": "Idukki"
+                            "answer": "DX+ Ultra"
                         },
                         {
-                            "question": "Buellia maharajensis belongs to which family?",
+                            "question": "How much additional aluminium production capacity is expected?",
                             "options": [
-                                "Caliciaceae",
-                                "Parmeliaceae",
-                                "Cladoniaceae",
-                                "Usneaceae"
+                                "0.5 MTPA",
+                                "1.5 MTPA",
+                                "2 MTPA",
+                                "0.25 MTPA"
                             ],
-                            "answer": "Caliciaceae"
+                            "answer": "0.5 MTPA"
                         }
                     ]
                 },
                 {
-                    "category": "Sports",
-                    "title": "India Finishes Fourth at Pickleball World Cup 2026",
-                    "summary": "India finished fourth at the Pickleball World Cup 2026 held in Da Nang, Vietnam. The Indian contingent won 41 medals, including 7 gold, 17 silver and 17 bronze medals. India improved from its seventh-place finish in the previous edition.",
+                    "category": "Appointments",
+                    "title": "Vinai Kumar Saxena Gets Additional Charge as Lieutenant Governor of Jammu & Kashmir",
+                    "summary": "President Droupadi Murmu appointed Ladakh Lieutenant Governor Vinai Kumar Saxena to discharge the functions of the Lieutenant Governor of Jammu and Kashmir in addition to his existing responsibilities. The arrangement is for the period during which incumbent Lieutenant Governor Manoj Sinha is on leave.",
                     "sourceName": "AffairsCloud",
                     "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
                     "staticGK": [
-                        "Event : Pickleball World Cup 2026",
-                        "Venue : Da Nang, Vietnam",
-                        "India's Rank : 4th",
-                        "Total Medals : 41",
-                        "Gold Medals : 7",
-                        "Silver/Bronze : 17 Silver and 17 Bronze"
+                        "Officer : Vinai Kumar Saxena",
+                        "Existing Position : Lieutenant Governor of Ladakh",
+                        "Additional Charge : Lieutenant Governor of Jammu and Kashmir",
+                        "Appointed By : President Droupadi Murmu",
+                        "Incumbent J&K LG : Manoj Sinha",
+                        "Purpose : Administrative Continuity"
                     ],
                     "mcqs": [
                         {
-                            "question": "What position did India secure at the Pickleball World Cup 2026?",
+                            "question": "Who received additional charge as Lieutenant Governor of Jammu and Kashmir?",
                             "options": [
-                                "Fourth",
-                                "Third",
-                                "Fifth",
-                                "Seventh"
+                                "Vinai Kumar Saxena",
+                                "Manoj Sinha",
+                                "R. K. Mathur",
+                                "Kavinder Gupta"
                             ],
-                            "answer": "Fourth"
+                            "answer": "Vinai Kumar Saxena"
                         },
                         {
-                            "question": "Where was the Pickleball World Cup 2026 held?",
+                            "question": "Vinai Kumar Saxena is the Lieutenant Governor of which Union Territory?",
                             "options": [
-                                "Da Nang, Vietnam",
-                                "Tokyo, Japan",
-                                "Seoul, South Korea",
-                                "Bangkok, Thailand"
+                                "Ladakh",
+                                "Jammu and Kashmir",
+                                "Delhi",
+                                "Puducherry"
                             ],
-                            "answer": "Da Nang, Vietnam"
+                            "answer": "Ladakh"
                         },
                         {
-                            "question": "How many medals did India win in total?",
+                            "question": "Who appointed Vinai Kumar Saxena to the additional charge?",
                             "options": [
-                                "41",
-                                "31",
-                                "51",
-                                "21"
+                                "President Droupadi Murmu",
+                                "Prime Minister Narendra Modi",
+                                "Home Minister Amit Shah",
+                                "Chief Justice of India"
                             ],
-                            "answer": "41"
+                            "answer": "President Droupadi Murmu"
                         },
                         {
-                            "question": "How many gold medals did India win?",
+                            "question": "Who is the incumbent Lieutenant Governor of Jammu and Kashmir?",
                             "options": [
-                                "7",
-                                "9",
-                                "5",
-                                "11"
+                                "Manoj Sinha",
+                                "Vinai Kumar Saxena",
+                                "R. K. Mathur",
+                                "Girish Chandra Murmu"
                             ],
-                            "answer": "7"
+                            "answer": "Manoj Sinha"
                         },
                         {
-                            "question": "Which country topped the Pickleball World Cup 2026 standings?",
+                            "question": "Why was the additional charge given to Vinai Kumar Saxena?",
                             "options": [
-                                "Vietnam",
-                                "India",
-                                "USA",
-                                "South Korea"
+                                "To ensure administrative continuity",
+                                "For conducting elections",
+                                "For defence operations",
+                                "For economic reforms"
                             ],
-                            "answer": "Vietnam"
-                        }
-                    ]
-                },
-                {
-                    "category": "Defence",
-                    "title": "DRDO Launches SHIELD Programme for Microwave Defence Testing",
-                    "summary": "The Defence Research and Development Organisation has launched the SHIELD programme under its Technology Development Fund to support microwave defence testing and industry-led innovation. The programme aims to test the vulnerability of electronic systems against high-power microwave attacks and strengthen India's defence technology capabilities.",
-                    "sourceName": "AffairsCloud",
-                    "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/",
-                    "staticGK": [
-                        "Programme : SHIELD",
-                        "Organisation : DRDO",
-                        "Funding Framework : Technology Development Fund",
-                        "Focus : Microwave Defence Testing",
-                        "Technology : Gallium Nitride-based SSPA",
-                        "Objective : Electronic System Vulnerability Testing"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which organisation launched the SHIELD programme?",
-                            "options": [
-                                "DRDO",
-                                "ISRO",
-                                "Indian Army",
-                                "HAL"
-                            ],
-                            "answer": "DRDO"
-                        },
-                        {
-                            "question": "SHIELD is related to which area?",
-                            "options": [
-                                "Microwave Defence Testing",
-                                "Space Tourism",
-                                "Agricultural Research",
-                                "Railway Safety"
-                            ],
-                            "answer": "Microwave Defence Testing"
-                        },
-                        {
-                            "question": "Under which framework is the SHIELD programme being undertaken?",
-                            "options": [
-                                "Technology Development Fund",
-                                "Startup India",
-                                "Make in India Fund",
-                                "Defence Production Fund"
-                            ],
-                            "answer": "Technology Development Fund"
-                        },
-                        {
-                            "question": "What is the primary purpose of SHIELD?",
-                            "options": [
-                                "Testing vulnerability of electronic systems",
-                                "Building fighter aircraft",
-                                "Launching satellites",
-                                "Developing naval ships"
-                            ],
-                            "answer": "Testing vulnerability of electronic systems"
-                        },
-                        {
-                            "question": "Which semiconductor technology is used in the SHIELD platform?",
-                            "options": [
-                                "Gallium Nitride",
-                                "Silicon Carbide only",
-                                "Germanium",
-                                "Graphene"
-                            ],
-                            "answer": "Gallium Nitride"
+                            "answer": "To ensure administrative continuity"
                         }
                     ]
                 }
