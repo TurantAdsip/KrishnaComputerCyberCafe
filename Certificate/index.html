@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>KrishnaPrep Quiz - Daily, Weekly & Monthly Quiz</title>
+
+    <meta name="description"
+        content="Practice Daily, Weekly and Monthly quizzes on KrishnaPrep. Test your knowledge and earn certificates based on your performance.">
+
+    <meta name="keywords"
+        content="KrishnaPrep Quiz, Daily Quiz, Weekly Quiz, Monthly Quiz, Government Exam Quiz, GK Quiz, Competitive Exam Quiz">
+    <meta name="description" content="Latest Government Exams, Results, Admit Card, Current Affairs and Jobs">
+    <meta name="keywords" content="Government Jobs, SSC, UPSC, Railway, Result, Admit Card">
+    <meta name="author" content="Exam Portal">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <meta name="author" content="KrishnaPrep">
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/moti.css">
+
+</head>
+
+<body>
+
+
+    <!-- ================= HEADER ================= -->
+
+    <header>
+
+        <a href="../index.html" class="logo">
+            Krishna<span>Prep</span>
+        </a>
+
+        <button class="menu-toggle" id="menuToggle" aria-label="Open Menu">
+            ☰
+        </button>
+
+
+        <nav id="mainMenu">
+
+
+            <a href="../index.html">
+                Home
+            </a>
+
+            <a href="quize/daily-quiz.html">
+                Daily Quiz
+            </a>
+
+            <a href="quize/weekly-quiz.html">
+                Weekly Quiz
+            </a>
+
+            <a href="quize/monthly-quiz.html">
+                Monthly Quiz
+            </a>
+
+            <!-- <a href="verify-certificate.html">
+                Dashboard
+            </a> -->
+
+        </nav>
+
+    </header>
+
+
+    <!-- ================= HERO ================= -->
+
+    <section class="Zero">
+
+        <h1>
+            Krishna<span>Prep</span> Quiz
+        </h1>
+
+        <p>
+            <!-- KrishnaPrep Quiz -->
+            Practice Today. Improve Tomorrow. Achieve Your Goal.
+
+            Success in competitive exams comes from consistent practice and regular self-assessment. KrishnaPrep Quizzes
+            are designed to help you test your knowledge, improve accuracy, identify weak areas, and build confidence
+            for your exam preparation.
+
+            Choose from <span>Daily, Weekly and Monthly Quizzes</span>, attempt questions at your own pace, check your score and
+            track your progress. <span>Keep practicing, keep improving, and move one step closer to your goal.</span>
+        </p>
+
+        <!-- <div class="hero-buttons">
+
+            <a href="quize/daily-quiz.html" class="hero-btn">
+                Start Daily Quiz
+            </a>
+
+        </div> -->
+
+    </section>
+
+
+    <!-- ================= QUIZ SECTION ================= -->
+
+    <section class="quiz-section">
+
+        <div class="section-title">
+
+            <h2>
+                Choose Your Quiz
+            </h2>
+
+            <p>
+                Practice regularly and improve your exam preparation.
+            </p>
+
+        </div>
+
+
+        <div class="quiz-grid">
+
+
+            <!-- DAILY -->
+
+            <div class="quiz-card">
+
+                <div class="quiz-icon">
+                    D
+                </div>
+
+                <h3>
+                    Daily Quiz
+                </h3>
+
+                <p>
+                    Practice important questions every day
+                    and build your knowledge consistently.
+                </p>
+
+                <div class="quiz-info">
+
+                    <strong>Questions</strong>
+
+                    <br>
+
+                    Daily Practice
+
+                </div>
+
+                <a href="quize/daily-quiz.html" class="quiz-btn">
+                    Start Daily Quiz
+                </a>
+
+            </div>
+
+
+            <!-- WEEKLY -->
+
+            <div class="quiz-card">
+
+                <div class="quiz-icon">
+                    W
+                </div>
+
+                <h3>
+                    Weekly Quiz
+                </h3>
+
+                <p>
+                    Take a weekly examination and test
+                    your preparation level.
+                </p>
+
+                <div class="quiz-info">
+
+                    <strong>6 Questions</strong>
+
+                    <br>
+
+                    Certificate Eligibility
+
+                </div>
+
+                <a href="quize/weekly-quiz.html" class="quiz-btn">
+                    Start Weekly Quiz
+                </a>
+
+            </div>
+
+
+            <!-- MONTHLY -->
+
+            <div class="quiz-card">
+
+                <div class="quiz-icon">
+                    M
+                </div>
+
+                <h3>
+                    Monthly Quiz
+                </h3>
+
+                <p>
+                    Attempt the monthly examination and
+                    evaluate your overall preparation.
+                </p>
+
+                <div class="quiz-info">
+
+                    <strong>7 Questions</strong>
+
+                    <br>
+
+                    Certificate Eligibility
+
+                </div>
+
+                <a href="quize/monthly-quiz.html" class="quiz-btn">
+                    Start Monthly Quiz
+                </a>
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= DAILY TOP 3 ================= -->
+
+    <section class="top-scorers">
+
+        <div class="section-title">
+            <h2>🏆 Daily Top 3 Scorers</h2>
+            <p>Our best performers in the Daily quiz</p>
+        </div>
+
+        <div class="top-scorers-grid" id="dailyTopScorers">
+
+            <div class="scorer-card loading-card">
+                Loading Daily Top Scorers...
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= WEEKLY TOP 3 ================= -->
+
+    <section class="top-scorers">
+
+        <div class="section-title">
+            <h2>🏆 Weekly Top 3 Scorers</h2>
+            <p>Our best performers in the Weekly quiz</p>
+        </div>
+
+        <div class="top-scorers-grid" id="weeklyTopScorers">
+
+            <div class="scorer-card loading-card">
+                Loading Weekly Top Scorers...
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= MONTHLY TOP 3 ================= -->
+
+    <section class="top-scorers">
+
+        <div class="section-title">
+            <h2>🏆 Monthly Top 3 Scorers</h2>
+            <p>Our best performers in the Monthly quiz</p>
+        </div>
+
+        <div class="top-scorers-grid" id="monthlyTopScorers">
+
+            <div class="scorer-card loading-card">
+                Loading Monthly Top Scorers...
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= CERTIFICATE ================= -->
+    <!-- 
+    <section class="certificate-section">
+
+        <h2>
+            Earn Your Certificate
+        </h2>
+
+        <p>
+            Complete eligible quizzes and earn a
+            KrishnaPrep certificate based on your performance.
+            Every certificate can be assigned a unique
+            certificate ID and verified online.
+        </p>
+
+        <div class="certificate-buttons">
+
+            <a href="my-certificates.html" class="certificate-btn">
+                My Certificates
+            </a>
+
+            <a href="verify-certificate.html" class="certificate-btn">
+                Verify Certificate
+            </a>
+
+        </div>
+
+    </section> -->
+
+
+    <!-- ================= FEATURES ================= -->
+
+    <section class="features">
+
+        <div class="section-title">
+
+            <h2>
+                Why Take KrishnaPrep Quizzes?
+            </h2>
+
+        </div>
+
+
+        <div class="feature-grid">
+
+
+            <div class="feature">
+
+                <div style="font-size:30px;">
+                    ✓
+                </div>
+
+                <h3>
+                    Regular Practice
+                </h3>
+
+                <p>
+                    Practice questions regularly
+                    to improve your preparation.
+                </p>
+
+            </div>
+
+
+            <div class="feature">
+
+                <div style="font-size:30px;">
+                    ★
+                </div>
+
+                <h3>
+                    Performance
+                </h3>
+
+                <p>
+                    Check your score and understand
+                    your performance.
+                </p>
+
+            </div>
+
+
+            <!-- <div class="feature">
+
+                <div style="font-size:30px;">
+                    C
+                </div>
+
+                <h3>
+                    Certificates
+                </h3>
+
+                <p>
+                    Eligible students can receive
+                    performance-based certificates.
+                </p>
+
+            </div> -->
+
+
+            <div class="feature">
+
+                <div style="font-size:30px;">
+                    QR
+                </div>
+
+                <h3>
+                    Verification
+                </h3>
+
+                <p>
+                    Certificates can be verified
+                    online using their certificate ID.
+                </p>
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <div id="footer"></div>
+
+    <script src="../js/include.js"></script>
+
+    <script>
+        const menuToggle = document.getElementById("menuToggle");
+        const mainMenu = document.getElementById("mainMenu");
+
+        if (menuToggle && mainMenu) {
+
+            menuToggle.addEventListener("click", function () {
+
+                mainMenu.classList.toggle("active");
+
+                if (mainMenu.classList.contains("active")) {
+                    menuToggle.innerHTML = "×";
+                    menuToggle.setAttribute("aria-label", "Close Menu");
+                } else {
+                    menuToggle.innerHTML = "☰";
+                    menuToggle.setAttribute("aria-label", "Open Menu");
+                }
+
+            });
+
+            mainMenu.querySelectorAll("a").forEach(function (link) {
+
+                link.addEventListener("click", function () {
+                    mainMenu.classList.remove("active");
+                    menuToggle.innerHTML = "☰";
+                    menuToggle.setAttribute("aria-label", "Open Menu");
+                });
+
+            });
+        }
+    </script>
+
+    <script>
+
+        /* =========================================================
+           TOP SCORERS API URL
+           ========================================================= */
+
+        const TOP_SCORERS_API =
+            "https://script.google.com/macros/s/AKfycbzy5dc0iAMMug8IhbSzZal08ILSbEro1UAtzk2SBtpco5dUpFsmq3K442vlQW8a3E8T/exec";
+
+
+        /* =========================================================
+           FIXED STUDENT PHOTOS
+           ========================================================= */
+
+        const scorerPhotos = {
+
+            1: "../images/top-scorers/student-1.jpg",
+
+            2: "../images/top-scorers/student-2.jpg",
+
+            3: "../images/top-scorers/student-3.jpg"
+
+        };
+
+
+        /* =========================================================
+           RANK EMOJIS
+           ========================================================= */
+
+        const rankIcons = {
+
+            1: "🥇",
+
+            2: "🥈",
+
+            3: "🥉"
+
+        };
+
+
+        /* =========================================================
+           LOAD TOP SCORERS
+           ========================================================= */
+
+        async function loadTopScorers(
+            quizType,
+            containerId
+        ) {
+
+            const container =
+                document.getElementById(containerId);
+
+
+            if (!container) {
+
+                console.error(
+                    "Container not found:",
+                    containerId
+                );
+
+                return;
+
+            }
+
+
+            try {
+
+                container.innerHTML = `
+            <div class="scorer-card loading-card">
+                Loading...
+            </div>
+        `;
+
+
+                const response =
+                    await fetch(
+                        TOP_SCORERS_API +
+                        "?topScorers=" +
+                        encodeURIComponent(quizType)
+                    );
+
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        "Network response failed."
+                    );
+
+                }
+
+
+                const data =
+                    await response.json();
+
+
+                console.log(
+                    quizType +
+                    " Top Scorers:",
+                    data
+                );
+
+
+                if (
+                    !data.success ||
+                    !Array.isArray(data.scorers)
+                ) {
+
+                    throw new Error(
+                        data.error ||
+                        "No scorer data found."
+                    );
+
+                }
+
+
+                if (data.scorers.length === 0) {
+
+                    container.innerHTML = `
+                <div class="scorer-card no-scorer">
+                    <p>No Top Scorers available yet.</p>
+                </div>
+            `;
+
+                    return;
+
+                }
+
+
+                renderTopScorers(
+                    data.scorers,
+                    container
+                );
+
+
+            } catch (error) {
+
+                console.error(
+                    "Top Scorers Error:",
+                    error
+                );
+
+
+                container.innerHTML = `
+            <div class="scorer-card error-card">
+                <p>Unable to load Top Scorers.</p>
+            </div>
+        `;
+
+            }
+
+        }
+
+
+        /* =========================================================
+           RENDER TOP SCORERS
+           ========================================================= */
+
+        function renderTopScorers(
+            scorers,
+            container
+        ) {
+
+            container.innerHTML = "";
+
+
+            scorers.forEach(
+                function (student, index) {
+
+
+                    const rank =
+                        index + 1;
+
+
+                    const name =
+                        escapeHTML(
+                            student.name ||
+                            "Student"
+                        );
+
+
+                    const score =
+                        Number(
+                            student.score
+                        ) || 0;
+
+
+                    const total =
+                        Number(
+                            student.total
+                        ) || 0;
+
+
+                    let percentage =
+                        Number(
+                            student.percentage
+                        ) || 0;
+                    const scorerCertificateId = escapeHTML(
+                        student.certificateId || "Not Available"
+                    );
+
+
+                    /*
+                     * Safety:
+                     * If percentage is greater than 100,
+                     * calculate it from Score / Total.
+                     */
+
+                    if (
+                        percentage > 100 &&
+                        total > 0
+                    ) {
+
+                        percentage =
+                            (score / total) * 100;
+
+                    }
+
+
+                    /*
+                     * If percentage is missing,
+                     * calculate it.
+                     */
+
+                    if (
+                        percentage <= 0 &&
+                        total > 0
+                    ) {
+
+                        percentage =
+                            (score / total) * 100;
+
+                    }
+
+
+                    percentage =
+                        Math.round(
+                            percentage * 100
+                        ) / 100;
+
+
+                    const card =
+                        document.createElement(
+                            "div"
+                        );
+
+
+                    card.className =
+                        "scorer-card" +
+                        (
+                            rank === 1
+                                ? " first"
+                                : ""
+                        );
+
+
+                    card.innerHTML = `
+
+                <div class="rank">
+                    ${rankIcons[rank] || "🏅"}
+                    Rank ${rank}
+                </div>
+
+                <img
+                    src="${scorerPhotos[rank]}"
+                    alt="Top Scorer ${rank}"
+                    class="scorer-photo"
+                    onerror="this.style.display='none';"
+                >
+
+                <h3>
+                    ${name}
+                </h3>
+
+                <div class="scorer-score">
+                    Score: ${score} / ${total}
+                </div>
+
+                <div class="scorer-percent">
+                    ${percentage}%
+                </div>
+
+               <div class="certificate-no">
+                     Certificate No.: ${scorerCertificateId}
+                </div>
+
+            `;
+
+
+                    container.appendChild(
+                        card
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* =========================================================
+           HTML SECURITY
+           ========================================================= */
+
+        function escapeHTML(value) {
+
+            return String(value)
+
+                .replace(
+                    /&/g,
+                    "&amp;"
+                )
+
+                .replace(
+                    /</g,
+                    "&lt;"
+                )
+
+                .replace(
+                    />/g,
+                    "&gt;"
+                )
+
+                .replace(
+                    /"/g,
+                    "&quot;"
+                )
+
+                .replace(
+                    /'/g,
+                    "&#039;"
+                );
+
+        }
+
+
+        /* =========================================================
+           LOAD ALL 3
+           ========================================================= */
+
+        document.addEventListener(
+            "DOMContentLoaded",
+            function () {
+
+                loadTopScorers(
+                    "daily",
+                    "dailyTopScorers"
+                );
+
+
+                loadTopScorers(
+                    "weekly",
+                    "weeklyTopScorers"
+                );
+
+
+                loadTopScorers(
+                    "monthly",
+                    "monthlyTopScorers"
+                );
+
+            }
+        );
+
+    </script>
+
+
+
+</body>
+
+</html>
