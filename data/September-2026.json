@@ -7593,6 +7593,684 @@
                     ]
                 }
             ]
+        },
+         {
+            "id": "2026-09-12",
+            "date": "12 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 12 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Affairs",
+                    "title": "18th BRICS Leaders' Summit Begins in New Delhi",
+                    "summary": "The 18th BRICS Leaders' Summit began in New Delhi on 12 September 2026 under India's BRICS chairship. The two-day summit is being held at Bharat Mandapam and brings together leaders and senior representatives from the expanded BRICS grouping. Major discussions are focused on global governance, economic cooperation, peace, security and strengthening cooperation among developing countries.",
+                    "sourceName": "Prime Minister of India",
+                    "sourceUrl": "https://www.narendramodi.in/brics_home",
+                    "staticGK": [
+                        "Event : 18th BRICS Leaders' Summit",
+                        "Host Country : India",
+                        "Host City : New Delhi",
+                        "Venue : Bharat Mandapam",
+                        "Dates : 12–13 September 2026",
+                        "India's Role : BRICS Chair 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the 18th BRICS Leaders' Summit being held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country is hosting the 18th BRICS Leaders' Summit?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Russia",
+                                "Brazil"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "What is the venue of the 18th BRICS Summit?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Rashtrapati Bhavan",
+                                "Vigyan Bhavan",
+                                "Pragati Maidan Hall 1"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        },
+                        {
+                            "question": "The 18th BRICS Summit is being held on which dates?",
+                            "options": [
+                                "12–13 September 2026",
+                                "11–12 September 2026",
+                                "13–14 September 2026",
+                                "15–16 September 2026"
+                            ],
+                            "answer": "12–13 September 2026"
+                        },
+                        {
+                            "question": "Which country holds the BRICS chairship in 2026?",
+                            "options": [
+                                "India",
+                                "Russia",
+                                "China",
+                                "South Africa"
+                            ],
+                            "answer": "India"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "Xi Jinping Arrives in India for BRICS Summit",
+                    "summary": "Chinese President Xi Jinping arrived in New Delhi on 12 September 2026 to participate in the 18th BRICS Leaders' Summit. His visit is significant as it is his first visit to India in seven years. Prime Minister Narendra Modi and Xi Jinping are expected to discuss the India-China relationship, border stability, trade and economic cooperation.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/xi-modi-talks-today-beijing-says-will-work-to-be-partners-helping-each-other-succeed-10874390/",
+                    "staticGK": [
+                        "Visitor : Xi Jinping",
+                        "Country : China",
+                        "Event : 18th BRICS Summit",
+                        "Host City : New Delhi",
+                        "First India Visit Since : 2019",
+                        "Key Issues : Border, Trade and Economic Relations"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who arrived in India on 12 September 2026 for the BRICS Summit?",
+                            "options": [
+                                "Xi Jinping",
+                                "Vladimir Putin",
+                                "Masoud Pezeshkian",
+                                "Cyril Ramaphosa"
+                            ],
+                            "answer": "Xi Jinping"
+                        },
+                        {
+                            "question": "Xi Jinping is the President of which country?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "Vietnam"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Xi Jinping's 2026 India visit is significant because it is his first visit in how many years?",
+                            "options": [
+                                "Seven years",
+                                "Five years",
+                                "Three years",
+                                "Ten years"
+                            ],
+                            "answer": "Seven years"
+                        },
+                        {
+                            "question": "Which Indian leader is expected to hold talks with Xi Jinping?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "S. Jaishankar"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Which issue is important in India-China relations?",
+                            "options": [
+                                "Border stability",
+                                "Only tourism",
+                                "Only sports",
+                                "Only cultural festivals"
+                            ],
+                            "answer": "Border stability"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "PM Modi and Vladimir Putin Discuss Strategic Partnership",
+                    "summary": "Prime Minister Narendra Modi and Russian President Vladimir Putin held bilateral discussions on the sidelines of the BRICS Summit. The leaders reviewed cooperation in defence, energy, trade, nuclear energy, critical minerals and other strategic sectors. India and Russia also discussed strengthening bilateral economic ties and expanding trade.",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/economy/foreign-trade/brics-2026-pm-modi-sits-down-with-putin-talks-100-bn-trade-by-2030-plan-to-deepen-defence-energy-nuclear-ties/articleshow/134086738.cms",
+                    "staticGK": [
+                        "Countries : India and Russia",
+                        "Indian Prime Minister : Narendra Modi",
+                        "Russian President : Vladimir Putin",
+                        "Key Areas : Defence, Energy and Trade",
+                        "Trade Target : US$100 Billion by 2030",
+                        "Other Focus : Nuclear Energy and Critical Minerals"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who held bilateral talks with PM Narendra Modi during the BRICS Summit?",
+                            "options": [
+                                "Vladimir Putin",
+                                "Xi Jinping",
+                                "Emmanuel Macron",
+                                "Friedrich Merz"
+                            ],
+                            "answer": "Vladimir Putin"
+                        },
+                        {
+                            "question": "Vladimir Putin is the President of which country?",
+                            "options": [
+                                "Russia",
+                                "Ukraine",
+                                "Belarus",
+                                "Kazakhstan"
+                            ],
+                            "answer": "Russia"
+                        },
+                        {
+                            "question": "India and Russia discussed increasing bilateral trade to which target by 2030?",
+                            "options": [
+                                "US$100 billion",
+                                "US$50 billion",
+                                "US$75 billion",
+                                "US$150 billion"
+                            ],
+                            "answer": "US$100 billion"
+                        },
+                        {
+                            "question": "Which sector was among the key areas discussed by Modi and Putin?",
+                            "options": [
+                                "Defence",
+                                "Only tourism",
+                                "Only agriculture",
+                                "Only cinema"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "Which mineral-related area was discussed by India and Russia?",
+                            "options": [
+                                "Critical minerals",
+                                "Only coal",
+                                "Only gold",
+                                "Only uranium imports"
+                            ],
+                            "answer": "Critical minerals"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Leaders Gather in New Delhi Amid Global Conflicts",
+                    "summary": "The expanded BRICS grouping began its summit in New Delhi amid major geopolitical tensions, including conflicts in West Asia and Ukraine. The 11-member grouping represents nearly half of the world's population and is increasingly important in discussions on global governance, economic cooperation and the interests of the Global South.",
+                    "sourceName": "Associated Press",
+                    "sourceUrl": "https://apnews.com/article/a79c5d6df774a9471743cef7d0080688",
+                    "staticGK": [
+                        "Group : BRICS",
+                        "Current Members : 11",
+                        "Host : India",
+                        "Summit Venue : Bharat Mandapam",
+                        "Major Issues : Global Conflicts and Economic Cooperation",
+                        "Global Role : Global South Cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many countries are currently members of the expanded BRICS grouping?",
+                            "options": [
+                                "11",
+                                "5",
+                                "8",
+                                "15"
+                            ],
+                            "answer": "11"
+                        },
+                        {
+                            "question": "Which country is hosting the 2026 BRICS Summit?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Brazil",
+                                "Russia"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "BRICS represents a major platform for cooperation among countries of which broader grouping?",
+                            "options": [
+                                "Global South",
+                                "European Union",
+                                "NATO",
+                                "G7"
+                            ],
+                            "answer": "Global South"
+                        },
+                        {
+                            "question": "Which major international conflict is among the issues affecting BRICS discussions?",
+                            "options": [
+                                "Ukraine conflict",
+                                "Only Korean conflict",
+                                "Only African Union disputes",
+                                "Only South American disputes"
+                            ],
+                            "answer": "Ukraine conflict"
+                        },
+                        {
+                            "question": "The 2026 BRICS Summit is being held in which city?",
+                            "options": [
+                                "New Delhi",
+                                "Moscow",
+                                "Beijing",
+                                "Brasilia"
+                            ],
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "PM Modi Holds Talks with Iranian President Masoud Pezeshkian",
+                    "summary": "Prime Minister Narendra Modi held bilateral discussions with Iranian President Masoud Pezeshkian around the BRICS Summit. The discussions covered bilateral relations, regional developments and the situation in West Asia. Iran's participation is significant as it is one of the newer members of the expanded BRICS grouping.",
+                    "sourceName": "Associated Press",
+                    "sourceUrl": "https://apnews.com/article/f7735ac233c7e8db8ac021c53a3eef8a",
+                    "staticGK": [
+                        "Countries : India and Iran",
+                        "Indian Prime Minister : Narendra Modi",
+                        "Iranian President : Masoud Pezeshkian",
+                        "Event : BRICS Summit 2026",
+                        "Focus : Bilateral Relations and Regional Stability",
+                        "Region : West Asia"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who held bilateral talks with PM Narendra Modi before the BRICS Summit?",
+                            "options": [
+                                "Masoud Pezeshkian",
+                                "Xi Jinping",
+                                "Vladimir Putin",
+                                "Cyril Ramaphosa"
+                            ],
+                            "answer": "Masoud Pezeshkian"
+                        },
+                        {
+                            "question": "Masoud Pezeshkian is the President of which country?",
+                            "options": [
+                                "Iran",
+                                "Iraq",
+                                "Syria",
+                                "Egypt"
+                            ],
+                            "answer": "Iran"
+                        },
+                        {
+                            "question": "India and Iran discussed developments in which region?",
+                            "options": [
+                                "West Asia",
+                                "Europe",
+                                "South America",
+                                "Central Asia"
+                            ],
+                            "answer": "West Asia"
+                        },
+                        {
+                            "question": "Iran is part of which grouping?",
+                            "options": [
+                                "BRICS",
+                                "G7",
+                                "NATO",
+                                "European Union"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "Who is the Prime Minister of India?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "S. Jaishankar"
+                            ],
+                            "answer": "Narendra Modi"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Security",
+                    "title": "India and Sri Lanka Sign Three Defence MoUs",
+                    "summary": "India and Sri Lanka signed three defence-related Memorandums of Understanding in Colombo covering air defence gun upgrades, cooperation between the National Cadet Corps and Sri Lankan counterparts, and academic exchange between India's National Defence College and Sri Lanka's defence institutions. The agreements aim to strengthen defence cooperation between the two countries.",
+                    "sourceName": "NISIT Current Affairs",
+                    "sourceUrl": "https://nisit.co.in/gk-and-current-affairs",
+                    "staticGK": [
+                        "Countries : India and Sri Lanka",
+                        "Agreements : Three Defence MoUs",
+                        "Location : Colombo",
+                        "Focus : Air Defence and Training",
+                        "Other Area : NCC Cooperation",
+                        "Academic Area : National Defence College Exchange"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India signed three defence MoUs with which country?",
+                            "options": [
+                                "Sri Lanka",
+                                "Nepal",
+                                "Bhutan",
+                                "Maldives"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "Where were the three defence MoUs signed?",
+                            "options": [
+                                "Colombo",
+                                "New Delhi",
+                                "Kandy",
+                                "Mumbai"
+                            ],
+                            "answer": "Colombo"
+                        },
+                        {
+                            "question": "The MoUs included cooperation related to which equipment?",
+                            "options": [
+                                "Air defence guns",
+                                "Submarines",
+                                "Aircraft carriers",
+                                "Helicopters only"
+                            ],
+                            "answer": "Air defence guns"
+                        },
+                        {
+                            "question": "Which Indian organisation is involved in one of the cooperation areas?",
+                            "options": [
+                                "National Cadet Corps",
+                                "NITI Aayog",
+                                "Election Commission",
+                                "SEBI"
+                            ],
+                            "answer": "National Cadet Corps"
+                        },
+                        {
+                            "question": "The agreements aim to strengthen which relationship?",
+                            "options": [
+                                "India-Sri Lanka defence cooperation",
+                                "India-France trade relations",
+                                "India-Japan sports relations",
+                                "India-US space relations"
+                            ],
+                            "answer": "India-Sri Lanka defence cooperation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Sheetal Devi Wins Individual Gold at World Archery Para Series",
+                    "summary": "Indian para archer Sheetal Devi won the compound women's individual gold medal at the Hyundai World Archery Para Series Stage 3 in Ahmedabad. She defeated Kazakhstan's Aizada Seidan in a dramatic shoot-off. The victory marked Sheetal Devi's first individual World Archery Para Series gold medal.",
+                    "sourceName": "World Archery",
+                    "sourceUrl": "https://www.worldarchery.sport/news/202610/sheetal-devi-wins-dramatic-shoot-first-individual-series-gold-ahmedabad",
+                    "staticGK": [
+                        "Athlete : Sheetal Devi",
+                        "Sport : Para Archery",
+                        "Event : Hyundai World Archery Para Series",
+                        "Stage : Stage 3",
+                        "Venue : Ahmedabad",
+                        "Medal : Individual Gold"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the compound women's individual gold medal in Ahmedabad?",
+                            "options": [
+                                "Sheetal Devi",
+                                "Sarita",
+                                "Aizada Seidan",
+                                "Bhawna"
+                            ],
+                            "answer": "Sheetal Devi"
+                        },
+                        {
+                            "question": "Sheetal Devi is associated with which sport?",
+                            "options": [
+                                "Para Archery",
+                                "Shooting",
+                                "Badminton",
+                                "Athletics"
+                            ],
+                            "answer": "Para Archery"
+                        },
+                        {
+                            "question": "Where was the World Archery Para Series Stage 3 held?",
+                            "options": [
+                                "Ahmedabad",
+                                "New Delhi",
+                                "Mumbai",
+                                "Jaipur"
+                            ],
+                            "answer": "Ahmedabad"
+                        },
+                        {
+                            "question": "Which medal did Sheetal Devi win in the individual compound event?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "No medal"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Sheetal Devi defeated which athlete in the shoot-off?",
+                            "options": [
+                                "Aizada Seidan",
+                                "Sarita",
+                                "Bhawna",
+                                "Liang Qiurong"
+                            ],
+                            "answer": "Aizada Seidan"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "UIDAI Launches Aadhaar Face Authentication SDK and Sandbox",
+                    "summary": "The Unique Identification Authority of India launched the Aadhaar Face Authentication SDK and Sandbox to support secure face-based authentication and e-KYC services. The technology includes AI-based liveness detection and is designed to help developers integrate Aadhaar face authentication into applications.",
+                    "sourceName": "NISIT Current Affairs",
+                    "sourceUrl": "https://nisit.co.in/gk-and-current-affairs",
+                    "staticGK": [
+                        "Organisation : UIDAI",
+                        "Technology : Aadhaar Face Authentication",
+                        "Tools : SDK and Sandbox",
+                        "Purpose : Face-based Authentication",
+                        "Use : e-KYC",
+                        "Technology : AI-based Liveness Detection"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation launched the Aadhaar Face Authentication SDK and Sandbox?",
+                            "options": [
+                                "UIDAI",
+                                "RBI",
+                                "SEBI",
+                                "NPCI"
+                            ],
+                            "answer": "UIDAI"
+                        },
+                        {
+                            "question": "What does the new technology primarily support?",
+                            "options": [
+                                "Face-based authentication",
+                                "Railway ticket booking",
+                                "Income tax filing only",
+                                "Passport printing"
+                            ],
+                            "answer": "Face-based authentication"
+                        },
+                        {
+                            "question": "Which service can benefit from Aadhaar face authentication?",
+                            "options": [
+                                "e-KYC",
+                                "Only railway reservations",
+                                "Only postal services",
+                                "Only driving tests"
+                            ],
+                            "answer": "e-KYC"
+                        },
+                        {
+                            "question": "Which technology is used for detecting whether a face is genuine and live?",
+                            "options": [
+                                "AI-based liveness detection",
+                                "GPS tracking",
+                                "Blockchain mining",
+                                "Satellite imaging"
+                            ],
+                            "answer": "AI-based liveness detection"
+                        },
+                        {
+                            "question": "UIDAI is associated with which identification system?",
+                            "options": [
+                                "Aadhaar",
+                                "PAN",
+                                "Passport",
+                                "Voter ID"
+                            ],
+                            "answer": "Aadhaar"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Affairs",
+                    "title": "Global Dryland Congress 2026 Begins in New Delhi",
+                    "summary": "The Global Dryland Congress 2026 began in New Delhi with a focus on improving dryland agriculture and strengthening international cooperation. The event is being organised with participation from agricultural research organisations including ICAR and ICRISAT, with emphasis on climate resilience, sustainable agriculture and South-South cooperation.",
+                    "sourceName": "NISIT Current Affairs",
+                    "sourceUrl": "https://nisit.co.in/gk-and-current-affairs",
+                    "staticGK": [
+                        "Event : Global Dryland Congress 2026",
+                        "Location : New Delhi",
+                        "Organisations : ICAR and ICRISAT",
+                        "Focus : Dryland Agriculture",
+                        "Key Area : Climate Resilience",
+                        "Cooperation : South-South Cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the Global Dryland Congress 2026 held?",
+                            "options": [
+                                "New Delhi",
+                                "Hyderabad",
+                                "Bengaluru",
+                                "Jaipur"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What is the major focus of the Global Dryland Congress?",
+                            "options": [
+                                "Dryland agriculture",
+                                "Space exploration",
+                                "Banking reforms",
+                                "Railway development"
+                            ],
+                            "answer": "Dryland agriculture"
+                        },
+                        {
+                            "question": "Which organisation is associated with agricultural research in the event?",
+                            "options": [
+                                "ICAR",
+                                "ISRO",
+                                "DRDO",
+                                "UIDAI"
+                            ],
+                            "answer": "ICAR"
+                        },
+                        {
+                            "question": "Which type of cooperation is highlighted by the Congress?",
+                            "options": [
+                                "South-South cooperation",
+                                "Military cooperation",
+                                "NATO cooperation",
+                                "Arctic cooperation"
+                            ],
+                            "answer": "South-South cooperation"
+                        },
+                        {
+                            "question": "Which issue is important for dryland agriculture?",
+                            "options": [
+                                "Climate resilience",
+                                "Only tourism",
+                                "Only aviation",
+                                "Only banking"
+                            ],
+                            "answer": "Climate resilience"
+                        }
+                    ]
+                },
+                {
+                    "category": "Business & Economy",
+                    "title": "PhonePe and Visa Announce New Digital Payment Services",
+                    "summary": "PhonePe and Visa announced new digital payment services including Tap to Pay, Cross Border Scan to Pay and Smart Accept. The development expands digital payment capabilities for consumers and businesses and strengthens the integration of international payment technology with India's digital payments ecosystem.",
+                    "sourceName": "NISIT Current Affairs",
+                    "sourceUrl": "https://nisit.co.in/gk-and-current-affairs",
+                    "staticGK": [
+                        "Companies : PhonePe and Visa",
+                        "Services : Tap to Pay",
+                        "Service : Cross Border Scan to Pay",
+                        "Service : Smart Accept",
+                        "Sector : Digital Payments",
+                        "Key Area : Fintech"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two companies announced new digital payment services?",
+                            "options": [
+                                "PhonePe and Visa",
+                                "Google Pay and SBI",
+                                "Paytm and Mastercard",
+                                "RBI and NPCI"
+                            ],
+                            "answer": "PhonePe and Visa"
+                        },
+                        {
+                            "question": "Which service was announced by PhonePe and Visa?",
+                            "options": [
+                                "Tap to Pay",
+                                "Railway Pay",
+                                "Agri Pay",
+                                "Tax Pay"
+                            ],
+                            "answer": "Tap to Pay"
+                        },
+                        {
+                            "question": "Which service enables cross-border payment through scanning?",
+                            "options": [
+                                "Cross Border Scan to Pay",
+                                "Smart Rail Pay",
+                                "Global Cash Transfer",
+                                "Visa Direct Tax"
+                            ],
+                            "answer": "Cross Border Scan to Pay"
+                        },
+                        {
+                            "question": "The development is mainly related to which sector?",
+                            "options": [
+                                "Digital Payments",
+                                "Agriculture",
+                                "Defence",
+                                "Railways"
+                            ],
+                            "answer": "Digital Payments"
+                        },
+                        {
+                            "question": "Visa is primarily associated with which industry?",
+                            "options": [
+                                "Payments and financial services",
+                                "Space technology",
+                                "Defence manufacturing",
+                                "Agriculture"
+                            ],
+                            "answer": "Payments and financial services"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
