@@ -1,33 +1,568 @@
 {
-    "quizType": "monthly",
-    "quizId": "2026-09",
-    "title": "Monthly Current Affairs Quiz",
-    "month": "September 2026",
-    "date": "01 September - 30 September 2026",
-    "totalQuestions": 50,
-    "timeLimit": 45,
-    "questions": [
-        {
-            "id": 1,
-            "question": "Which is the capital of India?",
-            "options": [
-                "Mumbai",
-                "New Delhi",
-                "Kolkata",
-                "Chennai"
-            ],
-            "answer": 1
-        },
-        {
-            "id": 2,
-            "question": "Which planet is known as the Red Planet?",
-            "options": [
-                "Earth",
-                "Venus",
-                "Mars",
-                "Jupiter"
-            ],
-            "answer": 2
-        }
-    ]
+  "quizType": "monthly",
+  "quizId": "2026-09",
+  "title": "Monthly General Studies, Current Affairs & Reasoning Quiz",
+  "month": "September 2026",
+  "date": "01 September - 30 September 2026",
+  "totalQuestions": 50,
+  "timeLimit": 45,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which country hosted the 18th BRICS Summit in September 2026? / सितंबर 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी किस देश ने की?",
+      "options": [
+        "Russia / रूस",
+        "India / भारत",
+        "Brazil / ब्राज़ील",
+        "China / चीन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Where was the 18th BRICS Summit held in September 2026? / सितंबर 2026 में 18वां BRICS शिखर सम्मेलन कहाँ आयोजित हुआ?",
+      "options": [
+        "Mumbai / मुंबई",
+        "New Delhi / नई दिल्ली",
+        "Bengaluru / बेंगलुरु",
+        "Hyderabad / हैदराबाद"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What was the theme of the 9th Rashtriya Poshan Maah 2026? / 9वें राष्ट्रीय पोषण माह 2026 की थीम क्या थी?",
+      "options": [
+        "Poshan for All / सभी के लिए पोषण",
+        "Healthy India, Strong India / स्वस्थ भारत, मजबूत भारत",
+        "Hamari Anganwadi, Hamari Jimmedari / हमारी आंगनवाड़ी, हमारी जिम्मेदारी",
+        "Saksham Bharat / सक्षम भारत"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Veer Guardian 2026 is a bilateral air defence exercise between India and which country? / वीर गार्जियन 2026 भारत और किस देश के बीच द्विपक्षीय वायु रक्षा अभ्यास है?",
+      "options": [
+        "France / फ्रांस",
+        "Japan / जापान",
+        "Australia / ऑस्ट्रेलिया",
+        "Russia / रूस"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which state ranked first in Jal Sanchay Jan Bhagidari 3.0? / जल संचय जन भागीदारी 3.0 में किस राज्य ने पहला स्थान प्राप्त किया?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Chhattisgarh / छत्तीसगढ़",
+        "Gujarat / गुजरात",
+        "Madhya Pradesh / मध्य प्रदेश"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "EOS-05 was launched by which launch vehicle? / EOS-05 को किस प्रक्षेपण यान से लॉन्च किया गया?",
+      "options": [
+        "PSLV-C60",
+        "GSLV-F17",
+        "SSLV-D4",
+        "LVM3-M5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which Indian badminton pair won the men's doubles title at the 2026 China Masters? / 2026 चाइना मास्टर्स का पुरुष युगल खिताब किस भारतीय जोड़ी ने जीता?",
+      "options": [
+        "Satwiksairaj Rankireddy and Chirag Shetty / सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी",
+        "Rohan Bopanna and Yuki Bhambri / रोहन बोपन्ना और युकी भांबरी",
+        "Lakshya Sen and HS Prannoy / लक्ष्य सेन और एच.एस. प्रणय",
+        "Dhruv Kapila and Arjun Madathil / ध्रुव कपिला और अर्जुन मदाथिल"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Who received the Kalinga Ratna Award in September 2026? / सितंबर 2026 में कलिंग रत्न पुरस्कार किसे प्रदान किया गया?",
+      "options": [
+        "Justice Dipak Misra / न्यायमूर्ति दीपक मिश्रा",
+        "Justice D.Y. Chandrachud / न्यायमूर्ति डी.वाई. चंद्रचूड़",
+        "Justice Sanjiv Khanna / न्यायमूर्ति संजीव खन्ना",
+        "Justice U.U. Lalit / न्यायमूर्ति यू.यू. ललित"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Which city topped Swachh Vayu Sarvekshan 2026 among cities with population above 10 lakh? / 10 लाख से अधिक आबादी वाले शहरों में स्वच्छ वायु सर्वेक्षण 2026 में कौन सा शहर पहले स्थान पर रहा?",
+      "options": [
+        "Indore / इंदौर",
+        "Lucknow / लखनऊ",
+        "Jabalpur / जबलपुर",
+        "Delhi / दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which state ranked first in Jal Sanchay Jan Bhagidari 3.0? / जल संचय जन भागीदारी 3.0 में कौन सा राज्य पहले स्थान पर रहा?",
+      "options": [
+        "Chhattisgarh / छत्तीसगढ़",
+        "Maharashtra / महाराष्ट्र",
+        "Odisha / ओडिशा",
+        "Bihar / बिहार"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 11,
+      "question": "The first India-China Corps Commander-level talks in Arunachal Pradesh were held at which meeting point? / अरुणाचल प्रदेश में पहली भारत-चीन कोर कमांडर स्तर की वार्ता किस मीटिंग पॉइंट पर हुई?",
+      "options": [
+        "Vacha-Damai / वाचा-दमाई",
+        "Bum La / बुम ला",
+        "Nathu La / नाथू ला",
+        "Lipulekh / लिपुलेख"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "INS Mysore participated in Samudra Laksamana with the navy of which country? / INS Mysore ने समुंद्र लक्ष्मणा अभ्यास में किस देश की नौसेना के साथ भाग लिया?",
+      "options": [
+        "Indonesia / इंडोनेशिया",
+        "Malaysia / मलेशिया",
+        "Singapore / सिंगापुर",
+        "Thailand / थाईलैंड"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The BRICS Bharat Innovates exposition was held at which venue? / BRICS Bharat Innovates प्रदर्शनी किस स्थान पर आयोजित की गई?",
+      "options": [
+        "Pragati Maidan / प्रगति मैदान",
+        "Bharat Mandapam / भारत मंडपम",
+        "Vigyan Bhawan / विज्ञान भवन",
+        "Yashobhoomi / यशोभूमि"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which country participated with India in the Veer Guardian 2026 exercise? / वीर गार्जियन 2026 अभ्यास में भारत के साथ किस देश ने भाग लिया?",
+      "options": [
+        "Japan / जापान",
+        "Germany / जर्मनी",
+        "USA / अमेरिका",
+        "UK / यूनाइटेड किंगडम"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "question": "What was the main focus of the 18th BRICS Summit held in New Delhi? / नई दिल्ली में आयोजित 18वें BRICS शिखर सम्मेलन का प्रमुख फोकस क्या था?",
+      "options": [
+        "International cooperation and global challenges / अंतरराष्ट्रीय सहयोग और वैश्विक चुनौतियाँ",
+        "Only sports development / केवल खेल विकास",
+        "Only tourism / केवल पर्यटन",
+        "Only agriculture / केवल कृषि"
+      ],
+      "answer": 0
+    },
+
+    {
+      "id": 16,
+      "question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+      "options": [
+        "Ashoka / अशोक",
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Bindusara / बिंदुसार",
+        "Bimbisara / बिंबिसार"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "options": [
+        "1757",
+        "1761",
+        "1764",
+        "1772"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Who started the construction of Qutub Minar? / कुतुब मीनार का निर्माण किसने शुरू करवाया था?",
+      "options": [
+        "Iltutmish / इल्तुतमिश",
+        "Qutb-ud-din Aibak / कुतुबुद्दीन ऐबक",
+        "Alauddin Khilji / अलाउद्दीन खिलजी",
+        "Balban / बलबन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The Quit India Movement was launched in which year? / भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+      "options": [
+        "1930",
+        "1935",
+        "1942",
+        "1947"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Who was the first Mughal emperor of India? / भारत का पहला मुगल सम्राट कौन था?",
+      "options": [
+        "Akbar / अकबर",
+        "Humayun / हुमायूँ",
+        "Babur / बाबर",
+        "Shah Jahan / शाहजहाँ"
+      ],
+      "answer": 2
+    },
+
+    {
+      "id": 21,
+      "question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+      "options": [
+        "Malwa Plateau / मालवा पठार",
+        "Deccan Plateau / दक्कन का पठार",
+        "Chota Nagpur Plateau / छोटा नागपुर पठार",
+        "Meghalaya Plateau / मेघालय पठार"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Ganga / गंगा",
+        "Yamuna / यमुना",
+        "Kosi / कोसी",
+        "Son / सोन"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Which is the longest peninsular river in India? / भारत की सबसे लंबी प्रायद्वीपीय नदी कौन सी है?",
+      "options": [
+        "Krishna / कृष्णा",
+        "Godavari / गोदावरी",
+        "Narmada / नर्मदा",
+        "Mahanadi / महानदी"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Which soil is most suitable for cotton cultivation? / कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+      "options": [
+        "Alluvial Soil / जलोढ़ मिट्टी",
+        "Red Soil / लाल मिट्टी",
+        "Black Soil / काली मिट्टी",
+        "Laterite Soil / लैटराइट मिट्टी"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Which Indian state has the longest coastline? / भारत के किस राज्य की समुद्री तटरेखा सबसे लंबी है?",
+      "options": [
+        "Maharashtra / महाराष्ट्र",
+        "Tamil Nadu / तमिलनाडु",
+        "Gujarat / गुजरात",
+        "Andhra Pradesh / आंध्र प्रदेश"
+      ],
+      "answer": 2
+    },
+
+    {
+      "id": 26,
+      "question": "Which Article of the Constitution guarantees equality before law? / संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता की गारंटी देता है?",
+      "options": [
+        "Article 12 / अनुच्छेद 12",
+        "Article 14 / अनुच्छेद 14",
+        "Article 19 / अनुच्छेद 19",
+        "Article 21 / अनुच्छेद 21"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Who is the constitutional head of the Union Executive? / संघ की कार्यपालिका का संवैधानिक प्रमुख कौन है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "President / राष्ट्रपति",
+        "Home Minister / गृह मंत्री",
+        "Vice-President / उपराष्ट्रपति"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Which institution is regarded as the guardian of the Constitution? / संविधान का संरक्षक किस संस्था को माना जाता है?",
+      "options": [
+        "Parliament / संसद",
+        "President / राष्ट्रपति",
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "Election Commission / निर्वाचन आयोग"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Who appoints the Prime Minister of India? / भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+      "options": [
+        "President / राष्ट्रपति",
+        "Vice-President / उपराष्ट्रपति",
+        "Chief Justice / मुख्य न्यायाधीश",
+        "Lok Sabha Speaker / लोकसभा अध्यक्ष"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 30,
+      "question": "How many Fundamental Rights are currently guaranteed by the Constitution? / संविधान में वर्तमान में कितने मौलिक अधिकार दिए गए हैं?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1
+    },
+
+    {
+      "id": 31,
+      "question": "Which organelle is known as the powerhouse of the cell? / कोशिका का पावरहाउस किसे कहा जाता है?",
+      "options": [
+        "Nucleus / केंद्रक",
+        "Mitochondria / माइटोकॉन्ड्रिया",
+        "Ribosome / राइबोसोम",
+        "Golgi Body / गोल्जी बॉडी"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What is the chemical formula of water? / जल का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CO2",
+        "O2",
+        "H2O",
+        "H2SO4"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Which vitamin is mainly produced in the skin in the presence of sunlight? / सूर्य के प्रकाश की उपस्थिति में त्वचा में मुख्य रूप से कौन सा विटामिन बनता है?",
+      "options": [
+        "Vitamin A / विटामिन A",
+        "Vitamin B / विटामिन B",
+        "Vitamin C / विटामिन C",
+        "Vitamin D / विटामिन D"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "Which gas is most abundant in Earth's atmosphere? / पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस है?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Nitrogen / नाइट्रोजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Hydrogen / हाइड्रोजन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What is the SI unit of force? / बल की SI इकाई क्या है?",
+      "options": [
+        "Joule / जूल",
+        "Watt / वाट",
+        "Newton / न्यूटन",
+        "Pascal / पास्कल"
+      ],
+      "answer": 2
+    },
+
+    {
+      "id": 36,
+      "question": "What is 25% of 480? / 480 का 25% कितना होगा?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "140"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "A shopkeeper buys an article for ₹800 and sells it for ₹920. What is the profit percentage? / एक दुकानदार वस्तु ₹800 में खरीदता है और ₹920 में बेचता है। लाभ प्रतिशत कितना है?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What is the average of 20, 30, 40 and 50? / 20, 30, 40 और 50 का औसत कितना है?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "What is the simple interest on ₹5,000 at 10% per annum for 2 years? / ₹5,000 पर 10% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+      "options": [
+        "₹500",
+        "₹750",
+        "₹1,000",
+        "₹1,200"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "A number increases from 200 to 250. What is the percentage increase? / एक संख्या 200 से बढ़कर 250 हो जाती है। प्रतिशत वृद्धि कितनी है?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": 1
+    },
+
+    {
+      "id": 41,
+      "question": "Find the next number: 2, 4, 8, 16, ? / अगली संख्या ज्ञात कीजिए: 2, 4, 8, 16, ?",
+      "options": [
+        "20",
+        "24",
+        "32",
+        "36"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "If CAT is coded as DBU, how is DOG coded? / यदि CAT को DBU लिखा जाता है, तो DOG को कैसे लिखा जाएगा?",
+      "options": [
+        "EPH",
+        "EOG",
+        "FPH",
+        "DPH"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 43,
+      "question": "Find the odd one out: Apple, Mango, Potato, Banana. / विषम शब्द चुनिए: Apple, Mango, Potato, Banana.",
+      "options": [
+        "Apple / सेब",
+        "Mango / आम",
+        "Potato / आलू",
+        "Banana / केला"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "If all roses are flowers and some flowers are red, which statement is definitely true? / यदि सभी गुलाब फूल हैं और कुछ फूल लाल हैं, तो कौन सा कथन निश्चित रूप से सत्य है?",
+      "options": [
+        "All roses are flowers / सभी गुलाब फूल हैं",
+        "All flowers are roses / सभी फूल गुलाब हैं",
+        "All roses are red / सभी गुलाब लाल हैं",
+        "No rose is a flower / कोई गुलाब फूल नहीं है"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 45,
+      "question": "A person walks 5 km north and then 5 km east. In which direction is he from the starting point? / एक व्यक्ति 5 किमी उत्तर और फिर 5 किमी पूर्व जाता है। वह प्रारंभिक स्थान से किस दिशा में है?",
+      "options": [
+        "North-West / उत्तर-पश्चिम",
+        "South-East / दक्षिण-पूर्व",
+        "North-East / उत्तर-पूर्व",
+        "South-West / दक्षिण-पश्चिम"
+      ],
+      "answer": 2
+    },
+
+    {
+      "id": 46,
+      "question": "Pointing to a man, Ravi said, 'He is the son of my mother's only son.' How is the man related to Ravi? / एक व्यक्ति की ओर इशारा करते हुए रवि ने कहा, 'वह मेरी माँ के इकलौते बेटे का पुत्र है।' वह व्यक्ति रवि से किस प्रकार संबंधित है?",
+      "options": [
+        "Brother / भाई",
+        "Son / पुत्र",
+        "Nephew / भतीजा",
+        "Father / पिता"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "A is the mother of B. B is the father of C. How is A related to C? / A, B की माँ है। B, C का पिता है। A का C से क्या संबंध है?",
+      "options": [
+        "Mother / माँ",
+        "Grandmother / दादी",
+        "Sister / बहन",
+        "Aunt / चाची"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "P is the brother of Q. Q is the sister of R. How is P related to R? / P, Q का भाई है। Q, R की बहन है। P का R से क्या संबंध है?",
+      "options": [
+        "Brother / भाई",
+        "Father / पिता",
+        "Uncle / चाचा",
+        "Cousin / चचेरा भाई"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 49,
+      "question": "X is the father of Y. Y is the mother of Z. How is X related to Z? / X, Y का पिता है। Y, Z की माँ है। X का Z से क्या संबंध है?",
+      "options": [
+        "Father / पिता",
+        "Grandfather / नाना",
+        "Brother / भाई",
+        "Uncle / मामा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "A is the sister of B. B is the son of C. How is C related to A? / A, B की बहन है। B, C का पुत्र है। C का A से क्या संबंध है?",
+      "options": [
+        "Father or Mother / पिता या माता",
+        "Brother / भाई",
+        "Uncle / चाचा",
+        "Grandfather / दादा"
+      ],
+      "answer": 0
+    }
+  ]
 }
