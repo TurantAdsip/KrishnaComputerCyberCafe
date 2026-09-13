@@ -652,17 +652,23 @@ function showQuestion() {
                         onchange="selectAnswer(${index})"
                     >
 
-                    <span class="option-letter">
+                        <span class="option-letter">
+                            ${String.fromCharCode(65 + index)})
+                        </span>
+                        <span class="option-text">
+                            ${optionText}
+                        </span>
+                    // <span class="option-letter">
 
-                        ${String.fromCharCode(65 + index)}
+                    //     ${String.fromCharCode(65 + index)}
 
-                    </span>
+                    // </span>
 
-                    <span class="option-text">
+                    // <span class="option-text">
 
-                        ${optionText}
+                    //     ${optionText}
 
-                    </span>
+                    // </span>
 
                 </label>
 
