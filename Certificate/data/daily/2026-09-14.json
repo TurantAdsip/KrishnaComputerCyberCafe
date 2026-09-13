@@ -1,0 +1,120 @@
+{
+    "quizType": "daily",
+    "quizId": "2026-09-14",
+    "title": "Daily General Studies & Current Affairs Quiz",
+    "date": "14 September 2026",
+    "totalQuestions": 10,
+    "timeLimit": 10,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+            "options": [
+                "Ashoka / अशोक",
+                "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+                "Bindusara / बिंदुसार",
+                "Samudragupta / समुद्रगुप्त"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+            "options": [
+                "1757 / 1757",
+                "1761 / 1761",
+                "1764 / 1764",
+                "1857 / 1857"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+            "options": [
+                "Malwa Plateau / मालवा पठार",
+                "Chota Nagpur Plateau / छोटा नागपुर पठार",
+                "Deccan Plateau / दक्कन का पठार",
+                "Tibetan Plateau / तिब्बती पठार"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+            "options": [
+                "Ganga / गंगा",
+                "Kosi / कोसी",
+                "Yamuna / यमुना",
+                "Son / सोन"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 5,
+            "question": "What is 25% of 240? / 240 का 25% कितना है?",
+            "options": [
+                "50 / 50",
+                "60 / 60",
+                "70 / 70",
+                "80 / 80"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "question": "If the cost price of an article is ₹500 and it is sold for ₹600, what is the profit percentage? / यदि किसी वस्तु का क्रय मूल्य ₹500 और विक्रय मूल्य ₹600 है, तो लाभ प्रतिशत कितना है?",
+            "options": [
+                "10% / 10%",
+                "15% / 15%",
+                "20% / 20%",
+                "25% / 25%"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "question": "Which Article of the Indian Constitution deals with Equality before Law? / भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता से संबंधित है?",
+            "options": [
+                "Article 12 / अनुच्छेद 12",
+                "Article 14 / अनुच्छेद 14",
+                "Article 16 / अनुच्छेद 16",
+                "Article 19 / अनुच्छेद 19"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "question": "Who is the constitutional head of the Union Executive in India? / भारत में संघ की कार्यपालिका का संवैधानिक प्रमुख कौन होता है?",
+            "options": [
+                "Prime Minister / प्रधानमंत्री",
+                "President / राष्ट्रपति",
+                "Vice-President / उपराष्ट्रपति",
+                "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "The 18th BRICS Summit 2026 was held in which Indian city? / 18वां BRICS शिखर सम्मेलन 2026 भारत के किस शहर में आयोजित हुआ?",
+            "options": [
+                "Mumbai / मुंबई",
+                "New Delhi / नई दिल्ली",
+                "Bengaluru / बेंगलुरु",
+                "Chennai / चेन्नई"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "question": "Which city topped the latest Swachh Vayu Sarvekshan among cities with a population of more than 10 lakh? / 10 लाख से अधिक आबादी वाले शहरों में नवीनतम स्वच्छ वायु सर्वेक्षण में कौन सा शहर शीर्ष पर रहा?",
+            "options": [
+                "Indore / इंदौर",
+                "Lucknow / लखनऊ",
+                "Delhi / दिल्ली",
+                "Bhopal / भोपाल"
+            ],
+            "answer": 1
+        }
+    ]
+}

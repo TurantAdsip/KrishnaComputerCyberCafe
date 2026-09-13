@@ -1,0 +1,120 @@
+{
+    "quizType": "daily",
+    "quizId": "2026-09-13",
+    "title": "Daily Current Affairs Quiz",
+    "date": "13 September 2026",
+    "totalQuestions": 10,
+    "timeLimit": 10,
+    "questions": [
+        {
+            "id": 1,
+            "question": "The 18th BRICS Summit 2026 is being held in which city? / 18वां BRICS शिखर सम्मेलन 2026 किस शहर में आयोजित किया जा रहा है?",
+            "options": [
+                "Mumbai / मुंबई",
+                "New Delhi / नई दिल्ली",
+                "Bengaluru / बेंगलुरु",
+                "Hyderabad / हैदराबाद"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "Which country is hosting the 18th BRICS Summit in 2026? / 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी कौन सा देश कर रहा है?",
+            "options": [
+                "China / चीन",
+                "Russia / रूस",
+                "India / भारत",
+                "Brazil / ब्राज़ील"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 3,
+            "question": "Which bilateral air defence exercise between India and Japan commenced in September 2026? / भारत और जापान के बीच सितंबर 2026 में कौन सा द्विपक्षीय वायु रक्षा अभ्यास शुरू हुआ?",
+            "options": [
+                "Malabar / मालाबार",
+                "Veer Guardian / वीर गार्जियन",
+                "Dharma Guardian / धर्म गार्जियन",
+                "JIMEX / जिमेक्स"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "question": "Which city ranked first in the Swachh Vayu Sarvekshan 2026 among cities with a population of more than 10 lakh? / 10 लाख से अधिक आबादी वाले शहरों में स्वच्छ वायु सर्वेक्षण 2026 में कौन सा शहर प्रथम स्थान पर रहा?",
+            "options": [
+                "Indore / इंदौर",
+                "Jabalpur / जबलपुर",
+                "Lucknow / लखनऊ",
+                "Delhi / दिल्ली"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "question": "Which Indian men's doubles pair won the 2026 China Masters badminton title? / किस भारतीय पुरुष युगल जोड़ी ने 2026 चाइना मास्टर्स बैडमिंटन खिताब जीता?",
+            "options": [
+                "Satwiksairaj Rankireddy and Chirag Shetty / सात्विकसाईराज रंकीरेड्डी और चिराग शेट्टी",
+                "Rohan Bopanna and Yuki Bhambri / रोहन बोपन्ना और युकी भांबरी",
+                "Lakshya Sen and H. S. Prannoy / लक्ष्य सेन और एच. एस. प्रणय",
+                "Dhruv Kapila and Arjun Madathil / ध्रुव कपिला और अर्जुन मदाथिल"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 6,
+            "question": "Which state ranked first in the Jal Sanchay Jan Bhagidari 3.0 water conservation campaign? / जल संचय जन भागीदारी 3.0 जल संरक्षण अभियान में कौन सा राज्य प्रथम स्थान पर रहा?",
+            "options": [
+                "Rajasthan / राजस्थान",
+                "Chhattisgarh / छत्तीसगढ़",
+                "Madhya Pradesh / मध्य प्रदेश",
+                "Gujarat / गुजरात"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "question": "What is the theme of Rashtriya Poshan Maah 2026? / राष्ट्रीय पोषण माह 2026 की थीम क्या है?",
+            "options": [
+                "Swasth Bharat, Saksham Bharat / स्वस्थ भारत, सक्षम भारत",
+                "Poshan Se Pragati / पोषण से प्रगति",
+                "Hamari Anganwadi, Hamari Jimmedari / हमारी आंगनवाड़ी, हमारी जिम्मेदारी",
+                "Har Ghar Poshan / हर घर पोषण"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 8,
+            "question": "Which organisation launched the 'Sagar Manthan' marine research vessel in September 2026? / सितंबर 2026 में 'सागर मंथन' समुद्री अनुसंधान पोत किस संगठन ने लॉन्च किया?",
+            "options": [
+                "Cochin Shipyard Limited / कोचीन शिपयार्ड लिमिटेड",
+                "Garden Reach Shipbuilders and Engineers / गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+                "Hindustan Aeronautics Limited / हिंदुस्तान एयरोनॉटिक्स लिमिटेड",
+                "Mazagon Dock Shipbuilders / मझगांव डॉक शिपबिल्डर्स"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "Which organisation conducted the bilateral maritime exercise 'Samudra Laksamana' with the Royal Malaysian Navy? / रॉयल मलेशियाई नौसेना के साथ 'समुद्र लक्ष्मणा' द्विपक्षीय समुद्री अभ्यास किस संगठन ने किया?",
+            "options": [
+                "Indian Army / भारतीय सेना",
+                "Indian Air Force / भारतीय वायु सेना",
+                "Indian Navy / भारतीय नौसेना",
+                "Indian Coast Guard / भारतीय तटरक्षक बल"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 10,
+            "question": "Who was conferred the Kalinga Ratna Award in September 2026? / सितंबर 2026 में कलिंग रत्न पुरस्कार से किसे सम्मानित किया गया?",
+            "options": [
+                "Justice Dipak Misra / न्यायमूर्ति दीपक मिश्रा",
+                "Justice D. Y. Chandrachud / न्यायमूर्ति डी. वाई. चंद्रचूड़",
+                "Justice Sanjiv Khanna / न्यायमूर्ति संजीव खन्ना",
+                "Justice U. U. Lalit / न्यायमूर्ति यू. यू. ललित"
+            ],
+            "answer": 0
+        }
+    ]
+}
