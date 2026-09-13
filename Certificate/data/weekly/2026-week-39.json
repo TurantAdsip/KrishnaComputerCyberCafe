@@ -1,0 +1,341 @@
+{
+    "quizType": "weekly",
+    "quizId": "2026-week-38",
+    "title": "Weekly General Studies & Current Affairs Quiz",
+    "week": "Week 38",
+    "date": "14 September - 20 September 2026",
+    "totalQuestions": 30,
+    "timeLimit": 30,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+            "options": [
+                "Ashoka / अशोक",
+                "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+                "Bindusara / बिंदुसार",
+                "Samudragupta / समुद्रगुप्त"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+            "options": [
+                "1757 / 1757",
+                "1761 / 1761",
+                "1764 / 1764",
+                "1857 / 1857"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "question": "Who started the construction of the Qutub Minar? / कुतुब मीनार का निर्माण किसने शुरू करवाया था?",
+            "options": [
+                "Iltutmish / इल्तुतमिश",
+                "Alauddin Khalji / अलाउद्दीन खिलजी",
+                "Qutb-ud-din Aibak / कुतुबुद्दीन ऐबक",
+                "Balban / बलबन"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "question": "The Quit India Movement was launched in which year? / भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+            "options": [
+                "1930 / 1930",
+                "1942 / 1942",
+                "1945 / 1945",
+                "1947 / 1947"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 5,
+            "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूंगा' का नारा किसने दिया था?",
+            "options": [
+                "Mahatma Gandhi / महात्मा गांधी",
+                "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+                "Subhas Chandra Bose / सुभाष चंद्र बोस",
+                "Lala Lajpat Rai / लाला लाजपत राय"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "question": "Who was the first Mughal emperor of India? / भारत का पहला मुगल सम्राट कौन था?",
+            "options": [
+                "Akbar / अकबर",
+                "Humayun / हुमायूं",
+                "Babur / बाबर",
+                "Shah Jahan / शाहजहां"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+            "options": [
+                "Malwa Plateau / मालवा पठार",
+                "Chota Nagpur Plateau / छोटा नागपुर पठार",
+                "Deccan Plateau / दक्कन का पठार",
+                "Meghalaya Plateau / मेघालय पठार"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 8,
+            "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+            "options": [
+                "Ganga / गंगा",
+                "Kosi / कोसी",
+                "Yamuna / यमुना",
+                "Son / सोन"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन सी है?",
+            "options": [
+                "Ganga / गंगा",
+                "Godavari / गोदावरी",
+                "Yamuna / यमुना",
+                "Narmada / नर्मदा"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 10,
+            "question": "Which type of soil is most suitable for cotton cultivation? / कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+            "options": [
+                "Alluvial Soil / जलोढ़ मिट्टी",
+                "Black Soil / काली मिट्टी",
+                "Red Soil / लाल मिट्टी",
+                "Laterite Soil / लैटेराइट मिट्टी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 11,
+            "question": "Which Indian state has the longest coastline? / भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+            "options": [
+                "Maharashtra / महाराष्ट्र",
+                "Tamil Nadu / तमिलनाडु",
+                "Gujarat / गुजरात",
+                "Andhra Pradesh / आंध्र प्रदेश"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 12,
+            "question": "Which is the highest mountain peak located entirely in India? / भारत में पूरी तरह स्थित सबसे ऊंची पर्वत चोटी कौन सी है?",
+            "options": [
+                "Nanda Devi / नंदा देवी",
+                "Kanchenjunga / कंचनजंगा",
+                "Kamet / कामेत",
+                "Anamudi / अनामुडी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 13,
+            "question": "What is 15% of 400? / 400 का 15% कितना है?",
+            "options": [
+                "40 / 40",
+                "50 / 50",
+                "60 / 60",
+                "70 / 70"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 14,
+            "question": "If the cost price is ₹800 and the selling price is ₹920, what is the profit percentage? / यदि क्रय मूल्य ₹800 और विक्रय मूल्य ₹920 है, तो लाभ प्रतिशत कितना है?",
+            "options": [
+                "10% / 10%",
+                "12% / 12%",
+                "15% / 15%",
+                "20% / 20%"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 15,
+            "question": "What is the average of 20, 30 and 40? / 20, 30 और 40 का औसत कितना है?",
+            "options": [
+                "25 / 25",
+                "30 / 30",
+                "35 / 35",
+                "40 / 40"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 16,
+            "question": "If 5 workers complete a work in 12 days, how many days will 10 workers take to complete the same work? / यदि 5 मजदूर किसी काम को 12 दिनों में पूरा करते हैं, तो 10 मजदूर वही काम कितने दिनों में पूरा करेंगे?",
+            "options": [
+                "4 days / 4 दिन",
+                "5 days / 5 दिन",
+                "6 days / 6 दिन",
+                "8 days / 8 दिन"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 17,
+            "question": "What is the simple interest on ₹5,000 at 10% per annum for 2 years? / ₹5,000 पर 10% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+            "options": [
+                "₹500 / ₹500",
+                "₹800 / ₹800",
+                "₹1,000 / ₹1,000",
+                "₹1,200 / ₹1,200"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 18,
+            "question": "If a number is increased from 200 to 250, what is the percentage increase? / यदि किसी संख्या को 200 से बढ़ाकर 250 कर दिया जाए, तो प्रतिशत वृद्धि कितनी होगी?",
+            "options": [
+                "20% / 20%",
+                "25% / 25%",
+                "30% / 30%",
+                "35% / 35%"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 19,
+            "question": "Which Article of the Indian Constitution deals with Equality before Law? / भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता से संबंधित है?",
+            "options": [
+                "Article 12 / अनुच्छेद 12",
+                "Article 14 / अनुच्छेद 14",
+                "Article 16 / अनुच्छेद 16",
+                "Article 19 / अनुच्छेद 19"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 20,
+            "question": "Who is the constitutional head of the Union Executive in India? / भारत में संघ की कार्यपालिका का संवैधानिक प्रमुख कौन होता है?",
+            "options": [
+                "Prime Minister / प्रधानमंत्री",
+                "President / राष्ट्रपति",
+                "Vice-President / उपराष्ट्रपति",
+                "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 21,
+            "question": "Which institution is known as the guardian of the Constitution of India? / किस संस्था को भारतीय संविधान का संरक्षक कहा जाता है?",
+            "options": [
+                "Parliament / संसद",
+                "Supreme Court / सर्वोच्च न्यायालय",
+                "Election Commission / निर्वाचन आयोग",
+                "President / राष्ट्रपति"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 22,
+            "question": "Who appoints the Prime Minister of India? / भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+            "options": [
+                "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+                "President of India / भारत के राष्ट्रपति",
+                "Lok Sabha Speaker / लोकसभा अध्यक्ष",
+                "Vice-President of India / भारत के उपराष्ट्रपति"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 23,
+            "question": "How many Fundamental Rights are currently guaranteed by the Constitution of India? / भारतीय संविधान द्वारा वर्तमान में कितने मौलिक अधिकारों की गारंटी दी गई है?",
+            "options": [
+                "5 / 5",
+                "6 / 6",
+                "7 / 7",
+                "8 / 8"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 24,
+            "question": "Which constitutional body conducts elections in India? / भारत में चुनाव कौन सा संवैधानिक निकाय कराता है?",
+            "options": [
+                "Union Public Service Commission / संघ लोक सेवा आयोग",
+                "Election Commission of India / भारत निर्वाचन आयोग",
+                "Finance Commission / वित्त आयोग",
+                "NITI Aayog / नीति आयोग"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 25,
+            "question": "Which country hosted the 18th BRICS Summit in 2026? / 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी किस देश ने की?",
+            "options": [
+                "Brazil / ब्राज़ील",
+                "India / भारत",
+                "China / चीन",
+                "Russia / रूस"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 26,
+            "question": "What does ULPIN stand for? / ULPIN का पूर्ण रूप क्या है?",
+            "options": [
+                "Unique Land Parcel Identification Number / यूनिक लैंड पार्सल आइडेंटिफिकेशन नंबर",
+                "Unified Land Property Information Number / यूनिफाइड लैंड प्रॉपर्टी इंफॉर्मेशन नंबर",
+                "Universal Land Planning Identification Number / यूनिवर्सल लैंड प्लानिंग आइडेंटिफिकेशन नंबर",
+                "Unique Land Property Index Number / यूनिक लैंड प्रॉपर्टी इंडेक्स नंबर"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 27,
+            "question": "Which organisation is associated with the marine research vessel 'Sagar Manthan'? / 'सागर मंथन' समुद्री अनुसंधान पोत किस संगठन से संबंधित है?",
+            "options": [
+                "Garden Reach Shipbuilders and Engineers / गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+                "Cochin Shipyard Limited / कोचीन शिपयार्ड लिमिटेड",
+                "Mazagon Dock Shipbuilders / मझगांव डॉक शिपबिल्डर्स",
+                "Hindustan Shipyard Limited / हिंदुस्तान शिपयार्ड लिमिटेड"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 28,
+            "question": "Which city hosted the 18th BRICS Summit in 2026? / 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी किस शहर ने की?",
+            "options": [
+                "Mumbai / मुंबई",
+                "New Delhi / नई दिल्ली",
+                "Bengaluru / बेंगलुरु",
+                "Hyderabad / हैदराबाद"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 29,
+            "question": "Which country participated with India in the Veer Guardian air exercise? / वीर गार्जियन वायु अभ्यास में भारत के साथ किस देश ने भाग लिया?",
+            "options": [
+                "Japan / जापान",
+                "France / फ्रांस",
+                "Australia / ऑस्ट्रेलिया",
+                "Germany / जर्मनी"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 30,
+            "question": "Which organisation is primarily responsible for India's space programme? / भारत के अंतरिक्ष कार्यक्रम के लिए मुख्य रूप से कौन सा संगठन जिम्मेदार है?",
+            "options": [
+                "DRDO / डीआरडीओ",
+                "ISRO / इसरो",
+                "HAL / एचएएल",
+                "BARC / भाभा परमाणु अनुसंधान केंद्र"
+            ],
+            "answer": 1
+        }
+    ]
+}
