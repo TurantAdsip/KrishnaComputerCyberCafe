@@ -8271,6 +8271,684 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-09-13",
+            "date": "13 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 13 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Affairs",
+                    "title": "18th BRICS Summit Concludes in New Delhi",
+                    "summary": "The 18th BRICS Leaders' Summit concluded in New Delhi on 13 September 2026 under India's BRICS chairship. The summit was held at Bharat Mandapam from 12–13 September and brought together leaders of the expanded BRICS grouping. Discussions focused on global governance, economic cooperation, peace, technology, sustainability and the interests of the Global South.",
+                    "sourceName": "Prime Minister of India",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/brics-new-delhi-declaration-building-for-resilience-innovation-cooperation-and-sustainability-september-12-2026/",
+                    "staticGK": [
+                        "Event : 18th BRICS Leaders' Summit",
+                        "Host Country : India",
+                        "Host City : New Delhi",
+                        "Venue : Bharat Mandapam",
+                        "Dates : 12–13 September 2026",
+                        "India's Role : BRICS Chair 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the 18th BRICS Leaders' Summit held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country hosted the 18th BRICS Summit?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Russia",
+                                "Brazil"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "What was the venue of the 18th BRICS Summit?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Rashtrapati Bhavan",
+                                "Vigyan Bhavan",
+                                "Pragati Maidan Hall 1"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        },
+                        {
+                            "question": "On which dates was the 18th BRICS Summit held?",
+                            "options": [
+                                "12–13 September 2026",
+                                "10–11 September 2026",
+                                "13–14 September 2026",
+                                "15–16 September 2026"
+                            ],
+                            "answer": "12–13 September 2026"
+                        },
+                        {
+                            "question": "Which country held the BRICS chairship in 2026?",
+                            "options": [
+                                "India",
+                                "Russia",
+                                "China",
+                                "Brazil"
+                            ],
+                            "answer": "India"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Leaders Adopt New Delhi Declaration",
+                    "summary": "BRICS leaders unanimously adopted the New Delhi Declaration during the 18th BRICS Summit. The declaration reaffirmed the group's commitment to multilateralism, sovereign equality, cooperation and a more representative international order. It also emphasized peace, sustainable development, inclusive growth and stronger cooperation among emerging and developing economies.",
+                    "sourceName": "Prime Minister of India",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/brics-new-delhi-declaration-building-for-resilience-innovation-cooperation-and-sustainability-september-12-2026/",
+                    "staticGK": [
+                        "Declaration : New Delhi Declaration",
+                        "Adopted At : 18th BRICS Summit",
+                        "Location : New Delhi",
+                        "Key Focus : Multilateralism",
+                        "Other Focus : Sustainable Development",
+                        "Adoption : Unanimous"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which declaration was adopted at the 18th BRICS Summit?",
+                            "options": [
+                                "New Delhi Declaration",
+                                "Jaipur Declaration",
+                                "Delhi Development Declaration",
+                                "Bharat Declaration"
+                            ],
+                            "answer": "New Delhi Declaration"
+                        },
+                        {
+                            "question": "The New Delhi Declaration was adopted by which grouping?",
+                            "options": [
+                                "BRICS",
+                                "G7",
+                                "NATO",
+                                "ASEAN"
+                            ],
+                            "answer": "BRICS"
+                        },
+                        {
+                            "question": "Where was the New Delhi Declaration adopted?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Beijing",
+                                "Moscow"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What principle was emphasized in the BRICS declaration?",
+                            "options": [
+                                "Multilateralism",
+                                "Protectionism",
+                                "Isolationism",
+                                "Colonialism"
+                            ],
+                            "answer": "Multilateralism"
+                        },
+                        {
+                            "question": "The declaration emphasized cooperation among which countries?",
+                            "options": [
+                                "Emerging and developing economies",
+                                "Only G7 countries",
+                                "Only European countries",
+                                "Only NATO members"
+                            ],
+                            "answer": "Emerging and developing economies"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Calls for Greater Representation of Global South",
+                    "summary": "The 18th BRICS Summit highlighted the need for a more representative and inclusive global governance system. India emphasized that the Global South should have a stronger role in international decision-making. Discussions included reforms of global institutions, including the United Nations Security Council and international financial institutions.",
+                    "sourceName": "Akashvani News",
+                    "sourceUrl": "https://newsonair.gov.in/indias-chairship-of-brics-is-based-on-people-centric-and-humanity-first-approach-pm-modi/",
+                    "staticGK": [
+                        "Key Concept : Global South",
+                        "India's Position : Greater Representation",
+                        "Institution : United Nations",
+                        "Major Reform : UNSC Reform",
+                        "Focus : Inclusive Global Governance",
+                        "BRICS Approach : People-Centric"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which group did India emphasize should have a stronger role in global governance?",
+                            "options": [
+                                "Global South",
+                                "G7",
+                                "NATO",
+                                "European Union"
+                            ],
+                            "answer": "Global South"
+                        },
+                        {
+                            "question": "Which UN body has India long demanded to be reformed?",
+                            "options": [
+                                "UN Security Council",
+                                "UNICEF",
+                                "UNESCO",
+                                "WHO"
+                            ],
+                            "answer": "UN Security Council"
+                        },
+                        {
+                            "question": "The BRICS discussion focused on making global governance more what?",
+                            "options": [
+                                "Inclusive and representative",
+                                "Exclusive",
+                                "Military-oriented",
+                                "Regional only"
+                            ],
+                            "answer": "Inclusive and representative"
+                        },
+                        {
+                            "question": "Which country strongly highlighted Global South representation during the 2026 BRICS Summit?",
+                            "options": [
+                                "India",
+                                "Canada",
+                                "France",
+                                "Australia"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "BRICS is mainly associated with cooperation among which type of economies?",
+                            "options": [
+                                "Emerging economies",
+                                "Only developed economies",
+                                "Only island nations",
+                                "Only European economies"
+                            ],
+                            "answer": "Emerging economies"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "China to Chair BRICS in 2027",
+                    "summary": "China received support to take over the BRICS chairship in 2027 and host the 19th BRICS Summit. The transition follows India's 2026 chairship. The change highlights the rotating nature of BRICS leadership and the continued expansion of cooperation among member countries.",
+                    "sourceName": "Prime Minister of India",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/brics-new-delhi-declaration-building-for-resilience-innovation-cooperation-and-sustainability-september-12-2026/",
+                    "staticGK": [
+                        "Next BRICS Chair : China",
+                        "Year : 2027",
+                        "Next Summit : 19th BRICS Summit",
+                        "Host Country : China",
+                        "Current Chair : India",
+                        "2026 Summit : New Delhi"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country will hold the BRICS chairship in 2027?",
+                            "options": [
+                                "China",
+                                "India",
+                                "Russia",
+                                "Brazil"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Which country will host the 19th BRICS Summit?",
+                            "options": [
+                                "China",
+                                "India",
+                                "South Africa",
+                                "Brazil"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Which country held the BRICS chairship in 2026?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Russia",
+                                "Iran"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "The next BRICS Summit will be the which edition?",
+                            "options": [
+                                "19th",
+                                "18th",
+                                "20th",
+                                "17th"
+                            ],
+                            "answer": "19th"
+                        },
+                        {
+                            "question": "Where was the 18th BRICS Summit held?",
+                            "options": [
+                                "New Delhi",
+                                "Beijing",
+                                "Moscow",
+                                "Brasilia"
+                            ],
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "BRICS Remote Sensing Satellite Constellation Gains Momentum",
+                    "summary": "The New Delhi Declaration recognized progress in expanding the BRICS Remote Sensing Satellite Constellation. The initiative involves cooperation among BRICS space agencies and aims to strengthen the sharing and use of satellite-based Earth observation data. Discussions also included space sustainability, quantum technologies and the proposed BRICS Space Council.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/members-acknowledge-progress-in-expanding-remote-sensing-satellite-constellation-10875677/",
+                    "staticGK": [
+                        "Project : BRICS Remote Sensing Satellite Constellation",
+                        "Short Form : RSSC",
+                        "Key Countries : India, China and Russia",
+                        "Related Area : Earth Observation",
+                        "Proposed Body : BRICS Space Council",
+                        "Other Area : Quantum Technologies"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What does RSSC refer to in the BRICS context?",
+                            "options": [
+                                "Remote Sensing Satellite Constellation",
+                                "Regional Space Security Council",
+                                "Russian Satellite Science Centre",
+                                "Remote Science Support Centre"
+                            ],
+                            "answer": "Remote Sensing Satellite Constellation"
+                        },
+                        {
+                            "question": "Which countries are involved in the BRICS remote sensing satellite cooperation?",
+                            "options": [
+                                "India, China and Russia",
+                                "India, Japan and USA",
+                                "Brazil, France and Germany",
+                                "India, UK and Australia"
+                            ],
+                            "answer": "India, China and Russia"
+                        },
+                        {
+                            "question": "The BRICS satellite initiative is mainly related to which area?",
+                            "options": [
+                                "Earth observation",
+                                "Railway transport",
+                                "Banking",
+                                "Tourism"
+                            ],
+                            "answer": "Earth observation"
+                        },
+                        {
+                            "question": "Which proposed body is related to BRICS space cooperation?",
+                            "options": [
+                                "BRICS Space Council",
+                                "BRICS Defence Council",
+                                "BRICS Ocean Council",
+                                "BRICS Climate Court"
+                            ],
+                            "answer": "BRICS Space Council"
+                        },
+                        {
+                            "question": "Which emerging technology was also highlighted in BRICS science cooperation?",
+                            "options": [
+                                "Quantum technologies",
+                                "Steam engines",
+                                "Typewriters",
+                                "Analog television"
+                            ],
+                            "answer": "Quantum technologies"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Social Development",
+                    "title": "NIMHANS to Coordinate BRICS Mental Health Centres of Excellence",
+                    "summary": "The 18th BRICS Summit announced a network of Centres of Excellence for mental health, with Bengaluru-based National Institute of Mental Health and Neuro Sciences (NIMHANS) designated as the coordinating institution. The initiative aims to promote research, policy dialogue and sharing of best practices in mental healthcare among BRICS countries.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/mental-wellness-nimhans-to-be-nodal-body-for-brics-centres-of-excellence-10875678/",
+                    "staticGK": [
+                        "Institution : NIMHANS",
+                        "Location : Bengaluru",
+                        "Area : Mental Health",
+                        "Initiative : BRICS Centres of Excellence",
+                        "Role : Coordinating Institution",
+                        "Focus : Research and Policy Cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution will coordinate the BRICS mental health Centres of Excellence network?",
+                            "options": [
+                                "NIMHANS",
+                                "AIIMS Delhi",
+                                "IIT Delhi",
+                                "ICMR"
+                            ],
+                            "answer": "NIMHANS"
+                        },
+                        {
+                            "question": "NIMHANS is located in which city?",
+                            "options": [
+                                "Bengaluru",
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "The BRICS Centres of Excellence initiative is related to which field?",
+                            "options": [
+                                "Mental health",
+                                "Railways",
+                                "Banking",
+                                "Defence"
+                            ],
+                            "answer": "Mental health"
+                        },
+                        {
+                            "question": "What is one objective of the BRICS mental health network?",
+                            "options": [
+                                "Sharing best practices",
+                                "Building airports",
+                                "Managing currencies",
+                                "Producing aircraft"
+                            ],
+                            "answer": "Sharing best practices"
+                        },
+                        {
+                            "question": "NIMHANS is primarily associated with which area?",
+                            "options": [
+                                "Mental health and neurosciences",
+                                "Space research",
+                                "Agriculture",
+                                "Banking"
+                            ],
+                            "answer": "Mental health and neurosciences"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Declaration Calls for Dialogue and Diplomatic Solutions to Conflicts",
+                    "summary": "The New Delhi Declaration emphasized dialogue, consultation and diplomacy as means of resolving international disputes. BRICS leaders expressed concern over ongoing conflicts and called for restraint and peaceful solutions. The declaration also reflected the group's broader emphasis on a fairer and more representative international order.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/china/brics-adopts-joint-declaration-urges-maximum-restraint-mideast-2026-09-12/",
+                    "staticGK": [
+                        "Declaration : New Delhi Declaration",
+                        "Approach : Dialogue and Diplomacy",
+                        "Focus : Peaceful Conflict Resolution",
+                        "Major Region : Middle East",
+                        "BRICS Position : Multilateral Approach",
+                        "Broader Goal : Global Peace and Stability"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What approach did BRICS emphasize for resolving international disputes?",
+                            "options": [
+                                "Dialogue and diplomacy",
+                                "Military escalation",
+                                "Economic isolation",
+                                "Unilateral action"
+                            ],
+                            "answer": "Dialogue and diplomacy"
+                        },
+                        {
+                            "question": "Which declaration reflected the BRICS position on global conflicts?",
+                            "options": [
+                                "New Delhi Declaration",
+                                "Bali Declaration",
+                                "Delhi Charter",
+                                "Mumbai Declaration"
+                            ],
+                            "answer": "New Delhi Declaration"
+                        },
+                        {
+                            "question": "BRICS emphasized a more representative international what?",
+                            "options": [
+                                "Order",
+                                "Currency",
+                                "Army",
+                                "Court"
+                            ],
+                            "answer": "Order"
+                        },
+                        {
+                            "question": "Which region was among the major conflict-related concerns discussed?",
+                            "options": [
+                                "Middle East",
+                                "South America",
+                                "Arctic",
+                                "Oceania"
+                            ],
+                            "answer": "Middle East"
+                        },
+                        {
+                            "question": "BRICS promoted which broad principle for international relations?",
+                            "options": [
+                                "Multilateralism",
+                                "Isolationism",
+                                "Protectionism",
+                                "Colonialism"
+                            ],
+                            "answer": "Multilateralism"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Security",
+                    "title": "UPSC NDA and CDS II Exams Conducted on 13 September",
+                    "summary": "The Union Public Service Commission conducted the National Defence Academy and Naval Academy Examination (II) and Combined Defence Services Examination (II) on 13 September 2026. The examinations are important entry routes for candidates seeking careers in India's Armed Forces. Special arrangements were also made in Delhi to facilitate the movement of examination candidates.",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/education/news/upsc-nda-cds-2-exam-2026-delhi-metro-to-run-from-6-am-across-all-lines-on-september-13-for-candidates/articleshow/134066018.cms",
+                    "staticGK": [
+                        "Exam : NDA & NA Examination II",
+                        "Exam : CDS Examination II",
+                        "Date : 13 September 2026",
+                        "Conducting Body : UPSC",
+                        "Purpose : Defence Recruitment",
+                        "Special Arrangement : Delhi Metro from 6 AM"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organization conducted the NDA and CDS II examinations in September 2026?",
+                            "options": [
+                                "UPSC",
+                                "SSC",
+                                "NTA",
+                                "IBPS"
+                            ],
+                            "answer": "UPSC"
+                        },
+                        {
+                            "question": "On which date were NDA and CDS II examinations held?",
+                            "options": [
+                                "13 September 2026",
+                                "10 September 2026",
+                                "15 September 2026",
+                                "20 September 2026"
+                            ],
+                            "answer": "13 September 2026"
+                        },
+                        {
+                            "question": "NDA examination is related to which field?",
+                            "options": [
+                                "Defence",
+                                "Banking",
+                                "Railways",
+                                "Teaching"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "What special transport arrangement was made in Delhi for candidates?",
+                            "options": [
+                                "Delhi Metro from 6 AM",
+                                "Free flights",
+                                "Special trains from 10 AM",
+                                "Free buses nationwide"
+                            ],
+                            "answer": "Delhi Metro from 6 AM"
+                        },
+                        {
+                            "question": "CDS stands for what?",
+                            "options": [
+                                "Combined Defence Services",
+                                "Central Defence Selection",
+                                "Combined Development Services",
+                                "Civil Defence Selection"
+                            ],
+                            "answer": "Combined Defence Services"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "India Women Face Sri Lanka Women in Asia Cup Final",
+                    "summary": "India Women and Sri Lanka Women are scheduled to meet in the Women's Asia Cup 2026 final on 13 September in Dubai. India entered the final after defeating Bangladesh in the semi-final, while Sri Lanka advanced after defeating Pakistan. The final is being played in the T20 format at the Dubai International Cricket Stadium.",
+                    "sourceName": "Cricket Australia",
+                    "sourceUrl": "https://www.cricket.com.au/matches/CA%3A40960/india-women-v-tbc-asia-cup-2026-women",
+                    "staticGK": [
+                        "Tournament : Women's Asia Cup 2026",
+                        "Final : India Women vs Sri Lanka Women",
+                        "Date : 13 September 2026",
+                        "Venue : Dubai International Cricket Stadium",
+                        "Format : T20",
+                        "Indian Captain : Harmanpreet Kaur"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which teams are scheduled to play the Women's Asia Cup 2026 final?",
+                            "options": [
+                                "India Women and Sri Lanka Women",
+                                "India Women and Pakistan Women",
+                                "Sri Lanka Women and Bangladesh Women",
+                                "India Women and Bangladesh Women"
+                            ],
+                            "answer": "India Women and Sri Lanka Women"
+                        },
+                        {
+                            "question": "Where is the Women's Asia Cup 2026 final being played?",
+                            "options": [
+                                "Dubai International Stadium",
+                                "Wankhede Stadium",
+                                "Eden Gardens",
+                                "R. Premadasa Stadium"
+                            ],
+                            "answer": "Dubai International Stadium"
+                        },
+                        {
+                            "question": "On which date is the Women's Asia Cup 2026 final scheduled?",
+                            "options": [
+                                "13 September 2026",
+                                "12 September 2026",
+                                "14 September 2026",
+                                "15 September 2026"
+                            ],
+                            "answer": "13 September 2026"
+                        },
+                        {
+                            "question": "What is the format of the Women's Asia Cup 2026?",
+                            "options": [
+                                "T20",
+                                "ODI",
+                                "Test",
+                                "The Hundred"
+                            ],
+                            "answer": "T20"
+                        },
+                        {
+                            "question": "Who is the captain of India Women in the tournament?",
+                            "options": [
+                                "Harmanpreet Kaur",
+                                "Smriti Mandhana",
+                                "Deepti Sharma",
+                                "Shafali Verma"
+                            ],
+                            "answer": "Harmanpreet Kaur"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "India's BRICS Chairship Focuses on Resilience, Innovation, Cooperation and Sustainability",
+                    "summary": "India's 2026 BRICS chairship was guided by the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'. During its chairship, India organized hundreds of meetings and engagements across the country. The agenda focused on people-centric cooperation, sustainable development, technology, economic resilience and stronger participation of developing countries in global governance.",
+                    "sourceName": "Akashvani News",
+                    "sourceUrl": "https://newsonair.gov.in/indias-chairship-of-brics-is-based-on-people-centric-and-humanity-first-approach-pm-modi/",
+                    "staticGK": [
+                        "BRICS Chair : India",
+                        "Year : 2026",
+                        "Theme : Building for Resilience, Innovation, Cooperation and Sustainability",
+                        "Approach : People-Centric",
+                        "Major Focus : Global Governance",
+                        "Previous Indian Chairships : 2012, 2016 and 2021"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was the theme of India's BRICS chairship in 2026?",
+                            "options": [
+                                "Building for Resilience, Innovation, Cooperation and Sustainability",
+                                "One Earth One Future",
+                                "Reform and Recovery",
+                                "Growth Through Trade"
+                            ],
+                            "answer": "Building for Resilience, Innovation, Cooperation and Sustainability"
+                        },
+                        {
+                            "question": "How many times had India previously chaired BRICS before 2026?",
+                            "options": [
+                                "Three times",
+                                "Two times",
+                                "Four times",
+                                "Five times"
+                            ],
+                            "answer": "Three times"
+                        },
+                        {
+                            "question": "Which approach did PM Modi describe India's BRICS chairship as following?",
+                            "options": [
+                                "People-centric and humanity-first",
+                                "Military-first",
+                                "Trade-only",
+                                "Technology-only"
+                            ],
+                            "answer": "People-centric and humanity-first"
+                        },
+                        {
+                            "question": "Which country held the BRICS chairship in 2026?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Brazil",
+                                "Russia"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Which of the following was a major focus of India's BRICS chairship?",
+                            "options": [
+                                "Global governance",
+                                "Only tourism",
+                                "Only sports",
+                                "Only entertainment"
+                            ],
+                            "answer": "Global governance"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
