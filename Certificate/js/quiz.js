@@ -652,23 +652,12 @@ function showQuestion() {
                         onchange="selectAnswer(${index})"
                     >
 
-                        <span class="option-letter">
-                            ${String.fromCharCode(65 + index)})
-                        </span>
-                        <span class="option-text">
-                            ${optionText}
-                        </span>
-                    // <span class="option-letter">
-
-                    //     ${String.fromCharCode(65 + index)}
-
-                    // </span>
-
-                    // <span class="option-text">
-
-                    //     ${optionText}
-
-                    // </span>
+                   <span class="option-letter">
+    ${String.fromCharCode(65 + index)})
+</span>
+<span class="option-text">
+    ${optionText}
+</span>
 
                 </label>
 
@@ -1038,7 +1027,7 @@ async function submitQuiz() {
         // PASS / FAIL
         // --------------------------------------------------
 
-        const passPercentage = 40;
+        const passPercentage = 50;
 
 
         const passed =
