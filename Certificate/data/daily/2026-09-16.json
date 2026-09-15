@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-15",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "15 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "सिंधु घाटी सभ्यता का प्रमुख बंदरगाह कौन-सा था?Which was a major port city of the Indus Valley Civilization?",
+      "options": [
+        "हड़प्पा / Harappa",
+        "लोथल / Lothal",
+        "कालीबंगा / Kalibangan",
+        "राखीगढ़ी / Rakhigarhi"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "हड़प्पा सभ्यता की खोज सबसे पहले किस स्थल से हुई?Which site was first discovered in the Harappan Civilization?",
+      "options": [
+        "मोहनजोदड़ो / Mohenjo-daro",
+        "हड़प्पा / Harappa",
+        "लोथल / Lothal",
+        "धोलावीरा / Dholavira"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "पृथ्वी का वास्तविक आकार क्या है? / What is the actual shape of the Earth?",
+      "options": [
+        "पूर्ण गोलाकार / Perfect sphere",
+        "चपटा गोलाकार / Oblate spheroid",
+        "घनाकार / Cubical",
+        "बेलनाकार / Cylindrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह कौन है? / What is the only natural satellite of Earth?",
+      "options": [
+        "मंगल / Mars",
+        "चंद्रमा / Moon",
+        "शुक्र / Venus",
+        "बुध / Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "भारतीय अर्थव्यवस्था किस प्रकार की अर्थव्यवस्था है? / What type of economy is India?",
+      "options": [
+        "पूंजीवादी / Capitalist",
+        "समाजवादी / Socialist",
+        "मिश्रित / Mixed",
+        "साम्यवादी / Communist"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "भारत का केंद्रीय बैंक कौन सा है? / Which is the central bank of India?",
+      "options": [
+        "SBI",
+        "RBI",
+        "NABARD",
+        "SEBI"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "भारतीय संविधान कब अंगीकृत किया गया था?When was the Constitution of India adopted?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "9 December 1946"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "भारतीय संविधान कब लागू हुआ?When did the Constitution of India come into force?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "2 October 1950"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Where is the World Circular Economy Forum 2026 being hosted?विश्व परिपत्र अर्थव्यवस्था मंच 2026 (World Circular Economy Forum 2026) का आयोजन कहाँ किया जा रहा है?",
+      "options": [
+        "Gandhinagar, Gujarat / गांधीनगर, गुजरात",
+        "New Delhi / नई दिल्ली",
+        "Mumbai / मुंबई",
+        "Bengaluru / बेंगलुरु"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "When is National Engineers' Day observed in India?भारत में राष्ट्रीय अभियंता दिवस (National Engineers' Day) कब मनाया जाता है?",
+      "options": [
+        "15 September / 15 सितंबर",
+        "14 September / 14 सितंबर",
+        "5 September / 5 सितंबर",
+        "28 February / 28 फरवरी"
+      ],
+      "answer": 0
+    }
+  ]
+}
