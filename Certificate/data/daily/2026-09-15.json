@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-15",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "15 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the first Indian Governor-General of independent India? / स्वतंत्र भारत के पहले भारतीय गवर्नर-जनरल कौन थे?",
+      "options": [
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "C. Rajagopalachari / सी. राजगोपालाचारी",
+        "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which Fundamental Right is guaranteed under Article 21 of the Indian Constitution? / भारतीय संविधान के अनुच्छेद 21 के अंतर्गत कौन सा मौलिक अधिकार सुनिश्चित किया गया है?",
+      "options": [
+        "Right to Equality / समानता का अधिकार",
+        "Right to Freedom of Religion / धार्मिक स्वतंत्रता का अधिकार",
+        "Right to Life and Personal Liberty / जीवन और व्यक्तिगत स्वतंत्रता का अधिकार",
+        "Cultural and Educational Rights / सांस्कृतिक और शैक्षिक अधिकार"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which is the longest river flowing entirely within India? / भारत में पूरी तरह बहने वाली सबसे लंबी नदी कौन सी है?",
+      "options": [
+        "Ganga / गंगा",
+        "Godavari / गोदावरी",
+        "Yamuna / यमुना",
+        "Narmada / नर्मदा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which Indian state has the longest coastline? / भारत के किस राज्य की समुद्री तटरेखा सबसे लंबी है?",
+      "options": [
+        "Tamil Nadu / तमिलनाडु",
+        "Andhra Pradesh / आंध्र प्रदेश",
+        "Gujarat / गुजरात",
+        "Maharashtra / महाराष्ट्र"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the SI unit of electric resistance? / विद्युत प्रतिरोध की SI इकाई क्या है?",
+      "options": [
+        "Volt / वोल्ट",
+        "Ampere / एम्पियर",
+        "Ohm / ओम",
+        "Watt / वाट"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which institution is responsible for conducting the Census of India? / भारत की जनगणना कराने की जिम्मेदारी किस संस्था की है?",
+      "options": [
+        "NITI Aayog / नीति आयोग",
+        "Office of the Registrar General and Census Commissioner / भारत के रजिस्ट्रार जनरल एवं जनगणना आयुक्त का कार्यालय",
+        "Election Commission of India / भारत निर्वाचन आयोग",
+        "Ministry of Statistics and Programme Implementation / सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Who is known as the 'Father of the Indian Constitution'? / 'भारतीय संविधान के जनक' के रूप में किसे जाना जाता है?",
+      "options": [
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Dr. B. R. Ambedkar / डॉ. बी. आर. अंबेडकर",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which planet is known as the Red Planet? / किस ग्रह को लाल ग्रह कहा जाता है?",
+      "options": [
+        "Venus / शुक्र",
+        "Mars / मंगल",
+        "Jupiter / बृहस्पति",
+        "Mercury / बुध"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which organization releases the World Economic Outlook report? / वर्ल्ड इकोनॉमिक आउटलुक रिपोर्ट कौन सा संगठन जारी करता है?",
+      "options": [
+        "World Bank / विश्व बैंक",
+        "International Monetary Fund / अंतर्राष्ट्रीय मुद्रा कोष",
+        "World Trade Organization / विश्व व्यापार संगठन",
+        "United Nations / संयुक्त राष्ट्र"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Hindi Diwas is observed every year on which date in India? / भारत में हिंदी दिवस प्रत्येक वर्ष किस तारीख को मनाया जाता है?",
+      "options": [
+        "5 September / 5 सितंबर",
+        "14 September / 14 सितंबर",
+        "15 September / 15 सितंबर",
+        "26 September / 26 सितंबर"
+      ],
+      "answer": 1
+    }
+  ]
+}
