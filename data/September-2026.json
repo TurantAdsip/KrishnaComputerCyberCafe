@@ -9627,6 +9627,684 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-09-15",
+            "date": "15 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 15 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Environment & Economy",
+                    "title": "World Circular Economy Forum 2026 Begins in Gandhinagar",
+                    "summary": "India is hosting the World Circular Economy Forum 2026 in Gandhinagar, Gujarat, from 15 to 18 September 2026. The forum is being held for the first time in South Asia under the theme 'Circular Economy: Transition for People and Prosperity'. More than 2,000 stakeholders from over 65 countries are expected to participate, with a focus on circular finance, innovation and resource efficiency.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2309702&lang=1&reg=3",
+                    "staticGK": [
+                        "Event : World Circular Economy Forum 2026",
+                        "Venue : Gandhinagar, Gujarat",
+                        "Dates : 15–18 September 2026",
+                        "Theme : Circular Economy: Transition for People and Prosperity",
+                        "Participation : 65+ Countries",
+                        "Significance : First WCEF in South Asia"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the World Circular Economy Forum 2026 being hosted?",
+                            "options": [
+                                "Gandhinagar, Gujarat",
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru"
+                            ],
+                            "answer": "Gandhinagar, Gujarat"
+                        },
+                        {
+                            "question": "From which date is the World Circular Economy Forum 2026 being held?",
+                            "options": [
+                                "15 September 2026",
+                                "18 September 2026",
+                                "20 September 2026",
+                                "10 September 2026"
+                            ],
+                            "answer": "15 September 2026"
+                        },
+                        {
+                            "question": "What is the theme of WCEF 2026?",
+                            "options": [
+                                "Circular Economy: Transition for People and Prosperity",
+                                "Green India 2047",
+                                "One Earth, One Future",
+                                "Sustainable Growth for All"
+                            ],
+                            "answer": "Circular Economy: Transition for People and Prosperity"
+                        },
+                        {
+                            "question": "WCEF 2026 is being held for the first time in which region?",
+                            "options": [
+                                "South Asia",
+                                "Europe",
+                                "Africa",
+                                "South America"
+                            ],
+                            "answer": "South Asia"
+                        },
+                        {
+                            "question": "More than how many countries are expected to participate in WCEF 2026?",
+                            "options": [
+                                "65",
+                                "25",
+                                "40",
+                                "50"
+                            ],
+                            "answer": "65"
+                        }
+                    ]
+                },
+                {
+                    "category": "Important Days",
+                    "title": "National Engineers' Day Observed on 15 September",
+                    "summary": "India observes National Engineers' Day every year on 15 September to commemorate the birth anniversary of Sir Mokshagundam Visvesvaraya, one of India's most renowned engineers and statesmen. The day recognises the contribution of engineers to infrastructure, technology, industry and national development.",
+                    "sourceName": "Jagran Josh",
+                    "sourceUrl": "https://www.jagranjosh.com/general-knowledge/when-is-national-engineers-day-2026-know-the-date-history-significance-and-contributions-of-sir-m-visvesvaraya-1820012215-1",
+                    "staticGK": [
+                        "Event : National Engineers' Day",
+                        "Date : 15 September",
+                        "Honouree : Sir M. Visvesvaraya",
+                        "Birth Anniversary : 15 September",
+                        "Field : Engineering and Public Works",
+                        "Significance : Contribution of Engineers to Nation Building"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is National Engineers' Day observed in India?",
+                            "options": [
+                                "15 September",
+                                "14 September",
+                                "5 September",
+                                "28 February"
+                            ],
+                            "answer": "15 September"
+                        },
+                        {
+                            "question": "National Engineers' Day commemorates the birth anniversary of whom?",
+                            "options": [
+                                "Sir M. Visvesvaraya",
+                                "Dr. A.P.J. Abdul Kalam",
+                                "Homi J. Bhabha",
+                                "C.V. Raman"
+                            ],
+                            "answer": "Sir M. Visvesvaraya"
+                        },
+                        {
+                            "question": "Sir M. Visvesvaraya is primarily associated with which field?",
+                            "options": [
+                                "Engineering",
+                                "Medicine",
+                                "Literature",
+                                "Astronomy"
+                            ],
+                            "answer": "Engineering"
+                        },
+                        {
+                            "question": "National Engineers' Day highlights the contribution of engineers to what?",
+                            "options": [
+                                "Nation building",
+                                "Only sports",
+                                "Only tourism",
+                                "Only banking"
+                            ],
+                            "answer": "Nation building"
+                        },
+                        {
+                            "question": "On which date was Sir M. Visvesvaraya born?",
+                            "options": [
+                                "15 September",
+                                "2 October",
+                                "14 November",
+                                "26 January"
+                            ],
+                            "answer": "15 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "RBI to Begin ₹1 Lakh Crore Open Market Bond Sales",
+                    "summary": "The Reserve Bank of India is scheduled to begin a major open market sale of government securities from 16 September 2026 to absorb excess liquidity from the banking system. The planned operation totals ₹1 lakh crore and is divided into three tranches. The move follows a large increase in banking-system liquidity and is intended to keep money-market conditions aligned with monetary policy.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-cenbank-announces-open-market-sale-bonds-withdraw-liquidity-2026-09-11/",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Operation : Open Market Sale",
+                        "Total Amount : ₹1 lakh crore",
+                        "Start Date : 16 September 2026",
+                        "Purpose : Absorb Excess Liquidity",
+                        "Instrument : Government Bonds"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution announced the ₹1 lakh crore open market sale?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "SBI",
+                                "Ministry of Finance"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "What is the total amount of the planned bond sale?",
+                            "options": [
+                                "₹1 lakh crore",
+                                "₹50,000 crore",
+                                "₹2 lakh crore",
+                                "₹25,000 crore"
+                            ],
+                            "answer": "₹1 lakh crore"
+                        },
+                        {
+                            "question": "When is the operation scheduled to begin?",
+                            "options": [
+                                "16 September 2026",
+                                "15 September 2026",
+                                "20 September 2026",
+                                "1 October 2026"
+                            ],
+                            "answer": "16 September 2026"
+                        },
+                        {
+                            "question": "What is the main purpose of the RBI operation?",
+                            "options": [
+                                "Absorb excess liquidity",
+                                "Increase currency printing",
+                                "Fund sports events",
+                                "Reduce exports"
+                            ],
+                            "answer": "Absorb excess liquidity"
+                        },
+                        {
+                            "question": "Which securities are involved in the operation?",
+                            "options": [
+                                "Government bonds",
+                                "Corporate shares",
+                                "Gold bonds only",
+                                "Foreign stocks"
+                            ],
+                            "answer": "Government bonds"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "India's August Retail Inflation Rises to 4.82%",
+                    "summary": "India's annual retail inflation accelerated in August 2026 to 4.82%, according to market reporting. The rise in price pressures, together with elevated crude oil prices, has increased expectations that the Reserve Bank of India may need to consider tighter monetary policy. The development is important for inflation targeting, household purchasing power and interest-rate decisions.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-rupee-bonds-eye-fed-decision-rate-outlook-2026-09-15/",
+                    "staticGK": [
+                        "Indicator : Consumer Price Inflation",
+                        "Month : August 2026",
+                        "Retail Inflation : 4.82%",
+                        "Impact : Higher Price Pressure",
+                        "Key Concern : Elevated Oil Prices",
+                        "Policy Relevance : RBI Interest-Rate Outlook"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's retail inflation rate in August 2026 according to the cited report?",
+                            "options": [
+                                "4.82%",
+                                "5.82%",
+                                "3.82%",
+                                "6.82%"
+                            ],
+                            "answer": "4.82%"
+                        },
+                        {
+                            "question": "Which institution's monetary policy is closely linked with India's inflation management?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NITI Aayog",
+                                "NABARD"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which commodity price was highlighted as an inflationary concern?",
+                            "options": [
+                                "Crude oil",
+                                "Cotton",
+                                "Rice",
+                                "Tea"
+                            ],
+                            "answer": "Crude oil"
+                        },
+                        {
+                            "question": "Retail inflation mainly affects which economic factor directly?",
+                            "options": [
+                                "Purchasing power",
+                                "Ocean depth",
+                                "Rainfall",
+                                "Forest cover"
+                            ],
+                            "answer": "Purchasing power"
+                        },
+                        {
+                            "question": "The inflation figure of 4.82% refers to which month?",
+                            "options": [
+                                "August 2026",
+                                "July 2026",
+                                "September 2026",
+                                "June 2026"
+                            ],
+                            "answer": "August 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "India and China Seek Stronger Business Links and Border Peace",
+                    "summary": "Prime Minister Narendra Modi and Chinese President Xi Jinping held talks on the sidelines of the BRICS Summit in New Delhi. The leaders discussed improving bilateral relations, expanding business and transport links, easing trade and market access, and maintaining peace and stability along the border. The meeting was seen as part of a cautious effort to improve India-China ties.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/china/chinas-xi-lands-delhi-brics-summit-indian-tv-channels-report-2026-09-12/",
+                    "staticGK": [
+                        "Leaders : Narendra Modi and Xi Jinping",
+                        "Countries : India and China",
+                        "Venue : New Delhi",
+                        "Forum : BRICS Summit",
+                        "Focus : Business and Transport Links",
+                        "Key Issue : Border Peace and Stability"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who met Prime Minister Narendra Modi during the BRICS Summit in New Delhi?",
+                            "options": [
+                                "Xi Jinping",
+                                "Vladimir Putin",
+                                "Masoud Pezeshkian",
+                                "Emmanuel Macron"
+                            ],
+                            "answer": "Xi Jinping"
+                        },
+                        {
+                            "question": "Xi Jinping is the President of which country?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "Vietnam"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Where did the Modi-Xi meeting take place?",
+                            "options": [
+                                "New Delhi",
+                                "Beijing",
+                                "Moscow",
+                                "Mumbai"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which issue was highlighted as fundamental to improving bilateral ties?",
+                            "options": [
+                                "Border peace",
+                                "Space tourism",
+                                "Cricket",
+                                "Film cooperation"
+                            ],
+                            "answer": "Border peace"
+                        },
+                        {
+                            "question": "The meeting took place on the sidelines of which summit?",
+                            "options": [
+                                "BRICS Summit",
+                                "G20 Summit",
+                                "NATO Summit",
+                                "COP Summit"
+                            ],
+                            "answer": "BRICS Summit"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS New Delhi Declaration Highlights Global Cooperation",
+                    "summary": "The 18th BRICS Summit concluded in New Delhi with the adoption of the New Delhi Declaration. The declaration focused on cooperation in areas including trade, health, technology, agriculture and global governance. India also proposed a Seafarers' Emergency Support Network aimed at improving support and protection for maritime workers.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-brics-summit-2026-new-delhi-declaration-upsc-10877414/",
+                    "staticGK": [
+                        "Summit : 18th BRICS Summit",
+                        "Venue : New Delhi",
+                        "Document : New Delhi Declaration",
+                        "Theme : Building for Resilience, Innovation, Cooperation, and Sustainability",
+                        "Indian Proposal : Seafarers' Emergency Support Network",
+                        "Focus : Global Cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the 18th BRICS Summit held?",
+                            "options": [
+                                "New Delhi",
+                                "Beijing",
+                                "Rio de Janeiro",
+                                "Moscow"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What was adopted at the conclusion of the 18th BRICS Summit?",
+                            "options": [
+                                "New Delhi Declaration",
+                                "Delhi Charter",
+                                "Global South Pact",
+                                "BRICS Economic Code"
+                            ],
+                            "answer": "New Delhi Declaration"
+                        },
+                        {
+                            "question": "Which network was proposed by India for maritime workers?",
+                            "options": [
+                                "Seafarers' Emergency Support Network",
+                                "BRICS Maritime Bank",
+                                "Global Shipping Alliance",
+                                "Ocean Security Network"
+                            ],
+                            "answer": "Seafarers' Emergency Support Network"
+                        },
+                        {
+                            "question": "Which area was included among BRICS cooperation priorities?",
+                            "options": [
+                                "Trade",
+                                "Only cinema",
+                                "Only tourism",
+                                "Only aviation"
+                            ],
+                            "answer": "Trade"
+                        },
+                        {
+                            "question": "The BRICS Summit theme included resilience, innovation, cooperation and what?",
+                            "options": [
+                                "Sustainability",
+                                "Privatisation",
+                                "Militarisation",
+                                "Urbanisation"
+                            ],
+                            "answer": "Sustainability"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "Indian Rupee Under Pressure as Oil Prices Stay High",
+                    "summary": "The Indian rupee remained under pressure as crude oil prices stayed above $100 per barrel amid geopolitical tensions in the Middle East. The rupee had closed at ₹95.55 per US dollar after losing more than 1% during the previous week. India's large foreign-exchange reserves, reported at about $785 billion, could provide the Reserve Bank of India with room to manage excessive volatility.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-rupee-bonds-eye-fed-decision-rate-outlook-2026-09-15/",
+                    "staticGK": [
+                        "Currency : Indian Rupee",
+                        "Reported Closing Level : ₹95.55 per US Dollar",
+                        "Key Pressure : High Crude Oil Prices",
+                        "Oil Price : Above $100 per Barrel",
+                        "Forex Reserves : About $785 Billion",
+                        "Institution : Reserve Bank of India"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "At what level did the Indian rupee close in the cited report?",
+                            "options": [
+                                "₹95.55 per US dollar",
+                                "₹85.55 per US dollar",
+                                "₹105.55 per US dollar",
+                                "₹75.55 per US dollar"
+                            ],
+                            "answer": "₹95.55 per US dollar"
+                        },
+                        {
+                            "question": "Which commodity was cited as a major pressure on the rupee?",
+                            "options": [
+                                "Crude oil",
+                                "Gold",
+                                "Cotton",
+                                "Wheat"
+                            ],
+                            "answer": "Crude oil"
+                        },
+                        {
+                            "question": "Crude oil prices were reported above which level?",
+                            "options": [
+                                "$100 per barrel",
+                                "$50 per barrel",
+                                "$75 per barrel",
+                                "$90 per barrel"
+                            ],
+                            "answer": "$100 per barrel"
+                        },
+                        {
+                            "question": "India's reported foreign-exchange reserves were about how much?",
+                            "options": [
+                                "$785 billion",
+                                "$585 billion",
+                                "$385 billion",
+                                "$985 billion"
+                            ],
+                            "answer": "$785 billion"
+                        },
+                        {
+                            "question": "Which institution can intervene to manage excessive currency volatility?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "IRDAI",
+                                "NITI Aayog"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs",
+                    "title": "Thailand Reduces Visa-Free Stay Period to 30 Days",
+                    "summary": "Thailand has implemented a change to its visa-exemption rules from 15 September 2026. Citizens of 60 countries and territories covered by the scheme can now stay visa-free for up to 30 days, compared with the earlier 60-day period. The change is relevant to international travel and tourism policy.",
+                    "sourceName": "VisasNews",
+                    "sourceUrl": "https://visasnews.com/en/thailand-to-officially-cut-visa-free-stay-to-30-days-on-september-15-2026/",
+                    "staticGK": [
+                        "Country : Thailand",
+                        "Effective Date : 15 September 2026",
+                        "Visa-Free Stay : Up to 30 Days",
+                        "Countries/Territories Covered : 60",
+                        "Earlier Stay Period : 60 Days",
+                        "Area : Tourism and Immigration Policy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "From which date did Thailand's revised visa-free stay rule take effect?",
+                            "options": [
+                                "15 September 2026",
+                                "1 September 2026",
+                                "30 September 2026",
+                                "15 October 2026"
+                            ],
+                            "answer": "15 September 2026"
+                        },
+                        {
+                            "question": "What is the revised maximum visa-free stay under the cited scheme?",
+                            "options": [
+                                "30 days",
+                                "15 days",
+                                "45 days",
+                                "60 days"
+                            ],
+                            "answer": "30 days"
+                        },
+                        {
+                            "question": "How many countries and territories are covered by the cited visa-exemption scheme?",
+                            "options": [
+                                "60",
+                                "30",
+                                "45",
+                                "90"
+                            ],
+                            "answer": "60"
+                        },
+                        {
+                            "question": "What was the earlier visa-free stay period?",
+                            "options": [
+                                "60 days",
+                                "30 days",
+                                "15 days",
+                                "90 days"
+                            ],
+                            "answer": "60 days"
+                        },
+                        {
+                            "question": "The rule is mainly related to which area?",
+                            "options": [
+                                "Tourism and immigration",
+                                "Banking",
+                                "Defence",
+                                "Agriculture"
+                            ],
+                            "answer": "Tourism and immigration"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Rumesh Pathirage Wins World Ultimate Championships",
+                    "summary": "Sri Lankan athlete Rumesh Pathirage won the men's javelin throw title at the World Ultimate Championships, according to September 15 news coverage. The result was highlighted among the day's major international sports developments and adds another notable achievement to Sri Lanka's athletics record.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-15-2026-cjp-to-join-mpsc-protest-rumesh-pathirage-wins-the-world-ultimate-championships-10877296/",
+                    "staticGK": [
+                        "Athlete : Rumesh Pathirage",
+                        "Country : Sri Lanka",
+                        "Event : Javelin Throw",
+                        "Championship : World Ultimate Championships",
+                        "Sport : Athletics",
+                        "Achievement : Men's Javelin Title"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the men's javelin title highlighted in the September 15 sports news?",
+                            "options": [
+                                "Rumesh Pathirage",
+                                "Neeraj Chopra",
+                                "Anderson Peters",
+                                "Julian Weber"
+                            ],
+                            "answer": "Rumesh Pathirage"
+                        },
+                        {
+                            "question": "Rumesh Pathirage represents which country?",
+                            "options": [
+                                "Sri Lanka",
+                                "India",
+                                "Pakistan",
+                                "Bangladesh"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "Which event did Rumesh Pathirage win?",
+                            "options": [
+                                "Javelin throw",
+                                "Long jump",
+                                "High jump",
+                                "Discus throw"
+                            ],
+                            "answer": "Javelin throw"
+                        },
+                        {
+                            "question": "Javelin throw belongs to which sport category?",
+                            "options": [
+                                "Athletics",
+                                "Swimming",
+                                "Wrestling",
+                                "Archery"
+                            ],
+                            "answer": "Athletics"
+                        },
+                        {
+                            "question": "Which championship was associated with the achievement?",
+                            "options": [
+                                "World Ultimate Championships",
+                                "Asian Games",
+                                "Commonwealth Games",
+                                "Diamond League"
+                            ],
+                            "answer": "World Ultimate Championships"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "Circular Economy Forum Focuses on Innovation and Resource Efficiency",
+                    "summary": "The World Circular Economy Forum 2026 places strong emphasis on circular finance, innovation and practical solutions for resource efficiency. The forum brings together governments, businesses, researchers and other stakeholders to promote systems that reduce waste and keep materials in productive use for longer.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2309702&lang=1&reg=3",
+                    "staticGK": [
+                        "Forum : World Circular Economy Forum 2026",
+                        "Key Area : Circular Finance",
+                        "Focus : Resource Efficiency",
+                        "Approach : Innovation and Cross-sector Partnerships",
+                        "Venue : Gandhinagar",
+                        "Dates : 15–18 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which type of finance is highlighted at WCEF 2026?",
+                            "options": [
+                                "Circular finance",
+                                "Military finance",
+                                "Sports finance",
+                                "Tourism finance"
+                            ],
+                            "answer": "Circular finance"
+                        },
+                        {
+                            "question": "What is a major focus of the circular economy approach?",
+                            "options": [
+                                "Resource efficiency",
+                                "Resource wastage",
+                                "Higher pollution",
+                                "Single-use production"
+                            ],
+                            "answer": "Resource efficiency"
+                        },
+                        {
+                            "question": "Which city is hosting WCEF 2026?",
+                            "options": [
+                                "Gandhinagar",
+                                "Ahmedabad",
+                                "New Delhi",
+                                "Surat"
+                            ],
+                            "answer": "Gandhinagar"
+                        },
+                        {
+                            "question": "WCEF brings together stakeholders from which sectors?",
+                            "options": [
+                                "Multiple sectors including government, business and research",
+                                "Only banks",
+                                "Only schools",
+                                "Only sports bodies"
+                            ],
+                            "answer": "Multiple sectors including government, business and research"
+                        },
+                        {
+                            "question": "The forum aims to promote solutions that reduce what?",
+                            "options": [
+                                "Waste",
+                                "Literacy",
+                                "Exports",
+                                "Rainfall"
+                            ],
+                            "answer": "Waste"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
