@@ -10305,6 +10305,684 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-09-16",
+            "date": "16 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 16 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Digital Payments & Economy",
+                    "title": "UPI Transactions Above ₹2,000 to Attract Merchant Discount Rate",
+                    "summary": "The National Payments Corporation of India has announced a new merchant discount rate framework for specified person-to-merchant UPI transactions above ₹2,000. The MDR is set at 0.4% with a maximum cap of ₹300 per transaction, while UPI person-to-person transactions remain free. The framework is scheduled to take effect from 15 October 2026.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/business/upi-payments-over-rs-2000-to-merchants-will-attract-0-4-fee-10879274/",
+                    "staticGK": [
+                        "Institution : National Payments Corporation of India (NPCI)",
+                        "Payment System : Unified Payments Interface (UPI)",
+                        "MDR : 0.4% on specified merchant transactions above ₹2,000",
+                        "Maximum MDR Cap : ₹300 per transaction",
+                        "Effective Date : 15 October 2026",
+                        "P2P Transactions : Remain free"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation announced the new MDR framework for specified UPI merchant transactions?",
+                            "options": [
+                                "NPCI",
+                                "RBI",
+                                "SEBI",
+                                "SBI"
+                            ],
+                            "answer": "NPCI"
+                        },
+                        {
+                            "question": "The new MDR framework applies to specified UPI merchant transactions above which amount?",
+                            "options": [
+                                "₹1,000",
+                                "₹2,000",
+                                "₹5,000",
+                                "₹10,000"
+                            ],
+                            "answer": "₹2,000"
+                        },
+                        {
+                            "question": "What is the announced MDR rate for specified transactions above ₹2,000?",
+                            "options": [
+                                "0.2%",
+                                "0.3%",
+                                "0.4%",
+                                "0.5%"
+                            ],
+                            "answer": "0.4%"
+                        },
+                        {
+                            "question": "What is the maximum MDR cap per transaction?",
+                            "options": [
+                                "₹100",
+                                "₹200",
+                                "₹300",
+                                "₹500"
+                            ],
+                            "answer": "₹300"
+                        },
+                        {
+                            "question": "From which date is the new MDR framework scheduled to apply?",
+                            "options": [
+                                "16 September 2026",
+                                "1 October 2026",
+                                "15 October 2026",
+                                "1 November 2026"
+                            ],
+                            "answer": "15 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & International Relations",
+                    "title": "India and Vietnam Agree to Deepen Defence Cooperation",
+                    "summary": "India and Vietnam have agreed to strengthen defence and security cooperation, including cooperation in defence production and possible co-production of military equipment. The development was discussed during the 19th India-Vietnam Joint Commission Meeting and is linked with India's broader Act East and Indo-Pacific engagement.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-september-16-2026-cjp-to-join-mpsc-protest-rumesh-pathirage-wins-the-world-ultimate-championships-10878956/",
+                    "staticGK": [
+                        "Countries : India and Vietnam",
+                        "Meeting : 19th India-Vietnam Joint Commission Meeting",
+                        "Focus : Defence and Security Cooperation",
+                        "Cooperation : Defence Production and Co-production",
+                        "Indian Policy Context : Act East Policy",
+                        "Region : Indo-Pacific"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two countries agreed to deepen defence cooperation?",
+                            "options": [
+                                "India and Vietnam",
+                                "India and Japan",
+                                "India and France",
+                                "India and Indonesia"
+                            ],
+                            "answer": "India and Vietnam"
+                        },
+                        {
+                            "question": "The discussions took place during which meeting?",
+                            "options": [
+                                "18th India-China Dialogue",
+                                "19th India-Vietnam Joint Commission Meeting",
+                                "20th ASEAN Summit",
+                                "BRICS Business Forum"
+                            ],
+                            "answer": "19th India-Vietnam Joint Commission Meeting"
+                        },
+                        {
+                            "question": "Which area was highlighted in the cooperation?",
+                            "options": [
+                                "Defence production",
+                                "Film production",
+                                "Tourism only",
+                                "Agricultural exports only"
+                            ],
+                            "answer": "Defence production"
+                        },
+                        {
+                            "question": "India's engagement with Vietnam is closely associated with which policy?",
+                            "options": [
+                                "Act East Policy",
+                                "Look West Policy",
+                                "Neighbourhood First only",
+                                "Blue Revolution"
+                            ],
+                            "answer": "Act East Policy"
+                        },
+                        {
+                            "question": "Vietnam is located in which region?",
+                            "options": [
+                                "Southeast Asia",
+                                "South America",
+                                "Eastern Europe",
+                                "West Asia"
+                            ],
+                            "answer": "Southeast Asia"
+                        }
+                    ]
+                },
+                {
+                    "category": "Governance & Administration",
+                    "title": "Special Campaign 6 Preparatory Phase Begins",
+                    "summary": "The Government of India is beginning the preparatory phase of Special Campaign 6 from 16 September 2026. The campaign focuses on institutionalising cleanliness, reducing pendency and improving the collection, segregation and disposal of e-waste in government offices. The implementation phase is scheduled for 2 to 31 October 2026.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310383&lang=1&reg=48",
+                    "staticGK": [
+                        "Campaign : Special Campaign 6",
+                        "Preparatory Phase : 16–30 September 2026",
+                        "Implementation Phase : 2–31 October 2026",
+                        "Nodal Department : DARPG",
+                        "Special Focus : E-waste collection, segregation and disposal",
+                        "Portal : SCDPM 6"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the name of the government cleanliness and reforms campaign entering its sixth edition?",
+                            "options": [
+                                "Special Campaign 6",
+                                "Mission Clean India 6",
+                                "Swachh Office 6",
+                                "Good Governance Mission 6"
+                            ],
+                            "answer": "Special Campaign 6"
+                        },
+                        {
+                            "question": "When does the preparatory phase of Special Campaign 6 begin?",
+                            "options": [
+                                "1 September 2026",
+                                "16 September 2026",
+                                "2 October 2026",
+                                "15 October 2026"
+                            ],
+                            "answer": "16 September 2026"
+                        },
+                        {
+                            "question": "What is a major focus of Special Campaign 6?",
+                            "options": [
+                                "E-waste management",
+                                "Space tourism",
+                                "Sports training",
+                                "Foreign exchange trading"
+                            ],
+                            "answer": "E-waste management"
+                        },
+                        {
+                            "question": "Which department coordinates the Special Campaigns?",
+                            "options": [
+                                "DARPG",
+                                "RBI",
+                                "ISRO",
+                                "SEBI"
+                            ],
+                            "answer": "DARPG"
+                        },
+                        {
+                            "question": "When is the implementation phase scheduled to take place?",
+                            "options": [
+                                "1–30 September 2026",
+                                "2–31 October 2026",
+                                "1–30 November 2026",
+                                "15–31 December 2026"
+                            ],
+                            "answer": "2–31 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "RBI Likely Intervenes to Support the Indian Rupee",
+                    "summary": "Reuters reported that the Reserve Bank of India likely intervened in the foreign-exchange market on 16 September 2026 as the rupee faced pressure from higher global oil prices and expectations surrounding US interest rates. The rupee was reported at around ₹95.87 per US dollar after touching a one-month low in the previous session.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-central-bank-likely-intervenes-support-rupee-traders-say-2026-09-16/",
+                    "staticGK": [
+                        "Institution : Reserve Bank of India",
+                        "Market : Foreign Exchange Market",
+                        "Currency : Indian Rupee",
+                        "Reported Level : About ₹95.87 per US Dollar",
+                        "Key Pressure : Higher Crude Oil Prices",
+                        "External Factor : US Federal Reserve Rate Outlook"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution was reported to have likely intervened in the foreign-exchange market?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "SBI",
+                                "Ministry of Commerce"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "Which currency was under pressure in the reported development?",
+                            "options": [
+                                "Indian Rupee",
+                                "Japanese Yen",
+                                "Euro",
+                                "British Pound"
+                            ],
+                            "answer": "Indian Rupee"
+                        },
+                        {
+                            "question": "At around what level was the rupee reported on 16 September 2026?",
+                            "options": [
+                                "₹75.87 per US dollar",
+                                "₹85.87 per US dollar",
+                                "₹95.87 per US dollar",
+                                "₹105.87 per US dollar"
+                            ],
+                            "answer": "₹95.87 per US dollar"
+                        },
+                        {
+                            "question": "Which commodity was cited as a pressure on the rupee?",
+                            "options": [
+                                "Crude oil",
+                                "Cotton",
+                                "Wheat",
+                                "Gold"
+                            ],
+                            "answer": "Crude oil"
+                        },
+                        {
+                            "question": "Which foreign central bank's expected rate decision was also relevant to the market?",
+                            "options": [
+                                "US Federal Reserve",
+                                "Bank of Japan",
+                                "European Central Bank",
+                                "Bank of England"
+                            ],
+                            "answer": "US Federal Reserve"
+                        }
+                    ]
+                },
+                {
+                    "category": "Stock Market & Economy",
+                    "title": "Indian Markets Face Pressure from High Crude Oil Prices",
+                    "summary": "Indian equity markets were preparing for a cautious session on 16 September after the Nifty 50 closed at a five-month low on the previous day. High crude oil prices, elevated US Treasury yields and uncertainty over the US Federal Reserve's rate decision remained important market factors. Reuters reported Brent crude near $108.3 per barrel amid supply concerns.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-shares-seen-opening-higher-after-selloff-higher-oil-fed-caution-2026-09-16/",
+                    "staticGK": [
+                        "Index : Nifty 50",
+                        "Previous Close : 23,118.60",
+                        "Previous Session : Five-month low",
+                        "Crude Oil : Around $108.3 per barrel",
+                        "Key External Factor : US Federal Reserve Rate Decision",
+                        "Market Concern : High Oil Prices and Bond Yields"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian stock index was reported to have closed at a five-month low?",
+                            "options": [
+                                "Nifty 50",
+                                "Nifty Bank",
+                                "BSE Midcap",
+                                "Sensex only"
+                            ],
+                            "answer": "Nifty 50"
+                        },
+                        {
+                            "question": "At what level did the Nifty 50 close in the cited report?",
+                            "options": [
+                                "21,118.60",
+                                "22,118.60",
+                                "23,118.60",
+                                "24,118.60"
+                            ],
+                            "answer": "23,118.60"
+                        },
+                        {
+                            "question": "Around what level was crude oil reported?",
+                            "options": [
+                                "$78.3 per barrel",
+                                "$88.3 per barrel",
+                                "$98.3 per barrel",
+                                "$108.3 per barrel"
+                            ],
+                            "answer": "$108.3 per barrel"
+                        },
+                        {
+                            "question": "Which US institution's rate decision was being watched by markets?",
+                            "options": [
+                                "US Federal Reserve",
+                                "US Treasury",
+                                "US SEC",
+                                "US Commerce Department"
+                            ],
+                            "answer": "US Federal Reserve"
+                        },
+                        {
+                            "question": "Which commodity price was a major concern for Indian markets?",
+                            "options": [
+                                "Crude oil",
+                                "Silver",
+                                "Cotton",
+                                "Tea"
+                            ],
+                            "answer": "Crude oil"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "SARAL AI Initiative Expands Access to Scientific Research",
+                    "summary": "The Anusandhan National Research Foundation is developing SARAL AI to convert complex research publications into simplified and accessible content. The initiative is designed to support wider dissemination of scientific knowledge, including content in Indian languages and formats such as videos and podcasts.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251627&lang=1&reg=3",
+                    "staticGK": [
+                        "Initiative : SARAL AI",
+                        "Organisation : Anusandhan National Research Foundation (ANRF)",
+                        "Purpose : Simplify Scientific Research",
+                        "Formats : Podcasts, Short Videos and Social Media Content",
+                        "Language Reach : Indian Languages",
+                        "Focus : Wider Public Access to Science"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "SARAL AI is associated with which organisation?",
+                            "options": [
+                                "ANRF",
+                                "ISRO",
+                                "DRDO",
+                                "NITI Aayog"
+                            ],
+                            "answer": "ANRF"
+                        },
+                        {
+                            "question": "What is the main purpose of SARAL AI?",
+                            "options": [
+                                "Simplifying scientific research content",
+                                "Managing railway tickets",
+                                "Tracking satellites",
+                                "Issuing passports"
+                            ],
+                            "answer": "Simplifying scientific research content"
+                        },
+                        {
+                            "question": "Which type of content can SARAL AI help create?",
+                            "options": [
+                                "Podcasts and short videos",
+                                "Only bank statements",
+                                "Only railway tickets",
+                                "Only election forms"
+                            ],
+                            "answer": "Podcasts and short videos"
+                        },
+                        {
+                            "question": "SARAL AI aims to improve public access to what?",
+                            "options": [
+                                "Scientific knowledge",
+                                "Foreign currency",
+                                "Railway reservations",
+                                "Sports tickets"
+                            ],
+                            "answer": "Scientific knowledge"
+                        },
+                        {
+                            "question": "ANRF stands for what?",
+                            "options": [
+                                "Anusandhan National Research Foundation",
+                                "Advanced National Research Forum",
+                                "Atomic National Research Foundation",
+                                "Applied National Research Facility"
+                            ],
+                            "answer": "Anusandhan National Research Foundation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Electric Mobility",
+                    "title": "India Electric Mobility Index to Be Launched",
+                    "summary": "The Government of India scheduled a workshop on State EV Policies and the launch of the India Electric Mobility Index on 16 September 2026. The initiative is intended to support assessment and discussion of electric mobility policies and the progress of states in the electric mobility transition.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/MediaInvitationDetail.aspx?InvitationID=159310&lang=1&reg=+3",
+                    "staticGK": [
+                        "Index : India Electric Mobility Index (IEMI)",
+                        "Event : State EV Policies Workshop",
+                        "Date : 16 September 2026",
+                        "Sector : Electric Mobility",
+                        "Policy Area : State EV Policies",
+                        "Theme : Electric Vehicle Transition"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of IEMI?",
+                            "options": [
+                                "India Electric Mobility Index",
+                                "Indian Energy Market Index",
+                                "India EV Manufacturing Index",
+                                "Indian Electric Motor Index"
+                            ],
+                            "answer": "India Electric Mobility Index"
+                        },
+                        {
+                            "question": "The IEMI is related to which sector?",
+                            "options": [
+                                "Electric mobility",
+                                "Banking",
+                                "Agriculture",
+                                "Defence"
+                            ],
+                            "answer": "Electric mobility"
+                        },
+                        {
+                            "question": "What type of policies were discussed at the associated workshop?",
+                            "options": [
+                                "State EV Policies",
+                                "State Banking Policies",
+                                "State Defence Policies",
+                                "State Tourism Policies"
+                            ],
+                            "answer": "State EV Policies"
+                        },
+                        {
+                            "question": "On which date was the IEMI launch scheduled?",
+                            "options": [
+                                "15 September 2026",
+                                "16 September 2026",
+                                "17 September 2026",
+                                "2 October 2026"
+                            ],
+                            "answer": "16 September 2026"
+                        },
+                        {
+                            "question": "EV stands for what?",
+                            "options": [
+                                "Electric Vehicle",
+                                "Energy Vehicle",
+                                "Electronic Vessel",
+                                "Electric Value"
+                            ],
+                            "answer": "Electric Vehicle"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "BRICS Summit and India-China Engagement Remain in Focus",
+                    "summary": "The 18th BRICS Summit in New Delhi brought together leaders from major emerging economies, including China and Russia. Discussions covered economic cooperation, trade in local currencies, digital financial infrastructure and global governance. The summit also provided an opportunity for India and China to discuss bilateral relations.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/advantage-china-new-delhis-brics-summit-2026-09-15/",
+                    "staticGK": [
+                        "Summit : 18th BRICS Summit",
+                        "Venue : New Delhi",
+                        "Dates : 12–13 September 2026",
+                        "Focus : Economic and Global Cooperation",
+                        "Members/Participants : Major Emerging Economies",
+                        "Key Discussion : Trade, Digital Finance and Global Governance"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the 18th BRICS Summit held?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Beijing",
+                                "Rio de Janeiro"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which country was among the major participants highlighted in the report?",
+                            "options": [
+                                "China",
+                                "Canada",
+                                "Australia",
+                                "Mexico"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "What was one of the economic topics discussed at the summit?",
+                            "options": [
+                                "Trade in local currencies",
+                                "Only tourism",
+                                "Only agriculture",
+                                "Only sports"
+                            ],
+                            "answer": "Trade in local currencies"
+                        },
+                        {
+                            "question": "Which area of financial technology was discussed?",
+                            "options": [
+                                "Digital financial infrastructure",
+                                "Only cash printing",
+                                "Only gold trading",
+                                "Only insurance"
+                            ],
+                            "answer": "Digital financial infrastructure"
+                        },
+                        {
+                            "question": "BRICS is primarily a grouping associated with what?",
+                            "options": [
+                                "Emerging economies",
+                                "Military alliances only",
+                                "European countries only",
+                                "Island nations only"
+                            ],
+                            "answer": "Emerging economies"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Finance",
+                    "title": "UPI Remains Free for Person-to-Person Transactions",
+                    "summary": "The Ministry of Finance clarified that the new UPI framework does not affect person-to-person transactions, which remain free irrespective of the amount transferred. Merchant payments up to ₹2,000 and transactions covered under the zero-MDR framework for small merchants also remain free. The government said around 96% of P2M transactions will remain unaffected.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310586&lang=2&reg=48",
+                    "staticGK": [
+                        "Payment System : UPI",
+                        "P2P Transactions : Completely Free",
+                        "Merchant Payments up to ₹2,000 : Free",
+                        "Affected Segment : Specified Merchant Transactions Above ₹2,000",
+                        "Approx. P2M Transactions Unaffected : 96%",
+                        "Legal Framework : Payment and Settlement Systems Act, 2007"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Are UPI person-to-person transactions affected by the new framework?",
+                            "options": [
+                                "No, they remain free",
+                                "Yes, all are charged",
+                                "Only below ₹500 are charged",
+                                "Only above ₹500 are charged"
+                            ],
+                            "answer": "No, they remain free"
+                        },
+                        {
+                            "question": "UPI merchant payments up to what amount remain free?",
+                            "options": [
+                                "₹1,000",
+                                "₹2,000",
+                                "₹5,000",
+                                "₹10,000"
+                            ],
+                            "answer": "₹2,000"
+                        },
+                        {
+                            "question": "Approximately what share of P2M transactions is expected to remain unaffected?",
+                            "options": [
+                                "76%",
+                                "86%",
+                                "96%",
+                                "99%"
+                            ],
+                            "answer": "96%"
+                        },
+                        {
+                            "question": "What does P2P mean in the UPI context?",
+                            "options": [
+                                "Person-to-Person",
+                                "Payment-to-Payment",
+                                "Public-to-Public",
+                                "Provider-to-Provider"
+                            ],
+                            "answer": "Person-to-Person"
+                        },
+                        {
+                            "question": "The new framework was introduced under which Act?",
+                            "options": [
+                                "Payment and Settlement Systems Act, 2007",
+                                "Companies Act, 2013",
+                                "Banking Regulation Act, 1949",
+                                "SEBI Act, 1992"
+                            ],
+                            "answer": "Payment and Settlement Systems Act, 2007"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Indian Pacer Mukesh Kumar Joins Nottinghamshire",
+                    "summary": "Indian fast bowler Mukesh Kumar has joined Nottinghamshire for the 2026 County Championship season, according to September 16 news coverage. The move gives the Indian pacer an opportunity to play county cricket in England and gain experience in English domestic conditions.",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-september-16-2026-cjp-to-join-mpsc-protest-rumesh-pathirage-wins-the-world-ultimate-championships-10878956/",
+                    "staticGK": [
+                        "Player : Mukesh Kumar",
+                        "Country : India",
+                        "Sport : Cricket",
+                        "Team/County : Nottinghamshire",
+                        "Competition : County Championship",
+                        "Season : 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian cricketer joined Nottinghamshire for the 2026 County Championship season?",
+                            "options": [
+                                "Mukesh Kumar",
+                                "Mohammed Siraj",
+                                "Jasprit Bumrah",
+                                "Arshdeep Singh"
+                            ],
+                            "answer": "Mukesh Kumar"
+                        },
+                        {
+                            "question": "Mukesh Kumar represents which country?",
+                            "options": [
+                                "India",
+                                "England",
+                                "Australia",
+                                "South Africa"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Which sport is Mukesh Kumar associated with?",
+                            "options": [
+                                "Cricket",
+                                "Hockey",
+                                "Football",
+                                "Athletics"
+                            ],
+                            "answer": "Cricket"
+                        },
+                        {
+                            "question": "Which county did Mukesh Kumar join?",
+                            "options": [
+                                "Nottinghamshire",
+                                "Yorkshire",
+                                "Surrey",
+                                "Kent"
+                            ],
+                            "answer": "Nottinghamshire"
+                        },
+                        {
+                            "question": "The County Championship is associated with which country?",
+                            "options": [
+                                "England",
+                                "India",
+                                "Sri Lanka",
+                                "New Zealand"
+                            ],
+                            "answer": "England"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
