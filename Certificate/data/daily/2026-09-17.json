@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-17",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "17 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "मोहनजोदड़ो का अर्थ क्या है?What does Mohenjo-daro mean?",
+      "options": [
+        "मृतकों का टीला / Mound of the Dead",
+        "राजा का नगर / City of Kings",
+        "पुराना नगर / Old City",
+        "देवताओं का नगर / City of Gods"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "महान स्नानागार किस हड़प्पाई स्थल पर मिला है?At which Harappan site was the Great Bath found?",
+      "options": [
+        "हड़प्पा / Harappa",
+        "लोथल / Lothal",
+        "मोहनजोदड़ो / Mohenjo-daro",
+        "धोलावीरा / Dholavira"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "पृथ्वी अपने अक्ष पर एक चक्कर लगभग कितने समय में पूरा करती है? / Earth completes one rotation in approximately:",
+      "options": [
+        "12 घंटे / 12 hours",
+        "24 घंटे / 24 hours",
+        "48 घंटे / 48 hours",
+        "365 दिन / 365 days"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "पृथ्वी के अक्ष का झुकाव कितना है? / What is the tilt of Earth's axis?",
+      "options": [
+        "15°",
+        "23½°",
+        "45°",
+        "66½°"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "RBI की स्थापना कब हुई थी? / When was RBI established?",
+      "options": [
+        "1930",
+        "1935",
+        "1947",
+        "1950"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "भारत में ₹1 का नोट कौन जारी करता है? / Who issues the ₹1 note in India?",
+      "options": [
+        "वित्त मंत्रालय / Ministry of Finance",
+        "RBI",
+        "SBI",
+        "SEBI"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारतीय संविधान की प्रस्तावना में भारत को किस रूप में वर्णित किया गया है?How is India described in the Preamble?",
+      "options": [
+        "संघीय राज्य / Federal State",
+        "संप्रभु समाजवादी पंथनिरपेक्ष लोकतांत्रिक गणराज्य / Sovereign Socialist Secular Democratic Republic",
+        "राजतंत्र / Monarchy",
+        "एकात्मक राज्य / Unitary State"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संशोधन द्वारा जोड़े गए?Which Amendment added the words 'Socialist' and 'Secular' to the Preamble?",
+      "options": [
+        "24वां / 24th",
+        "42वां / 42nd",
+        "44वां / 44th",
+        "52वां / 52nd"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The new MDR framework applies to specified UPI merchant transactions above which amount?नया MDR फ्रेमवर्क निर्दिष्ट UPI मर्चेंट लेनदेन में किस राशि से अधिक के लेनदेन पर लागू होता है?",
+      "options": [
+        "₹1,000",
+        "₹2,000",
+        "₹5,000",
+        "₹10,000"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The discussions took place during which meeting?ये चर्चाएँ किस बैठक के दौरान हुईं?",
+      "options": [
+        "18th India-China Dialogue — 18वीं भारत-चीन वार्ता",
+        "19th India-Vietnam Joint Commission Meeting — 19वीं भारत-वियतनाम संयुक्त आयोग बैठक",
+        "20th ASEAN Summit — 20वां ASEAN शिखर सम्मेलन",
+        "BRICS Business Forum — BRICS बिजनेस फोरम"
+      ],
+      "answer": 1
+    }
+  ]
+}
