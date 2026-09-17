@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-18",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "18 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "धोलावीरा वर्तमान में किस राज्य में स्थित है?Dholavira is located in which present-day state?",
+      "options": [
+        "राजस्थान / Rajasthan",
+        "गुजरात / Gujarat",
+        "हरियाणा / Haryana",
+        "पंजाब / Punjab"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "कालीबंगा किस राज्य में स्थित है?Kalibangan is located in which state?",
+      "options": [
+        "गुजरात / Gujarat",
+        "राजस्थान / Rajasthan",
+        "हरियाणा / Haryana",
+        "पंजाब / Punjab"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "पृथ्वी सूर्य की परिक्रमा लगभग कितने समय में करती है? / Earth revolves around the Sun in approximately:",
+      "options": [
+        "24 घंटे / 24 hours",
+        "30 दिन / 30 days",
+        "365¼ दिन / 365¼ days",
+        "180 दिन / 180 days"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "भूमध्य रेखा का अक्षांश कितना है? / What is the latitude of the Equator?",
+      "options": [
+        "0°",
+        "23½°",
+        "90° N",
+        "66½°"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "RBI का मुख्यालय कहाँ है? / Where is the headquarters of RBI?",
+      "options": [
+        "नई दिल्ली / New Delhi",
+        "मुंबई / Mumbai",
+        "कोलकाता / Kolkata",
+        "चेन्नई / Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "भारत की मुद्रा क्या है? / What is the currency of India?",
+      "options": [
+        "डॉलर / Dollar",
+        "रुपया / Rupee",
+        "पाउंड / Pound",
+        "येन / Yen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "भारतीय संविधान की प्रस्तावना में भारत को किस रूप में वर्णित किया गया है?How is India described in the Preamble?",
+      "options": [
+        "संघीय राज्य / Federal State",
+        "संप्रभु समाजवादी पंथनिरपेक्ष लोकतांत्रिक गणराज्य / Sovereign Socialist Secular Democratic Republic",
+        "राजतंत्र / Monarchy",
+        "एकात्मक राज्य / Unitary State"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "भारतीय संविधान में मौलिक अधिकार किस भाग में हैं?In which Part are Fundamental Rights provided?",
+      "options": [
+        "भाग I / Part I",
+        "भाग II / Part II",
+        "भाग III / Part III",
+        "भाग IV / Part IV"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "PM Vishwakarma Scheme was launched in which year?PM Vishwakarma योजना किस वर्ष शुरू की गई थी?",
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the theme of Swachhata Hi Seva Campaign 2026?Swachhata Hi Seva Campaign 2026 की theme क्या है?",
+      "options": [
+        "Swachh Bharat, Swasth Bharat",
+        "Clean India, Green India",
+        "Swachhata Mein Sahbhag; Swachh Bharat, Viksit Bharat",
+        "Swachh Bharat Abhiyan 2.0"
+      ],
+      "answer": 2
+    }
+  ]
+}
