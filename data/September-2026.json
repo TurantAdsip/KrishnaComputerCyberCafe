@@ -11661,6 +11661,750 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-09-18",
+            "date": "18 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 18 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Banking & Monetary Policy",
+                    "title": "RBI to Conduct ₹2.25 Lakh Crore VRRR Auction / RBI ₹2.25 लाख करोड़ की VRRR नीलामी करेगा",
+                    "summary": "The Reserve Bank of India (RBI) announced a three-day Variable Rate Reverse Repo (VRRR) auction under the Liquidity Adjustment Facility (LAF) on 18 September 2026. The notified amount is ₹2,25,000 crore and the reversal is scheduled for 21 September 2026. / भारतीय रिज़र्व बैंक (RBI) ने 18 सितंबर 2026 को Liquidity Adjustment Facility (LAF) के तहत तीन दिवसीय Variable Rate Reverse Repo (VRRR) नीलामी की घोषणा की है। अधिसूचित राशि ₹2,25,000 करोड़ है और इसकी वापसी 21 सितंबर 2026 को होगी।",
+                    "sourceName": "Reserve Bank of India",
+                    "sourceUrl": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63617",
+                    "staticGK": [
+                        "Institution / संस्था : Reserve Bank of India (RBI)",
+                        "Operation / ऑपरेशन : Variable Rate Reverse Repo (VRRR)",
+                        "Notified Amount / अधिसूचित राशि : ₹2,25,000 crore",
+                        "Tenor / अवधि : 3 days",
+                        "Auction Date / नीलामी तिथि : 18 September 2026",
+                        "Reversal Date / वापसी तिथि : 21 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What amount has the RBI notified for the VRRR auction on 18 September 2026? / 18 सितंबर 2026 की VRRR नीलामी के लिए RBI ने कितनी राशि अधिसूचित की है?",
+                            "options": [
+                                "₹1,00,000 crore / ₹1,00,000 करोड़",
+                                "₹1,50,000 crore / ₹1,50,000 करोड़",
+                                "₹2,25,000 crore / ₹2,25,000 करोड़",
+                                "₹3,00,000 crore / ₹3,00,000 करोड़"
+                            ],
+                            "answer": "₹2,25,000 crore / ₹2,25,000 करोड़"
+                        },
+                        {
+                            "question": "VRRR is conducted under which facility? / VRRR किस सुविधा के तहत आयोजित किया जाता है?",
+                            "options": [
+                                "LAF",
+                                "MSF",
+                                "CRR",
+                                "SDF"
+                            ],
+                            "answer": "LAF"
+                        },
+                        {
+                            "question": "What is the tenor of the VRRR auction? / VRRR नीलामी की अवधि कितनी है?",
+                            "options": [
+                                "1 day / 1 दिन",
+                                "2 days / 2 दिन",
+                                "3 days / 3 दिन",
+                                "7 days / 7 दिन"
+                            ],
+                            "answer": "3 days / 3 दिन"
+                        },
+                        {
+                            "question": "When is the reversal scheduled? / राशि की वापसी कब निर्धारित है?",
+                            "options": [
+                                "19 September 2026",
+                                "20 September 2026",
+                                "21 September 2026",
+                                "22 September 2026"
+                            ],
+                            "answer": "21 September 2026"
+                        },
+                        {
+                            "question": "Which institution conducts the VRRR auction? / VRRR नीलामी कौन आयोजित करता है?",
+                            "options": [
+                                "SEBI",
+                                "RBI",
+                                "NABARD",
+                                "SBI"
+                            ],
+                            "answer": "RBI"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "India Semiconductor Mission 2.0 Highlighted at SEMICON India 2026 / SEMICON India 2026 में India Semiconductor Mission 2.0 पर जोर",
+                    "summary": "SEMICON India 2026 in New Delhi highlighted India's semiconductor ambitions and the next phase of the India Semiconductor Mission. The government has announced a larger outlay for Mission 2.0 and is focusing on chip design, fabrication, advanced packaging, equipment, research and talent development. / नई दिल्ली में SEMICON India 2026 में भारत के semiconductor ecosystem और India Semiconductor Mission 2.0 पर जोर दिया गया। सरकार chip design, fabrication, advanced packaging, equipment, research और talent development पर ध्यान दे रही है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/",
+                    "staticGK": [
+                        "Event / आयोजन : SEMICON India 2026",
+                        "Venue / स्थान : Yashobhoomi, New Delhi",
+                        "Sector / क्षेत्र : Semiconductor and Electronics",
+                        "Mission / मिशन : India Semiconductor Mission 2.0",
+                        "Focus / फोकस : Chips, Packaging, Equipment, Research and Talent",
+                        "Edition / संस्करण : Fifth"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "SEMICON India 2026 is mainly related to which sector? / SEMICON India 2026 मुख्य रूप से किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Semiconductor and Electronics / सेमीकंडक्टर और इलेक्ट्रॉनिक्स",
+                                "Agriculture / कृषि",
+                                "Tourism / पर्यटन",
+                                "Textiles / कपड़ा"
+                            ],
+                            "answer": "Semiconductor and Electronics / सेमीकंडक्टर और इलेक्ट्रॉनिक्स"
+                        },
+                        {
+                            "question": "Where is SEMICON India 2026 being held? / SEMICON India 2026 कहाँ आयोजित हो रहा है?",
+                            "options": [
+                                "Mumbai / मुंबई",
+                                "New Delhi / नई दिल्ली",
+                                "Bengaluru / बेंगलुरु",
+                                "Hyderabad / हैदराबाद"
+                            ],
+                            "answer": "New Delhi / नई दिल्ली"
+                        },
+                        {
+                            "question": "Which mission is entering its second phase? / कौन-सा मिशन अपने दूसरे चरण में प्रवेश कर रहा है?",
+                            "options": [
+                                "India Semiconductor Mission",
+                                "Digital India Mission",
+                                "National Quantum Mission",
+                                "IndiaAI Mission"
+                            ],
+                            "answer": "India Semiconductor Mission"
+                        },
+                        {
+                            "question": "Which of the following is a focus area of the semiconductor ecosystem? / निम्न में से कौन semiconductor ecosystem का focus area है?",
+                            "options": [
+                                "Advanced packaging / एडवांस्ड पैकेजिंग",
+                                "Fisheries / मत्स्य पालन",
+                                "Tourism / पर्यटन",
+                                "Forestry / वानिकी"
+                            ],
+                            "answer": "Advanced packaging / एडवांस्ड पैकेजिंग"
+                        },
+                        {
+                            "question": "SEMICON India 2026 is which edition? / SEMICON India 2026 कौन-सा संस्करण है?",
+                            "options": [
+                                "Third / तीसरा",
+                                "Fourth / चौथा",
+                                "Fifth / पाँचवाँ",
+                                "Sixth / छठा"
+                            ],
+                            "answer": "Fifth / पाँचवाँ"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Trade",
+                    "title": "India's Exports Rise 15.5% to USD 399.27 Billion / भारत के निर्यात में 15.5% की वृद्धि",
+                    "summary": "India's combined merchandise and services exports reached an estimated USD 399.27 billion during April-August 2026, registering a growth of 15.5% compared with the corresponding period of the previous financial year. / अप्रैल-अगस्त 2026 के दौरान भारत का merchandise और services exports मिलाकर अनुमानित USD 399.27 billion रहा, जो पिछले वर्ष की समान अवधि की तुलना में 15.5% की वृद्धि है।",
+                    "sourceName": "Ministry of Commerce and Industry",
+                    "sourceUrl": "https://www.commerce.gov.in/",
+                    "staticGK": [
+                        "Period / अवधि : April-August 2026",
+                        "Combined Exports / कुल निर्यात : USD 399.27 billion",
+                        "Growth / वृद्धि : 15.5%",
+                        "Components / घटक : Merchandise and Services",
+                        "Ministry / मंत्रालय : Ministry of Commerce and Industry"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India's combined exports during April-August 2026 were estimated at how much? / अप्रैल-अगस्त 2026 के दौरान भारत का कुल निर्यात कितना अनुमानित रहा?",
+                            "options": [
+                                "USD 299.27 billion",
+                                "USD 349.27 billion",
+                                "USD 399.27 billion",
+                                "USD 459.27 billion"
+                            ],
+                            "answer": "USD 399.27 billion"
+                        },
+                        {
+                            "question": "What was the growth in India's combined exports? / भारत के कुल निर्यात में कितनी वृद्धि हुई?",
+                            "options": [
+                                "10.5%",
+                                "12.5%",
+                                "15.5%",
+                                "18.5%"
+                            ],
+                            "answer": "15.5%"
+                        },
+                        {
+                            "question": "The export figure includes which two components? / निर्यात के आंकड़े में कौन-से दो घटक शामिल हैं?",
+                            "options": [
+                                "Goods and Agriculture",
+                                "Merchandise and Services",
+                                "Services and Tourism",
+                                "Agriculture and Mining"
+                            ],
+                            "answer": "Merchandise and Services"
+                        },
+                        {
+                            "question": "Which ministry releases India's trade data? / भारत का trade data कौन-सा मंत्रालय जारी करता है?",
+                            "options": [
+                                "Ministry of Finance",
+                                "Ministry of Commerce and Industry",
+                                "Ministry of External Affairs",
+                                "Ministry of MSME"
+                            ],
+                            "answer": "Ministry of Commerce and Industry"
+                        },
+                        {
+                            "question": "April-August represents which period of India's financial year? / अप्रैल-अगस्त भारत के वित्तीय वर्ष की किस अवधि को दर्शाता है?",
+                            "options": [
+                                "First five months / पहले पाँच महीने",
+                                "Last five months / अंतिम पाँच महीने",
+                                "First six months / पहले छह महीने",
+                                "Full financial year / पूरा वित्तीय वर्ष"
+                            ],
+                            "answer": "First five months / पहले पाँच महीने"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Water Resources",
+                    "title": "Six States Sign Kishau Multipurpose Project Agreement / छह राज्यों ने किशाऊ बहुउद्देशीय परियोजना समझौते पर हस्ताक्षर किए",
+                    "summary": "Uttar Pradesh, Uttarakhand, Himachal Pradesh, Haryana, Rajasthan and Delhi signed an agreement for the Kishau Multipurpose Project on the Tons River. The project is aimed at improving water availability in the Yamuna basin, irrigation and hydropower generation. / उत्तर प्रदेश, उत्तराखंड, हिमाचल प्रदेश, हरियाणा, राजस्थान और दिल्ली ने टोंस नदी पर किशाऊ बहुउद्देशीय परियोजना के लिए समझौता किया। परियोजना का उद्देश्य यमुना बेसिन में जल उपलब्धता, सिंचाई और जलविद्युत उत्पादन को बढ़ाना है।",
+                    "sourceName": "Akashvani News",
+                    "sourceUrl": "https://newsonair.gov.in/six-states-sign-agreement-for-rejuvenation-of-yamuna-river/",
+                    "staticGK": [
+                        "Project / परियोजना : Kishau Multipurpose Project",
+                        "River / नदी : Tons River",
+                        "States / राज्य : Uttar Pradesh, Uttarakhand, Himachal Pradesh, Haryana, Rajasthan",
+                        "Union Territory / केंद्रशासित प्रदेश : Delhi",
+                        "Water Basin / जल बेसिन : Upper Yamuna Basin",
+                        "Centre's Water Component Share / केंद्र का जल घटक हिस्सा : About 90%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which river is associated with the Kishau Multipurpose Project? / किशाऊ बहुउद्देशीय परियोजना किस नदी से संबंधित है?",
+                            "options": [
+                                "Ganga / गंगा",
+                                "Tons / टोंस",
+                                "Narmada / नर्मदा",
+                                "Godavari / गोदावरी"
+                            ],
+                            "answer": "Tons / टोंस"
+                        },
+                        {
+                            "question": "How many states signed the agreement? / कितने राज्यों ने समझौते पर हस्ताक्षर किए?",
+                            "options": [
+                                "4",
+                                "5",
+                                "6",
+                                "7"
+                            ],
+                            "answer": "6"
+                        },
+                        {
+                            "question": "Which Union Territory is part of the agreement? / कौन-सा केंद्रशासित प्रदेश समझौते में शामिल है?",
+                            "options": [
+                                "Jammu & Kashmir",
+                                "Delhi",
+                                "Ladakh",
+                                "Puducherry"
+                            ],
+                            "answer": "Delhi"
+                        },
+                        {
+                            "question": "The project is linked with which river basin? / परियोजना किस नदी बेसिन से जुड़ी है?",
+                            "options": [
+                                "Upper Yamuna Basin",
+                                "Krishna Basin",
+                                "Mahanadi Basin",
+                                "Cauvery Basin"
+                            ],
+                            "answer": "Upper Yamuna Basin"
+                        },
+                        {
+                            "question": "Approximately what percentage of the water component cost will be borne by the Centre? / जल घटक की लागत का लगभग कितना प्रतिशत केंद्र सरकार वहन करेगी?",
+                            "options": [
+                                "50%",
+                                "60%",
+                                "75%",
+                                "90%"
+                            ],
+                            "answer": "90%"
+                        }
+                    ]
+                },
+                {
+                    "category": "Arts & Culture",
+                    "title": "Anant Nag to Receive Dadasaheb Phalke Award 2024 / अनंत नाग को दादासाहेब फाल्के पुरस्कार 2024",
+                    "summary": "Veteran actor Anant Nag has been selected for the Dadasaheb Phalke Award 2024 for his contribution to Indian cinema. The award will be presented at the 72nd National Film Awards ceremony on 22 September 2026 in Kevadia, Gujarat. / वरिष्ठ अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान के लिए दादासाहेब फाल्के पुरस्कार 2024 के लिए चुना गया है। यह पुरस्कार 22 सितंबर 2026 को गुजरात के केवड़िया में 72वें National Film Awards समारोह में प्रदान किया जाएगा।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310986&lang=1&reg=48",
+                    "staticGK": [
+                        "Award / पुरस्कार : Dadasaheb Phalke Award 2024",
+                        "Recipient / प्राप्तकर्ता : Anant Nag",
+                        "Field / क्षेत्र : Indian Cinema",
+                        "National Film Awards / राष्ट्रीय फिल्म पुरस्कार : 72nd Edition",
+                        "Award Ceremony / पुरस्कार समारोह : 22 September 2026",
+                        "Venue / स्थान : Kevadia, Gujarat"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who has been selected for the Dadasaheb Phalke Award 2024? / दादासाहेब फाल्के पुरस्कार 2024 के लिए किसे चुना गया है?",
+                            "options": [
+                                "Anant Nag",
+                                "Pankaj Tripathi",
+                                "Manoj Joshi",
+                                "Naseeruddin Shah"
+                            ],
+                            "answer": "Anant Nag"
+                        },
+                        {
+                            "question": "The Dadasaheb Phalke Award is associated with which field? / दादासाहेब फाल्के पुरस्कार किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Sports / खेल",
+                                "Indian Cinema / भारतीय सिनेमा",
+                                "Literature / साहित्य",
+                                "Science / विज्ञान"
+                            ],
+                            "answer": "Indian Cinema / भारतीय सिनेमा"
+                        },
+                        {
+                            "question": "Where will the award be presented? / पुरस्कार कहाँ प्रदान किया जाएगा?",
+                            "options": [
+                                "Mumbai / मुंबई",
+                                "New Delhi / नई दिल्ली",
+                                "Kevadia, Gujarat / केवड़िया, गुजरात",
+                                "Bengaluru / बेंगलुरु"
+                            ],
+                            "answer": "Kevadia, Gujarat / केवड़िया, गुजरात"
+                        },
+                        {
+                            "question": "During which National Film Awards ceremony will the award be presented? / किस National Film Awards समारोह में यह पुरस्कार दिया जाएगा?",
+                            "options": [
+                                "70th",
+                                "71st",
+                                "72nd",
+                                "73rd"
+                            ],
+                            "answer": "72nd"
+                        },
+                        {
+                            "question": "Which year is associated with the Dadasaheb Phalke Award being conferred on Anant Nag? / अनंत नाग को किस वर्ष का दादासाहेब फाल्के पुरस्कार दिया जा रहा है?",
+                            "options": [
+                                "2022",
+                                "2023",
+                                "2024",
+                                "2025"
+                            ],
+                            "answer": "2024"
+                        }
+                    ]
+                },
+                {
+                    "category": "Gender & Global Reports",
+                    "title": "India Ranks 131st in Global Gender Gap Report 2026 / Global Gender Gap Report 2026 में भारत 131वें स्थान पर",
+                    "summary": "The World Economic Forum's Global Gender Gap Report 2026 placed India at 131st among 145 countries, with an overall gender parity score of 64.5%. Iceland retained the top position in the global ranking. / World Economic Forum की Global Gender Gap Report 2026 में भारत 145 देशों में 131वें स्थान पर रहा और भारत का overall gender parity score 64.5% रहा। वैश्विक ranking में Iceland शीर्ष पर रहा।",
+                    "sourceName": "World Economic Forum",
+                    "sourceUrl": "https://www.weforum.org/publications/global-gender-gap-report-2026/in-full/benchmarking-gender-gaps-2026/",
+                    "staticGK": [
+                        "Report / रिपोर्ट : Global Gender Gap Report 2026",
+                        "Publisher / जारीकर्ता : World Economic Forum",
+                        "India Rank / भारत की रैंक : 131st",
+                        "Countries Covered / शामिल देश : 145",
+                        "India Parity Score / भारत का parity score : 64.5%",
+                        "Top Country / शीर्ष देश : Iceland"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's rank in the Global Gender Gap Report 2026? / Global Gender Gap Report 2026 में भारत की रैंक क्या रही?",
+                            "options": [
+                                "121st",
+                                "126th",
+                                "131st",
+                                "136th"
+                            ],
+                            "answer": "131st"
+                        },
+                        {
+                            "question": "How many countries were covered in the ranking? / ranking में कितने देशों को शामिल किया गया?",
+                            "options": [
+                                "135",
+                                "140",
+                                "145",
+                                "150"
+                            ],
+                            "answer": "145"
+                        },
+                        {
+                            "question": "What was India's overall gender parity score? / भारत का overall gender parity score कितना रहा?",
+                            "options": [
+                                "54.5%",
+                                "59.5%",
+                                "64.5%",
+                                "69.5%"
+                            ],
+                            "answer": "64.5%"
+                        },
+                        {
+                            "question": "Which country topped the Global Gender Gap ranking? / Global Gender Gap ranking में कौन-सा देश शीर्ष पर रहा?",
+                            "options": [
+                                "Norway",
+                                "Iceland",
+                                "Sweden",
+                                "Finland"
+                            ],
+                            "answer": "Iceland"
+                        },
+                        {
+                            "question": "Who publishes the Global Gender Gap Report? / Global Gender Gap Report कौन जारी करता है?",
+                            "options": [
+                                "World Bank",
+                                "IMF",
+                                "World Economic Forum",
+                                "UNDP"
+                            ],
+                            "answer": "World Economic Forum"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Technology",
+                    "title": "Bharat Forge and Pratt & Whitney Collaborate on DRDO HALE UAV Programme / Bharat Forge और Pratt & Whitney की DRDO HALE UAV कार्यक्रम में साझेदारी",
+                    "summary": "Bharat Forge and Pratt & Whitney Canada have entered into a strategic collaboration to support the DRDO's High-Altitude Long-Endurance (HALE) Unmanned Aerial Vehicle programme. The collaboration will evaluate advanced turboprop engine integration for the indigenous UAV programme. / Bharat Forge और Pratt & Whitney Canada ने DRDO के High-Altitude Long-Endurance (HALE) Unmanned Aerial Vehicle कार्यक्रम में सहयोग के लिए रणनीतिक साझेदारी की है। इसमें advanced turboprop engines के integration का मूल्यांकन किया जाएगा।",
+                    "sourceName": "Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/defence/bharat-forge-pratt-whitney-join-forces-for-drdos-defense-drone-uav-program/articleshow/134267210.cms",
+                    "staticGK": [
+                        "Indian Company / भारतीय कंपनी : Bharat Forge",
+                        "Partner / साझेदार : Pratt & Whitney Canada",
+                        "Organisation / संस्था : DRDO",
+                        "Technology / तकनीक : HALE UAV",
+                        "HALE Full Form : High-Altitude Long-Endurance",
+                        "Sector / क्षेत्र : Defence Technology"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian company is collaborating with Pratt & Whitney Canada? / Pratt & Whitney Canada के साथ कौन-सी भारतीय कंपनी सहयोग कर रही है?",
+                            "options": [
+                                "Bharat Forge",
+                                "HAL",
+                                "BEL",
+                                "BHEL"
+                            ],
+                            "answer": "Bharat Forge"
+                        },
+                        {
+                            "question": "The collaboration is related to which organisation's UAV programme? / यह सहयोग किस संस्था के UAV कार्यक्रम से संबंधित है?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "Indian Navy"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "What does HALE stand for? / HALE का full form क्या है?",
+                            "options": [
+                                "High-Altitude Long-Endurance",
+                                "High-Aerial Low-Engine",
+                                "Heavy Aircraft Long Equipment",
+                                "High-Altitude Light Engine"
+                            ],
+                            "answer": "High-Altitude Long-Endurance"
+                        },
+                        {
+                            "question": "What type of technology is being evaluated for the UAV? / UAV के लिए किस प्रकार की technology का मूल्यांकन किया जा रहा है?",
+                            "options": [
+                                "Advanced turboprop engines",
+                                "Steam engines",
+                                "Electric batteries only",
+                                "Hydrogen trains"
+                            ],
+                            "answer": "Advanced turboprop engines"
+                        },
+                        {
+                            "question": "The programme belongs to which sector? / यह कार्यक्रम किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Defence Technology",
+                                "Agriculture",
+                                "Banking",
+                                "Tourism"
+                            ],
+                            "answer": "Defence Technology"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways & Infrastructure",
+                    "title": "BHEL and Titagarh Rail Sign 50:50 JV for Vande Bharat Sleeper Maintenance / BHEL और Titagarh Rail ने Vande Bharat Sleeper के रखरखाव के लिए 50:50 JV किया",
+                    "summary": "Bharat Heavy Electricals Limited (BHEL) and Titagarh Rail Systems Limited signed an agreement to establish a 50:50 joint venture for comprehensive maintenance of Vande Bharat Sleeper trainsets. The maintenance responsibility will cover 35 years. / Bharat Heavy Electricals Limited (BHEL) और Titagarh Rail Systems Limited ने Vande Bharat Sleeper trainsets के comprehensive maintenance के लिए 50:50 joint venture बनाने का समझौता किया है। रखरखाव की अवधि 35 वर्ष होगी।",
+                    "sourceName": "Bharat Heavy Electricals Limited",
+                    "sourceUrl": "https://www.bhel.com/bhel-signs-joint-venture-agreement-trsl-comprehensive-maintenance-vande-bharat-sleeper-trainsets",
+                    "staticGK": [
+                        "Companies / कंपनियाँ : BHEL and Titagarh Rail Systems",
+                        "JV Shareholding / JV हिस्सेदारी : 50:50",
+                        "Train / ट्रेन : Vande Bharat Sleeper",
+                        "Maintenance Period / रखरखाव अवधि : 35 years",
+                        "Initial Paid-up Capital / प्रारंभिक paid-up capital : ₹50 lakh",
+                        "Registered Office / पंजीकृत कार्यालय : Delhi"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two companies signed the JV agreement? / किन दो कंपनियों ने JV agreement पर हस्ताक्षर किए?",
+                            "options": [
+                                "BHEL and Titagarh Rail Systems",
+                                "BHEL and Siemens",
+                                "DRDO and HAL",
+                                "IRCTC and SBI"
+                            ],
+                            "answer": "BHEL and Titagarh Rail Systems"
+                        },
+                        {
+                            "question": "What is the shareholding ratio in the proposed JV? / प्रस्तावित JV में हिस्सेदारी का अनुपात क्या है?",
+                            "options": [
+                                "60:40",
+                                "70:30",
+                                "50:50",
+                                "75:25"
+                            ],
+                            "answer": "50:50"
+                        },
+                        {
+                            "question": "Which trainsets will the JV maintain? / JV किन trainsets का maintenance करेगा?",
+                            "options": [
+                                "Vande Bharat Sleeper",
+                                "Rajdhani Express",
+                                "Tejas Express",
+                                "Shatabdi Express"
+                            ],
+                            "answer": "Vande Bharat Sleeper"
+                        },
+                        {
+                            "question": "For how many years will comprehensive maintenance be provided? / comprehensive maintenance कितने वर्षों तक किया जाएगा?",
+                            "options": [
+                                "10 years",
+                                "20 years",
+                                "30 years",
+                                "35 years"
+                            ],
+                            "answer": "35 years"
+                        },
+                        {
+                            "question": "What is the initial paid-up capital of the proposed JV? / प्रस्तावित JV की प्रारंभिक paid-up capital कितनी है?",
+                            "options": [
+                                "₹25 lakh",
+                                "₹50 lakh",
+                                "₹75 lakh",
+                                "₹1 crore"
+                            ],
+                            "answer": "₹50 lakh"
+                        }
+                    ]
+                },
+                {
+                    "category": "Cooperation & International Organisations",
+                    "title": "Dileep Sanghani Elected to ICA Global Board / दिलीप संघानी ICA Global Board के लिए चुने गए",
+                    "summary": "Dileep Sanghani, Chairman of IFFCO and former President of NCUI, was elected to the International Cooperative Alliance (ICA) Global Board for the 2026-2030 term. The election took place during the ICA General Assembly in Panama. / IFFCO के Chairman और NCUI के पूर्व President दिलीप संघानी को 2026-2030 term के लिए International Cooperative Alliance (ICA) Global Board में चुना गया। चुनाव Panama में ICA General Assembly के दौरान हुआ।",
+                    "sourceName": "International Cooperative Alliance",
+                    "sourceUrl": "https://www.ica.coop/en/newsroom/news/16-cooperators-16-countries-elected-ica-global-board-2026-2030-mandate",
+                    "staticGK": [
+                        "Person / व्यक्ति : Dileep Sanghani",
+                        "Organisation / संस्था : International Cooperative Alliance (ICA)",
+                        "Position / पद : Global Board Director",
+                        "Term / कार्यकाल : 2026–2030",
+                        "Indian Organisation / भारतीय संस्था : IFFCO",
+                        "Election Venue / चुनाव स्थान : Panama"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who was elected to the ICA Global Board from India? / भारत से ICA Global Board के लिए किसे चुना गया?",
+                            "options": [
+                                "Dileep Sanghani",
+                                "Uday Kotak",
+                                "Sanjiv Mehta",
+                                "Ashok Sinha"
+                            ],
+                            "answer": "Dileep Sanghani"
+                        },
+                        {
+                            "question": "Which organisation's Global Board is involved? / किस संस्था का Global Board है?",
+                            "options": [
+                                "World Bank",
+                                "International Cooperative Alliance",
+                                "IMF",
+                                "WTO"
+                            ],
+                            "answer": "International Cooperative Alliance"
+                        },
+                        {
+                            "question": "What is the term of the newly elected board? / नए board का कार्यकाल क्या है?",
+                            "options": [
+                                "2025–2029",
+                                "2026–2030",
+                                "2027–2031",
+                                "2028–2032"
+                            ],
+                            "answer": "2026–2030"
+                        },
+                        {
+                            "question": "Dileep Sanghani is the Chairman of which organisation? / दिलीप संघानी किस संस्था के Chairman हैं?",
+                            "options": [
+                                "IFFCO",
+                                "NABARD",
+                                "SEBI",
+                                "LIC"
+                            ],
+                            "answer": "IFFCO"
+                        },
+                        {
+                            "question": "Where was the ICA General Assembly held? / ICA General Assembly कहाँ आयोजित हुई?",
+                            "options": [
+                                "India",
+                                "Panama",
+                                "France",
+                                "Japan"
+                            ],
+                            "answer": "Panama"
+                        }
+                    ]
+                },
+                {
+                    "category": "Space & Science",
+                    "title": "Lunar Water Resources May Be More Limited Than Expected / चंद्रमा पर जल संसाधन अनुमान से अधिक सीमित हो सकते हैं",
+                    "summary": "A new study has highlighted that even a large estimated inventory of lunar water could support a sizeable human population for a limited period because of the high water requirements of future settlements. Permanently shadowed craters near the lunar south pole remain important targets for water-ice exploration. / एक नए अध्ययन में बताया गया है कि चंद्रमा पर अनुमानित बड़ी मात्रा में पानी भी भविष्य की मानव बस्तियों को सीमित अवधि तक ही सहारा दे सकता है। चंद्रमा के दक्षिणी ध्रुव के पास permanently shadowed craters water-ice exploration के लिए महत्वपूर्ण क्षेत्र बने हुए हैं।",
+                    "sourceName": "Frontiers in Space Technologies / The Hindu",
+                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-18",
+                    "staticGK": [
+                        "Subject / विषय : Lunar Water Resources",
+                        "Important Region / महत्वपूर्ण क्षेत्र : Lunar South Pole",
+                        "Key Areas / प्रमुख क्षेत्र : Permanently Shadowed Craters",
+                        "Researchers / शोधकर्ता : Martin Elvis and Jonathan McDowell",
+                        "Study Area / अध्ययन क्षेत्र : Space Resources",
+                        "Importance / महत्व : Future Lunar Exploration"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which region of the Moon is important for water-ice exploration? / चंद्रमा का कौन-सा क्षेत्र water-ice exploration के लिए महत्वपूर्ण है?",
+                            "options": [
+                                "Equatorial region",
+                                "South polar region",
+                                "North polar region only",
+                                "Far side only"
+                            ],
+                            "answer": "South polar region"
+                        },
+                        {
+                            "question": "What type of craters are important for preserving lunar water ice? / चंद्रमा पर water ice को संरक्षित रखने वाले crater किस प्रकार के हैं?",
+                            "options": [
+                                "Permanently shadowed craters",
+                                "Volcanic craters only",
+                                "Impact craters near Earth",
+                                "Flooded craters"
+                            ],
+                            "answer": "Permanently shadowed craters"
+                        },
+                        {
+                            "question": "The study is related to which field? / यह अध्ययन किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Space resources",
+                                "Marine biology",
+                                "Agriculture",
+                                "Banking"
+                            ],
+                            "answer": "Space resources"
+                        },
+                        {
+                            "question": "Who are among the researchers associated with the lunar-water analysis? / lunar-water analysis से जुड़े शोधकर्ताओं में कौन शामिल हैं?",
+                            "options": [
+                                "Martin Elvis and Jonathan McDowell",
+                                "Elon Musk and Jeff Bezos",
+                                "Rakesh Sharma and Kalpana Chawla",
+                                "Neil Armstrong and Buzz Aldrin"
+                            ],
+                            "answer": "Martin Elvis and Jonathan McDowell"
+                        },
+                        {
+                            "question": "Why is lunar water important? / चंद्रमा का पानी क्यों महत्वपूर्ण है?",
+                            "options": [
+                                "Future lunar settlements and exploration",
+                                "Ocean transport",
+                                "Agricultural irrigation on Earth",
+                                "Weather forecasting"
+                            ],
+                            "answer": "Future lunar settlements and exploration"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Asian Games 2026: India Begins Women's Cricket Campaign / Asian Games 2026: भारत का महिला क्रिकेट अभियान",
+                    "summary": "The 20th Asian Games are being held in Aichi-Nagoya, Japan. India's women's cricket campaign is part of the Games, with India facing Japan in the quarter-final stage. The official opening ceremony is scheduled for 19 September 2026. / 20वें Asian Games का आयोजन Aichi-Nagoya, Japan में हो रहा है। भारत की महिला क्रिकेट टीम Games में हिस्सा ले रही है और quarter-final stage में Japan के खिलाफ मुकाबला कर रही है। आधिकारिक opening ceremony 19 सितंबर 2026 को निर्धारित है।",
+                    "sourceName": "Business Standard",
+                    "sourceUrl": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-september-18-schedule-live-event-time-ist-streaming-126091700626_1.html",
+                    "staticGK": [
+                        "Event / आयोजन : 20th Asian Games",
+                        "Host / मेजबान : Aichi-Nagoya, Japan",
+                        "Opening Ceremony / उद्घाटन समारोह : 19 September 2026",
+                        "Closing Date / समापन : 4 October 2026",
+                        "India Sport / भारत का खेल : Cricket",
+                        "Edition / संस्करण : 20th"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where are the 20th Asian Games being held? / 20वें Asian Games कहाँ आयोजित हो रहे हैं?",
+                            "options": [
+                                "Aichi-Nagoya, Japan / Aichi-Nagoya, Japan",
+                                "Hangzhou, China / Hangzhou, China",
+                                "Seoul, South Korea / Seoul, South Korea",
+                                "Jakarta, Indonesia / Jakarta, Indonesia"
+                            ],
+                            "answer": "Aichi-Nagoya, Japan / Aichi-Nagoya, Japan"
+                        },
+                        {
+                            "question": "Which edition of the Asian Games is being held in 2026? / 2026 में Asian Games का कौन-सा संस्करण है?",
+                            "options": [
+                                "18th",
+                                "19th",
+                                "20th",
+                                "21st"
+                            ],
+                            "answer": "20th"
+                        },
+                        {
+                            "question": "When is the official opening ceremony scheduled? / आधिकारिक opening ceremony कब निर्धारित है?",
+                            "options": [
+                                "17 September 2026",
+                                "18 September 2026",
+                                "19 September 2026",
+                                "20 September 2026"
+                            ],
+                            "answer": "19 September 2026"
+                        },
+                        {
+                            "question": "Which sport is India's women's team participating in? / भारत की महिला टीम किस खेल में भाग ले रही है?",
+                            "options": [
+                                "Cricket / क्रिकेट",
+                                "Hockey / हॉकी",
+                                "Football / फुटबॉल",
+                                "Badminton / बैडमिंटन"
+                            ],
+                            "answer": "Cricket / क्रिकेट"
+                        },
+                        {
+                            "question": "The 2026 Asian Games are hosted by which country? / 2026 Asian Games की मेजबानी कौन-सा देश कर रहा है?",
+                            "options": [
+                                "India",
+                                "China",
+                                "Japan",
+                                "South Korea"
+                            ],
+                            "answer": "Japan"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
