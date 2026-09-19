@@ -1,341 +1,341 @@
 {
     "quizType": "weekly",
-    "quizId": "2026-week-38",
+    "quizId": "2026-week-39",
     "title": "Weekly General Studies & Current Affairs Quiz",
-    "week": "Week 38",
-    "date": "14 September - 20 September 2026",
+    "week": "Week 39",
+    "date": "21 September - 27 September 2026",
     "totalQuestions": 30,
-    "timeLimit": 30,
+    "timeLimit": 20,
     "questions": [
         {
             "id": 1,
-            "question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+            "question": "Who is the head of the State Police Force? / राज्य पुलिस बल का प्रमुख कौन होता है?",
             "options": [
-                "Ashoka / अशोक",
-                "Chandragupta Maurya / चंद्रगुप्त मौर्य",
-                "Bindusara / बिंदुसार",
-                "Samudragupta / समुद्रगुप्त"
+                "DM",
+                "SP",
+                "DGP",
+                "DIG"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 2,
-            "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+            "question": "What does FIR stand for? / FIR का पूरा नाम क्या है?",
             "options": [
-                "1757 / 1757",
-                "1761 / 1761",
-                "1764 / 1764",
-                "1857 / 1857"
+                "First Information Report",
+                "First Investigation Report",
+                "Final Information Report",
+                "Federal Investigation Report"
             ],
             "answer": 0
         },
         {
             "id": 3,
-            "question": "Who started the construction of the Qutub Minar? / कुतुब मीनार का निर्माण किसने शुरू करवाया था?",
+            "question": "What is the capital of India? / भारत की राजधानी क्या है?",
             "options": [
-                "Iltutmish / इल्तुतमिश",
-                "Alauddin Khalji / अलाउद्दीन खिलजी",
-                "Qutb-ud-din Aibak / कुतुबुद्दीन ऐबक",
-                "Balban / बलबन"
+                "Mumbai / मुंबई",
+                "New Delhi / नई दिल्ली",
+                "Kolkata / कोलकाता",
+                "Chennai / चेन्नई"
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 4,
-            "question": "The Quit India Movement was launched in which year? / भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+            "question": "Which is the highest court in India? / भारत का सर्वोच्च न्यायालय कौन-सा है?",
             "options": [
-                "1930 / 1930",
-                "1942 / 1942",
-                "1945 / 1945",
-                "1947 / 1947"
+                "High Court / उच्च न्यायालय",
+                "Supreme Court / सर्वोच्च न्यायालय",
+                "District Court / जिला न्यायालय",
+                "Sessions Court / सत्र न्यायालय"
             ],
             "answer": 1
         },
         {
             "id": 5,
-            "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूंगा' का नारा किसने दिया था?",
+            "question": "Which Article protects life and personal liberty? / जीवन और व्यक्तिगत स्वतंत्रता की रक्षा किस अनुच्छेद में है?",
             "options": [
-                "Mahatma Gandhi / महात्मा गांधी",
-                "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
-                "Subhas Chandra Bose / सुभाष चंद्र बोस",
-                "Lala Lajpat Rai / लाला लाजपत राय"
+                "Article 14",
+                "Article 19",
+                "Article 21",
+                "Article 32"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 6,
-            "question": "Who was the first Mughal emperor of India? / भारत का पहला मुगल सम्राट कौन था?",
+            "question": "Fundamental Duties are mentioned in which Article? / मौलिक कर्तव्य किस अनुच्छेद में हैं?",
             "options": [
-                "Akbar / अकबर",
-                "Humayun / हुमायूं",
-                "Babur / बाबर",
-                "Shah Jahan / शाहजहां"
+                "Article 32",
+                "Article 44",
+                "Article 51A",
+                "Article 56"
             ],
             "answer": 2
         },
         {
             "id": 7,
-            "question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+            "question": "Approximately how many youth will have received appointment letters after the 20th Rozgar Mela? / 20वें रोजगार मेले के बाद लगभग कितने युवाओं को नियुक्ति पत्र मिल चुके होंगे?",
             "options": [
-                "Malwa Plateau / मालवा पठार",
-                "Chota Nagpur Plateau / छोटा नागपुर पठार",
-                "Deccan Plateau / दक्कन का पठार",
-                "Meghalaya Plateau / मेघालय पठार"
+                "7.75 lakh",
+                "10.25 lakh",
+                "12.75 lakh",
+                "15.75 lakh"
             ],
             "answer": 2
         },
         {
             "id": 8,
-            "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+            "question": "Where is the conference on Environment and Climate Dynamics being held? / पर्यावरण और जलवायु गतिशीलता सम्मेलन कहाँ आयोजित हो रहा है?",
             "options": [
-                "Ganga / गंगा",
-                "Kosi / कोसी",
-                "Yamuna / यमुना",
-                "Son / सोन"
+                "Mumbai",
+                "New Delhi",
+                "Bengaluru",
+                "Hyderabad"
             ],
             "answer": 1
         },
         {
             "id": 9,
-            "question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन सी है?",
+            "question": " Where are the 20th Asian Games being held? / 20वें एशियाई खेल कहाँ आयोजित हो रहे हैं?",
             "options": [
-                "Ganga / गंगा",
-                "Godavari / गोदावरी",
-                "Yamuna / यमुना",
-                "Narmada / नर्मदा"
+                "Hangzhou, China",
+                "Aichi-Nagoya, Japan",
+                "Seoul, South Korea",
+                "Jakarta, Indonesia"
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 10,
-            "question": "Which type of soil is most suitable for cotton cultivation? / कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+            "question": "बौद्ध धर्म के संस्थापक कौन थे?Who founded Buddhism?",
             "options": [
-                "Alluvial Soil / जलोढ़ मिट्टी",
-                "Black Soil / काली मिट्टी",
-                "Red Soil / लाल मिट्टी",
-                "Laterite Soil / लैटेराइट मिट्टी"
+                "महावीर / Mahavira",
+                "गौतम बुद्ध / Gautama Buddha",
+                "अशोक / Ashoka",
+                "नागार्जुन / Nagarjuna"
             ],
             "answer": 1
         },
         {
             "id": 11,
-            "question": "Which Indian state has the longest coastline? / भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+            "question": "What comes next? 2, 4, 6, 8, ?अगली संख्या क्या होगी? 2, 4, 6, 8, ?",
             "options": [
-                "Maharashtra / महाराष्ट्र",
-                "Tamil Nadu / तमिलनाडु",
-                "Gujarat / गुजरात",
-                "Andhra Pradesh / आंध्र प्रदेश"
+                "9 / 9",
+                "10 / 10",
+                "11 / 11",
+                "12 / 12"
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 12,
-            "question": "Which is the highest mountain peak located entirely in India? / भारत में पूरी तरह स्थित सबसे ऊंची पर्वत चोटी कौन सी है?",
+            "question": "Find the odd one out. Apple, Mango, Potato, Bananaविषम शब्द चुनिए। Apple, Mango, Potato, Banana",
             "options": [
-                "Nanda Devi / नंदा देवी",
-                "Kanchenjunga / कंचनजंगा",
-                "Kamet / कामेत",
-                "Anamudi / अनामुडी"
+                "Apple / सेब",
+                "Mango / आम",
+                "Potato / आलू",
+                "Banana / केला"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 13,
-            "question": "What is 15% of 400? / 400 का 15% कितना है?",
+            "question": "What is the headquarters of Indian Railways? / भारतीय रेलवे का मुख्यालय कहाँ है?",
             "options": [
-                "40 / 40",
-                "50 / 50",
-                "60 / 60",
-                "70 / 70"
+                "Mumbai / मुंबई",
+                "New Delhi / नई दिल्ली",
+                "Kolkata / कोलकाता",
+                "Chennai / चेन्नई"
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 14,
-            "question": "If the cost price is ₹800 and the selling price is ₹920, what is the profit percentage? / यदि क्रय मूल्य ₹800 और विक्रय मूल्य ₹920 है, तो लाभ प्रतिशत कितना है?",
+            "question": "Which is the longest railway platform in India? / भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
             "options": [
-                "10% / 10%",
-                "12% / 12%",
-                "15% / 15%",
-                "20% / 20%"
-            ],
-            "answer": 2
-        },
-        {
-            "id": 15,
-            "question": "What is the average of 20, 30 and 40? / 20, 30 और 40 का औसत कितना है?",
-            "options": [
-                "25 / 25",
-                "30 / 30",
-                "35 / 35",
-                "40 / 40"
+                "Gorakhpur / गोरखपुर",
+                "Hubballi / हुब्बली",
+                "Kharagpur / खड़गपुर",
+                "Prayagraj / प्रयागराज"
             ],
             "answer": 1
+        },
+        {
+            "id":15,
+            "question": "What is the full form of RBI? / RBI का पूरा नाम क्या है?",
+            "options": [
+                "Reserve Bank of India",
+                "Rural Bank of India",
+                "Reserve Banking Institution",
+                "Regional Bank of India"
+            ],
+            "answer": 0
         },
         {
             "id": 16,
-            "question": "If 5 workers complete a work in 12 days, how many days will 10 workers take to complete the same work? / यदि 5 मजदूर किसी काम को 12 दिनों में पूरा करते हैं, तो 10 मजदूर वही काम कितने दिनों में पूरा करेंगे?",
+            "question": "When was RBI established? / RBI की स्थापना कब हुई थी?",
             "options": [
-                "4 days / 4 दिन",
-                "5 days / 5 दिन",
-                "6 days / 6 दिन",
-                "8 days / 8 दिन"
+                "1930",
+                "1935",
+                "1947",
+                "1950"
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 17,
-            "question": "What is the simple interest on ₹5,000 at 10% per annum for 2 years? / ₹5,000 पर 10% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+            "question": "What is the supreme commander of the Indian Armed Forces? / भारतीय सशस्त्र बलों का सर्वोच्च कमांडर कौन है?",
             "options": [
-                "₹500 / ₹500",
-                "₹800 / ₹800",
-                "₹1,000 / ₹1,000",
-                "₹1,200 / ₹1,200"
+                "Prime Minister / प्रधानमंत्री",
+                "President / राष्ट्रपति",
+                "Defence Minister / रक्षा मंत्री",
+                "Chief of Defence Staff / चीफ ऑफ डिफेंस स्टाफ"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 18,
+            "question": "Where is the National Defence Academy located? / राष्ट्रीय रक्षा अकादमी कहाँ स्थित है?",
+            "options": [
+                "Dehradun / देहरादून",
+                "Pune / पुणे",
+                "Khadakwasla / खड़गवासला",
+                "New Delhi / नई दिल्ली"
             ],
             "answer": 2
         },
         {
-            "id": 18,
-            "question": "If a number is increased from 200 to 250, what is the percentage increase? / यदि किसी संख्या को 200 से बढ़ाकर 250 कर दिया जाए, तो प्रतिशत वृद्धि कितनी होगी?",
-            "options": [
-                "20% / 20%",
-                "25% / 25%",
-                "30% / 30%",
-                "35% / 35%"
-            ],
-            "answer": 1
-        },
-        {
             "id": 19,
-            "question": "Which Article of the Indian Constitution deals with Equality before Law? / भारतीय संविधान का कौन सा अनुच्छेद कानून के समक्ष समानता से संबंधित है?",
+            "question": "Which edition of Rozgar Mela is being held on 19 September 2026? / 19 सितंबर 2026 को रोजगार मेले का कौन-सा संस्करण आयोजित हो रहा है?",
             "options": [
-                "Article 12 / अनुच्छेद 12",
-                "Article 14 / अनुच्छेद 14",
-                "Article 16 / अनुच्छेद 16",
-                "Article 19 / अनुच्छेद 19"
+                "18th",
+                "19th",
+                "20th",
+                "21st"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 20,
-            "question": "Who is the constitutional head of the Union Executive in India? / भारत में संघ की कार्यपालिका का संवैधानिक प्रमुख कौन होता है?",
+            "question": "Where is the conference on Environment and Climate Dynamics being held? / पर्यावरण और जलवायु गतिशीलता सम्मेलन कहाँ आयोजित हो रहा है?",
             "options": [
-                "Prime Minister / प्रधानमंत्री",
-                "President / राष्ट्रपति",
-                "Vice-President / उपराष्ट्रपति",
-                "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+                "Mumbai / मुंबई",
+                "Bengaluru / बेंगलुरु",
+                "Hyderabad / हैदराबाद",
+                "New Delhi / नई दिल्ली"
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 21,
-            "question": "Which institution is known as the guardian of the Constitution of India? / किस संस्था को भारतीय संविधान का संरक्षक कहा जाता है?",
+            "question": "राज्य के नीति निदेशक तत्व संविधान के किस भाग में हैं?In which Part are the Directive Principles of State Policy contained?",
             "options": [
-                "Parliament / संसद",
-                "Supreme Court / सर्वोच्च न्यायालय",
-                "Election Commission / निर्वाचन आयोग",
-                "President / राष्ट्रपति"
+                "भाग II / Part II",
+                "भाग III / Part III",
+                "भाग IV / Part IV",
+                "भाग V / Part V"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
-            "id": 22,
-            "question": "Who appoints the Prime Minister of India? / भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+            "id":22,
+            "question": "वर्तमान में भारतीय संविधान में कितने मौलिक कर्तव्य हैं?How many Fundamental Duties are there currently?",
             "options": [
-                "Chief Justice of India / भारत के मुख्य न्यायाधीश",
-                "President of India / भारत के राष्ट्रपति",
-                "Lok Sabha Speaker / लोकसभा अध्यक्ष",
-                "Vice-President of India / भारत के उपराष्ट्रपति"
+                "9",
+                "10",
+                "11",
+                "12"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 23,
-            "question": "How many Fundamental Rights are currently guaranteed by the Constitution of India? / भारतीय संविधान द्वारा वर्तमान में कितने मौलिक अधिकारों की गारंटी दी गई है?",
+            "question": "GDP का पूरा नाम क्या है? / What is the full form of GDP?",
             "options": [
-                "5 / 5",
-                "6 / 6",
-                "7 / 7",
-                "8 / 8"
+                "Gross Domestic Product",
+                "General Domestic Product",
+                "Gross Development Product",
+                "Government Domestic Product"
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 24,
-            "question": "Which constitutional body conducts elections in India? / भारत में चुनाव कौन सा संवैधानिक निकाय कराता है?",
+            "question": "GDP किसका माप है? / GDP measures what?",
             "options": [
-                "Union Public Service Commission / संघ लोक सेवा आयोग",
-                "Election Commission of India / भारत निर्वाचन आयोग",
-                "Finance Commission / वित्त आयोग",
-                "NITI Aayog / नीति आयोग"
+                "बेरोजगारी / Unemployment",
+                "अर्थव्यवस्था में उत्पादित अंतिम वस्तुओं और सेवाओं का मूल्य / Value of final goods and services produced",
+                "केवल निर्यात / Exports only",
+                "केवल सरकारी आय / Government income only"
             ],
             "answer": 1
         },
         {
             "id": 25,
-            "question": "Which country hosted the 18th BRICS Summit in 2026? / 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी किस देश ने की?",
+            "question": "मकर रेखा किस अक्षांश पर स्थित है? / At what latitude is the Tropic of Capricorn located?",
             "options": [
-                "Brazil / ब्राज़ील",
-                "India / भारत",
-                "China / चीन",
-                "Russia / रूस"
+                "23½° N",
+                "23½° S",
+                "66½° S",
+                "0°"
             ],
             "answer": 1
         },
         {
             "id": 26,
-            "question": "What does ULPIN stand for? / ULPIN का पूर्ण रूप क्या है?",
+            "question": "उत्तरी ध्रुव का अक्षांश कितना है? / What is the latitude of the North Pole?",
             "options": [
-                "Unique Land Parcel Identification Number / यूनिक लैंड पार्सल आइडेंटिफिकेशन नंबर",
-                "Unified Land Property Information Number / यूनिफाइड लैंड प्रॉपर्टी इंफॉर्मेशन नंबर",
-                "Universal Land Planning Identification Number / यूनिवर्सल लैंड प्लानिंग आइडेंटिफिकेशन नंबर",
-                "Unique Land Property Index Number / यूनिक लैंड प्रॉपर्टी इंडेक्स नंबर"
+                "0°",
+                "23½° N",
+                "66½° N",
+                "90° N"
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 27,
-            "question": "Which organisation is associated with the marine research vessel 'Sagar Manthan'? / 'सागर मंथन' समुद्री अनुसंधान पोत किस संगठन से संबंधित है?",
+            "question": "सिंधु घाटी सभ्यता के लोग किस धातु से परिचित नहीं थे?Which metal was not known to the people of the Indus Valley Civilization?",
             "options": [
-                "Garden Reach Shipbuilders and Engineers / गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-                "Cochin Shipyard Limited / कोचीन शिपयार्ड लिमिटेड",
-                "Mazagon Dock Shipbuilders / मझगांव डॉक शिपबिल्डर्स",
-                "Hindustan Shipyard Limited / हिंदुस्तान शिपयार्ड लिमिटेड"
+                "तांबा / Copper",
+                "कांसा / Bronze",
+                "सोना / Gold",
+                "लोहा / Iron"
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 28,
-            "question": "Which city hosted the 18th BRICS Summit in 2026? / 2026 में 18वें BRICS शिखर सम्मेलन की मेजबानी किस शहर ने की?",
+            "question": "वैदिक सभ्यता का सबसे प्राचीन वेद कौन-सा है?Which is the oldest Veda?",
             "options": [
-                "Mumbai / मुंबई",
-                "New Delhi / नई दिल्ली",
-                "Bengaluru / बेंगलुरु",
-                "Hyderabad / हैदराबाद"
+                "सामवेद / Samaveda",
+                "यजुर्वेद / Yajurveda",
+                "ऋग्वेद / Rigveda",
+                "अथर्ववेद / Atharvaveda"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 29,
-            "question": "Which country participated with India in the Veer Guardian air exercise? / वीर गार्जियन वायु अभ्यास में भारत के साथ किस देश ने भाग लिया?",
+            "question": "How many cheetahs are currently in India under Project Cheetah?Project Cheetah के तहत वर्तमान में भारत में कितने चीते हैं?",
             "options": [
-                "Japan / जापान",
-                "France / फ्रांस",
-                "Australia / ऑस्ट्रेलिया",
-                "Germany / जर्मनी"
+                "42",
+                "48",
+                "52",
+                "58"
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 30,
-            "question": "Which organisation is primarily responsible for India's space programme? / भारत के अंतरिक्ष कार्यक्रम के लिए मुख्य रूप से कौन सा संगठन जिम्मेदार है?",
+            "question": "Where is SEMICON India 2026 being organized?SEMICON India 2026 का आयोजन कहाँ किया जा रहा है?",
             "options": [
-                "DRDO / डीआरडीओ",
-                "ISRO / इसरो",
-                "HAL / एचएएल",
-                "BARC / भाभा परमाणु अनुसंधान केंद्र"
+                "Mumbai / मुंबई",
+                "Bengaluru / बेंगलुरु",
+                "Hyderabad / हैदराबाद",
+                "SNew Delhi / नई दिल्ली"
             ],
-            "answer": 1
+            "answer": 3
         }
     ]
 }
