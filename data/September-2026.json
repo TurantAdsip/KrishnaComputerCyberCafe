@@ -12405,6 +12405,743 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "2026-09-19",
+            "date": "19 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 19 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Government Schemes & Employment",
+                    "title": "20th Rozgar Mela: Over 51,000 Appointment Letters to Be Distributed / 20वां रोजगार मेला: 51,000 से अधिक नियुक्ति पत्र वितरित किए जाएंगे",
+                    "summary": "The 20th Rozgar Mela is being held on 19 September 2026, where Prime Minister Narendra Modi will distribute more than 51,000 appointment letters to newly recruited youth through video conferencing. The programme is being organised at 45 locations across India. / 20वां रोजगार मेला 19 सितंबर 2026 को आयोजित किया जा रहा है, जिसमें प्रधानमंत्री नरेंद्र मोदी वीडियो कॉन्फ्रेंसिंग के माध्यम से 51,000 से अधिक नव नियुक्त युवाओं को नियुक्ति पत्र प्रदान करेंगे। यह कार्यक्रम देशभर में 45 स्थानों पर आयोजित किया जा रहा है।",
+                    "sourceName": "Prime Minister's Office",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/under-20th-rozgar-mela-pm-to-distribute-more-than-51000-appointment-letters-to-the-newly-appointed-youth-in-government-on-19-september/",
+                    "staticGK": [
+                        "Event / आयोजन : 20th Rozgar Mela",
+                        "Appointment Letters / नियुक्ति पत्र : More than 51,000",
+                        "Locations / स्थान : 45 across India",
+                        "Mode / माध्यम : Video Conferencing",
+                        "Cumulative Beneficiaries / कुल लाभार्थी : About 12.75 lakh"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of Rozgar Mela is being held on 19 September 2026? / 19 सितंबर 2026 को रोजगार मेले का कौन-सा संस्करण आयोजित हो रहा है?",
+                            "options": [
+                                "18th",
+                                "19th",
+                                "20th",
+                                "21st"
+                            ],
+                            "answer": "20th"
+                        },
+                        {
+                            "question": "More than how many appointment letters will be distributed? / कितने से अधिक नियुक्ति पत्र वितरित किए जाएंगे?",
+                            "options": [
+                                "25,000",
+                                "40,000",
+                                "51,000",
+                                "75,000"
+                            ],
+                            "answer": "51,000"
+                        },
+                        {
+                            "question": "At how many locations is the Rozgar Mela being organised? / रोजगार मेला कितने स्थानों पर आयोजित किया जा रहा है?",
+                            "options": [
+                                "25",
+                                "35",
+                                "45",
+                                "55"
+                            ],
+                            "answer": "45"
+                        },
+                        {
+                            "question": "How will the Prime Minister address the programme? / प्रधानमंत्री कार्यक्रम को किस माध्यम से संबोधित करेंगे?",
+                            "options": [
+                                "Video conferencing",
+                                "Radio",
+                                "Recorded message",
+                                "Written message"
+                            ],
+                            "answer": "Video conferencing"
+                        },
+                        {
+                            "question": "Approximately how many youth will have received appointment letters after the 20th Rozgar Mela? / 20वें रोजगार मेले के बाद लगभग कितने युवाओं को नियुक्ति पत्र मिल चुके होंगे?",
+                            "options": [
+                                "7.75 lakh",
+                                "10.25 lakh",
+                                "12.75 lakh",
+                                "15.75 lakh"
+                            ],
+                            "answer": "12.75 lakh"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Climate",
+                    "title": "International Conference on Future of Environment and Climate Dynamics Begins / पर्यावरण और जलवायु गतिशीलता के भविष्य पर अंतरराष्ट्रीय सम्मेलन",
+                    "summary": "An International Conference on 'The Future of Environment and Climate Dynamics' is being held at Vigyan Bhawan, New Delhi on 19 and 20 September 2026. The conference is organised by the National Green Tribunal and brings together environmental experts and judicial representatives from 17 countries. / 'The Future of Environment and Climate Dynamics' पर अंतरराष्ट्रीय सम्मेलन 19 और 20 सितंबर 2026 को नई दिल्ली के विज्ञान भवन में आयोजित हो रहा है। इसका आयोजन National Green Tribunal द्वारा किया जा रहा है और इसमें 17 देशों के पर्यावरण विशेषज्ञ तथा न्यायिक प्रतिनिधि भाग ले रहे हैं।",
+                    "sourceName": "Prime Minister's Office",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-international-conference-on-the-future-of-environment-and-climate-dynamics-on-19-september/",
+                    "staticGK": [
+                        "Conference / सम्मेलन : The Future of Environment and Climate Dynamics",
+                        "Venue / स्थान : Vigyan Bhawan, New Delhi",
+                        "Dates / तिथियां : 19–20 September 2026",
+                        "Organiser / आयोजक : National Green Tribunal",
+                        "Countries Represented / प्रतिनिधित्व : 17 countries"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the conference on Environment and Climate Dynamics being held? / पर्यावरण और जलवायु गतिशीलता सम्मेलन कहाँ आयोजित हो रहा है?",
+                            "options": [
+                                "Mumbai",
+                                "New Delhi",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which organisation is organising the conference? / सम्मेलन का आयोजन कौन कर रहा है?",
+                            "options": [
+                                "NITI Aayog",
+                                "National Green Tribunal",
+                                "MoEFCC",
+                                "ISRO"
+                            ],
+                            "answer": "National Green Tribunal"
+                        },
+                        {
+                            "question": "The conference is being held on which dates? / सम्मेलन किन तिथियों को आयोजित हो रहा है?",
+                            "options": [
+                                "18–19 September",
+                                "19–20 September",
+                                "20–21 September",
+                                "21–22 September"
+                            ],
+                            "answer": "19–20 September"
+                        },
+                        {
+                            "question": "Judicial representatives from how many countries are participating? / कितने देशों के न्यायिक प्रतिनिधि भाग ले रहे हैं?",
+                            "options": [
+                                "12",
+                                "15",
+                                "17",
+                                "20"
+                            ],
+                            "answer": "17"
+                        },
+                        {
+                            "question": "What is the main theme of the conference? / सम्मेलन का मुख्य विषय क्या है?",
+                            "options": [
+                                "Future of Environment and Climate Dynamics",
+                                "Global Trade and Economy",
+                                "Digital India",
+                                "Ocean Security"
+                            ],
+                            "answer": "Future of Environment and Climate Dynamics"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "20th Asian Games Begin in Aichi-Nagoya, Japan / 20वें एशियाई खेल Aichi-Nagoya, Japan में शुरू",
+                    "summary": "The 20th Asian Games officially begin in Aichi-Nagoya, Japan on 19 September 2026 and will continue until 4 October 2026. The Games feature athletes from across Asia and include 43 sports and 469 medal events. / 20वें एशियाई खेल 19 सितंबर 2026 को जापान के Aichi-Nagoya में आधिकारिक रूप से शुरू हुए और 4 अक्टूबर 2026 तक चलेंगे। इन खेलों में 43 खेलों और 469 medal events को शामिल किया गया है।",
+                    "sourceName": "Reuters / Olympics",
+                    "sourceUrl": "https://www.reuters.com/sports/2026-asian-games-facts-figures-2026-09-16/",
+                    "staticGK": [
+                        "Edition / संस्करण : 20th Asian Games",
+                        "Host / मेजबान : Aichi-Nagoya, Japan",
+                        "Opening / उद्घाटन : 19 September 2026",
+                        "Closing / समापन : 4 October 2026",
+                        "Sports / खेल : 43",
+                        "Medal Events / पदक स्पर्धाएं : 469"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where are the 20th Asian Games being held? / 20वें एशियाई खेल कहाँ आयोजित हो रहे हैं?",
+                            "options": [
+                                "Hangzhou, China",
+                                "Aichi-Nagoya, Japan",
+                                "Seoul, South Korea",
+                                "Jakarta, Indonesia"
+                            ],
+                            "answer": "Aichi-Nagoya, Japan"
+                        },
+                        {
+                            "question": "Which edition of the Asian Games is being held in 2026? / 2026 में एशियाई खेलों का कौन-सा संस्करण है?",
+                            "options": [
+                                "18th",
+                                "19th",
+                                "20th",
+                                "21st"
+                            ],
+                            "answer": "20th"
+                        },
+                        {
+                            "question": "When do the 2026 Asian Games officially begin? / 2026 एशियाई खेल आधिकारिक रूप से कब शुरू हुए?",
+                            "options": [
+                                "17 September",
+                                "18 September",
+                                "19 September",
+                                "20 September"
+                            ],
+                            "answer": "19 September"
+                        },
+                        {
+                            "question": "How many sports are featured in the Games? / खेलों में कितने sports शामिल हैं?",
+                            "options": [
+                                "40",
+                                "41",
+                                "43",
+                                "45"
+                            ],
+                            "answer": "43"
+                        },
+                        {
+                            "question": "When will the 2026 Asian Games conclude? / 2026 एशियाई खेल कब समाप्त होंगे?",
+                            "options": [
+                                "30 September",
+                                "2 October",
+                                "4 October",
+                                "6 October"
+                            ],
+                            "answer": "4 October"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Cricket",
+                    "title": "India Defeats Japan by 8 Wickets in Asian Games Women's Cricket / एशियाई खेलों में भारत ने जापान को 8 विकेट से हराया",
+                    "summary": "India defeated Japan by eight wickets in the women's cricket quarter-final at the 2026 Asian Games. Japan were bowled out for 57, while India chased the target in five overs. India advanced to the semi-final against Bangladesh. / 2026 एशियाई खेलों के महिला क्रिकेट quarter-final में भारत ने जापान को 8 विकेट से हराया। जापान की टीम 57 रन पर आउट हो गई और भारत ने पांच ओवर में लक्ष्य हासिल कर लिया। भारत ने semifinal में जगह बनाई, जहाँ उसका मुकाबला Bangladesh से होगा।",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-beat-japan-8-wickets-asian-games-2026-gold-medal-defence-10883360/",
+                    "staticGK": [
+                        "Sport / खेल : Women's Cricket",
+                        "Opponent / प्रतिद्वंद्वी : Japan",
+                        "India's Victory / भारत की जीत : 8 wickets",
+                        "Japan Score / जापान का स्कोर : 57",
+                        "India Semi-final Opponent / भारत का semifinal प्रतिद्वंद्वी : Bangladesh"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team did India defeat in the women's cricket quarter-final? / महिला क्रिकेट quarter-final में भारत ने किस टीम को हराया?",
+                            "options": [
+                                "Japan",
+                                "Bangladesh",
+                                "Sri Lanka",
+                                "Thailand"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "By how many wickets did India win? / भारत कितने विकेट से जीता?",
+                            "options": [
+                                "5 wickets",
+                                "6 wickets",
+                                "8 wickets",
+                                "10 wickets"
+                            ],
+                            "answer": "8 wickets"
+                        },
+                        {
+                            "question": "What was Japan's total score? / जापान का कुल स्कोर कितना था?",
+                            "options": [
+                                "47",
+                                "57",
+                                "67",
+                                "77"
+                            ],
+                            "answer": "57"
+                        },
+                        {
+                            "question": "How many overs did India take to chase the target? / भारत ने लक्ष्य कितने ओवर में हासिल किया?",
+                            "options": [
+                                "5 overs",
+                                "7 overs",
+                                "9 overs",
+                                "10 overs"
+                            ],
+                            "answer": "5 overs"
+                        },
+                        {
+                            "question": "Whom will India face in the semi-final? / semifinal में भारत का मुकाबला किससे होगा?",
+                            "options": [
+                                "Pakistan",
+                                "Bangladesh",
+                                "Sri Lanka",
+                                "China"
+                            ],
+                            "answer": "Bangladesh"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence",
+                    "title": "Second Next Generation Missile Vessel Begins Construction at Cochin Shipyard / दूसरे Next Generation Missile Vessel का निर्माण शुरू",
+                    "summary": "The steel-cutting ceremony of the second Next Generation Missile Vessel (NGMV) for the Indian Navy was held at Cochin Shipyard Limited, Kochi on 17 September 2026. The vessels are planned with advanced weapons and sensors, while major role-defining equipment has been indigenously developed and manufactured. / भारतीय नौसेना के दूसरे Next Generation Missile Vessel (NGMV) के लिए steel-cutting ceremony 17 सितंबर 2026 को Cochin Shipyard Limited, Kochi में आयोजित हुई। इन vessels में advanced weapons और sensors लगाए जाएंगे तथा प्रमुख role-defining equipment स्वदेशी रूप से विकसित और निर्मित किए गए हैं।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311806&lang=2&reg=48",
+                    "staticGK": [
+                        "Project / परियोजना : Next Generation Missile Vessel (NGMV)",
+                        "Shipyard / शिपयार्ड : Cochin Shipyard Limited",
+                        "Location / स्थान : Kochi",
+                        "Client / ग्राहक : Indian Navy",
+                        "Construction Contract / निर्माण अनुबंध : March 2023",
+                        "Technology / तकनीक : Indigenous equipment"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the steel-cutting ceremony of the second NGMV held? / दूसरे NGMV की steel-cutting ceremony कहाँ हुई?",
+                            "options": [
+                                "Mumbai",
+                                "Kochi",
+                                "Visakhapatnam",
+                                "Chennai"
+                            ],
+                            "answer": "Kochi"
+                        },
+                        {
+                            "question": "NGMV is being built for which organisation? / NGMV किस संस्था के लिए बनाया जा रहा है?",
+                            "options": [
+                                "Indian Army",
+                                "Indian Air Force",
+                                "Indian Navy",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Navy"
+                        },
+                        {
+                            "question": "Which shipyard is constructing the NGMVs? / NGMV का निर्माण कौन-सा shipyard कर रहा है?",
+                            "options": [
+                                "Mazagon Dock Shipbuilders",
+                                "Cochin Shipyard Limited",
+                                "Garden Reach Shipbuilders",
+                                "Hindustan Shipyard"
+                            ],
+                            "answer": "Cochin Shipyard Limited"
+                        },
+                        {
+                            "question": "When was the construction contract for NGMVs concluded? / NGMV का construction contract कब हुआ था?",
+                            "options": [
+                                "March 2021",
+                                "March 2022",
+                                "March 2023",
+                                "March 2024"
+                            ],
+                            "answer": "March 2023"
+                        },
+                        {
+                            "question": "What is a major feature of the NGMV project? / NGMV परियोजना की प्रमुख विशेषता क्या है?",
+                            "options": [
+                                "Major equipment developed indigenously",
+                                "Only imported equipment",
+                                "Civilian passenger use",
+                                "Agricultural application"
+                            ],
+                            "answer": "Major equipment developed indigenously"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Technology",
+                    "title": "DRDO's VIMARSH 2026 Promotes Defence Industry Collaboration / DRDO का VIMARSH 2026 रक्षा उद्योग सहयोग को बढ़ावा देता है",
+                    "summary": "VIMARSH 2026, a DRDO-Industry Synergy Meet, was held in New Delhi to strengthen collaboration among DRDO, MSMEs, start-ups, academia and private defence industries. Nine Licensing Agreements for Transfer of Technology were handed over to 13 manufacturing partners. / VIMARSH 2026 DRDO-Industry Synergy Meet नई दिल्ली में DRDO, MSMEs, start-ups, academia और private defence industries के बीच सहयोग मजबूत करने के लिए आयोजित किया गया। 9 Licensing Agreements for Transfer of Technology को 13 manufacturing partners को सौंपा गया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/ShowAlbum.aspx?albumid=229770&lang=1&reg=3",
+                    "staticGK": [
+                        "Event / आयोजन : VIMARSH 2026",
+                        "Organiser / आयोजक : DRDO",
+                        "Venue / स्थान : New Delhi",
+                        "Theme / थीम : Varta se Vikas",
+                        "Technology Transfer Agreements / तकनीक हस्तांतरण समझौते : 9",
+                        "Manufacturing Partners / निर्माण साझेदार : 13"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "VIMARSH 2026 was organised by which organisation? / VIMARSH 2026 का आयोजन किस संस्था ने किया?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "BHEL"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "Where was VIMARSH 2026 held? / VIMARSH 2026 कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Mumbai",
+                                "Bengaluru",
+                                "New Delhi",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What was the theme of VIMARSH 2026? / VIMARSH 2026 की theme क्या थी?",
+                            "options": [
+                                "Varta se Vikas",
+                                "Vikas se Shakti",
+                                "Make in India",
+                                "Defence for Peace"
+                            ],
+                            "answer": "Varta se Vikas"
+                        },
+                        {
+                            "question": "How many technology transfer licensing agreements were handed over? / कितने technology transfer licensing agreements सौंपे गए?",
+                            "options": [
+                                "5",
+                                "7",
+                                "9",
+                                "11"
+                            ],
+                            "answer": "9"
+                        },
+                        {
+                            "question": "The agreements were handed over to how many manufacturing partners? / समझौते कितने manufacturing partners को दिए गए?",
+                            "options": [
+                                "10",
+                                "11",
+                                "13",
+                                "15"
+                            ],
+                            "answer": "13"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Wildlife",
+                    "title": "India's Cheetah Population Reaches 52 After Four Years / चार वर्षों बाद भारत में चीतों की संख्या 52 हुई",
+                    "summary": "According to the 'Four Years of Cheetahs in India' status review, India's cheetah population reached 52 by 17 September 2026. Of these, 49 are in Kuno National Park and three are in Gandhi Sagar Sanctuary. / 'Four Years of Cheetahs in India' status review के अनुसार 17 सितंबर 2026 तक भारत में चीतों की संख्या 52 हो गई। इनमें 49 Kuno National Park और 3 Gandhi Sagar Sanctuary में हैं।",
+                    "sourceName": "Akashvani News",
+                    "sourceUrl": "https://newsonair.gov.in/indias-cheetah-population-rises-to-52-four-years-after-reintroduction/",
+                    "staticGK": [
+                        "Cheetah Population / चीता संख्या : 52",
+                        "Kuno National Park / कूनो राष्ट्रीय उद्यान : 49",
+                        "Gandhi Sagar Sanctuary / गांधी सागर अभयारण्य : 3",
+                        "Reintroduction Date / पुनर्प्रवेश : 17 September 2022",
+                        "Countries of Origin / मूल देश : Namibia, South Africa and Botswana"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is India's cheetah population according to the September 2026 review? / सितंबर 2026 की समीक्षा के अनुसार भारत में चीतों की संख्या कितनी है?",
+                            "options": [
+                                "48",
+                                "50",
+                                "52",
+                                "56"
+                            ],
+                            "answer": "52"
+                        },
+                        {
+                            "question": "How many cheetahs are currently in Kuno National Park? / Kuno National Park में कितने चीते हैं?",
+                            "options": [
+                                "45",
+                                "47",
+                                "49",
+                                "51"
+                            ],
+                            "answer": "49"
+                        },
+                        {
+                            "question": "How many cheetahs are in Gandhi Sagar Sanctuary? / Gandhi Sagar Sanctuary में कितने चीते हैं?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "answer": "3"
+                        },
+                        {
+                            "question": "When was the cheetah reintroduction programme launched in India? / भारत में चीता पुनर्प्रवेश कार्यक्रम कब शुरू हुआ?",
+                            "options": [
+                                "17 September 2020",
+                                "17 September 2021",
+                                "17 September 2022",
+                                "17 September 2023"
+                            ],
+                            "answer": "17 September 2022"
+                        },
+                        {
+                            "question": "From which countries were cheetahs brought to India? / भारत में चीते किन देशों से लाए गए?",
+                            "options": [
+                                "Namibia, South Africa and Botswana",
+                                "Kenya, Tanzania and Uganda",
+                                "Egypt, Sudan and Kenya",
+                                "South Africa, Kenya and Zambia"
+                            ],
+                            "answer": "Namibia, South Africa and Botswana"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & International Reports",
+                    "title": "FAO Releases 'Forests for Food: Nourishing People, Sustaining the Planet' Report / FAO ने 'Forests for Food' रिपोर्ट जारी की",
+                    "summary": "The Food and Agriculture Organization of the United Nations released the report 'Forests for Food: Nourishing People, Sustaining the Planet' in September 2026. The report highlights that more than 5 billion people depend on forests and trees to some extent for their livelihoods. / Food and Agriculture Organization (FAO) ने सितंबर 2026 में 'Forests for Food: Nourishing People, Sustaining the Planet' रिपोर्ट जारी की। रिपोर्ट के अनुसार 5 billion से अधिक लोग अपनी आजीविका के लिए किसी न किसी रूप में forests और trees पर निर्भर हैं।",
+                    "sourceName": "Food and Agriculture Organization",
+                    "sourceUrl": "https://www.fao.org/newsroom/detail/fao-report-highlights-forests%27-crucial-role-in-food-security-and-nutrition/en",
+                    "staticGK": [
+                        "Report / रिपोर्ट : Forests for Food: Nourishing People, Sustaining the Planet",
+                        "Publisher / जारीकर्ता : FAO",
+                        "People Depending on Forests / वन पर निर्भर लोग : More than 5 billion",
+                        "Wild Species Used / उपयोग की जाने वाली जंगली प्रजातियां : More than 50,000",
+                        "Headquarters / मुख्यालय : Rome, Italy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation released the 'Forests for Food' report? / 'Forests for Food' रिपोर्ट किस संगठन ने जारी की?",
+                            "options": [
+                                "World Bank",
+                                "UNEP",
+                                "FAO",
+                                "UNDP"
+                            ],
+                            "answer": "FAO"
+                        },
+                        {
+                            "question": "More than how many people depend on forests and trees to some extent? / कितने से अधिक लोग forests और trees पर किसी न किसी रूप में निर्भर हैं?",
+                            "options": [
+                                "2 billion",
+                                "3 billion",
+                                "5 billion",
+                                "7 billion"
+                            ],
+                            "answer": "5 billion"
+                        },
+                        {
+                            "question": "What is the main focus of the report? / रिपोर्ट का मुख्य focus क्या है?",
+                            "options": [
+                                "Forests and food security",
+                                "Space exploration",
+                                "Global banking",
+                                "Ocean trade"
+                            ],
+                            "answer": "Forests and food security"
+                        },
+                        {
+                            "question": "FAO is headquartered in which city? / FAO का headquarters किस शहर में है?",
+                            "options": [
+                                "Geneva",
+                                "Paris",
+                                "Rome",
+                                "New York"
+                            ],
+                            "answer": "Rome"
+                        },
+                        {
+                            "question": "More than how many wild species are used for food, medicine and other purposes? / कितनी से अधिक wild species food, medicine और अन्य purposes के लिए उपयोग की जाती हैं?",
+                            "options": [
+                                "10,000",
+                                "25,000",
+                                "50,000",
+                                "75,000"
+                            ],
+                            "answer": "50,000"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Cricket",
+                    "title": "Abhishek Sharma Hits Fastest T20I Century by an Indian / अभिषेक शर्मा ने सबसे तेज भारतीय T20I शतक लगाया",
+                    "summary": "Abhishek Sharma scored a century in just 30 balls against Afghanistan in the third T20I in Delhi. He made 108 runs from 34 balls and broke Rohit Sharma's previous Indian record of a 35-ball T20I century. / अभिषेक शर्मा ने दिल्ली में Afghanistan के खिलाफ तीसरे T20I में सिर्फ 30 गेंदों में शतक लगाया। उन्होंने 34 गेंदों पर 108 रन बनाए और Rohit Sharma के 35 गेंदों में T20I शतक के भारतीय रिकॉर्ड को पीछे छोड़ दिया।",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/cricket/abhishek-sharma-record-india-afghanistan-century-suryakumar-yadav-influence-10884071/",
+                    "staticGK": [
+                        "Player / खिलाड़ी : Abhishek Sharma",
+                        "Opponent / प्रतिद्वंद्वी : Afghanistan",
+                        "Century / शतक : 30 balls",
+                        "Final Score / अंतिम स्कोर : 108 runs off 34 balls",
+                        "Previous Indian Record / पिछला भारतीय रिकॉर्ड : Rohit Sharma – 35 balls"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In how many balls did Abhishek Sharma score his T20I century? / अभिषेक शर्मा ने T20I शतक कितनी गेंदों में लगाया?",
+                            "options": [
+                                "28 balls",
+                                "30 balls",
+                                "32 balls",
+                                "35 balls"
+                            ],
+                            "answer": "30 balls"
+                        },
+                        {
+                            "question": "Against which team did Abhishek Sharma score the century? / अभिषेक शर्मा ने किस टीम के खिलाफ शतक लगाया?",
+                            "options": [
+                                "Pakistan",
+                                "Sri Lanka",
+                                "Afghanistan",
+                                "Bangladesh"
+                            ],
+                            "answer": "Afghanistan"
+                        },
+                        {
+                            "question": "How many runs did Abhishek Sharma score? / अभिषेक शर्मा ने कितने रन बनाए?",
+                            "options": [
+                                "98",
+                                "104",
+                                "108",
+                                "118"
+                            ],
+                            "answer": "108"
+                        },
+                        {
+                            "question": "Whose Indian record did Abhishek Sharma break? / अभिषेक शर्मा ने किस भारतीय खिलाड़ी का रिकॉर्ड तोड़ा?",
+                            "options": [
+                                "Virat Kohli",
+                                "Rohit Sharma",
+                                "Suryakumar Yadav",
+                                "KL Rahul"
+                            ],
+                            "answer": "Rohit Sharma"
+                        },
+                        {
+                            "question": "What was Rohit Sharma's previous Indian T20I century record? / रोहित शर्मा का पिछला भारतीय T20I century record कितनी गेंदों का था?",
+                            "options": [
+                                "30 balls",
+                                "32 balls",
+                                "35 balls",
+                                "38 balls"
+                            ],
+                            "answer": "35 balls"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Important Days",
+                    "title": "International Red Panda Day Observed on 19 September / 19 सितंबर को International Red Panda Day मनाया गया",
+                    "summary": "International Red Panda Day is observed on the third Saturday of September every year. In 2026, it falls on 19 September and aims to raise awareness about red panda conservation, habitat loss and other threats. / International Red Panda Day हर वर्ष सितंबर के तीसरे शनिवार को मनाया जाता है। 2026 में यह 19 सितंबर को मनाया जा रहा है और इसका उद्देश्य red panda conservation, habitat loss और अन्य खतरों के प्रति जागरूकता बढ़ाना है।",
+                    "sourceName": "GKToday",
+                    "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-september-19-2026/",
+                    "staticGK": [
+                        "Day / दिवस : International Red Panda Day",
+                        "Date in 2026 / 2026 में तिथि : 19 September",
+                        "Occurrence / आयोजन : Third Saturday of September",
+                        "Animal / पशु : Red Panda",
+                        "Major Threats / प्रमुख खतरे : Habitat loss, deforestation and poaching"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is International Red Panda Day observed in 2026? / 2026 में International Red Panda Day कब मनाया जा रहा है?",
+                            "options": [
+                                "18 September",
+                                "19 September",
+                                "20 September",
+                                "21 September"
+                            ],
+                            "answer": "19 September"
+                        },
+                        {
+                            "question": "International Red Panda Day is observed on which day of September? / International Red Panda Day सितंबर के किस दिन मनाया जाता है?",
+                            "options": [
+                                "First Saturday",
+                                "Second Saturday",
+                                "Third Saturday",
+                                "Fourth Saturday"
+                            ],
+                            "answer": "Third Saturday"
+                        },
+                        {
+                            "question": "Which animal is the focus of this day? / इस दिवस का focus किस animal पर है?",
+                            "options": [
+                                "Giant Panda",
+                                "Red Panda",
+                                "Snow Leopard",
+                                "Koala"
+                            ],
+                            "answer": "Red Panda"
+                        },
+                        {
+                            "question": "Which is a major threat to red pandas? / Red Panda के लिए प्रमुख खतरा क्या है?",
+                            "options": [
+                                "Habitat loss",
+                                "Ocean pollution",
+                                "Overfishing",
+                                "Desertification only"
+                            ],
+                            "answer": "Habitat loss"
+                        },
+                        {
+                            "question": "What is the main purpose of International Red Panda Day? / International Red Panda Day का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Promote red panda conservation",
+                                "Promote tourism",
+                                "Promote agriculture",
+                                "Promote space research"
+                            ],
+                            "answer": "Promote red panda conservation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Maritime Security",
+                    "title": "43rd Indian Coast Guard Commanders' Conference Concludes in New Delhi / 43वां Indian Coast Guard Commanders' Conference नई दिल्ली में",
+                    "summary": "The 43rd Indian Coast Guard Commanders' Conference was held from 17 to 19 September 2026 at Coast Guard Headquarters in New Delhi. The conference focused on emerging maritime security challenges, operational readiness, capability enhancement and force modernisation. / 43वां Indian Coast Guard Commanders' Conference 17 से 19 सितंबर 2026 तक नई दिल्ली स्थित Coast Guard Headquarters में आयोजित हुआ। सम्मेलन में emerging maritime security challenges, operational readiness, capability enhancement और force modernisation पर चर्चा हुई।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311623&lang=2&reg=48",
+                    "staticGK": [
+                        "Conference / सम्मेलन : 43rd Indian Coast Guard Commanders' Conference",
+                        "Venue / स्थान : Coast Guard Headquarters, New Delhi",
+                        "Dates / तिथियां : 17–19 September 2026",
+                        "Organisation / संस्था : Indian Coast Guard",
+                        "Focus / फोकस : Maritime Security and Operational Readiness"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of the Indian Coast Guard Commanders' Conference was held in September 2026? / सितंबर 2026 में Indian Coast Guard Commanders' Conference का कौन-सा संस्करण आयोजित हुआ?",
+                            "options": [
+                                "41st",
+                                "42nd",
+                                "43rd",
+                                "44th"
+                            ],
+                            "answer": "43rd"
+                        },
+                        {
+                            "question": "Where was the conference held? / सम्मेलन कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Mumbai",
+                                "Kochi",
+                                "New Delhi",
+                                "Chennai"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "The conference was held from which dates? / सम्मेलन किन तिथियों के बीच हुआ?",
+                            "options": [
+                                "15–17 September",
+                                "16–18 September",
+                                "17–19 September",
+                                "18–20 September"
+                            ],
+                            "answer": "17–19 September"
+                        },
+                        {
+                            "question": "Which organisation conducted the conference? / सम्मेलन किस संस्था से संबंधित था?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Coast Guard",
+                                "Indian Army",
+                                "Border Security Force"
+                            ],
+                            "answer": "Indian Coast Guard"
+                        },
+                        {
+                            "question": "Which issue was a key focus of the conference? / सम्मेलन का प्रमुख focus क्या था?",
+                            "options": [
+                                "Maritime security",
+                                "Agricultural exports",
+                                "Banking reforms",
+                                "Space tourism"
+                            ],
+                            "answer": "Maritime security"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
