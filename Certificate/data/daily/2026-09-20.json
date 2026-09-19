@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-20",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "20 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What comes next? 2, 4, 6, 8, ?अगली संख्या क्या होगी? 2, 4, 6, 8, ?",
+      "options": [
+        "9 / 9",
+        "10 / 10",
+        "11 / 11",
+        "12 / 12"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Find the odd one out. Apple, Mango, Potato, Bananaविषम शब्द चुनिए। Apple, Mango, Potato, Banana",
+      "options": [
+        "Apple / सेब",
+        "Mango / आम",
+        "Potato / आलू",
+        "Banana / केला"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the headquarters of Indian Railways? / भारतीय रेलवे का मुख्यालय कहाँ है?",
+      "options": [
+        "Mumbai / मुंबई",
+        "New Delhi / नई दिल्ली",
+        "Kolkata / कोलकाता",
+        "Chennai / चेन्नई"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which is the longest railway platform in India? / भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
+      "options": [
+        "Gorakhpur / गोरखपुर",
+        "Hubballi / हुब्बली",
+        "Kharagpur / खड़गपुर",
+        "Prayagraj / प्रयागराज"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the full form of RBI? / RBI का पूरा नाम क्या है?",
+      "options": [
+        "Reserve Bank of India",
+        "Rural Bank of India",
+        "Reserve Banking Institution",
+        "Regional Bank of India"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "When was RBI established? / RBI की स्थापना कब हुई थी?",
+      "options": [
+        "1930",
+        "1935",
+        "1947",
+        "1950"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the supreme commander of the Indian Armed Forces? / भारतीय सशस्त्र बलों का सर्वोच्च कमांडर कौन है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "President / राष्ट्रपति",
+        "Defence Minister / रक्षा मंत्री",
+        "Chief of Defence Staff / चीफ ऑफ डिफेंस स्टाफ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Where is the National Defence Academy located? / राष्ट्रीय रक्षा अकादमी कहाँ स्थित है?",
+      "options": [
+        "Dehradun / देहरादून",
+        "Pune / पुणे",
+        "Khadakwasla / खड़गवासला",
+        "New Delhi / नई दिल्ली"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which edition of Rozgar Mela is being held on 19 September 2026? / 19 सितंबर 2026 को रोजगार मेले का कौन-सा संस्करण आयोजित हो रहा है?",
+      "options": [
+        "18th",
+        "19th",
+        "20th",
+        "21st"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Where is the conference on Environment and Climate Dynamics being held? / पर्यावरण और जलवायु गतिशीलता सम्मेलन कहाँ आयोजित हो रहा है?",
+      "options": [
+        "Mumbai / मुंबई",
+        "Bengaluru / बेंगलुरु",
+        "Hyderabad / हैदराबाद",
+        "New Delhi / नई दिल्ली"
+      ],
+      "answer": 3
+    }
+  ]
+}

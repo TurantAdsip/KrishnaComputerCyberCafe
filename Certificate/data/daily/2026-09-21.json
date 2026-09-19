@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-21",
+  "title": "Daily General Studies & Current Affairs Quiz",
+  "date": "21 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the head of the State Police Force? / राज्य पुलिस बल का प्रमुख कौन होता है?",
+      "options": [
+        "DM",
+        "SP",
+        "DGP",
+        "DIG"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What does FIR stand for? / FIR का पूरा नाम क्या है?",
+      "options": [
+        "First Information Report",
+        "First Investigation Report",
+        "Final Information Report",
+        "Federal Investigation Report"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "What is the capital of India? / भारत की राजधानी क्या है?",
+      "options": [
+        "Mumbai / मुंबई",
+        "New Delhi / नई दिल्ली",
+        "Kolkata / कोलकाता",
+        "Chennai / चेन्नई"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which is the highest court in India? / भारत का सर्वोच्च न्यायालय कौन-सा है?",
+      "options": [
+        "High Court / उच्च न्यायालय",
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "District Court / जिला न्यायालय",
+        "Sessions Court / सत्र न्यायालय"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which Article protects life and personal liberty? / जीवन और व्यक्तिगत स्वतंत्रता की रक्षा किस अनुच्छेद में है?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Fundamental Duties are mentioned in which Article? / मौलिक कर्तव्य किस अनुच्छेद में हैं?",
+      "options": [
+        "Article 32",
+        "Article 44",
+        "Article 51A",
+        "Article 56"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Approximately how many youth will have received appointment letters after the 20th Rozgar Mela? / 20वें रोजगार मेले के बाद लगभग कितने युवाओं को नियुक्ति पत्र मिल चुके होंगे?",
+      "options": [
+        "7.75 lakh",
+        "10.25 lakh",
+        "12.75 lakh",
+        "15.75 lakh"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Where is the conference on Environment and Climate Dynamics being held? / पर्यावरण और जलवायु गतिशीलता सम्मेलन कहाँ आयोजित हो रहा है?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": " Where are the 20th Asian Games being held? / 20वें एशियाई खेल कहाँ आयोजित हो रहे हैं?",
+      "options": [
+        "Hangzhou, China",
+        "Aichi-Nagoya, Japan",
+        "Seoul, South Korea",
+        "Jakarta, Indonesia"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "बौद्ध धर्म के संस्थापक कौन थे?Who founded Buddhism?",
+      "options": [
+        "महावीर / Mahavira",
+        "गौतम बुद्ध / Gautama Buddha",
+        "अशोक / Ashoka",
+        "नागार्जुन / Nagarjuna"
+      ],
+      "answer": 1
+    }
+  ]
+}
