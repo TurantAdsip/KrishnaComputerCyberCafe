@@ -13142,6 +13142,740 @@
                     ]
                 }
             ]
+        },
+            {
+            "id": "2026-09-20",
+            "date": "20 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 20 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Sports",
+                    "title": "India Women Face Bangladesh in Asian Games Cricket Semi-Final / एशियाई खेलों में भारत महिला टीम का बांग्लादेश से सेमीफाइनल",
+                    "summary": "India's women's cricket team is scheduled to face Bangladesh in the semi-final of the women's T20 cricket competition at the 2026 Asian Games on 20 September 2026 at 10:30 AM IST. The match is scheduled at Korogi Sports Park in Nisshin, Japan. / भारत की महिला क्रिकेट टीम 20 सितंबर 2026 को एशियाई खेलों की महिला T20 क्रिकेट प्रतियोगिता के सेमीफाइनल में बांग्लादेश का सामना करेगी। मैच सुबह 10:30 बजे IST पर जापान के निस्शिन स्थित Korogi Sports Park में निर्धारित है।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Sport / खेल : Women's T20 Cricket",
+                        "Match / मुकाबला : India Women vs Bangladesh Women",
+                        "Date / तिथि : 20 September 2026",
+                        "Time / समय : 10:30 AM IST",
+                        "Venue / स्थान : Korogi Sports Park, Nisshin"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team will India Women face in the Asian Games 2026 cricket semi-final? / एशियाई खेल 2026 क्रिकेट सेमीफाइनल में भारत महिला टीम किस टीम से खेलेगी?",
+                            "options": [
+                                "Japan",
+                                "Bangladesh",
+                                "Sri Lanka",
+                                "Thailand"
+                            ],
+                            "answer": "Bangladesh"
+                        },
+                        {
+                            "question": "When is the India Women vs Bangladesh Women semi-final scheduled? / भारत महिला और बांग्लादेश महिला सेमीफाइनल कब निर्धारित है?",
+                            "options": [
+                                "8:30 AM IST",
+                                "9:30 AM IST",
+                                "10:30 AM IST",
+                                "11:30 AM IST"
+                            ],
+                            "answer": "10:30 AM IST"
+                        },
+                        {
+                            "question": "Which format is being used for women's cricket at the Asian Games? / एशियाई खेलों में महिला क्रिकेट किस प्रारूप में खेला जा रहा है?",
+                            "options": [
+                                "Test",
+                                "ODI",
+                                "T20",
+                                "T10"
+                            ],
+                            "answer": "T20"
+                        },
+                        {
+                            "question": "Where is the India-Bangladesh women's cricket semi-final scheduled? / भारत-बांग्लादेश महिला क्रिकेट सेमीफाइनल कहाँ निर्धारित है?",
+                            "options": [
+                                "Mizuho Park",
+                                "Korogi Sports Park",
+                                "Nagoya Dome",
+                                "Aichi Arena"
+                            ],
+                            "answer": "Korogi Sports Park"
+                        },
+                        {
+                            "question": "Which city is Korogi Sports Park located in? / Korogi Sports Park किस शहर में स्थित है?",
+                            "options": [
+                                "Tokyo",
+                                "Kyoto",
+                                "Nisshin",
+                                "Osaka"
+                            ],
+                            "answer": "Nisshin"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Hockey",
+                    "title": "India Hockey Teams Begin Asian Games Campaign / भारत की हॉकी टीमें एशियाई खेल अभियान शुरू करेंगी",
+                    "summary": "India's women's hockey team is scheduled to face Uzbekistan in Pool B, while India's men's hockey team will face Indonesia in Pool A on 20 September 2026 at the Aichi-Nagoya Asian Games. / भारत की महिला हॉकी टीम 20 सितंबर 2026 को Pool B में उज्बेकिस्तान और पुरुष हॉकी टीम Pool A में इंडोनेशिया के खिलाफ अपने एशियाई खेल अभियान की शुरुआत करेगी।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Women's Opponent / महिला प्रतिद्वंद्वी : Uzbekistan",
+                        "Men's Opponent / पुरुष प्रतिद्वंद्वी : Indonesia",
+                        "Women's Pool / महिला पूल : Pool B",
+                        "Men's Pool / पुरुष पूल : Pool A",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India's women's hockey team will face which country? / भारत की महिला हॉकी टीम किस देश से खेलेगी?",
+                            "options": [
+                                "Indonesia",
+                                "Uzbekistan",
+                                "Japan",
+                                "China"
+                            ],
+                            "answer": "Uzbekistan"
+                        },
+                        {
+                            "question": "India's men's hockey team will face which country? / भारत की पुरुष हॉकी टीम किस देश से खेलेगी?",
+                            "options": [
+                                "Indonesia",
+                                "Malaysia",
+                                "Japan",
+                                "South Korea"
+                            ],
+                            "answer": "Indonesia"
+                        },
+                        {
+                            "question": "India women's hockey team is placed in which pool? / भारत की महिला हॉकी टीम किस पूल में है?",
+                            "options": [
+                                "Pool A",
+                                "Pool B",
+                                "Pool C",
+                                "Pool D"
+                            ],
+                            "answer": "Pool B"
+                        },
+                        {
+                            "question": "India men's hockey team is placed in which pool? / भारत की पुरुष हॉकी टीम किस पूल में है?",
+                            "options": [
+                                "Pool A",
+                                "Pool B",
+                                "Pool C",
+                                "Pool D"
+                            ],
+                            "answer": "Pool A"
+                        },
+                        {
+                            "question": "On which date are both Indian hockey teams scheduled to begin their campaign? / दोनों भारतीय हॉकी टीमें किस तारीख को अपना अभियान शुरू करेंगी?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "20 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Shooting",
+                    "title": "Indian Shooters Compete in Women's 10m Air Rifle Events / भारतीय निशानेबाज महिला 10m एयर राइफल स्पर्धा में उतरेंगी",
+                    "summary": "Elavenil Valarivan, Sonam Uttam Maskar and Vidarsa Kochalumkal Vinod are scheduled to compete in the women's 10m air rifle qualification and team final at the 2026 Asian Games on 20 September. The individual final is scheduled later in the day subject to qualification. / एलावेनिल वलारिवन, सोनम उत्तम मस्कर और विदर्सा कोचलुमकल विनोद 20 सितंबर को एशियाई खेल 2026 की महिला 10m एयर राइफल qualification और team final में भाग लेंगी। qualification के आधार पर individual final बाद में निर्धारित है।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Event / स्पर्धा : Women's 10m Air Rifle",
+                        "Elavenil Valarivan / एलावेनिल वलारिवन : Indian Shooter",
+                        "Sonam Uttam Maskar / सोनम उत्तम मस्कर : Indian Shooter",
+                        "Vidarsa Kochalumkal Vinod / विदर्सा कोचलुमकल विनोद : Indian Shooter",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which event will India's women shooters compete in? / भारत की महिला निशानेबाज किस स्पर्धा में भाग लेंगी?",
+                            "options": [
+                                "10m Air Rifle",
+                                "10m Air Pistol",
+                                "25m Pistol",
+                                "50m Rifle"
+                            ],
+                            "answer": "10m Air Rifle"
+                        },
+                        {
+                            "question": "Who among the following is part of India's women's 10m air rifle team? / निम्न में से कौन भारत की महिला 10m एयर राइफल टीम का हिस्सा है?",
+                            "options": [
+                                "Elavenil Valarivan",
+                                "Manu Bhaker",
+                                "Sift Kaur Samra",
+                                "Avani Lekhara"
+                            ],
+                            "answer": "Elavenil Valarivan"
+                        },
+                        {
+                            "question": "Who is scheduled to compete alongside Elavenil Valarivan? / एलावेनिल वलारिवन के साथ कौन प्रतिस्पर्धा करेगी?",
+                            "options": [
+                                "Sonam Uttam Maskar",
+                                "Manu Bhaker",
+                                "Rhythm Sangwan",
+                                "Esha Singh"
+                            ],
+                            "answer": "Sonam Uttam Maskar"
+                        },
+                        {
+                            "question": "What type of event is scheduled along with individual qualification? / Individual qualification के साथ कौन-सी स्पर्धा निर्धारित है?",
+                            "options": [
+                                "Team Final",
+                                "Relay Final",
+                                "Mixed Team Final",
+                                "Team Qualifier"
+                            ],
+                            "answer": "Team Final"
+                        },
+                        {
+                            "question": "The individual final is scheduled subject to what? / Individual final किस आधार पर निर्धारित है?",
+                            "options": [
+                                "Team ranking",
+                                "Qualification",
+                                "World ranking",
+                                "Previous medal"
+                            ],
+                            "answer": "Qualification"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Badminton",
+                    "title": "India Women's Badminton Team Begins Asian Games Campaign Against Kazakhstan / भारत की महिला बैडमिंटन टीम कजाकिस्तान के खिलाफ अभियान शुरू करेगी",
+                    "summary": "India's women's badminton team is scheduled to begin its Asian Games 2026 campaign against Kazakhstan on 20 September at 11:30 AM IST in the Round of 16. The badminton team event is being played in a knockout format. / भारत की महिला बैडमिंटन टीम 20 सितंबर 2026 को सुबह 11:30 बजे IST पर Round of 16 में कजाकिस्तान के खिलाफ अपने एशियाई खेल 2026 अभियान की शुरुआत करेगी। बैडमिंटन टीम प्रतियोगिता knockout format में खेली जा रही है।",
+                    "sourceName": "The Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/new-updates/asian-games-2026-badminton-schedule-check-india-mens-and-womens-matches-timings-opponents-and-full-squads/articleshow/134349881.cms",
+                    "staticGK": [
+                        "Opponent / प्रतिद्वंद्वी : Kazakhstan",
+                        "Round / राउंड : Round of 16",
+                        "Time / समय : 11:30 AM IST",
+                        "Format / प्रारूप : Knockout",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India's women's badminton team will face which country? / भारत की महिला बैडमिंटन टीम किस देश से खेलेगी?",
+                            "options": [
+                                "China",
+                                "Kazakhstan",
+                                "Indonesia",
+                                "Japan"
+                            ],
+                            "answer": "Kazakhstan"
+                        },
+                        {
+                            "question": "In which round will India begin its women's badminton team campaign? / भारत महिला बैडमिंटन टीम किस राउंड से अपना अभियान शुरू करेगी?",
+                            "options": [
+                                "Quarter-final",
+                                "Round of 16",
+                                "Semi-final",
+                                "Final"
+                            ],
+                            "answer": "Round of 16"
+                        },
+                        {
+                            "question": "At what time is the match scheduled? / मैच किस समय निर्धारित है?",
+                            "options": [
+                                "9:30 AM IST",
+                                "10:30 AM IST",
+                                "11:30 AM IST",
+                                "12:30 PM IST"
+                            ],
+                            "answer": "11:30 AM IST"
+                        },
+                        {
+                            "question": "What format is being used for the badminton team competition? / बैडमिंटन टीम प्रतियोगिता किस प्रारूप में खेली जा रही है?",
+                            "options": [
+                                "League",
+                                "Knockout",
+                                "Double League",
+                                "Round Robin only"
+                            ],
+                            "answer": "Knockout"
+                        },
+                        {
+                            "question": "On which date will India begin its women's badminton campaign? / भारत महिला बैडमिंटन अभियान किस तारीख को शुरू करेगा?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "20 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Table Tennis",
+                    "title": "Indian Table Tennis Teams Have Multiple Matches on Asian Games Day 2 / एशियाई खेलों के दूसरे दिन भारतीय टेबल टेनिस टीमें कई मैच खेलेंगी",
+                    "summary": "India's men's and women's table tennis teams are scheduled to play multiple group-stage matches on 20 September at the Aichi-Nagoya Asian Games. The women's team will face Indonesia and Singapore, while the men's team will face Indonesia and Iran. / भारत की पुरुष और महिला टेबल टेनिस टीमें 20 सितंबर को आइची-नागोया एशियाई खेलों में कई group-stage matches खेलेंगी। महिला टीम इंडोनेशिया और सिंगापुर तथा पुरुष टीम इंडोनेशिया और ईरान का सामना करेगी।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Women's Opponents / महिला प्रतिद्वंद्वी : Indonesia and Singapore",
+                        "Men's Opponents / पुरुष प्रतिद्वंद्वी : Indonesia and Iran",
+                        "Competition / प्रतियोगिता : Team Group Stage",
+                        "Sport / खेल : Table Tennis",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "India women's table tennis team will face which teams on 20 September? / भारत की महिला टेबल टेनिस टीम 20 सितंबर को किन टीमों से खेलेगी?",
+                            "options": [
+                                "Indonesia and Singapore",
+                                "Iran and China",
+                                "Japan and Korea",
+                                "Thailand and Malaysia"
+                            ],
+                            "answer": "Indonesia and Singapore"
+                        },
+                        {
+                            "question": "India men's table tennis team will face which teams? / भारत की पुरुष टेबल टेनिस टीम किन टीमों से खेलेगी?",
+                            "options": [
+                                "Indonesia and Iran",
+                                "Japan and China",
+                                "Singapore and Korea",
+                                "Malaysia and Thailand"
+                            ],
+                            "answer": "Indonesia and Iran"
+                        },
+                        {
+                            "question": "What type of matches are scheduled? / किस प्रकार के मैच निर्धारित हैं?",
+                            "options": [
+                                "Finals",
+                                "Group-stage matches",
+                                "Semi-finals",
+                                "Quarter-finals"
+                            ],
+                            "answer": "Group-stage matches"
+                        },
+                        {
+                            "question": "Which sport is covered in this event? / यह event किस खेल से संबंधित है?",
+                            "options": [
+                                "Badminton",
+                                "Table Tennis",
+                                "Hockey",
+                                "Wushu"
+                            ],
+                            "answer": "Table Tennis"
+                        },
+                        {
+                            "question": "On which date are these matches scheduled? / ये मैच किस तारीख को निर्धारित हैं?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "20 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Wushu",
+                    "title": "Suraj Singh Mayanglambam Competes in Wushu Changquan Final / सूरज सिंह मयांगलम्बम Wushu Changquan Final में उतरेंगे",
+                    "summary": "Indian athlete Suraj Singh Mayanglambam is scheduled to compete in the men's Changquan final in Wushu on 20 September 2026 at the Asian Games. The event is scheduled for the early morning at 5:30 AM IST. / भारतीय खिलाड़ी सूरज सिंह मयांगलम्बम 20 सितंबर 2026 को एशियाई खेलों में पुरुष Changquan Wushu final में भाग लेंगे। यह स्पर्धा सुबह 5:30 बजे IST पर निर्धारित है।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Suraj Singh Mayanglambam",
+                        "Sport / खेल : Wushu",
+                        "Event / स्पर्धा : Men's Changquan Final",
+                        "Time / समय : 5:30 AM IST",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian athlete is scheduled to compete in the Changquan final? / Changquan final में कौन-सा भारतीय खिलाड़ी भाग लेगा?",
+                            "options": [
+                                "Suraj Singh Mayanglambam",
+                                "Vikrant Baliyan",
+                                "Varun Sanyal",
+                                "Mohamed Anas"
+                            ],
+                            "answer": "Suraj Singh Mayanglambam"
+                        },
+                        {
+                            "question": "Which sport is Changquan associated with? / Changquan किस खेल से संबंधित है?",
+                            "options": [
+                                "Wushu",
+                                "Karate",
+                                "Judo",
+                                "Taekwondo"
+                            ],
+                            "answer": "Wushu"
+                        },
+                        {
+                            "question": "Which category is the event? / यह स्पर्धा किस category की है?",
+                            "options": [
+                                "Men's Changquan",
+                                "Women's Changquan",
+                                "Mixed Changquan",
+                                "Team Changquan"
+                            ],
+                            "answer": "Men's Changquan"
+                        },
+                        {
+                            "question": "At what time is the final scheduled? / Final किस समय निर्धारित है?",
+                            "options": [
+                                "4:30 AM IST",
+                                "5:30 AM IST",
+                                "6:30 AM IST",
+                                "7:30 AM IST"
+                            ],
+                            "answer": "5:30 AM IST"
+                        },
+                        {
+                            "question": "The event is part of which major competition? / यह event किस प्रमुख प्रतियोगिता का हिस्सा है?",
+                            "options": [
+                                "Olympic Games",
+                                "Asian Games",
+                                "Commonwealth Games",
+                                "World Games"
+                            ],
+                            "answer": "Asian Games"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Chess",
+                    "title": "Round 5 of 46th FIDE Chess Olympiad Scheduled in Samarkand / 46वें FIDE Chess Olympiad का Round 5 Samarkand में",
+                    "summary": "The 46th FIDE Chess Olympiad is being held in Samarkand, Uzbekistan from 15 to 27 September 2026. Round 5 is scheduled for 20 September, with the tournament featuring Open and Women's sections. / 46वां FIDE Chess Olympiad 15 से 27 सितंबर 2026 तक उज्बेकिस्तान के Samarkand में आयोजित हो रहा है। इसका Round 5 20 सितंबर को निर्धारित है और प्रतियोगिता में Open तथा Women's sections शामिल हैं।",
+                    "sourceName": "World Chess",
+                    "sourceUrl": "https://worldchess.com/news/chess-olympiad-2026-everything-you-need-to-know",
+                    "staticGK": [
+                        "Edition / संस्करण : 46th FIDE Chess Olympiad",
+                        "Host City / मेजबान शहर : Samarkand",
+                        "Country / देश : Uzbekistan",
+                        "Dates / तिथियां : 15–27 September 2026",
+                        "Round on 20 September / 20 सितंबर का राउंड : Round 5"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the 46th FIDE Chess Olympiad being held? / 46वां FIDE Chess Olympiad कहाँ आयोजित हो रहा है?",
+                            "options": [
+                                "Tashkent",
+                                "Samarkand",
+                                "Baku",
+                                "Astana"
+                            ],
+                            "answer": "Samarkand"
+                        },
+                        {
+                            "question": "Which country is hosting the 2026 FIDE Chess Olympiad? / 2026 FIDE Chess Olympiad की मेजबानी कौन-सा देश कर रहा है?",
+                            "options": [
+                                "India",
+                                "Uzbekistan",
+                                "Kazakhstan",
+                                "Georgia"
+                            ],
+                            "answer": "Uzbekistan"
+                        },
+                        {
+                            "question": "Which round is scheduled on 20 September 2026? / 20 सितंबर 2026 को कौन-सा Round निर्धारित है?",
+                            "options": [
+                                "Round 3",
+                                "Round 4",
+                                "Round 5",
+                                "Round 6"
+                            ],
+                            "answer": "Round 5"
+                        },
+                        {
+                            "question": "Which sections are included in the Chess Olympiad? / Chess Olympiad में कौन-कौन से sections हैं?",
+                            "options": [
+                                "Open and Women's",
+                                "Men's only",
+                                "Women's only",
+                                "Junior only"
+                            ],
+                            "answer": "Open and Women's"
+                        },
+                        {
+                            "question": "When will the 2026 Chess Olympiad conclude? / 2026 Chess Olympiad कब समाप्त होगा?",
+                            "options": [
+                                "25 September",
+                                "26 September",
+                                "27 September",
+                                "28 September"
+                            ],
+                            "answer": "27 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Cricket",
+                    "title": "Tavengwa Mukuhlani Appointed ICC Deputy Chairperson / तवेंगवा मुकुहलानी ICC के उपाध्यक्ष नियुक्त",
+                    "summary": "Zimbabwe Cricket Chairman Tavengwa Mukuhlani has been appointed as the Deputy Chairperson of the International Cricket Council until November 2027. He succeeds Imran Khwaja and becomes the first Zimbabwean to hold the position. / Zimbabwe Cricket के Chairman Tavengwa Mukuhlani को नवंबर 2027 तक International Cricket Council का Deputy Chairperson नियुक्त किया गया है। उन्होंने Imran Khwaja का स्थान लिया और वे इस पद पर नियुक्त होने वाले पहले Zimbabwean बने।",
+                    "sourceName": "International Cricket Council",
+                    "sourceUrl": "https://www.icc-cricket.com/media-releases/tavengwa-mukuhlani-appointed-as-icc-deputy-chair",
+                    "staticGK": [
+                        "Name / नाम : Tavengwa Mukuhlani",
+                        "Country / देश : Zimbabwe",
+                        "Position / पद : ICC Deputy Chairperson",
+                        "Term / कार्यकाल : Until November 2027",
+                        "Predecessor / पूर्व पदाधिकारी : Imran Khwaja"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who has been appointed ICC Deputy Chairperson? / ICC Deputy Chairperson के रूप में किसे नियुक्त किया गया है?",
+                            "options": [
+                                "Tavengwa Mukuhlani",
+                                "Imran Khwaja",
+                                "Jay Shah",
+                                "Sanjog Gupta"
+                            ],
+                            "answer": "Tavengwa Mukuhlani"
+                        },
+                        {
+                            "question": "Tavengwa Mukuhlani is associated with which country's cricket board? / Tavengwa Mukuhlani किस देश के cricket board से जुड़े हैं?",
+                            "options": [
+                                "South Africa",
+                                "Zimbabwe",
+                                "Namibia",
+                                "Kenya"
+                            ],
+                            "answer": "Zimbabwe"
+                        },
+                        {
+                            "question": "Until when will Mukuhlani serve as ICC Deputy Chairperson? / Mukuhlani कब तक ICC Deputy Chairperson रहेंगे?",
+                            "options": [
+                                "November 2026",
+                                "November 2027",
+                                "December 2027",
+                                "November 2028"
+                            ],
+                            "answer": "November 2027"
+                        },
+                        {
+                            "question": "Whom did Mukuhlani succeed? / Mukuhlani ने किसका स्थान लिया?",
+                            "options": [
+                                "Jay Shah",
+                                "Greg Barclay",
+                                "Imran Khwaja",
+                                "Sourav Ganguly"
+                            ],
+                            "answer": "Imran Khwaja"
+                        },
+                        {
+                            "question": "Mukuhlani became the first person from which country to hold this ICC position? / Mukuhlani इस ICC पद पर नियुक्त होने वाले किस देश के पहले व्यक्ति बने?",
+                            "options": [
+                                "Zimbabwe",
+                                "Namibia",
+                                "Kenya",
+                                "Uganda"
+                            ],
+                            "answer": "Zimbabwe"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Asian Games",
+                    "title": "IOC and OCA Presidents Scheduled to Visit Asian Games Athletes' Village / IOC और OCA अध्यक्ष Asian Games Athletes' Village का दौरा करेंगे",
+                    "summary": "International Olympic Committee President Kirsty Coventry and Olympic Council of Asia President Sheikh Joaan bin Hamad Al Thani are scheduled to visit the athletes' village of the Aichi-Nagoya Asian Games on 20 September 2026, a day after the official opening ceremony. / International Olympic Committee की President Kirsty Coventry और Olympic Council of Asia के President Sheikh Joaan bin Hamad Al Thani 20 सितंबर 2026 को Aichi-Nagoya Asian Games के athletes' village का दौरा करने वाले हैं। यह दौरा official opening ceremony के एक दिन बाद निर्धारित है।",
+                    "sourceName": "Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/ioc-oca-presidents-to-visit-asian-games-athletes-village-on-september-20/articleshow/134245438.cms",
+                    "staticGK": [
+                        "IOC President / IOC अध्यक्ष : Kirsty Coventry",
+                        "OCA President / OCA अध्यक्ष : Sheikh Joaan bin Hamad Al Thani",
+                        "Event / आयोजन : Aichi-Nagoya Asian Games",
+                        "Visit Date / दौरे की तिथि : 20 September 2026",
+                        "Location / स्थान : Athletes' Village"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is the President of the International Olympic Committee mentioned in the news? / समाचार में International Olympic Committee की President कौन हैं?",
+                            "options": [
+                                "Kirsty Coventry",
+                                "Thomas Bach",
+                                "Nawal El Moutawakel",
+                                "Nicole Hoevertsz"
+                            ],
+                            "answer": "Kirsty Coventry"
+                        },
+                        {
+                            "question": "Who is the President of the Olympic Council of Asia? / Olympic Council of Asia के President कौन हैं?",
+                            "options": [
+                                "Sheikh Joaan bin Hamad Al Thani",
+                                "Thomas Bach",
+                                "Javier Tebas",
+                                "Sebastian Coe"
+                            ],
+                            "answer": "Sheikh Joaan bin Hamad Al Thani"
+                        },
+                        {
+                            "question": "What place are the presidents scheduled to visit? / दोनों अध्यक्ष किस स्थान का दौरा करेंगे?",
+                            "options": [
+                                "Main Stadium",
+                                "Athletes' Village",
+                                "Media Centre",
+                                "Olympic Museum"
+                            ],
+                            "answer": "Athletes' Village"
+                        },
+                        {
+                            "question": "When is the visit scheduled? / दौरा कब निर्धारित है?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "20 September"
+                        },
+                        {
+                            "question": "Which Asian Games are being held in 2026? / 2026 में कौन-से Asian Games आयोजित हो रहे हैं?",
+                            "options": [
+                                "Hangzhou Asian Games",
+                                "Aichi-Nagoya Asian Games",
+                                "Jakarta Asian Games",
+                                "Doha Asian Games"
+                            ],
+                            "answer": "Aichi-Nagoya Asian Games"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Teqball",
+                    "title": "India Has Two Teqball Bronze-Medal Matches at Asian Games / भारत के दो Teqball Bronze-Medal Matches",
+                    "summary": "Indian athletes are scheduled to compete in two Teqball bronze-medal matches on 20 September 2026 at the Asian Games. Quimcy Joaqim Dsouza is scheduled for the women's singles bronze-medal match, while Quimcy Joaqim Dsouza and Mohamed Anas Imran are scheduled for the mixed doubles bronze-medal match. / भारत के खिलाड़ी 20 सितंबर 2026 को एशियाई खेलों में Teqball के दो bronze-medal matches में भाग लेंगे। Quimcy Joaqim Dsouza women's singles bronze-medal match में और Quimcy Joaqim Dsouza तथा Mohamed Anas Imran mixed doubles bronze-medal match में भाग लेंगे।",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
+                    "staticGK": [
+                        "Sport / खेल : Teqball",
+                        "Women's Singles Athlete / महिला Singles खिलाड़ी : Quimcy Joaqim Dsouza",
+                        "Mixed Doubles Players / Mixed Doubles खिलाड़ी : Quimcy Joaqim Dsouza and Mohamed Anas Imran",
+                        "Matches / मैच : Two Bronze-Medal Matches",
+                        "Date / तिथि : 20 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which sport is associated with Quimcy Joaqim Dsouza's bronze-medal match? / Quimcy Joaqim Dsouza का bronze-medal match किस खेल से संबंधित है?",
+                            "options": [
+                                "Teqball",
+                                "Badminton",
+                                "Table Tennis",
+                                "Wushu"
+                            ],
+                            "answer": "Teqball"
+                        },
+                        {
+                            "question": "Which women's event is Quimcy Joaqim Dsouza scheduled to compete in? / Quimcy Joaqim Dsouza किस महिला event में भाग लेंगी?",
+                            "options": [
+                                "Singles",
+                                "Doubles",
+                                "Team",
+                                "Mixed Doubles"
+                            ],
+                            "answer": "Singles"
+                        },
+                        {
+                            "question": "Who is scheduled to partner Quimcy Joaqim Dsouza in mixed doubles? / Mixed doubles में Quimcy Joaqim Dsouza के partner कौन हैं?",
+                            "options": [
+                                "Mohamed Anas Imran",
+                                "Suraj Singh",
+                                "Varun Sanyal",
+                                "Akash Mani"
+                            ],
+                            "answer": "Mohamed Anas Imran"
+                        },
+                        {
+                            "question": "What type of matches are scheduled? / किस प्रकार के matches निर्धारित हैं?",
+                            "options": [
+                                "Gold-medal matches",
+                                "Silver-medal matches",
+                                "Bronze-medal matches",
+                                "Quarter-finals"
+                            ],
+                            "answer": "Bronze-medal matches"
+                        },
+                        {
+                            "question": "On which date are these Teqball matches scheduled? / ये Teqball matches किस तारीख को निर्धारित हैं?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "20 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Sports",
+                    "title": "20th Asian Games Continue With India's Busy Day 2 Schedule / 20वें एशियाई खेलों में भारत का व्यस्त Day 2",
+                    "summary": "The second day of the Aichi-Nagoya Asian Games features a packed Indian schedule across Wushu, Shooting, Cricket, Hockey, Badminton, Table Tennis, Swimming, Teqball and Mixed Martial Arts. Several Indian athletes and teams are competing for medals and progression on 20 September 2026. / Aichi-Nagoya Asian Games के दूसरे दिन 20 सितंबर 2026 को Wushu, Shooting, Cricket, Hockey, Badminton, Table Tennis, Swimming, Teqball और Mixed Martial Arts में भारतीय खिलाड़ी और टीमें हिस्सा लेंगी। कई भारतीय खिलाड़ी पदक और अगले दौर में जगह बनाने के लिए प्रतिस्पर्धा करेंगे।",
+                    "sourceName": "Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-day-2-india-full-schedule-fixtures-aichi-nagoya-10885257/",
+                    "staticGK": [
+                        "Day / दिन : Day 2",
+                        "Date / तिथि : 20 September 2026",
+                        "Host / मेजबान : Aichi-Nagoya, Japan",
+                        "Major Sports / प्रमुख खेल : Wushu, Shooting, Cricket, Hockey, Badminton, Table Tennis",
+                        "Games Dates / खेलों की अवधि : 19 September – 4 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which day of the Asian Games is 20 September 2026? / 20 सितंबर 2026 Asian Games का कौन-सा दिन है?",
+                            "options": [
+                                "Day 1",
+                                "Day 2",
+                                "Day 3",
+                                "Day 4"
+                            ],
+                            "answer": "Day 2"
+                        },
+                        {
+                            "question": "Which country is hosting the 2026 Asian Games? / 2026 Asian Games की मेजबानी कौन-सा देश कर रहा है?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "India"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "Which of the following sports is part of India's Day 2 schedule? / निम्न में से कौन-सा खेल भारत के Day 2 schedule में है?",
+                            "options": [
+                                "Wushu",
+                                "Football",
+                                "Archery only",
+                                "Weightlifting only"
+                            ],
+                            "answer": "Wushu"
+                        },
+                        {
+                            "question": "When did the 20th Asian Games begin? / 20वें Asian Games कब शुरू हुए?",
+                            "options": [
+                                "17 September 2026",
+                                "18 September 2026",
+                                "19 September 2026",
+                                "20 September 2026"
+                            ],
+                            "answer": "19 September 2026"
+                        },
+                        {
+                            "question": "When will the 2026 Asian Games conclude? / 2026 Asian Games कब समाप्त होंगे?",
+                            "options": [
+                                "2 October 2026",
+                                "3 October 2026",
+                                "4 October 2026",
+                                "5 October 2026"
+                            ],
+                            "answer": "4 October 2026"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
