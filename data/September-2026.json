@@ -13876,6 +13876,740 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-09-21",
+            "date": "21 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 21 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Days",
+                    "title": "International Day of Peace 2026 Observed on 21 September / 21 सितंबर को International Day of Peace 2026 मनाया गया",
+                    "summary": "The International Day of Peace is observed every year on 21 September. In 2026, the United Nations is observing the day with the theme 'Invest in Peace: For Everyone, Everywhere, Every Day', highlighting the importance of peace-building through cooperation, dialogue and everyday action. / International Day of Peace हर वर्ष 21 सितंबर को मनाया जाता है। 2026 में संयुक्त राष्ट्र ने इसकी theme 'Invest in Peace: For Everyone, Everywhere, Every Day' रखी है, जिसमें सहयोग, संवाद और दैनिक स्तर पर शांति निर्माण के महत्व पर जोर दिया गया है।",
+                    "sourceName": "United Nations",
+                    "sourceUrl": "https://peacekeeping.un.org/en/events/international-day-of-peace-2026-invest-in-peace-for-everyone-everywhere-every",
+                    "staticGK": [
+                        "Day / दिवस : International Day of Peace",
+                        "Date / तिथि : 21 September",
+                        "2026 Theme / 2026 की थीम : Invest in Peace: For Everyone, Everywhere, Every Day",
+                        "Established / स्थापना : 1981",
+                        "UN Resolution / संयुक्त राष्ट्र प्रस्ताव : Resolution 36/67"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is the International Day of Peace observed? / International Day of Peace कब मनाया जाता है?",
+                            "options": [
+                                "19 September",
+                                "20 September",
+                                "21 September",
+                                "22 September"
+                            ],
+                            "answer": "21 September"
+                        },
+                        {
+                            "question": "What is the theme of International Day of Peace 2026? / 2026 में International Day of Peace की theme क्या है?",
+                            "options": [
+                                "Peace for Future Generations",
+                                "Invest in Peace: For Everyone, Everywhere, Every Day",
+                                "Peace Through Education",
+                                "Global Peace and Security"
+                            ],
+                            "answer": "Invest in Peace: For Everyone, Everywhere, Every Day"
+                        },
+                        {
+                            "question": "Which organisation observes International Day of Peace globally? / International Day of Peace को वैश्विक स्तर पर कौन-सा संगठन मनाता है?",
+                            "options": [
+                                "WHO",
+                                "UN",
+                                "UNESCO",
+                                "IMF"
+                            ],
+                            "answer": "UN"
+                        },
+                        {
+                            "question": "In which year was the International Day of Peace established? / International Day of Peace किस वर्ष स्थापित किया गया था?",
+                            "options": [
+                                "1975",
+                                "1981",
+                                "1985",
+                                "1990"
+                            ],
+                            "answer": "1981"
+                        },
+                        {
+                            "question": "What does the 2026 theme emphasise? / 2026 की theme किस बात पर जोर देती है?",
+                            "options": [
+                                "Global trade",
+                                "Space exploration",
+                                "Investment in peace",
+                                "Digital banking"
+                            ],
+                            "answer": "Investment in peace"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Maritime Security",
+                    "title": "SLINEX-26 India-Sri Lanka Maritime Exercise Concludes at Visakhapatnam / Visakhapatnam में SLINEX-26 भारत-श्रीलंका समुद्री अभ्यास",
+                    "summary": "The 13th edition of the India-Sri Lanka bilateral maritime exercise SLINEX-26 is being conducted at Visakhapatnam from 17 to 21 September 2026. The exercise includes harbour and sea phases and focuses on improving maritime cooperation, operational coordination and interoperability between the two navies. / भारत और श्रीलंका के बीच द्विपक्षीय समुद्री अभ्यास SLINEX-26 का 13वां संस्करण 17 से 21 सितंबर 2026 तक Visakhapatnam में आयोजित किया जा रहा है। इसमें harbour और sea phases शामिल हैं तथा दोनों नौसेनाओं के बीच maritime cooperation, operational coordination और interoperability को मजबूत करने पर जोर है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312662&reg=48&lang=2",
+                    "staticGK": [
+                        "Exercise / अभ्यास : SLINEX-26",
+                        "Edition / संस्करण : 13th",
+                        "Participating Countries / भाग लेने वाले देश : India and Sri Lanka",
+                        "Venue / स्थान : Visakhapatnam",
+                        "Dates / तिथियां : 17–21 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which countries participate in SLINEX? / SLINEX में कौन-से देश भाग लेते हैं?",
+                            "options": [
+                                "India and Japan",
+                                "India and Sri Lanka",
+                                "India and Bangladesh",
+                                "India and Maldives"
+                            ],
+                            "answer": "India and Sri Lanka"
+                        },
+                        {
+                            "question": "Which edition of SLINEX is being conducted in 2026? / 2026 में SLINEX का कौन-सा संस्करण आयोजित हो रहा है?",
+                            "options": [
+                                "11th",
+                                "12th",
+                                "13th",
+                                "14th"
+                            ],
+                            "answer": "13th"
+                        },
+                        {
+                            "question": "Where is SLINEX-26 being conducted? / SLINEX-26 कहाँ आयोजित हो रहा है?",
+                            "options": [
+                                "Kochi",
+                                "Mumbai",
+                                "Visakhapatnam",
+                                "Chennai"
+                            ],
+                            "answer": "Visakhapatnam"
+                        },
+                        {
+                            "question": "SLINEX is primarily a bilateral exercise between which two navies? / SLINEX मुख्य रूप से किन दो नौसेनाओं के बीच अभ्यास है?",
+                            "options": [
+                                "Indian Navy and Sri Lanka Navy",
+                                "Indian Navy and Bangladesh Navy",
+                                "Indian Navy and Japanese Navy",
+                                "Indian Navy and Royal Thai Navy"
+                            ],
+                            "answer": "Indian Navy and Sri Lanka Navy"
+                        },
+                        {
+                            "question": "SLINEX-26 is being conducted during which period? / SLINEX-26 किस अवधि में आयोजित हो रहा है?",
+                            "options": [
+                                "15–19 September",
+                                "17–21 September",
+                                "18–22 September",
+                                "20–24 September"
+                            ],
+                            "answer": "17–21 September"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Shooting",
+                    "title": "India Wins Silver in Women's 10m Air Rifle at Asian Games / एशियाई खेलों में भारत ने Women's 10m Air Rifle में रजत पदक जीता",
+                    "summary": "Indian shooters Sonam Uttam Maskar, Elavenil Valarivan and Vidarsa K Vinod won the silver medal in the Women's 10m Air Rifle team event at the 2026 Asian Games. Their performance added another medal to India's shooting campaign at the Games. / भारतीय निशानेबाज Sonam Uttam Maskar, Elavenil Valarivan और Vidarsa K Vinod ने 2026 Asian Games में Women's 10m Air Rifle team event में silver medal जीता। इस प्रदर्शन से Asian Games में भारत के shooting campaign में एक और पदक जुड़ा।",
+                    "sourceName": "Prime Minister's Office / PIB",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312715&reg=48&lang=2",
+                    "staticGK": [
+                        "Event / स्पर्धा : Women's 10m Air Rifle Team",
+                        "Medal / पदक : Silver",
+                        "Athletes / खिलाड़ी : Sonam Uttam Maskar, Elavenil Valarivan, Vidarsa K Vinod",
+                        "Games / खेल : Asian Games 2026",
+                        "Host / मेजबान : Aichi-Nagoya, Japan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did India win in the Women's 10m Air Rifle team event? / Women's 10m Air Rifle team event में भारत ने कौन-सा पदक जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Silver"
+                        },
+                        {
+                            "question": "Which sport is associated with the event? / यह event किस खेल से संबंधित है?",
+                            "options": [
+                                "Archery",
+                                "Shooting",
+                                "Boxing",
+                                "Fencing"
+                            ],
+                            "answer": "Shooting"
+                        },
+                        {
+                            "question": "Who was part of India's silver-medal winning team? / भारत की silver-medal winning team में कौन शामिल थीं?",
+                            "options": [
+                                "Sonam Uttam Maskar",
+                                "Manu Bhaker",
+                                "Sift Kaur Samra",
+                                "Avani Lekhara"
+                            ],
+                            "answer": "Sonam Uttam Maskar"
+                        },
+                        {
+                            "question": "Which edition of the Asian Games is being held in 2026? / 2026 में Asian Games का कौन-सा संस्करण है?",
+                            "options": [
+                                "18th",
+                                "19th",
+                                "20th",
+                                "21st"
+                            ],
+                            "answer": "20th"
+                        },
+                        {
+                            "question": "Where are the 2026 Asian Games being held? / 2026 Asian Games कहाँ आयोजित हो रहे हैं?",
+                            "options": [
+                                "Hangzhou",
+                                "Aichi-Nagoya",
+                                "Jakarta",
+                                "Seoul"
+                            ],
+                            "answer": "Aichi-Nagoya"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Shooting",
+                    "title": "Elavenil Valarivan Wins Silver in Women's 10m Air Rifle Individual Event / Elavenil Valarivan ने Women's 10m Air Rifle Individual में रजत जीता",
+                    "summary": "Indian shooter Elavenil Valarivan secured a silver medal in the Women's 10m Air Rifle individual event at the 2026 Asian Games. It was her second medal of the day, adding to India's strong showing in shooting. / भारतीय निशानेबाज Elavenil Valarivan ने 2026 Asian Games की Women's 10m Air Rifle individual event में silver medal जीता। यह उस दिन उनका दूसरा पदक था और इससे shooting में भारत के प्रदर्शन को मजबूती मिली।",
+                    "sourceName": "Prime Minister's Office / PIB",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312713&reg=48&lang=2",
+                    "staticGK": [
+                        "Player / खिलाड़ी : Elavenil Valarivan",
+                        "Event / स्पर्धा : Women's 10m Air Rifle Individual",
+                        "Medal / पदक : Silver",
+                        "Games / खेल : Asian Games 2026",
+                        "Sport / खेल : Shooting"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Elavenil Valarivan win at the Asian Games 2026? / Asian Games 2026 में Elavenil Valarivan ने कौन-सा पदक जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "No medal"
+                            ],
+                            "answer": "Silver"
+                        },
+                        {
+                            "question": "Which event did Elavenil Valarivan win a silver medal in? / Elavenil Valarivan ने किस event में silver medal जीता?",
+                            "options": [
+                                "25m Pistol",
+                                "10m Air Rifle Individual",
+                                "50m Rifle",
+                                "Skeet"
+                            ],
+                            "answer": "10m Air Rifle Individual"
+                        },
+                        {
+                            "question": "Which sport does Elavenil Valarivan represent? / Elavenil Valarivan किस खेल से संबंधित हैं?",
+                            "options": [
+                                "Shooting",
+                                "Archery",
+                                "Boxing",
+                                "Wrestling"
+                            ],
+                            "answer": "Shooting"
+                        },
+                        {
+                            "question": "In which country are the 2026 Asian Games being held? / 2026 Asian Games किस देश में आयोजित हो रहे हैं?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "Indonesia"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "How many medals did Elavenil win on the reported day? / रिपोर्ट किए गए दिन Elavenil ने कितने पदक जीते?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Three",
+                                "Four"
+                            ],
+                            "answer": "Two"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Aviation",
+                    "title": "Suryakiran Aerobatic Team Performs in Meerut for the First Time / Suryakiran Aerobatic Team ने पहली बार मेरठ में प्रदर्शन किया",
+                    "summary": "The Indian Air Force's Suryakiran Aerobatic Team performed in Meerut for the first time on 19 and 20 September 2026. More than one lakh people attended the two-day air display, which featured nine Hawk Mk 132 aircraft. / भारतीय वायु सेना की Suryakiran Aerobatic Team ने 19 और 20 सितंबर 2026 को पहली बार मेरठ में air display किया। दो दिवसीय प्रदर्शन को एक लाख से अधिक लोगों ने देखा और इसमें नौ Hawk Mk 132 aircraft शामिल थे।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312661&lang=2&reg=48",
+                    "staticGK": [
+                        "Team / टीम : Suryakiran Aerobatic Team",
+                        "Organisation / संस्था : Indian Air Force",
+                        "Venue / स्थान : Meerut, Uttar Pradesh",
+                        "Aircraft / विमान : Hawk Mk 132",
+                        "Aircraft Used / उपयोग किए गए विमान : 9"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation operates the Suryakiran Aerobatic Team? / Suryakiran Aerobatic Team किस संस्था से संबंधित है?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Army",
+                                "Indian Air Force",
+                                "HAL"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Where did the Suryakiran team perform for the first time in September 2026? / सितंबर 2026 में Suryakiran team ने पहली बार कहाँ प्रदर्शन किया?",
+                            "options": [
+                                "Lucknow",
+                                "Meerut",
+                                "Jaipur",
+                                "Chandigarh"
+                            ],
+                            "answer": "Meerut"
+                        },
+                        {
+                            "question": "How many Hawk Mk 132 aircraft were used? / कितने Hawk Mk 132 aircraft उपयोग किए गए?",
+                            "options": [
+                                "7",
+                                "8",
+                                "9",
+                                "10"
+                            ],
+                            "answer": "9"
+                        },
+                        {
+                            "question": "Approximately how many people witnessed the two-day display? / दो दिवसीय प्रदर्शन को लगभग कितने लोगों ने देखा?",
+                            "options": [
+                                "More than 50,000",
+                                "More than 75,000",
+                                "More than 1 lakh",
+                                "More than 2 lakh"
+                            ],
+                            "answer": "More than 1 lakh"
+                        },
+                        {
+                            "question": "Hawk Mk 132 aircraft used by the team are manufactured in India by which company? / टीम द्वारा उपयोग किए गए Hawk Mk 132 विमान भारत में किस कंपनी द्वारा बनाए जाते हैं?",
+                            "options": [
+                                "BHEL",
+                                "HAL",
+                                "BEL",
+                                "DRDO"
+                            ],
+                            "answer": "HAL"
+                        }
+                    ]
+                },
+                {
+                    "category": "Law & Justice",
+                    "title": "DISHA 2.0 Regional Workshop Held in Goa on Access to Justice / Goa में DISHA 2.0 Regional Workshop आयोजित",
+                    "summary": "The Department of Justice organised a regional workshop under the DISHA 2.0 scheme in Goa on 21 September 2026. The programme focused on technology-enabled legal services, legal awareness, Tele-Law and pro bono assistance to improve access to justice. / Department of Justice ने 21 सितंबर 2026 को Goa में DISHA 2.0 के तहत regional workshop आयोजित किया। कार्यक्रम में technology-enabled legal services, legal awareness, Tele-Law और pro bono assistance के माध्यम से न्याय तक पहुंच को मजबूत करने पर ध्यान दिया गया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312689&reg=48&lang=2",
+                    "staticGK": [
+                        "Scheme / योजना : DISHA 2.0",
+                        "Full Form / पूरा नाम : Designing Innovative Solutions for Holistic Access to Justice",
+                        "Venue / स्थान : Goa",
+                        "Date / तिथि : 21 September 2026",
+                        "Key Areas / प्रमुख क्षेत्र : Tele-Law, Legal Awareness and Pro Bono Services"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of DISHA? / DISHA का पूरा नाम क्या है?",
+                            "options": [
+                                "Digital India Scheme for Holistic Administration",
+                                "Designing Innovative Solutions for Holistic Access to Justice",
+                                "Development Initiative for Social and Human Advancement",
+                                "Digital Infrastructure Scheme for Human Access"
+                            ],
+                            "answer": "Designing Innovative Solutions for Holistic Access to Justice"
+                        },
+                        {
+                            "question": "Where was the DISHA 2.0 regional workshop held on 21 September 2026? / 21 सितंबर 2026 को DISHA 2.0 regional workshop कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Goa",
+                                "Delhi",
+                                "Mumbai",
+                                "Kochi"
+                            ],
+                            "answer": "Goa"
+                        },
+                        {
+                            "question": "Which department organised the workshop? / workshop का आयोजन किस विभाग ने किया?",
+                            "options": [
+                                "Department of Justice",
+                                "Department of Education",
+                                "Department of Revenue",
+                                "Department of Commerce"
+                            ],
+                            "answer": "Department of Justice"
+                        },
+                        {
+                            "question": "Which service is associated with DISHA 2.0? / DISHA 2.0 से कौन-सी service संबंधित है?",
+                            "options": [
+                                "Tele-Law",
+                                "Tele-Rail",
+                                "Tele-Banking",
+                                "Tele-Medicine only"
+                            ],
+                            "answer": "Tele-Law"
+                        },
+                        {
+                            "question": "What is one objective of DISHA 2.0? / DISHA 2.0 का एक उद्देश्य क्या है?",
+                            "options": [
+                                "Improving access to justice",
+                                "Increasing agricultural exports",
+                                "Promoting tourism",
+                                "Developing sports stadiums"
+                            ],
+                            "answer": "Improving access to justice"
+                        }
+                    ]
+                },
+                {
+                    "category": "Telecom & Manufacturing",
+                    "title": "Asia's First Telecom Manufacturing Zone Proposed in Gwalior / Gwalior में Asia का पहला Telecom Manufacturing Zone प्रस्तावित",
+                    "summary": "A Telecom Manufacturing Zone is being developed in Gwalior, Madhya Pradesh, with an estimated investment of about ₹5,500 crore. The proposed zone is expected to support telecom equipment manufacturing and generate more than 18,000 direct and indirect employment opportunities. / मध्य प्रदेश के Gwalior में Telecom Manufacturing Zone विकसित करने की योजना है, जिसमें लगभग ₹5,500 करोड़ का निवेश प्रस्तावित है। इस zone से telecom equipment manufacturing को बढ़ावा मिलने और 18,000 से अधिक direct तथा indirect employment opportunities पैदा होने की उम्मीद है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312743&reg=48&lang=2",
+                    "staticGK": [
+                        "Project / परियोजना : Telecom Manufacturing Zone",
+                        "Location / स्थान : Gwalior, Madhya Pradesh",
+                        "Proposed Investment / प्रस्तावित निवेश : About ₹5,500 crore",
+                        "Employment / रोजगार : More than 18,000 opportunities",
+                        "First Phase Land / प्रथम चरण भूमि : About 170 acres"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the proposed Telecom Manufacturing Zone located? / प्रस्तावित Telecom Manufacturing Zone कहाँ स्थित है?",
+                            "options": [
+                                "Indore",
+                                "Bhopal",
+                                "Gwalior",
+                                "Jabalpur"
+                            ],
+                            "answer": "Gwalior"
+                        },
+                        {
+                            "question": "What is the proposed investment in the Telecom Manufacturing Zone? / Telecom Manufacturing Zone में प्रस्तावित निवेश कितना है?",
+                            "options": [
+                                "₹2,500 crore",
+                                "₹3,500 crore",
+                                "₹5,500 crore",
+                                "₹7,500 crore"
+                            ],
+                            "answer": "₹5,500 crore"
+                        },
+                        {
+                            "question": "Which state is Gwalior located in? / Gwalior किस राज्य में स्थित है?",
+                            "options": [
+                                "Rajasthan",
+                                "Madhya Pradesh",
+                                "Uttar Pradesh",
+                                "Gujarat"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "Approximately how much land has been identified for the first phase? / प्रथम चरण के लिए लगभग कितनी भूमि चिन्हित की गई है?",
+                            "options": [
+                                "100 acres",
+                                "150 acres",
+                                "170 acres",
+                                "250 acres"
+                            ],
+                            "answer": "170 acres"
+                        },
+                        {
+                            "question": "What sector will the zone primarily support? / यह zone मुख्य रूप से किस sector को support करेगा?",
+                            "options": [
+                                "Telecom manufacturing",
+                                "Textile manufacturing",
+                                "Food processing",
+                                "Automobile manufacturing"
+                            ],
+                            "answer": "Telecom manufacturing"
+                        }
+                    ]
+                },
+                {
+                    "category": "Energy & Mining",
+                    "title": "Coal India Expands Technology-Led Diversification / Coal India ने technology-led diversification का विस्तार किया",
+                    "summary": "Coal India Limited is expanding its activities beyond conventional coal mining into coal gasification, thermal power, renewable energy, battery storage, critical minerals, advanced materials and research. The company has also reported around 550 MW of commissioned solar capacity and several diversification projects. / Coal India Limited conventional coal mining से आगे बढ़कर coal gasification, thermal power, renewable energy, battery storage, critical minerals, advanced materials और research जैसे क्षेत्रों में विस्तार कर रही है। कंपनी ने लगभग 550 MW commissioned solar capacity और कई diversification projects की जानकारी दी है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312633&reg=48&lang=2",
+                    "staticGK": [
+                        "Company / कंपनी : Coal India Limited",
+                        "Solar Capacity / सौर क्षमता : About 550 MW commissioned",
+                        "Diversification Areas / विविधीकरण क्षेत्र : Gasification, Renewables, BESS, Critical Minerals",
+                        "Chandrapura Project / चंद्रपुरा परियोजना : 2×800 MW expansion",
+                        "R&D Focus / अनुसंधान फोकस : AI, IoT, Smart Mining and Clean Coal"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which company is expanding into critical minerals and renewable energy? / कौन-सी कंपनी critical minerals और renewable energy में विस्तार कर रही है?",
+                            "options": [
+                                "Coal India Limited",
+                                "NTPC",
+                                "ONGC",
+                                "GAIL"
+                            ],
+                            "answer": "Coal India Limited"
+                        },
+                        {
+                            "question": "Approximately how much solar capacity has Coal India commissioned? / Coal India ने लगभग कितनी solar capacity commission की है?",
+                            "options": [
+                                "250 MW",
+                                "400 MW",
+                                "550 MW",
+                                "750 MW"
+                            ],
+                            "answer": "550 MW"
+                        },
+                        {
+                            "question": "Which technology converts coal into syngas? / कौन-सी technology coal को syngas में बदलती है?",
+                            "options": [
+                                "Coal gasification",
+                                "Photovoltaics",
+                                "Hydropower",
+                                "Wind power"
+                            ],
+                            "answer": "Coal gasification"
+                        },
+                        {
+                            "question": "Which energy-storage technology is part of Coal India's diversification efforts? / Coal India के diversification efforts में कौन-सी energy-storage technology शामिल है?",
+                            "options": [
+                                "BESS",
+                                "LPG",
+                                "CNG",
+                                "Nuclear storage"
+                            ],
+                            "answer": "BESS"
+                        },
+                        {
+                            "question": "What does BESS stand for? / BESS का पूरा नाम क्या है?",
+                            "options": [
+                                "Battery Energy Storage System",
+                                "Basic Energy Supply Scheme",
+                                "Battery Electricity Safety Standard",
+                                "Bio Energy Storage Service"
+                            ],
+                            "answer": "Battery Energy Storage System"
+                        }
+                    ]
+                },
+                {
+                    "category": "Textiles & Sericulture",
+                    "title": "India Sets Target to Become Global No. 1 in Silk Production by 2028-29 / भारत ने 2028-29 तक वैश्विक नंबर 1 silk producer बनने का लक्ष्य रखा",
+                    "summary": "At the 77th Foundation Day programme of the Central Silk Board in Bengaluru, the government highlighted India's growth in silk production and set a target of reaching 60,000 metric tonnes by 2030-31. A goal was also stated to position India as the world's leading silk producer by 2028-29. / Bengaluru में Central Silk Board के 77वें Foundation Day programme में भारत के silk production में वृद्धि को रेखांकित किया गया और 2030-31 तक 60,000 metric tonnes उत्पादन का लक्ष्य बताया गया। 2028-29 तक भारत को विश्व का leading silk producer बनाने का लक्ष्य भी रखा गया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312667&reg=48&lang=2",
+                    "staticGK": [
+                        "Organisation / संस्था : Central Silk Board",
+                        "Foundation Day / स्थापना दिवस : 77th",
+                        "Venue / स्थान : Bengaluru",
+                        "Current Silk Production / वर्तमान उत्पादन : About 42,000 metric tonnes",
+                        "Target by 2030-31 / 2030-31 लक्ष्य : 60,000 metric tonnes"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation celebrated its 77th Foundation Day? / किस संस्था ने अपना 77वां Foundation Day मनाया?",
+                            "options": [
+                                "Central Silk Board",
+                                "Tea Board of India",
+                                "Cotton Corporation of India",
+                                "Spices Board"
+                            ],
+                            "answer": "Central Silk Board"
+                        },
+                        {
+                            "question": "Where was the 77th Foundation Day programme held? / 77वां Foundation Day programme कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Mysuru",
+                                "Bengaluru",
+                                "Chennai",
+                                "Hyderabad"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "What silk production target has been set for 2030-31? / 2030-31 के लिए silk production का लक्ष्य कितना है?",
+                            "options": [
+                                "40,000 metric tonnes",
+                                "50,000 metric tonnes",
+                                "60,000 metric tonnes",
+                                "70,000 metric tonnes"
+                            ],
+                            "answer": "60,000 metric tonnes"
+                        },
+                        {
+                            "question": "Which state holds a leading position in India's total silk production? / भारत के कुल silk production में कौन-सा राज्य अग्रणी है?",
+                            "options": [
+                                "Karnataka",
+                                "Punjab",
+                                "Bihar",
+                                "Gujarat"
+                            ],
+                            "answer": "Karnataka"
+                        },
+                        {
+                            "question": "By which period has India set the goal of becoming the world's leading silk producer? / भारत ने विश्व का leading silk producer बनने का लक्ष्य किस अवधि तक रखा है?",
+                            "options": [
+                                "2026-27",
+                                "2027-28",
+                                "2028-29",
+                                "2030-31"
+                            ],
+                            "answer": "2028-29"
+                        }
+                    ]
+                },
+                {
+                    "category": "Youth Affairs & Social Development",
+                    "title": "Rashtriya Sankalp Samaroh Sees Participation of Over 4 Lakh Youth / Rashtriya Sankalp Samaroh में 4 लाख से अधिक युवाओं की भागीदारी",
+                    "summary": "The Rashtriya Sankalp Samaroh under the Nasha Mukt Yuva for Viksit Bharat campaign was organised across more than 1,000 locations in India. Over four lakh youth and citizens participated, supporting awareness and community activities linked with the Nasha Mukt Yuva movement. / Nasha Mukt Yuva for Viksit Bharat campaign के तहत Rashtriya Sankalp Samaroh देशभर में 1,000 से अधिक locations पर आयोजित किया गया। इसमें 4 लाख से अधिक युवाओं और नागरिकों ने भाग लिया तथा Nasha Mukt Yuva movement से जुड़ी awareness और community activities को समर्थन दिया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312794&reg=48&lang=2",
+                    "staticGK": [
+                        "Programme / कार्यक्रम : Rashtriya Sankalp Samaroh",
+                        "Campaign / अभियान : Nasha Mukt Yuva for Viksit Bharat",
+                        "Participation / भागीदारी : Over 4 lakh youth and citizens",
+                        "Locations / स्थान : More than 1,000",
+                        "Programme Duration / अभियान : 100 Weeks Nasha Mukt Yuva Abhiyan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Under which campaign was the Rashtriya Sankalp Samaroh organised? / Rashtriya Sankalp Samaroh किस campaign के तहत आयोजित हुआ?",
+                            "options": [
+                                "Fit India Movement",
+                                "Nasha Mukt Yuva for Viksit Bharat",
+                                "Khelo India",
+                                "Skill India"
+                            ],
+                            "answer": "Nasha Mukt Yuva for Viksit Bharat"
+                        },
+                        {
+                            "question": "How many youth and citizens participated approximately? / लगभग कितने युवाओं और नागरिकों ने भाग लिया?",
+                            "options": [
+                                "1 lakh",
+                                "2 lakh",
+                                "Over 4 lakh",
+                                "Over 10 lakh"
+                            ],
+                            "answer": "Over 4 lakh"
+                        },
+                        {
+                            "question": "Across how many locations was the programme organised? / कार्यक्रम कितने locations पर आयोजित हुआ?",
+                            "options": [
+                                "More than 500",
+                                "More than 750",
+                                "More than 1,000",
+                                "More than 2,000"
+                            ],
+                            "answer": "More than 1,000"
+                        },
+                        {
+                            "question": "What is the focus of the Nasha Mukt Yuva campaign? / Nasha Mukt Yuva campaign का focus क्या है?",
+                            "options": [
+                                "Drug-free youth awareness",
+                                "Banking awareness",
+                                "Sports recruitment",
+                                "Tourism promotion"
+                            ],
+                            "answer": "Drug-free youth awareness"
+                        },
+                        {
+                            "question": "The campaign is structured as a movement of how many weeks? / यह campaign कितने सप्ताह के movement के रूप में structured है?",
+                            "options": [
+                                "50 weeks",
+                                "75 weeks",
+                                "100 weeks",
+                                "150 weeks"
+                            ],
+                            "answer": "100 weeks"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Climate",
+                    "title": "NGT International Conference on Environment and Climate Dynamics Concludes / Environment and Climate Dynamics पर NGT International Conference का समापन",
+                    "summary": "The National Green Tribunal's two-day international conference on 'The Future of Environment and Climate Dynamics' concluded in New Delhi. The conference brought attention to climate resilience, environmental governance, sustainable development and international cooperation for addressing environmental challenges. / National Green Tribunal का 'The Future of Environment and Climate Dynamics' विषय पर दो दिवसीय international conference नई दिल्ली में संपन्न हुआ। सम्मेलन में climate resilience, environmental governance, sustainable development और environmental challenges से निपटने के लिए international cooperation पर चर्चा हुई।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312747&reg=3&lang=1",
+                    "staticGK": [
+                        "Conference / सम्मेलन : The Future of Environment and Climate Dynamics",
+                        "Organiser / आयोजक : National Green Tribunal",
+                        "Venue / स्थान : New Delhi",
+                        "Duration / अवधि : Two days",
+                        "Key Areas / प्रमुख क्षेत्र : Climate Resilience, Environmental Governance and International Cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation organised the International Conference on Environment and Climate Dynamics? / Environment and Climate Dynamics conference का आयोजन किसने किया?",
+                            "options": [
+                                "NITI Aayog",
+                                "National Green Tribunal",
+                                "ISRO",
+                                "UNEP"
+                            ],
+                            "answer": "National Green Tribunal"
+                        },
+                        {
+                            "question": "Where was the conference held? / सम्मेलन कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Mumbai",
+                                "New Delhi",
+                                "Bengaluru",
+                                "Kolkata"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What was the title of the conference? / सम्मेलन का title क्या था?",
+                            "options": [
+                                "The Future of Environment and Climate Dynamics",
+                                "Climate Change and Global Trade",
+                                "Future of Indian Agriculture",
+                                "Green Technology for Industry"
+                            ],
+                            "answer": "The Future of Environment and Climate Dynamics"
+                        },
+                        {
+                            "question": "Which issue was highlighted during the conference? / सम्मेलन में किस issue पर जोर दिया गया?",
+                            "options": [
+                                "Climate resilience",
+                                "Banking reforms",
+                                "Sports infrastructure",
+                                "Railway modernisation"
+                            ],
+                            "answer": "Climate resilience"
+                        },
+                        {
+                            "question": "NGT stands for what? / NGT का पूरा नाम क्या है?",
+                            "options": [
+                                "National Green Tribunal",
+                                "National Governance Tribunal",
+                                "National Growth Tribunal",
+                                "National Geographical Tribunal"
+                            ],
+                            "answer": "National Green Tribunal"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
