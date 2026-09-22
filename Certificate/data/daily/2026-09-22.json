@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-22",
+  "title": "Class 6 History Quiz",
+  "date": "22 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is known as the first historian? / प्रथम इतिहासकार के रूप में किसे जाना जाता है?",
+      "options": [
+        "Megasthenes / मेगस्थनीज",
+        "Herodotus / हेरोडोटस",
+        "Ashoka / अशोक",
+        "Kalidasa / कालिदास"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the study of the past called? / अतीत के अध्ययन को क्या कहा जाता है?",
+      "options": [
+        "Geography / भूगोल",
+        "History / इतिहास",
+        "Economics / अर्थशास्त्र",
+        "Civics / नागरिक शास्त्र"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of these is a source of history? / इनमें से इतिहास का स्रोत कौन-सा है?",
+      "options": [
+        "Inscriptions / अभिलेख",
+        "Television / टेलीविजन",
+        "Mobile Phone / मोबाइल फोन",
+        "Computer Game / कंप्यूटर गेम"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "What were the earliest people who lived by hunting and gathering called? / शिकार और भोजन संग्रह करके जीवन बिताने वाले प्रारंभिक लोगों को क्या कहा जाता था?",
+      "options": [
+        "Farmers / किसान",
+        "Hunters and Gatherers / शिकारी और संग्रहकर्ता",
+        "Merchants / व्यापारी",
+        "Kings / राजा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which was one of the earliest crops grown by humans? / मनुष्यों द्वारा उगाई जाने वाली प्रारंभिक फसलों में से एक कौन-सी थी?",
+      "options": [
+        "Wheat / गेहूँ",
+        "Tea / चाय",
+        "Coffee / कॉफी",
+        "Rubber / रबर"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "Where did the Harappan Civilization develop? / हड़प्पा सभ्यता का विकास कहाँ हुआ?",
+      "options": [
+        "Around the Indus River and its tributaries / सिंधु नदी और उसकी सहायक नदियों के आसपास",
+        "Around the Ganga River only / केवल गंगा नदी के आसपास",
+        "In South India only / केवल दक्षिण भारत में",
+        "In the Himalayan region / हिमालयी क्षेत्र में"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which city was an important centre of the Harappan Civilization? / कौन-सा नगर हड़प्पा सभ्यता का एक महत्वपूर्ण केंद्र था?",
+      "options": [
+        "Patna / पटना",
+        "Harappa / हड़प्पा",
+        "Delhi / दिल्ली",
+        "Madurai / मदुरै"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Who founded Buddhism? / बौद्ध धर्म के संस्थापक कौन थे?",
+      "options": [
+        "Mahavira / महावीर",
+        "Gautama Buddha / गौतम बुद्ध",
+        "Ashoka / अशोक",
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Who was the founder of the Mauryan Empire? / मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "options": [
+        "Ashoka / अशोक",
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Bindusara / बिंदुसार",
+        "Harshavardhana / हर्षवर्धन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which ruler adopted Buddhism after the Kalinga War? / कलिंग युद्ध के बाद किस शासक ने बौद्ध धर्म अपनाया?",
+      "options": [
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Ashoka / अशोक",
+        "Samudragupta / समुद्रगुप्त",
+        "Harshavardhana / हर्षवर्धन"
+      ],
+      "answer": 1
+    }
+  ]
+}
