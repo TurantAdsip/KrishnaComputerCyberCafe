@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-22",
+  "title": "Class 6 Geography Quiz",
+  "date": "22 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the shape of the Earth? / पृथ्वी का आकार कैसा है?",
+      "options": [
+        "Flat / चपटा",
+        "Spherical / गोलाकार",
+        "Square / चौकोर",
+        "Triangular / त्रिकोणीय"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which is the model of the Earth? / पृथ्वी का मॉडल क्या कहलाता है?",
+      "options": [
+        "Map / मानचित्र",
+        "Globe / ग्लोब",
+        "Atlas / एटलस",
+        "Sketch / रेखाचित्र"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which imaginary line divides the Earth into two equal halves? / कौन-सी काल्पनिक रेखा पृथ्वी को दो बराबर भागों में बाँटती है?",
+      "options": [
+        "Tropic of Cancer / कर्क रेखा",
+        "Equator / भूमध्य रेखा",
+        "Prime Meridian / प्रधान मध्याह्न रेखा",
+        "Tropic of Capricorn / मकर रेखा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "How many continents are there on Earth? / पृथ्वी पर कितने महाद्वीप हैं?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which is the largest continent? / सबसे बड़ा महाद्वीप कौन-सा है?",
+      "options": [
+        "Africa / अफ्रीका",
+        "Asia / एशिया",
+        "Europe / यूरोप",
+        "Australia / ऑस्ट्रेलिया"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which is the largest ocean on Earth? / पृथ्वी का सबसे बड़ा महासागर कौन-सा है?",
+      "options": [
+        "Atlantic Ocean / अटलांटिक महासागर",
+        "Indian Ocean / हिंद महासागर",
+        "Pacific Ocean / प्रशांत महासागर",
+        "Arctic Ocean / आर्कटिक महासागर"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is the movement of the Earth around the Sun called? / सूर्य के चारों ओर पृथ्वी की गति को क्या कहा जाता है?",
+      "options": [
+        "Rotation / घूर्णन",
+        "Revolution / परिक्रमण",
+        "Orbit / कक्षा",
+        "Inclination / झुकाव"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What causes day and night on Earth? / पृथ्वी पर दिन और रात किस कारण होते हैं?",
+      "options": [
+        "Revolution of Earth / पृथ्वी का परिक्रमण",
+        "Rotation of Earth / पृथ्वी का घूर्णन",
+        "Movement of Moon / चंद्रमा की गति",
+        "Movement of Clouds / बादलों की गति"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which direction does the Sun appear to rise from? / सूर्य किस दिशा से उगता हुआ दिखाई देता है?",
+      "options": [
+        "West / पश्चिम",
+        "North / उत्तर",
+        "East / पूर्व",
+        "South / दक्षिण"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of these is a major domain of the Earth? / इनमें से कौन पृथ्वी का एक प्रमुख क्षेत्र है?",
+      "options": [
+        "Lithosphere / स्थलमंडल",
+        "Atmosphere / वायुमंडल",
+        "Hydrosphere / जलमंडल",
+        "All of these / ये सभी"
+      ],
+      "answer": 3
+    }
+  ]
+}
