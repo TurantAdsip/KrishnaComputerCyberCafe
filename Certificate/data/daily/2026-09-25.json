@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-25",
+  "title": "Class 6 Maths Quiz",
+  "date": "25 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the place value of 5 in 45,632? / 45,632 में 5 का स्थानीय मान क्या है?",
+      "options": [
+        "5,000 / 5,000",
+        "500 / 500",
+        "50 / 50",
+        "50,000 / 50,000"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "What is the smallest whole number? / सबसे छोटी पूर्ण संख्या कौन-सी है?",
+      "options": [
+        "0 / 0",
+        "1 / 1",
+        "2 / 2",
+        "-1 / -1"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "What is 25 × 4? / 25 × 4 का मान क्या है?",
+      "options": [
+        "50 / 50",
+        "75 / 75",
+        "100 / 100",
+        "125 / 125"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which fraction represents one-half? / निम्न में से कौन-सा भिन्न एक-आधा दर्शाता है?",
+      "options": [
+        "1/2 / 1/2",
+        "1/3 / 1/3",
+        "2/3 / 2/3",
+        "3/4 / 3/4"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "How many sides does a triangle have? / त्रिभुज की कितनी भुजाएँ होती हैं?",
+      "options": [
+        "2 / 2",
+        "3 / 3",
+        "4 / 4",
+        "5 / 5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the perimeter of a square with side 5 cm? / 5 सेमी भुजा वाले वर्ग का परिमाप कितना होगा?",
+      "options": [
+        "10 cm / 10 सेमी",
+        "15 cm / 15 सेमी",
+        "20 cm / 20 सेमी",
+        "25 cm / 25 सेमी"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an even number? / निम्न में से कौन-सी सम संख्या है?",
+      "options": [
+        "17 / 17",
+        "23 / 23",
+        "35 / 35",
+        "48 / 48"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is 1000 ÷ 10? / 1000 ÷ 10 का मान क्या है?",
+      "options": [
+        "10 / 10",
+        "100 / 100",
+        "1000 / 1000",
+        "10,000 / 10,000"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "How many centimetres are there in 1 metre? / 1 मीटर में कितने सेंटीमीटर होते हैं?",
+      "options": [
+        "10 cm / 10 सेमी",
+        "50 cm / 50 सेमी",
+        "100 cm / 100 सेमी",
+        "1000 cm / 1000 सेमी"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the value of 7²? / 7² का मान क्या है?",
+      "options": [
+        "14 / 14",
+        "21 / 21",
+        "49 / 49",
+        "56 / 56"
+      ],
+      "answer": 2
+    }
+  ]
+}
