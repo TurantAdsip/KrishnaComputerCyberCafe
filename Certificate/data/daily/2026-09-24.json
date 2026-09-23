@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-24",
+  "title": "Class 6 Polity Quiz",
+  "date": "24 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the supreme law of India? / भारत का सर्वोच्च कानून क्या है?",
+      "options": [
+        "Parliament / संसद",
+        "Constitution / संविधान",
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "President / राष्ट्रपति"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Who is the head of the Union Executive in India? / भारत में संघ कार्यपालिका का प्रमुख कौन होता है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "President / राष्ट्रपति",
+        "Chief Justice / मुख्य न्यायाधीश",
+        "Governor / राज्यपाल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the minimum voting age in India? / भारत में मतदान करने की न्यूनतम आयु कितनी है?",
+      "options": [
+        "16 years / 16 वर्ष",
+        "18 years / 18 वर्ष",
+        "21 years / 21 वर्ष",
+        "25 years / 25 वर्ष"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which body makes laws for the country at the Union level? / संघ स्तर पर देश के लिए कानून कौन बनाता है?",
+      "options": [
+        "Parliament / संसद",
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "Election Commission / निर्वाचन आयोग",
+        "Municipality / नगर पालिका"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "How many Houses does the Indian Parliament have? / भारतीय संसद के कितने सदन हैं?",
+      "options": [
+        "One / एक",
+        "Two / दो",
+        "Three / तीन",
+        "Four / चार"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the lower house of the Indian Parliament called? / भारतीय संसद के निचले सदन को क्या कहा जाता है?",
+      "options": [
+        "Rajya Sabha / राज्यसभा",
+        "Lok Sabha / लोकसभा",
+        "Vidhan Sabha / विधानसभा",
+        "Gram Sabha / ग्राम सभा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Who is the head of a Gram Panchayat? / ग्राम पंचायत का प्रमुख कौन होता है?",
+      "options": [
+        "Sarpanch / सरपंच",
+        "Governor / राज्यपाल",
+        "Mayor / महापौर",
+        "Chief Minister / मुख्यमंत्री"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Which institution conducts elections in India? / भारत में चुनाव कौन-सी संस्था कराती है?",
+      "options": [
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "Election Commission of India / भारत निर्वाचन आयोग",
+        "Parliament / संसद",
+        "Reserve Bank of India / भारतीय रिजर्व बैंक"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What does democracy mean? / लोकतंत्र का क्या अर्थ है?",
+      "options": [
+        "Rule by one person / एक व्यक्ति का शासन",
+        "Rule by the people / जनता का शासन",
+        "Rule by the army / सेना का शासन",
+        "Rule by judges / न्यायाधीशों का शासन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which of these is a Fundamental Right in India? / इनमें से कौन भारत में एक मौलिक अधिकार है?",
+      "options": [
+        "Right to Equality / समानता का अधिकार",
+        "Right to Property as a Fundamental Right / संपत्ति का मौलिक अधिकार",
+        "Right to Rule / शासन करने का अधिकार",
+        "Right to Become Minister / मंत्री बनने का अधिकार"
+      ],
+      "answer": 0
+    }
+  ]
+}
