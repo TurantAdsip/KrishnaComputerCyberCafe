@@ -15344,6 +15344,674 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-09-23",
+            "date": "23 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 23 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Sports & Asian Games",
+                    "title": "India Wins Women's Cricket Gold at Asian Games 2026 / Asian Games 2026 में भारत ने Women's Cricket Gold जीता",
+                    "summary": "The Indian women's cricket team won the gold medal at the 2026 Asian Games in Aichi-Nagoya after defeating Sri Lanka by 147 runs in the T20 final on 22 September. It was India's first gold medal of the Games. / Indian women's cricket team ने 22 सितंबर को Aichi-Nagoya Asian Games 2026 के T20 final में Sri Lanka को 147 runs से हराकर gold medal जीता। यह Games में India का पहला gold medal था।",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/sports/cricket/mandhana-stars-womens-t20-brings-indias-first-gold-nagoya-games-2026-09-22/",
+                    "staticGK": [
+                        "Event / स्पर्धा : Women's T20 Cricket Final",
+                        "Gold Medal Winner / स्वर्ण विजेता : India",
+                        "Runner-up / उपविजेता : Sri Lanka",
+                        "Winning Margin / जीत का अंतर : 147 runs",
+                        "Venue / स्थान : Aichi-Nagoya, Japan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team won the women's cricket gold medal at Asian Games 2026? / Asian Games 2026 में women's cricket gold medal किस टीम ने जीता?",
+                            "options": [
+                                "India",
+                                "Sri Lanka",
+                                "Pakistan",
+                                "Bangladesh"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "Which team did India defeat in the women's cricket final? / Women's cricket final में India ने किस टीम को हराया?",
+                            "options": [
+                                "Japan",
+                                "Sri Lanka",
+                                "Bangladesh",
+                                "Pakistan"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "By how many runs did India win the final? / India ने final कितने runs से जीता?",
+                            "options": [
+                                "97 runs",
+                                "117 runs",
+                                "147 runs",
+                                "167 runs"
+                            ],
+                            "answer": "147 runs"
+                        },
+                        {
+                            "question": "The women's cricket final was played in which format? / Women's cricket final किस format में खेला गया?",
+                            "options": [
+                                "Test",
+                                "ODI",
+                                "T20",
+                                "T10"
+                            ],
+                            "answer": "T20"
+                        },
+                        {
+                            "question": "Where are the 2026 Asian Games being held? / 2026 Asian Games कहाँ आयोजित हो रहे हैं?",
+                            "options": [
+                                "Seoul, South Korea",
+                                "Aichi-Nagoya, Japan",
+                                "Hangzhou, China",
+                                "Jakarta, Indonesia"
+                            ],
+                            "answer": "Aichi-Nagoya, Japan"
+                        }
+                    ]
+                },
+                {
+                    "category": "Awards & Cinema",
+                    "title": "72nd National Film Awards Presented at Ekta Nagar / Ekta Nagar में 72वें National Film Awards प्रदान किए गए",
+                    "summary": "The 72nd National Film Awards ceremony was held at Ekta Nagar (Kevadia), Gujarat on 22 September 2026, with President Droupadi Murmu presenting the awards. The ceremony recognised achievements in Indian cinema for the year 2024. / 72वें National Film Awards समारोह 22 सितंबर 2026 को Ekta Nagar (Kevadia), Gujarat में आयोजित हुआ और President Droupadi Murmu ने awards प्रदान किए। समारोह में 2024 के Indian cinema की उपलब्धियों को सम्मानित किया गया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/ShowAlbum.aspx?albumid=230207&lang=1&reg=3",
+                    "staticGK": [
+                        "Award / पुरस्कार : 72nd National Film Awards",
+                        "Venue / स्थान : Ekta Nagar (Kevadia), Gujarat",
+                        "Presented By / प्रदानकर्ता : President Droupadi Murmu",
+                        "Awards Year / पुरस्कार वर्ष : 2024",
+                        "Institution / स्थापना : National Film Awards were instituted in 1954"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of the National Film Awards was presented in 2026? / 2026 में National Film Awards का कौन-सा edition प्रदान किया गया?",
+                            "options": [
+                                "70th",
+                                "71st",
+                                "72nd",
+                                "73rd"
+                            ],
+                            "answer": "72nd"
+                        },
+                        {
+                            "question": "Where were the 72nd National Film Awards presented? / 72वें National Film Awards कहाँ प्रदान किए गए?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Ekta Nagar, Gujarat",
+                                "Chennai"
+                            ],
+                            "answer": "Ekta Nagar, Gujarat"
+                        },
+                        {
+                            "question": "Who presented the National Film Awards? / National Film Awards किसने प्रदान किए?",
+                            "options": [
+                                "Prime Minister of India",
+                                "President Droupadi Murmu",
+                                "Vice President of India",
+                                "Minister of Information & Broadcasting"
+                            ],
+                            "answer": "President Droupadi Murmu"
+                        },
+                        {
+                            "question": "The 72nd National Film Awards recognised achievements for which year? / 72वें National Film Awards किस वर्ष की उपलब्धियों के लिए थे?",
+                            "options": [
+                                "2022",
+                                "2023",
+                                "2024",
+                                "2025"
+                            ],
+                            "answer": "2024"
+                        },
+                        {
+                            "question": "In which year were the National Film Awards instituted? / National Film Awards की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1947",
+                                "1950",
+                                "1954",
+                                "1960"
+                            ],
+                            "answer": "1954"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Days & Social Awareness",
+                    "title": "International Day of Sign Languages Observed on 23 September / 23 सितंबर को International Day of Sign Languages मनाया गया",
+                    "summary": "The United Nations observes 23 September as the International Day of Sign Languages. In 2026, the theme is 'Declaring Deaf People’s Human Rights'. The date also marks the 75th anniversary of the World Federation of the Deaf, established in 1951. / United Nations 23 सितंबर को International Day of Sign Languages के रूप में मनाता है। 2026 की theme 'Declaring Deaf People’s Human Rights' है। यह तारीख 1951 में स्थापित World Federation of the Deaf की 75वीं anniversary भी है।",
+                    "sourceName": "United Nations",
+                    "sourceUrl": "https://www.un.org/en/node/97859",
+                    "staticGK": [
+                        "Day / दिवस : International Day of Sign Languages",
+                        "Date / तिथि : 23 September",
+                        "2026 Theme / 2026 की Theme : Declaring Deaf People’s Human Rights",
+                        "UN Resolution / UN Resolution : A/RES/72/161",
+                        "WFD Anniversary / WFD वर्षगांठ : 75th anniversary in 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is the International Day of Sign Languages observed? / International Day of Sign Languages कब मनाया जाता है?",
+                            "options": [
+                                "21 September",
+                                "22 September",
+                                "23 September",
+                                "24 September"
+                            ],
+                            "answer": "23 September"
+                        },
+                        {
+                            "question": "What is the 2026 theme of the International Day of Sign Languages? / 2026 की theme क्या है?",
+                            "options": [
+                                "Sign Languages Unite Us",
+                                "Declaring Deaf People’s Human Rights",
+                                "Inclusive Education for All",
+                                "Languages for Peace"
+                            ],
+                            "answer": "Declaring Deaf People’s Human Rights"
+                        },
+                        {
+                            "question": "Which UN resolution established the International Day of Sign Languages? / कौन-सी UN resolution ने यह day स्थापित किया?",
+                            "options": [
+                                "A/RES/72/161",
+                                "A/RES/70/1",
+                                "A/RES/68/32",
+                                "A/RES/74/142"
+                            ],
+                            "answer": "A/RES/72/161"
+                        },
+                        {
+                            "question": "Which organisation was established on 23 September 1951? / 23 सितंबर 1951 को कौन-सी organisation स्थापित हुई थी?",
+                            "options": [
+                                "UNESCO",
+                                "World Federation of the Deaf",
+                                "WHO",
+                                "UNICEF"
+                            ],
+                            "answer": "World Federation of the Deaf"
+                        },
+                        {
+                            "question": "What anniversary of the World Federation of the Deaf is marked in 2026? / 2026 में World Federation of the Deaf की कौन-सी anniversary है?",
+                            "options": [
+                                "50th",
+                                "60th",
+                                "75th",
+                                "100th"
+                            ],
+                            "answer": "75th"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & International Cooperation",
+                    "title": "Exercise Yudh Abhyas 2026 Features Joint India-US Artillery Training / Exercise Yudh Abhyas 2026 में India-US Joint Artillery Training",
+                    "summary": "Indian and US Army personnel are conducting joint training at the Mahajan Field Firing Range as part of Exercise Yudh Abhyas 2026. The drills include artillery systems such as M777, Dhanush and Pinaka and focus on operational coordination and interoperability. / Exercise Yudh Abhyas 2026 के तहत Indian Army और US Army के personnel Mahajan Field Firing Range में joint training कर रहे हैं। अभ्यास में M777, Dhanush और Pinaka जैसे artillery systems शामिल हैं और focus operational coordination तथा interoperability पर है।",
+                    "sourceName": "The Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/defence/india-us-troops-conduct-artillery-drills-with-m777-dhanush-pinaka-during-exercise-yudh-abhyas-2026/amp_articleshow/134424983.cms",
+                    "staticGK": [
+                        "Exercise / अभ्यास : Yudh Abhyas 2026",
+                        "Participants / भागीदार : Indian Army and US Army",
+                        "Location / स्थान : Mahajan Field Firing Range",
+                        "Systems / प्रणालियां : M777, Dhanush and Pinaka",
+                        "Focus / फोकस : Operational Coordination and Interoperability"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Exercise Yudh Abhyas is conducted between India and which country? / Yudh Abhyas भारत और किस देश के बीच होता है?",
+                            "options": [
+                                "France",
+                                "USA",
+                                "Japan",
+                                "Australia"
+                            ],
+                            "answer": "USA"
+                        },
+                        {
+                            "question": "Which two armies are participating in Yudh Abhyas 2026? / Yudh Abhyas 2026 में कौन-सी दो armies भाग ले रही हैं?",
+                            "options": [
+                                "Indian Army and French Army",
+                                "Indian Army and US Army",
+                                "Indian Army and Japanese Army",
+                                "Indian Army and Australian Army"
+                            ],
+                            "answer": "Indian Army and US Army"
+                        },
+                        {
+                            "question": "Where is the artillery training being conducted? / Artillery training कहाँ हो रही है?",
+                            "options": [
+                                "Mahajan Field Firing Range",
+                                "Pokhran",
+                                "Jodhpur Air Force Station",
+                                "Deolali"
+                            ],
+                            "answer": "Mahajan Field Firing Range"
+                        },
+                        {
+                            "question": "Which of the following is an artillery system mentioned in the exercise? / निम्न में से कौन-सी artillery system exercise में mentioned है?",
+                            "options": [
+                                "Pinaka",
+                                "Akash",
+                                "Tejas",
+                                "BrahMos"
+                            ],
+                            "answer": "Pinaka"
+                        },
+                        {
+                            "question": "What is a major focus of the joint drills? / Joint drills का प्रमुख focus क्या है?",
+                            "options": [
+                                "Tourism",
+                                "Operational coordination and interoperability",
+                                "Agricultural exports",
+                                "Maritime trade"
+                            ],
+                            "answer": "Operational coordination and interoperability"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Infrastructure",
+                    "title": "Environmental Clearance Validity for Ports and Harbours Extended to 20 Years / Ports और Harbours की Environmental Clearance Validity 20 वर्ष हुई",
+                    "summary": "The government has extended the validity of environmental clearances for ports, harbours, breakwaters and dredging projects from 10 years to 20 years, subject to safeguards. The change is intended to support long-term port development and investment. / सरकार ने ports, harbours, breakwaters और dredging projects की environmental clearance validity 10 वर्ष से बढ़ाकर 20 वर्ष कर दी है, safeguards के अधीन। यह बदलाव long-term port development और investment को support करने के लिए है।",
+                    "sourceName": "The Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/industry/transportation/shipping-/-transport/green-clearance-validity-for-ports-harbours-extended-to-20-years/amp_articleshow/134419221.cms",
+                    "staticGK": [
+                        "Clearance / स्वीकृति : Environmental Clearance",
+                        "Old Validity / पुरानी अवधि : 10 years",
+                        "New Validity / नई अवधि : 20 years",
+                        "Covered Projects / शामिल परियोजनाएं : Ports, Harbours, Breakwaters and Dredging",
+                        "Purpose / उद्देश्य : Long-term Port Development and Investment"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the new validity period of environmental clearance for eligible ports and harbours? / Eligible ports और harbours के लिए नई validity कितनी है?",
+                            "options": [
+                                "5 years",
+                                "10 years",
+                                "15 years",
+                                "20 years"
+                            ],
+                            "answer": "20 years"
+                        },
+                        {
+                            "question": "What was the earlier validity period? / पहले validity period कितनी थी?",
+                            "options": [
+                                "5 years",
+                                "10 years",
+                                "15 years",
+                                "25 years"
+                            ],
+                            "answer": "10 years"
+                        },
+                        {
+                            "question": "Which projects are covered by the change? / यह change किन projects को cover करता है?",
+                            "options": [
+                                "Ports and harbours",
+                                "Schools only",
+                                "Railway stations only",
+                                "Hospitals only"
+                            ],
+                            "answer": "Ports and harbours"
+                        },
+                        {
+                            "question": "Which activity is also specifically covered? / कौन-सी activity भी specifically covered है?",
+                            "options": [
+                                "Dredging",
+                                "Mining",
+                                "Afforestation",
+                                "Farming"
+                            ],
+                            "answer": "Dredging"
+                        },
+                        {
+                            "question": "What is the stated objective of the extension? / Extension का stated objective क्या है?",
+                            "options": [
+                                "Reduce tourism",
+                                "Support long-term port development and investment",
+                                "Stop port construction",
+                                "Increase road tolls"
+                            ],
+                            "answer": "Support long-term port development and investment"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Shooting",
+                    "title": "Manu Bhaker Qualifies for Women's 10m Air Pistol Final at Asian Games / Manu Bhaker Asian Games में Women's 10m Air Pistol Final के लिए Qualify",
+                    "summary": "Indian shooter Manu Bhaker qualified for the women's 10m air pistol individual final at the 2026 Asian Games after finishing third in qualification on 23 September. She also competed in the team event alongside Esha Singh and Suruchi Inder Singh. / Indian shooter Manu Bhaker ने 23 सितंबर को qualification में third place हासिल करके Asian Games 2026 के women's 10m air pistol individual final के लिए qualify किया। उन्होंने Esha Singh और Suruchi Inder Singh के साथ team event में भी भाग लिया।",
+                    "sourceName": "NDTV",
+                    "sourceUrl": "https://special.ndtv.com/fighting-our-killer-air-a-citizens-charter-51/news-detail/asian-games-2026-live-updates-day-4-india-medal-tally-results-gold-silver-bronze-medal-count-aichi-nagoya-japan-live-news-12083555/17",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Manu Bhaker",
+                        "Event / स्पर्धा : Women's 10m Air Pistol",
+                        "Qualification Position / क्वालिफिकेशन स्थान : 3rd",
+                        "Date / तिथि : 23 September 2026",
+                        "Team Members / टीम सदस्य : Esha Singh and Suruchi Inder Singh"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which event did Manu Bhaker qualify for the final? / Manu Bhaker ने किस event के final के लिए qualify किया?",
+                            "options": [
+                                "25m Pistol",
+                                "10m Air Pistol",
+                                "50m Rifle",
+                                "Skeet"
+                            ],
+                            "answer": "10m Air Pistol"
+                        },
+                        {
+                            "question": "What was Manu Bhaker's qualification position? / Manu Bhaker की qualification position क्या थी?",
+                            "options": [
+                                "1st",
+                                "2nd",
+                                "3rd",
+                                "4th"
+                            ],
+                            "answer": "3rd"
+                        },
+                        {
+                            "question": "On which date did Manu Bhaker qualify for the final? / Manu Bhaker ने किस तारीख को qualify किया?",
+                            "options": [
+                                "21 September",
+                                "22 September",
+                                "23 September",
+                                "24 September"
+                            ],
+                            "answer": "23 September"
+                        },
+                        {
+                            "question": "Who were Manu Bhaker's Indian teammates in the team event? / Team event में Manu Bhaker की Indian teammates कौन थीं?",
+                            "options": [
+                                "Esha Singh and Suruchi Inder Singh",
+                                "Elavenil Valarivan and Parth Mane",
+                                "Sift Kaur Samra and Maheshwari Chauhan",
+                                "Mirabai Chanu and Gyaneshwari Yadav"
+                            ],
+                            "answer": "Esha Singh and Suruchi Inder Singh"
+                        },
+                        {
+                            "question": "Manu Bhaker is associated with which sport? / Manu Bhaker किस sport से जुड़ी हैं?",
+                            "options": [
+                                "Shooting",
+                                "Boxing",
+                                "Wrestling",
+                                "Archery"
+                            ],
+                            "answer": "Shooting"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Asian Games",
+                    "title": "India's Men's Badminton Team Faces China in Asian Games Semifinal / Asian Games Semifinal में India की Men's Badminton Team का China से मुकाबला",
+                    "summary": "India's men's badminton team is scheduled to face China in the semifinal of the 2026 Asian Games on 23 September. India had already secured a medal by reaching the last four after defeating Japan 3–0 in the quarterfinal. / India की men's badminton team 23 सितंबर को Asian Games 2026 के semifinal में China का सामना करने वाली है। Japan को quarterfinal में 3–0 से हराकर India ने last four में पहुंचकर medal सुनिश्चित किया था।",
+                    "sourceName": "The Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/sports/asian-games/asian-games-2026-indias-full-schedule-on-september-23-manu-bhaker-mirabai-chanu-medal-events-and-timings/articleshow/134424234.cms",
+                    "staticGK": [
+                        "Sport / खेल : Badminton",
+                        "Event / स्पर्धा : Men's Team Semifinal",
+                        "Opponent / प्रतिद्वंद्वी : China",
+                        "Date / तिथि : 23 September 2026",
+                        "Quarterfinal Result / क्वार्टरफाइनल परिणाम : India defeated Japan 3–0"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team is India facing in the men's badminton semifinal? / Men's badminton semifinal में India किस टीम से खेल रहा है?",
+                            "options": [
+                                "Japan",
+                                "China",
+                                "Korea",
+                                "Indonesia"
+                            ],
+                            "answer": "China"
+                        },
+                        {
+                            "question": "Which stage is India playing on 23 September? / 23 सितंबर को India किस stage में खेल रहा है?",
+                            "options": [
+                                "Quarterfinal",
+                                "Semifinal",
+                                "Final",
+                                "Round of 16"
+                            ],
+                            "answer": "Semifinal"
+                        },
+                        {
+                            "question": "Which team did India defeat in the quarterfinal? / Quarterfinal में India ने किस टीम को हराया?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "Thailand",
+                                "Malaysia"
+                            ],
+                            "answer": "Japan"
+                        },
+                        {
+                            "question": "What was India's quarterfinal score? / India का quarterfinal score क्या था?",
+                            "options": [
+                                "3–0",
+                                "3–1",
+                                "2–1",
+                                "2–0"
+                            ],
+                            "answer": "3–0"
+                        },
+                        {
+                            "question": "By reaching the semifinal, what did India secure? / Semifinal में पहुंचकर India ने क्या secure किया?",
+                            "options": [
+                                "A medal",
+                                "A gold medal",
+                                "A world record",
+                                "A final victory"
+                            ],
+                            "answer": "A medal"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Weightlifting",
+                    "title": "Mirabai Chanu Competes in Women's 49kg Final at Asian Games / Mirabai Chanu Asian Games में Women's 49kg Final में उतरीं",
+                    "summary": "Olympic medallist Mirabai Chanu competed in the women's 49kg Group A weightlifting final at the 2026 Asian Games on 23 September. The event was one of India's key medal events of the day. / Olympic medallist Mirabai Chanu ने 23 सितंबर को Asian Games 2026 के women's 49kg Group A weightlifting final में हिस्सा लिया। यह उस दिन India के प्रमुख medal events में से एक था।",
+                    "sourceName": "The Economic Times",
+                    "sourceUrl": "https://m.economictimes.com/news/sports/asian-games/asian-games-2026-indias-full-schedule-on-september-23-manu-bhaker-mirabai-chanu-medal-events-and-timings/articleshow/134424234.cms",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Mirabai Chanu",
+                        "Sport / खेल : Weightlifting",
+                        "Category / वर्ग : Women's 49kg",
+                        "Stage / चरण : Group A Final",
+                        "Date / तिथि : 23 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which sport does Mirabai Chanu compete in? / Mirabai Chanu किस sport में compete करती हैं?",
+                            "options": [
+                                "Weightlifting",
+                                "Shooting",
+                                "Boxing",
+                                "Wrestling"
+                            ],
+                            "answer": "Weightlifting"
+                        },
+                        {
+                            "question": "Which weight category was Mirabai Chanu competing in? / Mirabai Chanu किस weight category में थीं?",
+                            "options": [
+                                "48kg",
+                                "49kg",
+                                "53kg",
+                                "59kg"
+                            ],
+                            "answer": "49kg"
+                        },
+                        {
+                            "question": "Which stage did Mirabai Chanu compete in on 23 September? / 23 सितंबर को Mirabai Chanu ने किस stage में compete किया?",
+                            "options": [
+                                "Group A Final",
+                                "Qualification",
+                                "Quarterfinal",
+                                "Semifinal"
+                            ],
+                            "answer": "Group A Final"
+                        },
+                        {
+                            "question": "Which competition featured Mirabai Chanu's 49kg final? / Mirabai Chanu का 49kg final किस competition में था?",
+                            "options": [
+                                "Commonwealth Games 2026",
+                                "Asian Games 2026",
+                                "Olympic Games 2028",
+                                "World Championships"
+                            ],
+                            "answer": "Asian Games 2026"
+                        },
+                        {
+                            "question": "Mirabai Chanu is an Olympic medallist in which sport? / Mirabai Chanu किस sport की Olympic medallist हैं?",
+                            "options": [
+                                "Weightlifting",
+                                "Badminton",
+                                "Boxing",
+                                "Athletics"
+                            ],
+                            "answer": "Weightlifting"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Patient Safety",
+                    "title": "6th National Pharmacovigilance Week Concludes on 23 September / 23 सितंबर को 6th National Pharmacovigilance Week का समापन",
+                    "summary": "The 6th National Pharmacovigilance Week is being observed from 17 to 23 September 2026 with a focus on rational use of medicines and safer healthcare. The campaign promotes adverse drug reaction reporting and wider participation in pharmacovigilance. / 6th National Pharmacovigilance Week 17 से 23 सितंबर 2026 तक rational use of medicines और safer healthcare पर focus के साथ मनाया जा रहा है। Campaign adverse drug reaction reporting और pharmacovigilance में wider participation को बढ़ावा देता है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311715",
+                    "staticGK": [
+                        "Programme / कार्यक्रम : 6th National Pharmacovigilance Week",
+                        "Dates / तिथियां : 17–23 September 2026",
+                        "Theme / थीम : Promoting Rational Use of Medicines through Pharmacovigilance: A Step Towards Safer Healthcare",
+                        "Institution / संस्था : Indian Pharmacopoeia Commission",
+                        "Focus / फोकस : Adverse Drug Reaction Reporting"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is the 6th National Pharmacovigilance Week observed in 2026? / 2026 में यह week कब मनाया जा रहा है?",
+                            "options": [
+                                "10–16 September",
+                                "17–23 September",
+                                "18–24 September",
+                                "20–26 September"
+                            ],
+                            "answer": "17–23 September"
+                        },
+                        {
+                            "question": "What is the main focus of Pharmacovigilance Week? / Pharmacovigilance Week का मुख्य focus क्या है?",
+                            "options": [
+                                "Road safety",
+                                "Adverse Drug Reaction Reporting",
+                                "Sports training",
+                                "Food exports"
+                            ],
+                            "answer": "Adverse Drug Reaction Reporting"
+                        },
+                        {
+                            "question": "Which institution is associated with the programme? / Programme से कौन-सी institution जुड़ी है?",
+                            "options": [
+                                "Indian Pharmacopoeia Commission",
+                                "Election Commission",
+                                "NITI Aayog",
+                                "SEBI"
+                            ],
+                            "answer": "Indian Pharmacopoeia Commission"
+                        },
+                        {
+                            "question": "What does ADR stand for? / ADR का full form क्या है?",
+                            "options": [
+                                "Adverse Drug Reaction",
+                                "Advanced Drug Regulation",
+                                "Approved Drug Report",
+                                "Adverse Disease Response"
+                            ],
+                            "answer": "Adverse Drug Reaction"
+                        },
+                        {
+                            "question": "The campaign promotes what type of medicine use? / Campaign किस प्रकार के medicine use को promote करता है?",
+                            "options": [
+                                "Rational use",
+                                "Random use",
+                                "Unsupervised use",
+                                "Excessive use"
+                            ],
+                            "answer": "Rational use"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Asian Games",
+                    "title": "Indian Rowers Qualify for Finals at Asian Games 2026 / Asian Games 2026 में Indian Rowers ने Finals के लिए Qualification हासिल की",
+                    "summary": "Indian rowers Balraj Panwar, Satnam Singh and Salman Khan advanced to finals at the 2026 Asian Games on 23 September. Panwar finished third in the men's single sculls heat, while Satnam Singh and Salman Khan advanced from the men's double sculls heats. / 23 सितंबर को Asian Games 2026 में Indian rowers Balraj Panwar, Satnam Singh और Salman Khan ने finals के लिए qualification हासिल की। Panwar men's single sculls heat में third रहे, जबकि Satnam Singh और Salman Khan men's double sculls heats से आगे बढ़े।",
+                    "sourceName": "NDTV",
+                    "sourceUrl": "https://sports.ndtv.com/asian-games-2026/asian-games-2026-satnam-salman-balraj-panwar-qualify-for-rowing-finals-12084074",
+                    "staticGK": [
+                        "Sport / खेल : Rowing",
+                        "Athlete / खिलाड़ी : Balraj Panwar",
+                        "Event / स्पर्धा : Men's Single Sculls",
+                        "Result / परिणाम : Finished 3rd in heat and qualified for Final A",
+                        "Other Indian Rowers / अन्य भारतीय Rowers : Satnam Singh and Salman Khan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which sport is associated with Balraj Panwar in this update? / इस update में Balraj Panwar किस sport से जुड़े हैं?",
+                            "options": [
+                                "Rowing",
+                                "Canoe Sprint",
+                                "Swimming",
+                                "Shooting"
+                            ],
+                            "answer": "Rowing"
+                        },
+                        {
+                            "question": "Which event did Balraj Panwar compete in? / Balraj Panwar ने किस event में compete किया?",
+                            "options": [
+                                "Men's Single Sculls",
+                                "Men's Double Sculls",
+                                "Kayak Four",
+                                "Canoe Single"
+                            ],
+                            "answer": "Men's Single Sculls"
+                        },
+                        {
+                            "question": "What position did Balraj Panwar finish in his heat? / Balraj Panwar अपने heat में किस position पर रहे?",
+                            "options": [
+                                "1st",
+                                "2nd",
+                                "3rd",
+                                "4th"
+                            ],
+                            "answer": "3rd"
+                        },
+                        {
+                            "question": "What did Panwar qualify for? / Panwar ने किसके लिए qualify किया?",
+                            "options": [
+                                "Final A",
+                                "Final B",
+                                "Semifinal only",
+                                "Qualification repechage"
+                            ],
+                            "answer": "Final A"
+                        },
+                        {
+                            "question": "Which two Indian rowers advanced in men's double sculls? / Men's double sculls में कौन-से दो Indian rowers आगे बढ़े?",
+                            "options": [
+                                "Balraj Panwar and Arun Singh",
+                                "Satnam Singh and Salman Khan",
+                                "Jaswinder Singh and Nitin Kumar",
+                                "Rohit and Ujjwal Kumar Singh"
+                            ],
+                            "answer": "Satnam Singh and Salman Khan"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
