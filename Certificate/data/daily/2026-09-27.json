@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-27",
+  "title": "Class 6 Modern History Quiz",
+  "date": "27 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who founded the Indian National Congress in 1885? / 1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+      "options": [
+        "A.O. Hume / ए.ओ. ह्यूम",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "In which year did the Revolt of 1857 begin? / 1857 का विद्रोह किस वर्ष शुरू हुआ था?",
+      "options": [
+        "1757 / 1757",
+        "1857 / 1857",
+        "1885 / 1885",
+        "1942 / 1942"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Who was known as the 'Father of the Nation' in India? / भारत में 'राष्ट्रपिता' के नाम से किसे जाना जाता है?",
+      "options": [
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Bhagat Singh / भगत सिंह",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Sardar Patel / सरदार पटेल"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा' का नारा किसने दिया था?",
+      "options": [
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Bipin Chandra Pal / बिपिन चंद्र पाल",
+        "Dadabhai Naoroji / दादाभाई नौरोजी"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "The Jallianwala Bagh massacre took place in which year? / जलियांवाला बाग हत्याकांड किस वर्ष हुआ था?",
+      "options": [
+        "1905 / 1905",
+        "1919 / 1919",
+        "1922 / 1922",
+        "1930 / 1930"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Who led the Dandi March in 1930? / 1930 में दांडी मार्च का नेतृत्व किसने किया था?",
+      "options": [
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Sardar Patel / सरदार पटेल",
+        "Subhas Chandra Bose / सुभाष चंद्र बोस"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "When was the Quit India Movement launched? / भारत छोड़ो आंदोलन कब शुरू किया गया था?",
+      "options": [
+        "1930 / 1930",
+        "1935 / 1935",
+        "1942 / 1942",
+        "1947 / 1947"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Who was the founder of the Azad Hind Fauj (Indian National Army)? / आजाद हिंद फौज (इंडियन नेशनल आर्मी) के प्रमुख नेता कौन थे?",
+      "options": [
+        "Subhas Chandra Bose / सुभाष चंद्र बोस",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Rajendra Prasad / राजेंद्र प्रसाद",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Who was the first Governor-General of independent India? / स्वतंत्र भारत के प्रथम गवर्नर-जनरल कौन थे?",
+      "options": [
+        "Lord Mountbatten / लॉर्ड माउंटबेटन",
+        "Lord Curzon / लॉर्ड कर्जन",
+        "Warren Hastings / वॉरेन हेस्टिंग्स",
+        "Lord Wellesley / लॉर्ड वेलेजली"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "On which date did India become independent? / भारत किस तिथि को स्वतंत्र हुआ था?",
+      "options": [
+        "26 January 1950 / 26 जनवरी 1950",
+        "15 August 1947 / 15 अगस्त 1947",
+        "26 November 1949 / 26 नवंबर 1949",
+        "9 August 1942 / 9 अगस्त 1942"
+      ],
+      "answer": 1
+    }
+  ]
+}
