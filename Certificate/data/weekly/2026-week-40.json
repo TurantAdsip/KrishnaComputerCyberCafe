@@ -1,0 +1,341 @@
+{
+    "quizType": "weekly",
+    "quizId": "2026-week-40",
+    "title": "Weekly History Quiz",
+    "week": "Week 40",
+    "date": "28 September - 4 October 2026",
+    "totalQuestions": 30,
+    "timeLimit": 15,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+            "options": [
+                "Ashoka / अशोक",
+                "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+                "Bindusara / बिंदुसार",
+                "Harshavardhana / हर्षवर्धन"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "Who was the teacher of Chandragupta Maurya? / चंद्रगुप्त मौर्य के गुरु कौन थे?",
+            "options": [
+                "Kalidasa / कालिदास",
+                "Chanakya / चाणक्य",
+                "Banabhatta / बाणभट्ट",
+                "Aryabhata / आर्यभट्ट"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 3,
+            "question": "Which ruler embraced Buddhism after the Kalinga War? / कलिंग युद्ध के बाद किस शासक ने बौद्ध धर्म अपनाया?",
+            "options": [
+                "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+                "Ashoka / अशोक",
+                "Bindusara / बिंदुसार",
+                "Samudragupta / समुद्रगुप्त"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "question": "Which ancient university was located in Bihar? / बिहार में स्थित प्राचीन विश्वविद्यालय कौन-सा था?",
+            "options": [
+                "Nalanda / नालंदा",
+                "Takshashila / तक्षशिला",
+                "Vallabhi / वल्लभी",
+                "Vikramashila / विक्रमशिला"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 5,
+            "question": "Who wrote the Arthashastra? / अर्थशास्त्र की रचना किसने की थी?",
+            "options": [
+                "Kautilya / कौटिल्य",
+                "Megasthenes / मेगस्थनीज",
+                "Kalidasa / कालिदास",
+                "Panini / पाणिनि"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 6,
+            "question": "Who is known as the 'Napoleon of India'? / 'भारत का नेपोलियन' किसे कहा जाता है?",
+            "options": [
+                "Chandragupta II / चंद्रगुप्त द्वितीय",
+                "Samudragupta / समुद्रगुप्त",
+                "Harshavardhana / हर्षवर्धन",
+                "Skandagupta / स्कंदगुप्त"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "question": "Which Gupta ruler is associated with the title Vikramaditya? / किस गुप्त शासक को विक्रमादित्य की उपाधि से जोड़ा जाता है?",
+            "options": [
+                "Samudragupta / समुद्रगुप्त",
+                "Chandragupta I / चंद्रगुप्त प्रथम",
+                "Chandragupta II / चंद्रगुप्त द्वितीय",
+                "Kumaragupta / कुमारगुप्त"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 8,
+            "question": "Who wrote the book 'Indica'? / 'इंडिका' नामक पुस्तक किसने लिखी?",
+            "options": [
+                "Fa-Hien / फाह्यान",
+                "Megasthenes / मेगस्थनीज",
+                "Hiuen Tsang / ह्वेनसांग",
+                "Al-Biruni / अल-बिरूनी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "Who was the founder of the Delhi Sultanate? / दिल्ली सल्तनत का संस्थापक कौन था?",
+            "options": [
+                "Iltutmish / इल्तुतमिश",
+                "Qutb-ud-din Aibak / कुतुबुद्दीन ऐबक",
+                "Balban / बलबन",
+                "Alauddin Khalji / अलाउद्दीन खिलजी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "question": "Who was the first woman ruler of the Delhi Sultanate? / दिल्ली सल्तनत की पहली महिला शासक कौन थी?",
+            "options": [
+                "Nur Jahan / नूरजहाँ",
+                "Razia Sultan / रजिया सुल्तान",
+                "Jahanara / जहाँआरा",
+                "Mumtaz Mahal / मुमताज महल"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 11,
+            "question": "Who built the Qutub Minar? / कुतुब मीनार का निर्माण किसने करवाया था?",
+            "options": [
+                "Qutb-ud-din Aibak / कुतुबुद्दीन ऐबक",
+                "Akbar / अकबर",
+                "Shah Jahan / शाहजहाँ",
+                "Sher Shah Suri / शेरशाह सूरी"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 12,
+            "question": "Who introduced the silver coin called Rupiya? / रुपया नामक चाँदी का सिक्का किसने चलाया?",
+            "options": [
+                "Akbar / अकबर",
+                "Sher Shah Suri / शेरशाह सूरी",
+                "Alauddin Khalji / अलाउद्दीन खिलजी",
+                "Iltutmish / इल्तुतमिश"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 13,
+            "question": "Who founded the Mughal Empire in India? / भारत में मुगल साम्राज्य की स्थापना किसने की?",
+            "options": [
+                "Akbar / अकबर",
+                "Babur / बाबर",
+                "Humayun / हुमायूँ",
+                "Aurangzeb / औरंगजेब"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 14,
+            "question": "The First Battle of Panipat was fought in which year? / पानीपत का प्रथम युद्ध किस वर्ष लड़ा गया था?",
+            "options": [
+                "1526",
+                "1556",
+                "1761",
+                "1757"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 15,
+            "question": "Who was the father of Akbar? / अकबर के पिता कौन थे?",
+            "options": [
+                "Babur / बाबर",
+                "Humayun / हुमायूँ",
+                "Shah Jahan / शाहजहाँ",
+                "Jahangir / जहाँगीर"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 16,
+            "question": "Who built the Taj Mahal? / ताजमहल का निर्माण किसने करवाया था?",
+            "options": [
+                "Akbar / अकबर",
+                "Jahangir / जहाँगीर",
+                "Shah Jahan / शाहजहाँ",
+                "Aurangzeb / औरंगजेब"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 17,
+            "question": "Who founded the Maratha Empire? / मराठा साम्राज्य की स्थापना किसने की?",
+            "options": [
+                "Shivaji Maharaj / शिवाजी महाराज",
+                "Bajirao I / बाजीराव प्रथम",
+                "Sambhaji / संभाजी",
+                "Balaji Vishwanath / बालाजी विश्वनाथ"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 18,
+            "question": "Who was known as the 'Tiger of Mysore'? / 'मैसूर का बाघ' किसे कहा जाता था?",
+            "options": [
+                "Tipu Sultan / टीपू सुल्तान",
+                "Hyder Ali / हैदर अली",
+                "Ranjit Singh / रणजीत सिंह",
+                "Shivaji Maharaj / शिवाजी महाराज"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 19,
+            "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+            "options": [
+                "1757",
+                "1764",
+                "1857",
+                "1773"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 20,
+            "question": "Who introduced the Permanent Settlement in Bengal? / बंगाल में स्थायी बंदोबस्त किसने लागू किया था?",
+            "options": [
+                "Lord Wellesley / लॉर्ड वेलेजली",
+                "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
+                "Lord Curzon / लॉर्ड कर्जन",
+                "Lord Dalhousie / लॉर्ड डलहौजी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 21,
+            "question": "Who was the first Governor-General of independent India? / स्वतंत्र भारत के प्रथम गवर्नर-जनरल कौन थे?",
+            "options": [
+                "Lord Mountbatten / लॉर्ड माउंटबेटन",
+                "C. Rajagopalachari / सी. राजगोपालाचारी",
+                "Jawaharlal Nehru / जवाहरलाल नेहरू",
+                "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 22,
+            "question": "The Revolt of 1857 began at which place? / 1857 का विद्रोह किस स्थान से शुरू हुआ था?",
+            "options": [
+                "Delhi / दिल्ली",
+                "Meerut / मेरठ",
+                "Kanpur / कानपुर",
+                "Lucknow / लखनऊ"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 23,
+            "question": "Who was the first President of the Indian National Congress? / भारतीय राष्ट्रीय कांग्रेस के प्रथम अध्यक्ष कौन थे?",
+            "options": [
+                "Dadabhai Naoroji / दादाभाई नौरोजी",
+                "W.C. Bonnerjee / डब्ल्यू.सी. बनर्जी",
+                "A.O. Hume / ए.ओ. ह्यूम",
+                "Surendranath Banerjee / सुरेंद्रनाथ बनर्जी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 24,
+            "question": "In which year was the Indian National Congress founded? / भारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई थी?",
+            "options": [
+                "1885",
+                "1887",
+                "1905",
+                "1919"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 25,
+            "question": "Who started the Non-Cooperation Movement? / असहयोग आंदोलन किसने शुरू किया था?",
+            "options": [
+                "Subhas Chandra Bose / सुभाष चंद्र बोस",
+                "Mahatma Gandhi / महात्मा गांधी",
+                "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+                "Bhagat Singh / भगत सिंह"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 26,
+            "question": "The Dandi March was associated with which movement? / दांडी मार्च किस आंदोलन से संबंधित था?",
+            "options": [
+                "Non-Cooperation Movement / असहयोग आंदोलन",
+                "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+                "Quit India Movement / भारत छोड़ो आंदोलन",
+                "Swadeshi Movement / स्वदेशी आंदोलन"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 27,
+            "question": "Who gave the slogan 'Give me blood, and I will give you freedom'? / 'तुम मुझे खून दो, मैं तुम्हें आजादी दूंगा' का नारा किसने दिया?",
+            "options": [
+                "Mahatma Gandhi / महात्मा गांधी",
+                "Subhas Chandra Bose / सुभाष चंद्र बोस",
+                "Bhagat Singh / भगत सिंह",
+                "Jawaharlal Nehru / जवाहरलाल नेहरू"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 28,
+            "question": "The Quit India Movement was launched in which year? / भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था?",
+            "options": [
+                "1930",
+                "1935",
+                "1942",
+                "1947"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 29,
+            "question": "Who was the first Indian to become President of the Indian National Congress? / भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष बनने वाले पहले भारतीय कौन थे?",
+            "options": [
+                "W.C. Bonnerjee / डब्ल्यू.सी. बनर्जी",
+                "Dadabhai Naoroji / दादाभाई नौरोजी",
+                "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+                "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 30,
+            "question": "Who was the last Viceroy of British India? / ब्रिटिश भारत के अंतिम वायसराय कौन थे?",
+            "options": [
+                "Lord Curzon / लॉर्ड कर्जन",
+                "Lord Mountbatten / लॉर्ड माउंटबेटन",
+                "Lord Wavell / लॉर्ड वेवेल",
+                "Lord Irwin / लॉर्ड इरविन"
+            ],
+            "answer": 1
+        }
+    ]
+}
