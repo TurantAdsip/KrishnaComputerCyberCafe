@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-27",
+  "title": "Class 6 Indian Polity Quiz",
+  "date": "27 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the supreme law of India? / भारत का सर्वोच्च कानून क्या है?",
+      "options": [
+        "The Constitution of India / भारत का संविधान",
+        "The Parliament / संसद",
+        "The Supreme Court / सर्वोच्च न्यायालय",
+        "The President / राष्ट्रपति"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Who is the constitutional head of India? / भारत का संवैधानिक प्रमुख कौन होता है?",
+      "options": [
+        "Prime Minister / प्रधानमंत्री",
+        "President / राष्ट्रपति",
+        "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+        "Home Minister / गृह मंत्री"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "How many houses are there in the Parliament of India? / भारत की संसद में कितने सदन हैं?",
+      "options": [
+        "One / एक",
+        "Two / दो",
+        "Three / तीन",
+        "Four / चार"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the lower house of the Indian Parliament called? / भारतीय संसद के निचले सदन को क्या कहा जाता है?",
+      "options": [
+        "Rajya Sabha / राज्यसभा",
+        "Lok Sabha / लोकसभा",
+        "Vidhan Sabha / विधानसभा",
+        "Gram Sabha / ग्राम सभा"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the minimum voting age in India? / भारत में मतदान करने की न्यूनतम आयु कितनी है?",
+      "options": [
+        "16 years / 16 वर्ष",
+        "18 years / 18 वर्ष",
+        "21 years / 21 वर्ष",
+        "25 years / 25 वर्ष"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Who is the head of the Union Government in India? / भारत की केंद्र सरकार का प्रमुख कौन होता है?",
+      "options": [
+        "President / राष्ट्रपति",
+        "Prime Minister / प्रधानमंत्री",
+        "Governor / राज्यपाल",
+        "Chief Justice / मुख्य न्यायाधीश"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which body conducts elections in India? / भारत में चुनाव कौन-सा निकाय करवाता है?",
+      "options": [
+        "Supreme Court / सर्वोच्च न्यायालय",
+        "Election Commission of India / भारत निर्वाचन आयोग",
+        "Parliament / संसद",
+        "Finance Commission / वित्त आयोग"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which Fundamental Right ensures equality before the law? / कौन-सा मौलिक अधिकार कानून के समक्ष समानता सुनिश्चित करता है?",
+      "options": [
+        "Right to Freedom / स्वतंत्रता का अधिकार",
+        "Right to Equality / समानता का अधिकार",
+        "Right to Education / शिक्षा का अधिकार",
+        "Right to Religion / धार्मिक स्वतंत्रता का अधिकार"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Who is the head of a state in India? / भारत के किसी राज्य का संवैधानिक प्रमुख कौन होता है?",
+      "options": [
+        "Chief Minister / मुख्यमंत्री",
+        "Governor / राज्यपाल",
+        "Prime Minister / प्रधानमंत्री",
+        "President / राष्ट्रपति"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the system of government in which people elect their representatives called? / जिस शासन व्यवस्था में जनता अपने प्रतिनिधियों को चुनती है, उसे क्या कहा जाता है?",
+      "options": [
+        "Monarchy / राजतंत्र",
+        "Dictatorship / तानाशाही",
+        "Democracy / लोकतंत्र",
+        "Empire / साम्राज्य"
+      ],
+      "answer": 2
+    }
+  ]
+}
