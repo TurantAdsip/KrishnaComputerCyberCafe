@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-09-30",
+  "title": "Class 9 Geography Quiz",
+  "date": "30 September 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत का सबसे उत्तरी भाग किस पर्वत श्रृंखला से संबंधित है? / The northernmost part of India is associated with which mountain range?",
+      "options": [
+        "हिमालय / Himalayas",
+        "अरावली / Aravalli",
+        "सतपुड़ा / Satpura",
+        "विंध्य / Vindhya"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "भारत की सबसे लंबी नदी कौन-सी है? / Which is the longest river in India?",
+      "options": [
+        "यमुना / Yamuna",
+        "गंगा / Ganga",
+        "गोदावरी / Godavari",
+        "नर्मदा / Narmada"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "भारत का सबसे बड़ा भौतिक विभाग कौन-सा है? / Which is the largest physiographic division of India?",
+      "options": [
+        "उत्तरी मैदान / Northern Plains",
+        "प्रायद्वीपीय पठार / Peninsular Plateau",
+        "तटीय मैदान / Coastal Plains",
+        "द्वीप समूह / Islands"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "भारत में दक्षिण-पश्चिम मानसून सामान्यतः किस दिशा से आता है? / From which direction does the southwest monsoon generally enter India?",
+      "options": [
+        "उत्तर-पूर्व / North-East",
+        "दक्षिण-पश्चिम / South-West",
+        "उत्तर-पश्चिम / North-West",
+        "दक्षिण-पूर्व / South-East"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "भारत में सबसे अधिक वर्षा वाला क्षेत्र किस राज्य में स्थित है? / The region receiving very high rainfall in India is located in which state?",
+      "options": [
+        "राजस्थान / Rajasthan",
+        "मेघालय / Meghalaya",
+        "गुजरात / Gujarat",
+        "हरियाणा / Haryana"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "काली मिट्टी मुख्य रूप से किस फसल के लिए उपयुक्त मानी जाती है? / Black soil is mainly suitable for which crop?",
+      "options": [
+        "कपास / Cotton",
+        "चाय / Tea",
+        "जूट / Jute",
+        "गेहूँ / Wheat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में जनसंख्या की दृष्टि से सबसे अधिक आबादी वाला राज्य कौन-सा है? / Which is the most populous state of India?",
+      "options": [
+        "महाराष्ट्र / Maharashtra",
+        "बिहार / Bihar",
+        "उत्तर प्रदेश / Uttar Pradesh",
+        "पश्चिम बंगाल / West Bengal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "भारत में जनगणना सामान्यतः कितने वर्ष के अंतराल पर होती है? / At what interval is the Census of India generally conducted?",
+      "options": [
+        "5 वर्ष / 5 years",
+        "10 वर्ष / 10 years",
+        "15 वर्ष / 15 years",
+        "20 वर्ष / 20 years"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "भारत का कौन-सा क्षेत्र खनिज संसाधनों से विशेष रूप से समृद्ध है? / Which region of India is particularly rich in mineral resources?",
+      "options": [
+        "छोटानागपुर पठार / Chota Nagpur Plateau",
+        "थार मरुस्थल / Thar Desert",
+        "मालवा पठार / Malwa Plateau",
+        "गंगा का मैदान / Ganga Plain"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "भारत का सबसे बड़ा मरुस्थल कौन-सा है? / Which is the largest desert in India?",
+      "options": [
+        "थार मरुस्थल / Thar Desert",
+        "सहारा मरुस्थल / Sahara Desert",
+        "गोबी मरुस्थल / Gobi Desert",
+        "कालाहारी मरुस्थल / Kalahari Desert"
+      ],
+      "answer": 0
+    }
+  ]
+}

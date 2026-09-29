@@ -1,0 +1,120 @@
+{
+    "quizType": "daily",
+    "quizId": "2026-09-29",
+    "title": "Class 9 History Quiz",
+    "date": "29 September 2026",
+    "totalQuestions": 10,
+    "timeLimit": 10,
+    "questions": [
+        {
+            "id": 1,
+            "question": "The French Revolution began in which year? / फ्रांसीसी क्रांति किस वर्ष शुरू हुई थी?",
+            "options": [
+                "1789 / 1789",
+                "1791 / 1791",
+                "1799 / 1799",
+                "1815 / 1815"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 2,
+            "question": "Who was the king of France at the beginning of the French Revolution? / फ्रांसीसी क्रांति की शुरुआत के समय फ्रांस का राजा कौन था?",
+            "options": [
+                "Louis XIV / लुई XIV",
+                "Louis XV / लुई XV",
+                "Louis XVI / लुई XVI",
+                "Napoleon Bonaparte / नेपोलियन बोनापार्ट"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 3,
+            "question": "Which prison was stormed by the people of Paris on 14 July 1789? / 14 जुलाई 1789 को पेरिस की जनता ने किस जेल पर हमला किया था?",
+            "options": [
+                "Versailles / वर्साय",
+                "Bastille / बास्तील",
+                "Louvre / लौवर",
+                "Tuileries / तुइलरी"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "question": "Who led the Bolshevik Party during the Russian Revolution of 1917? / 1917 की रूसी क्रांति के दौरान बोल्शेविक पार्टी का नेतृत्व किसने किया था?",
+            "options": [
+                "Joseph Stalin / जोसेफ स्टालिन",
+                "Vladimir Lenin / व्लादिमीर लेनिन",
+                "Karl Marx / कार्ल मार्क्स",
+                "Leon Trotsky / लियोन ट्रॉट्स्की"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 5,
+            "question": "Which event is associated with the Russian Revolution of 1917? / निम्न में से कौन-सी घटना 1917 की रूसी क्रांति से संबंधित है?",
+            "options": [
+                "Storming of the Bastille / बास्तील पर हमला",
+                "October Revolution / अक्टूबर क्रांति",
+                "Boston Tea Party / बोस्टन टी पार्टी",
+                "Glorious Revolution / गौरवमयी क्रांति"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "question": "What was the name of the secret police established by the Bolsheviks? / बोल्शेविकों द्वारा स्थापित गुप्त पुलिस का नाम क्या था?",
+            "options": [
+                "Gestapo / गेस्टापो",
+                "Cheka / चेका",
+                "KGB / केजीबी",
+                "SS / एसएस"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "question": "Who was Adolf Hitler? / एडोल्फ हिटलर कौन था?",
+            "options": [
+                "Leader of Nazi Germany / नाजी जर्मनी का नेता",
+                "President of France / फ्रांस का राष्ट्रपति",
+                "King of Italy / इटली का राजा",
+                "Leader of Russia / रूस का नेता"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 8,
+            "question": "In which year did Hitler become Chancellor of Germany? / हिटलर जर्मनी का चांसलर किस वर्ष बना था?",
+            "options": [
+                "1929 / 1929",
+                "1931 / 1931",
+                "1933 / 1933",
+                "1939 / 1939"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 9,
+            "question": "Which treaty was imposed on Germany after the First World War? / प्रथम विश्व युद्ध के बाद जर्मनी पर कौन-सी संधि थोपी गई थी?",
+            "options": [
+                "Treaty of Paris / पेरिस की संधि",
+                "Treaty of Versailles / वर्साय की संधि",
+                "Treaty of Vienna / वियना की संधि",
+                "Treaty of Berlin / बर्लिन की संधि"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "question": "What was the main occupation of the majority of people in the pre-modern society? / पूर्व-आधुनिक समाज में अधिकांश लोगों का मुख्य व्यवसाय क्या था?",
+            "options": [
+                "Agriculture / कृषि",
+                "Banking / बैंकिंग",
+                "Software Development / सॉफ्टवेयर डेवलपमेंट",
+                "Aviation / विमानन"
+            ],
+            "answer": 0
+        }
+    ]
+}
