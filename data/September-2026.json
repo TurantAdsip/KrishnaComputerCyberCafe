@@ -19352,6 +19352,674 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-09-29",
+            "date": "29 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 29 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Important Days & Health",
+                    "title": "World Heart Day 2026 Observed with Theme 'Don't Miss a Beat' / World Heart Day 2026 'Don't Miss a Beat' Theme के साथ मनाया गया",
+                    "summary": "World Heart Day is observed every year on 29 September. In 2026, the World Heart Federation is continuing the 'Don't Miss a Beat' campaign, highlighting awareness of cardiovascular disease, recognition of warning signs and the importance of heart health. / World Heart Day हर वर्ष 29 September को मनाया जाता है। 2026 में World Heart Federation 'Don't Miss a Beat' campaign के माध्यम से cardiovascular disease की awareness, warning signs की पहचान और heart health के महत्व पर जोर दे रहा है.",
+                    "sourceName": "World Heart Federation",
+                    "sourceUrl": "https://world-heart-federation.org/world-heart-day/",
+                    "staticGK": [
+                        "Day / दिवस : World Heart Day",
+                        "Date / तारीख : 29 September",
+                        "2026 Campaign / 2026 Campaign : Don't Miss a Beat",
+                        "Organisation / संस्था : World Heart Federation",
+                        "Main Focus / मुख्य focus : Cardiovascular Health"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is World Heart Day observed? / World Heart Day कब मनाया जाता है?",
+                            "options": [
+                                "27 September",
+                                "28 September",
+                                "29 September",
+                                "30 September"
+                            ],
+                            "answer": "29 September"
+                        },
+                        {
+                            "question": "What is the 2026 World Heart Day campaign message? / World Heart Day 2026 का campaign message क्या है?",
+                            "options": [
+                                "Stronger Together",
+                                "Don't Miss a Beat",
+                                "Use Heart for Action",
+                                "Healthy Heart, Healthy Nation"
+                            ],
+                            "answer": "Don't Miss a Beat"
+                        },
+                        {
+                            "question": "Which organisation leads the World Heart Day global campaign? / World Heart Day global campaign का नेतृत्व कौन करता है?",
+                            "options": [
+                                "WHO",
+                                "UNICEF",
+                                "World Heart Federation",
+                                "UNESCO"
+                            ],
+                            "answer": "World Heart Federation"
+                        },
+                        {
+                            "question": "World Heart Day mainly focuses on which health area? / World Heart Day मुख्य रूप से किस health area पर focus करता है?",
+                            "options": [
+                                "Eye Health",
+                                "Cardiovascular Health",
+                                "Dental Health",
+                                "Mental Health"
+                            ],
+                            "answer": "Cardiovascular Health"
+                        },
+                        {
+                            "question": "CVD stands for what? / CVD का full form क्या है?",
+                            "options": [
+                                "Central Vascular Disease",
+                                "Cardiovascular Disease",
+                                "Chronic Viral Disease",
+                                "Cardiac Vision Disorder"
+                            ],
+                            "answer": "Cardiovascular Disease"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Digital Payments",
+                    "title": "Supreme Court Refuses Stay on MDR for Certain UPI Payments / कुछ UPI Payments पर MDR को रोकने से Supreme Court का इनकार",
+                    "summary": "The Supreme Court declined to stay the implementation of the Merchant Discount Rate (MDR) framework for specified person-to-merchant UPI transactions above ₹2,000. The 0.4% MDR is scheduled to apply from 15 October 2026, while the Court sought responses from the Centre, RBI and NPCI. / Supreme Court ने ₹2,000 से अधिक के specified person-to-merchant UPI transactions पर Merchant Discount Rate (MDR) framework को लागू करने पर stay देने से इनकार किया। 0.4% MDR 15 October 2026 से लागू होना निर्धारित है और Court ने Centre, RBI तथा NPCI से response मांगा है.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/legal-news/supreme-court-refuses-stay-mdr-fee-upi-transactions-above-rs-2000-10897262/",
+                    "staticGK": [
+                        "Payment System / भुगतान प्रणाली : UPI",
+                        "Charge / शुल्क : Merchant Discount Rate (MDR)",
+                        "Rate / दर : 0.4%",
+                        "Threshold / सीमा : Above ₹2,000 for specified P2M transactions",
+                        "Implementation Date / लागू होने की तारीख : 15 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What does MDR stand for? / MDR का full form क्या है?",
+                            "options": [
+                                "Merchant Digital Rate",
+                                "Merchant Discount Rate",
+                                "Money Deposit Rate",
+                                "Market Digital Revenue"
+                            ],
+                            "answer": "Merchant Discount Rate"
+                        },
+                        {
+                            "question": "What is the MDR rate mentioned for specified UPI transactions? / specified UPI transactions के लिए MDR rate कितना है?",
+                            "options": [
+                                "0.2%",
+                                "0.3%",
+                                "0.4%",
+                                "0.5%"
+                            ],
+                            "answer": "0.4%"
+                        },
+                        {
+                            "question": "The MDR framework mentioned applies to which payment system? / MDR framework किस payment system से related है?",
+                            "options": [
+                                "NEFT",
+                                "RTGS",
+                                "UPI",
+                                "IMPS"
+                            ],
+                            "answer": "UPI"
+                        },
+                        {
+                            "question": "From which date is the MDR scheduled to apply? / MDR किस तारीख से लागू होना निर्धारित है?",
+                            "options": [
+                                "1 October 2026",
+                                "10 October 2026",
+                                "15 October 2026",
+                                "31 October 2026"
+                            ],
+                            "answer": "15 October 2026"
+                        },
+                        {
+                            "question": "Which institutions were asked to respond in the matter? / इस मामले में किन institutions से response मांगा गया?",
+                            "options": [
+                                "RBI and SEBI only",
+                                "Centre, RBI and NPCI",
+                                "NITI Aayog and SEBI",
+                                "Finance Commission and RBI"
+                            ],
+                            "answer": "Centre, RBI and NPCI"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways & Infrastructure",
+                    "title": "NHSRCL Launches First 100-Metre Steel Bridge for Mumbai-Ahmedabad Bullet Train Project / Mumbai-Ahmedabad Bullet Train Project के लिए पहला 100-Metre Steel Bridge Launch",
+                    "summary": "The National High Speed Rail Corporation Limited launched a 100-metre-long steel bridge weighing around 1,405 tonnes for the Mumbai-Ahmedabad High Speed Rail corridor in Maharashtra. The bridge is part of India's bullet train infrastructure development. / National High Speed Rail Corporation Limited ने Maharashtra में Mumbai-Ahmedabad High Speed Rail corridor के लिए लगभग 1,405 tonnes वजनी 100-metre-long steel bridge launch किया। यह bridge India's bullet train infrastructure development का हिस्सा है.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-29-2026-sc-refuses-to-stay-mdr-on-upi-payments-10897104/",
+                    "staticGK": [
+                        "Project / परियोजना : Mumbai-Ahmedabad High Speed Rail",
+                        "Organisation / संस्था : NHSRCL",
+                        "Bridge Length / पुल की लंबाई : 100 metres",
+                        "Bridge Weight / पुल का वजन : Around 1,405 tonnes",
+                        "Technology / तकनीक : Steel Bridge"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which project is the 100-metre steel bridge associated with? / 100-metre steel bridge किस project से associated है?",
+                            "options": [
+                                "Delhi-Mumbai Expressway",
+                                "Mumbai-Ahmedabad Bullet Train",
+                                "Delhi-Meerut RRTS",
+                                "Chennai Metro"
+                            ],
+                            "answer": "Mumbai-Ahmedabad Bullet Train"
+                        },
+                        {
+                            "question": "What is the length of the steel bridge? / Steel bridge की length कितनी है?",
+                            "options": [
+                                "80 metres",
+                                "90 metres",
+                                "100 metres",
+                                "120 metres"
+                            ],
+                            "answer": "100 metres"
+                        },
+                        {
+                            "question": "Approximately how much does the bridge weigh? / Bridge का approximate weight कितना है?",
+                            "options": [
+                                "1,105 tonnes",
+                                "1,205 tonnes",
+                                "1,405 tonnes",
+                                "1,605 tonnes"
+                            ],
+                            "answer": "1,405 tonnes"
+                        },
+                        {
+                            "question": "Which organisation is associated with the project? / Project से कौन-सी organisation associated है?",
+                            "options": [
+                                "NHSRCL",
+                                "DFCCIL",
+                                "NHAI",
+                                "RVNL"
+                            ],
+                            "answer": "NHSRCL"
+                        },
+                        {
+                            "question": "The Mumbai-Ahmedabad project is related to which transport system? / Mumbai-Ahmedabad project किस transport system से related है?",
+                            "options": [
+                                "High Speed Rail",
+                                "Inland Waterway",
+                                "Air Cargo",
+                                "Metro Bus"
+                            ],
+                            "answer": "High Speed Rail"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Asian Games",
+                    "title": "India Participates in Multiple Medal Events on Day 11 of Asian Games 2026 / Asian Games 2026 के Day 11 पर India के कई Medal Events",
+                    "summary": "On 29 September 2026, Indian athletes are competing in several important events at the Aichi-Nagoya Asian Games, including shooting, athletics, boxing, archery, volleyball and other sports. Key medal events include trap team finals and athletics finals. / 29 September 2026 को Aichi-Nagoya Asian Games में Indian athletes shooting, athletics, boxing, archery, volleyball सहित कई महत्वपूर्ण events में भाग ले रहे हैं। प्रमुख medal events में trap team finals और athletics finals शामिल हैं.",
+                    "sourceName": "Jagran Josh",
+                    "sourceUrl": "https://www.jagranjosh.com/general-knowledge/asian-games-2026-india-schedule-september-29-matches-medal-events-1820012605-1",
+                    "staticGK": [
+                        "Games / खेल : Asian Games 2026",
+                        "Host / मेजबान : Aichi-Nagoya, Japan",
+                        "Date / तारीख : 29 September 2026",
+                        "Day / दिन : Day 11",
+                        "Key Sports / प्रमुख खेल : Shooting, Athletics, Boxing"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where are the 2026 Asian Games being held? / 2026 Asian Games कहाँ आयोजित हो रहे हैं?",
+                            "options": [
+                                "Hangzhou, China",
+                                "Aichi-Nagoya, Japan",
+                                "Jakarta, Indonesia",
+                                "Seoul, South Korea"
+                            ],
+                            "answer": "Aichi-Nagoya, Japan"
+                        },
+                        {
+                            "question": "29 September 2026 is which day of the Asian Games schedule mentioned? / 29 September 2026 Asian Games का कौन-सा day है?",
+                            "options": [
+                                "Day 9",
+                                "Day 10",
+                                "Day 11",
+                                "Day 12"
+                            ],
+                            "answer": "Day 11"
+                        },
+                        {
+                            "question": "Which shooting event has an Indian team final on 29 September? / 29 September को India का कौन-सा shooting team final है?",
+                            "options": [
+                                "Trap Team Final",
+                                "10m Air Rifle Final",
+                                "25m Pistol Final",
+                                "Skeet Team Final"
+                            ],
+                            "answer": "Trap Team Final"
+                        },
+                        {
+                            "question": "Which Indian athlete is scheduled for the men's 5000m final? / Men's 5000m final में कौन-सा Indian athlete scheduled है?",
+                            "options": [
+                                "Gulveer Singh",
+                                "Neeraj Chopra",
+                                "Avinash Sable",
+                                "Both Gulveer Singh and Avinash Sable"
+                            ],
+                            "answer": "Both Gulveer Singh and Avinash Sable"
+                        },
+                        {
+                            "question": "Which sport includes India's match against Qatar on 29 September? / 29 September को India vs Qatar किस sport में है?",
+                            "options": [
+                                "Football",
+                                "Volleyball",
+                                "Hockey",
+                                "Cricket"
+                            ],
+                            "answer": "Volleyball"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports & Shooting",
+                    "title": "Esha Singh Wins Silver Medal in Women's 25m Pistol at Asian Games 2026 / Esha Singh ने Women's 25m Pistol में Silver Medal जीता",
+                    "summary": "Indian shooter Esha Singh won a silver medal in the women's 25m pistol event at the Aichi-Nagoya Asian Games 2026. Her performance added another medal to India's campaign at the continental sporting event. / Indian shooter Esha Singh ने Aichi-Nagoya Asian Games 2026 में women's 25m pistol event में silver medal जीता। उनकी performance से Asian Games में India's medal tally में एक और medal जुड़ा.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-29-2026-sc-refuses-to-stay-mdr-on-upi-payments-10897104/",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Esha Singh",
+                        "Sport / खेल : Shooting",
+                        "Event / Event : Women's 25m Pistol",
+                        "Medal / पदक : Silver",
+                        "Games / खेल : Asian Games 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Esha Singh win? / Esha Singh ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "No medal"
+                            ],
+                            "answer": "Silver"
+                        },
+                        {
+                            "question": "In which event did Esha Singh win the medal? / Esha Singh ने किस event में medal जीता?",
+                            "options": [
+                                "10m Air Rifle",
+                                "25m Pistol",
+                                "Trap",
+                                "Skeet"
+                            ],
+                            "answer": "25m Pistol"
+                        },
+                        {
+                            "question": "Which sport does Esha Singh represent? / Esha Singh किस sport से संबंधित हैं?",
+                            "options": [
+                                "Archery",
+                                "Shooting",
+                                "Boxing",
+                                "Athletics"
+                            ],
+                            "answer": "Shooting"
+                        },
+                        {
+                            "question": "Esha Singh won the medal at which event? / Esha Singh ने किस event में medal जीता?",
+                            "options": [
+                                "Asian Games 2026",
+                                "Olympic Games 2026",
+                                "Commonwealth Games 2026",
+                                "World University Games"
+                            ],
+                            "answer": "Asian Games 2026"
+                        },
+                        {
+                            "question": "The 2026 Asian Games are being hosted by which country? / 2026 Asian Games किस country में हो रहे हैं?",
+                            "options": [
+                                "China",
+                                "Japan",
+                                "South Korea",
+                                "India"
+                            ],
+                            "answer": "Japan"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Space",
+                    "title": "India's First Orbital Computing Satellite MOI-1A Set for Launch / India's First Orbital Computing Satellite MOI-1A Launch के लिए तैयार",
+                    "summary": "Hyderabad-based space startup TakeMe2Space is preparing to launch MOI-1A, described by the company as India's first orbital computing satellite. The satellite is designed to process data in orbit using edge-computing technology instead of sending all raw data back to Earth. / Hyderabad-based space startup TakeMe2Space MOI-1A को launch करने की तैयारी कर रहा है, जिसे company India's first orbital computing satellite बताती है। यह satellite edge-computing technology का उपयोग करके data को orbit में process करने के लिए designed है.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/business/media-telecom/indias-takeme2space-launch-orbital-computing-satellite-spacex-rocket-2026-09-28/",
+                    "staticGK": [
+                        "Satellite / उपग्रह : MOI-1A",
+                        "Startup / Startup : TakeMe2Space",
+                        "Location / स्थान : Hyderabad",
+                        "Technology / तकनीक : Orbital Edge Computing",
+                        "Planned Launch / निर्धारित Launch : 1 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the name of India's first orbital computing satellite mentioned in the report? / Report में India's first orbital computing satellite का नाम क्या है?",
+                            "options": [
+                                "MOI-1A",
+                                "EOS-05",
+                                "RISAT-1",
+                                "INSAT-4A"
+                            ],
+                            "answer": "MOI-1A"
+                        },
+                        {
+                            "question": "Which startup is developing MOI-1A? / MOI-1A को कौन-सा startup develop कर रहा है?",
+                            "options": [
+                                "Skyroot Aerospace",
+                                "TakeMe2Space",
+                                "Agnikul Cosmos",
+                                "Pixxel"
+                            ],
+                            "answer": "TakeMe2Space"
+                        },
+                        {
+                            "question": "Where is TakeMe2Space based? / TakeMe2Space कहाँ based है?",
+                            "options": [
+                                "Bengaluru",
+                                "Hyderabad",
+                                "Chennai",
+                                "Ahmedabad"
+                            ],
+                            "answer": "Hyderabad"
+                        },
+                        {
+                            "question": "What technology is central to MOI-1A? / MOI-1A में कौन-सी technology central है?",
+                            "options": [
+                                "Orbital edge computing",
+                                "Underwater computing",
+                                "Quantum banking",
+                                "Hydrogen propulsion"
+                            ],
+                            "answer": "Orbital edge computing"
+                        },
+                        {
+                            "question": "When is MOI-1A planned to launch? / MOI-1A का planned launch कब है?",
+                            "options": [
+                                "29 September 2026",
+                                "1 October 2026",
+                                "5 October 2026",
+                                "15 October 2026"
+                            ],
+                            "answer": "1 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Space Technology",
+                    "title": "SpaceX Starship Completes First Orbital Flight and Deploys Starlink Satellites / SpaceX Starship ने First Orbital Flight पूरी की",
+                    "summary": "SpaceX's Starship completed its first orbital flight on 28 September 2026 and deployed 26 Starlink V3 satellites into orbit. The mission was shortened after an engine malfunction, but the spacecraft reached orbit and later completed a controlled descent into the Pacific Ocean. / SpaceX के Starship ने 28 September 2026 को अपनी पहली orbital flight पूरी की और 26 Starlink V3 satellites को orbit में deploy किया। Engine malfunction के बाद mission को छोटा किया गया, लेकिन spacecraft orbit तक पहुंचा और बाद में Pacific Ocean में controlled descent किया.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/business/media-telecom/spacexs-starship-launches-14th-flight-first-headed-orbit-2026-09-28/",
+                    "staticGK": [
+                        "Spacecraft / अंतरिक्ष यान : Starship",
+                        "Organisation / संस्था : SpaceX",
+                        "Milestone / उपलब्धि : First Orbital Flight",
+                        "Satellites Deployed / Deploy किए गए satellites : 26 Starlink V3",
+                        "Launch Location / Launch स्थान : Starbase, Texas"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which spacecraft completed its first orbital flight? / किस spacecraft ने अपनी पहली orbital flight पूरी की?",
+                            "options": [
+                                "Falcon 9",
+                                "Starship",
+                                "Dragon",
+                                "New Glenn"
+                            ],
+                            "answer": "Starship"
+                        },
+                        {
+                            "question": "Which company operates Starship? / Starship किस company का spacecraft है?",
+                            "options": [
+                                "Blue Origin",
+                                "NASA",
+                                "SpaceX",
+                                "Boeing"
+                            ],
+                            "answer": "SpaceX"
+                        },
+                        {
+                            "question": "How many Starlink V3 satellites were deployed? / कितने Starlink V3 satellites deploy किए गए?",
+                            "options": [
+                                "16",
+                                "20",
+                                "26",
+                                "30"
+                            ],
+                            "answer": "26"
+                        },
+                        {
+                            "question": "Where was Starship launched from? / Starship कहाँ से launch हुआ?",
+                            "options": [
+                                "Cape Canaveral, Florida",
+                                "Starbase, Texas",
+                                "Vandenberg, California",
+                                "Kennedy Space Center"
+                            ],
+                            "answer": "Starbase, Texas"
+                        },
+                        {
+                            "question": "What type of satellites were deployed during the mission? / Mission के दौरान किस type के satellites deploy किए गए?",
+                            "options": [
+                                "GPS satellites",
+                                "Starlink V3 satellites",
+                                "Weather satellites",
+                                "Navigation satellites"
+                            ],
+                            "answer": "Starlink V3 satellites"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education & Higher Education",
+                    "title": "IIT Jammu Holds Seventh Convocation and Awards 420 Degrees / IIT Jammu ने Seventh Convocation में 420 Degrees प्रदान कीं",
+                    "summary": "IIT Jammu conducted its seventh convocation and conferred 420 degrees across different programmes. The degrees included B.Tech, M.Tech, M.Sc and PhD qualifications. / IIT Jammu ने अपनी seventh convocation आयोजित की और विभिन्न programmes में कुल 420 degrees प्रदान कीं। इनमें B.Tech, M.Tech, M.Sc और PhD degrees शामिल थीं.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-29-2026-sc-refuses-to-stay-mdr-on-upi-payments-10897104/",
+                    "staticGK": [
+                        "Institute / संस्थान : IIT Jammu",
+                        "Event / कार्यक्रम : Seventh Convocation",
+                        "Total Degrees / कुल Degrees : 420",
+                        "B.Tech Degrees / B.Tech : 209",
+                        "PhD Degrees / PhD : 64"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which IIT conducted its seventh convocation? / किस IIT ने अपनी seventh convocation आयोजित की?",
+                            "options": [
+                                "IIT Delhi",
+                                "IIT Jammu",
+                                "IIT Bombay",
+                                "IIT Kanpur"
+                            ],
+                            "answer": "IIT Jammu"
+                        },
+                        {
+                            "question": "How many total degrees were conferred? / कुल कितनी degrees प्रदान की गईं?",
+                            "options": [
+                                "320",
+                                "380",
+                                "420",
+                                "450"
+                            ],
+                            "answer": "420"
+                        },
+                        {
+                            "question": "How many B.Tech degrees were conferred? / कितनी B.Tech degrees प्रदान की गईं?",
+                            "options": [
+                                "109",
+                                "209",
+                                "309",
+                                "409"
+                            ],
+                            "answer": "209"
+                        },
+                        {
+                            "question": "How many PhD degrees were conferred? / कितनी PhD degrees प्रदान की गईं?",
+                            "options": [
+                                "44",
+                                "54",
+                                "64",
+                                "74"
+                            ],
+                            "answer": "64"
+                        },
+                        {
+                            "question": "Which of the following was among the degrees conferred? / निम्न में से कौन-सी degree conferred की गई?",
+                            "options": [
+                                "B.Tech",
+                                "M.Tech",
+                                "PhD",
+                                "All of the above"
+                            ],
+                            "answer": "All of the above"
+                        }
+                    ]
+                },
+                {
+                    "category": "Aviation & Business",
+                    "title": "Tewolde Gebremariam Named Air India CEO-Designate / Tewolde Gebremariam बने Air India के CEO-Designate",
+                    "summary": "Tewolde Gebremariam, the proposed CEO and Managing Director of Air India, outlined safety, reliability, profitability and disciplined sustainable growth as key priorities for the airline group. / Air India के proposed CEO और Managing Director Tewolde Gebremariam ने airline group के लिए safety, reliability, profitability और disciplined sustainable growth को प्रमुख priorities के रूप में बताया.",
+                    "sourceName": "The Times of India",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/air-india-ceo-designate-sets-out-safety-reliability-and-profitability-as-top-priorities-for-airline/articleshow/134545817.cms",
+                    "staticGK": [
+                        "Airline / Airline : Air India",
+                        "CEO-Designate / CEO-Designate : Tewolde Gebremariam",
+                        "Priority 1 / प्राथमिकता : Safety",
+                        "Priority 2 / प्राथमिकता : Reliability",
+                        "Growth Focus / Growth Focus : Disciplined and Sustainable Growth"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is the proposed CEO and Managing Director of Air India mentioned in the report? / Report में Air India के proposed CEO और MD कौन हैं?",
+                            "options": [
+                                "Campbell Wilson",
+                                "Tewolde Gebremariam",
+                                "Sanjiv Kapoor",
+                                "Ilker Ayci"
+                            ],
+                            "answer": "Tewolde Gebremariam"
+                        },
+                        {
+                            "question": "Which airline is associated with Tewolde Gebremariam's proposed appointment? / Tewolde Gebremariam की proposed appointment किस airline से related है?",
+                            "options": [
+                                "IndiGo",
+                                "SpiceJet",
+                                "Air India",
+                                "Vistara"
+                            ],
+                            "answer": "Air India"
+                        },
+                        {
+                            "question": "Which was listed as a priority? / निम्न में से कौन-सी priority बताई गई?",
+                            "options": [
+                                "Safety",
+                                "Reliability",
+                                "Profitability",
+                                "All of the above"
+                            ],
+                            "answer": "All of the above"
+                        },
+                        {
+                            "question": "What type of growth was highlighted? / किस type की growth पर जोर दिया गया?",
+                            "options": [
+                                "Short-term growth",
+                                "Disciplined and sustainable growth",
+                                "Only international growth",
+                                "Only domestic growth"
+                            ],
+                            "answer": "Disciplined and sustainable growth"
+                        },
+                        {
+                            "question": "Air India belongs to which sector? / Air India किस sector से related है?",
+                            "options": [
+                                "Railways",
+                                "Aviation",
+                                "Banking",
+                                "Telecommunications"
+                            ],
+                            "answer": "Aviation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Currency",
+                    "title": "Indian Rupee Falls Below ₹96 per US Dollar Amid Oil Price Concerns / Oil Price Concerns के बीच Rupee ₹96 per Dollar के स्तर से नीचे गया",
+                    "summary": "The Indian rupee weakened to a two-month low and crossed the ₹96 per US dollar level on 29 September 2026. Rising global oil prices and concerns over energy supply contributed to pressure on the currency. / 29 September 2026 को Indian rupee कमजोर होकर two-month low पर पहुंचा और ₹96 per US dollar के स्तर को पार कर गया। Global oil prices में वृद्धि और energy supply concerns ने currency पर pressure बढ़ाया.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-rupee-drops-to-two-month-low-past-key-96usd-barrier-as-oil-worries-deepen-2026-09-29/",
+                    "staticGK": [
+                        "Currency / मुद्रा : Indian Rupee",
+                        "Level / स्तर : Above ₹96 per US Dollar",
+                        "Low / Low : Two-Month Low",
+                        "Major Concern / प्रमुख concern : Rising Oil Prices",
+                        "Impact Area / प्रभाव क्षेत्र : Indian Currency and Markets"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Against which currency did the Indian rupee weaken below the ₹96 level? / Indian rupee किस currency के मुकाबले ₹96 level से नीचे गया?",
+                            "options": [
+                                "Euro",
+                                "Pound",
+                                "US Dollar",
+                                "Yen"
+                            ],
+                            "answer": "US Dollar"
+                        },
+                        {
+                            "question": "The rupee reached what type of low? / Rupee किस प्रकार के low पर पहुंचा?",
+                            "options": [
+                                "One-week low",
+                                "One-month low",
+                                "Two-month low",
+                                "One-year low"
+                            ],
+                            "answer": "Two-month low"
+                        },
+                        {
+                            "question": "Which factor increased pressure on the rupee? / किस factor ने rupee पर pressure बढ़ाया?",
+                            "options": [
+                                "Falling oil prices",
+                                "Rising global oil prices",
+                                "Lower energy demand",
+                                "Lower imports"
+                            ],
+                            "answer": "Rising global oil prices"
+                        },
+                        {
+                            "question": "India is generally what type of country in terms of crude oil imports? / Crude oil imports के मामले में India generally कैसी country है?",
+                            "options": [
+                                "Major net energy importer",
+                                "Major net energy exporter",
+                                "Completely self-sufficient",
+                                "No oil importer"
+                            ],
+                            "answer": "Major net energy importer"
+                        },
+                        {
+                            "question": "Which market indicator is being discussed? / यहाँ किस market indicator की चर्चा है?",
+                            "options": [
+                                "Exchange Rate",
+                                "GDP only",
+                                "Fiscal Deficit",
+                                "Repo Rate"
+                            ],
+                            "answer": "Exchange Rate"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
