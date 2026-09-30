@@ -20020,6 +20020,740 @@
                     ]
                 }
             ]
+        },
+            {
+            "id": "2026-09-30",
+            "date": "30 September 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 30 September 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Polity & Governance",
+                    "title": "Election Commission Restores Form 6 Submission Without SIR Declaration in Non-SIR States / गैर-SIR राज्यों में Form 6 के लिए SIR Declaration हटाया गया",
+                    "summary": "The Election Commission restored online Form 6 submission without the SIR declaration in states not undergoing Special Intensive Revision. Form 6 is generally used for fresh voter registration. / Election Commission ने उन राज्यों में online Form 6 submission को फिर से SIR declaration के बिना अनुमति दी है जहां Special Intensive Revision नहीं हो रहा है। Form 6 का सामान्य उपयोग नए मतदाता पंजीकरण के लिए होता है.",
+                    "sourceName": "PrelimsAI",
+                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-30",
+                    "staticGK": [
+                        "Form / फॉर्म : Form 6",
+                        "Purpose / उद्देश्य : Fresh Voter Registration",
+                        "Related Authority / संबंधित संस्था : Election Commission of India",
+                        "SIR / SIR : Special Intensive Revision",
+                        "Electoral Law / चुनावी नियम : Registration of Electors Rules, 1960"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which form is generally used for fresh voter registration? / नए मतदाता पंजीकरण के लिए सामान्यतः कौन-सा Form उपयोग होता है?",
+                            "options": [
+                                "Form 6",
+                                "Form 7",
+                                "Form 8",
+                                "Form 10"
+                            ],
+                            "answer": "Form 6"
+                        },
+                        {
+                            "question": "What does SIR stand for? / SIR का full form क्या है?",
+                            "options": [
+                                "Special Indian Revision",
+                                "Special Intensive Revision",
+                                "State Intensive Registration",
+                                "Systematic Indian Roll"
+                            ],
+                            "answer": "Special Intensive Revision"
+                        },
+                        {
+                            "question": "Which organisation conducts electoral roll revision in India? / भारत में electoral roll revision कौन-सी संस्था करती है?",
+                            "options": [
+                                "UPSC",
+                                "Election Commission of India",
+                                "NITI Aayog",
+                                "Ministry of Home Affairs"
+                            ],
+                            "answer": "Election Commission of India"
+                        },
+                        {
+                            "question": "Form 6 is mainly related to which process? / Form 6 मुख्य रूप से किस प्रक्रिया से संबंधित है?",
+                            "options": [
+                                "Passport application",
+                                "Voter registration",
+                                "Income tax filing",
+                                "Census registration"
+                            ],
+                            "answer": "Voter registration"
+                        },
+                        {
+                            "question": "Which rules contain Form 6? / Form 6 किन Rules से संबंधित है?",
+                            "options": [
+                                "Registration of Electors Rules, 1960",
+                                "Election Rules, 1951",
+                                "Citizenship Rules, 2003",
+                                "Census Rules, 2011"
+                            ],
+                            "answer": "Registration of Electors Rules, 1960"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture & Digital Governance",
+                    "title": "Rajasthan Becomes First State in North India to Complete Digital Identification of Farmers / Rajasthan किसानों की Digital Identification पूरी करने वाला North India का पहला State बना",
+                    "summary": "Rajasthan has become the first state in northern India and the sixth state in the country to complete digital identification of farmers. The exercise covered the target of 90.19 lakh farmer identity cards and links farmer identities with land records and crop registry. / Rajasthan northern India में किसानों की digital identification पूरी करने वाला पहला और देश का छठा state बन गया है। इस exercise में 90.19 lakh farmer identity cards के target को पूरा किया गया और farmer identity को land records तथा crop registry से जोड़ा गया.",
+                    "sourceName": "PrelimsAI",
+                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-30",
+                    "staticGK": [
+                        "State / राज्य : Rajasthan",
+                        "Achievement / उपलब्धि : First in North India",
+                        "Farmer ID Target / लक्ष्य : 90.19 lakh",
+                        "National Position / राष्ट्रीय स्थिति : Sixth State",
+                        "Purpose / उद्देश्य : Link Farmer ID with Land Records and Crop Registry"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which state became the first in North India to complete digital identification of farmers? / किसानों की digital identification पूरी करने वाला North India का पहला state कौन बना?",
+                            "options": [
+                                "Punjab",
+                                "Rajasthan",
+                                "Haryana",
+                                "Uttar Pradesh"
+                            ],
+                            "answer": "Rajasthan"
+                        },
+                        {
+                            "question": "What was the farmer identity card target in Rajasthan? / Rajasthan में farmer identity card का target कितना था?",
+                            "options": [
+                                "70.19 lakh",
+                                "80.19 lakh",
+                                "90.19 lakh",
+                                "100.19 lakh"
+                            ],
+                            "answer": "90.19 lakh"
+                        },
+                        {
+                            "question": "Rajasthan became which state nationally in this achievement? / इस उपलब्धि में Rajasthan देश का कौन-सा state बना?",
+                            "options": [
+                                "Fourth",
+                                "Fifth",
+                                "Sixth",
+                                "Seventh"
+                            ],
+                            "answer": "Sixth"
+                        },
+                        {
+                            "question": "Farmer identity is linked with which records? / Farmer identity को किन records से link किया जा रहा है?",
+                            "options": [
+                                "Land records and crop registry",
+                                "Passport and PAN",
+                                "School and college records",
+                                "Vehicle registration records"
+                            ],
+                            "answer": "Land records and crop registry"
+                        },
+                        {
+                            "question": "The initiative mainly aims to improve delivery of which services? / इस initiative का उद्देश्य किन services की delivery बेहतर करना है?",
+                            "options": [
+                                "Agricultural services",
+                                "Railway services",
+                                "Tourism services",
+                                "Postal services"
+                            ],
+                            "answer": "Agricultural services"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways & Infrastructure",
+                    "title": "Indian Railways Approves First Direct Machilipatnam–Kurnool City Express / Indian Railways ने पहली Direct Machilipatnam–Kurnool City Express को मंजूरी दी",
+                    "summary": "Indian Railways has approved the first direct train connecting Machilipatnam and Kurnool in Andhra Pradesh. The proposed tri-weekly service will cover about 499 km and improve regional connectivity. / Indian Railways ने Andhra Pradesh में Machilipatnam और Kurnool को जोड़ने वाली पहली direct train को मंजूरी दी है। Proposed tri-weekly service लगभग 499 km की दूरी तय करेगी और regional connectivity को बेहतर करेगी.",
+                    "sourceName": "Selection Pro",
+                    "sourceUrl": "https://selectionpro.in/current-affairs/national/sept-30-2026.html",
+                    "staticGK": [
+                        "Train / ट्रेन : Machilipatnam–Kurnool City Express",
+                        "State / राज्य : Andhra Pradesh",
+                        "Distance / दूरी : About 499 km",
+                        "Frequency / Frequency : Tri-weekly",
+                        "Ministry / मंत्रालय : Ministry of Railways"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two cities will be directly connected by the new train? / नई train किन दो cities को सीधे जोड़ेगी?",
+                            "options": [
+                                "Machilipatnam and Kurnool",
+                                "Vijayawada and Hyderabad",
+                                "Chennai and Kurnool",
+                                "Guntur and Tirupati"
+                            ],
+                            "answer": "Machilipatnam and Kurnool"
+                        },
+                        {
+                            "question": "In which state are both cities located? / दोनों cities किस state में स्थित हैं?",
+                            "options": [
+                                "Telangana",
+                                "Karnataka",
+                                "Andhra Pradesh",
+                                "Tamil Nadu"
+                            ],
+                            "answer": "Andhra Pradesh"
+                        },
+                        {
+                            "question": "Approximately how long is the proposed route? / Proposed route की approximate length कितनी है?",
+                            "options": [
+                                "299 km",
+                                "399 km",
+                                "499 km",
+                                "599 km"
+                            ],
+                            "answer": "499 km"
+                        },
+                        {
+                            "question": "How frequently will the proposed service operate? / Proposed service कितनी बार चलेगी?",
+                            "options": [
+                                "Daily",
+                                "Tri-weekly",
+                                "Weekly",
+                                "Fortnightly"
+                            ],
+                            "answer": "Tri-weekly"
+                        },
+                        {
+                            "question": "Indian Railways functions under which ministry? / Indian Railways किस ministry के under काम करती है?",
+                            "options": [
+                                "Ministry of Transport",
+                                "Ministry of Railways",
+                                "Ministry of Infrastructure",
+                                "Ministry of Commerce"
+                            ],
+                            "answer": "Ministry of Railways"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education",
+                    "title": "NCERT Revises Class 9 Social Science Textbook with 'Resistance and Resilience' Theme / NCERT ने Class 9 Social Science Textbook को Revise किया",
+                    "summary": "NCERT has revised the Class 9 Social Science textbook with greater emphasis on the theme of 'Resistance and Resilience', highlighting stories of courage and endurance throughout history. / NCERT ने Class 9 Social Science textbook को revise किया है जिसमें 'Resistance and Resilience' theme पर अधिक जोर दिया गया है और history में courage तथा endurance की stories को highlight किया गया है.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
+                    "staticGK": [
+                        "Organisation / संस्था : NCERT",
+                        "Class / कक्षा : Class 9",
+                        "Subject / विषय : Social Science",
+                        "Theme / Theme : Resistance and Resilience",
+                        "Focus / Focus : Courage and Endurance"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation revised the Class 9 Social Science textbook? / Class 9 Social Science textbook को किस organisation ने revise किया?",
+                            "options": [
+                                "CBSE",
+                                "NCERT",
+                                "UGC",
+                                "NCTE"
+                            ],
+                            "answer": "NCERT"
+                        },
+                        {
+                            "question": "Which class is associated with the revised textbook? / Revised textbook किस class से संबंधित है?",
+                            "options": [
+                                "Class 8",
+                                "Class 9",
+                                "Class 10",
+                                "Class 11"
+                            ],
+                            "answer": "Class 9"
+                        },
+                        {
+                            "question": "What is the highlighted theme? / Highlighted theme क्या है?",
+                            "options": [
+                                "Unity and Progress",
+                                "Resistance and Resilience",
+                                "Knowledge and Power",
+                                "Science and Society"
+                            ],
+                            "answer": "Resistance and Resilience"
+                        },
+                        {
+                            "question": "Which subject was revised? / कौन-सा subject revise किया गया?",
+                            "options": [
+                                "Mathematics",
+                                "Science",
+                                "Social Science",
+                                "English"
+                            ],
+                            "answer": "Social Science"
+                        },
+                        {
+                            "question": "The revised textbook highlights stories of what? / Revised textbook किस प्रकार की stories को highlight करती है?",
+                            "options": [
+                                "Courage and endurance",
+                                "Trade and commerce",
+                                "Sports and entertainment",
+                                "Technology and coding"
+                            ],
+                            "answer": "Courage and endurance"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Space",
+                    "title": "National Meeting on Scientific Exploration of Moon Held Through Chandrayaan Missions / Chandrayaan Missions पर National Scientific Meeting आयोजित",
+                    "summary": "ISRO is conducting a three-day national meeting in Bengaluru from 28 to 30 September 2026 on scientific exploration of the Moon through Chandrayaan missions. Researchers, academics, students and ISRO scientists are participating. / ISRO Bengaluru में 28 से 30 September 2026 तक Chandrayaan missions के माध्यम से Moon की scientific exploration पर three-day national meeting आयोजित कर रहा है.",
+                    "sourceName": "Selection Pro",
+                    "sourceUrl": "https://selectionpro.in/current-affairs/national/sept-30-2026.html",
+                    "staticGK": [
+                        "Organisation / संस्था : ISRO",
+                        "Location / स्थान : Bengaluru",
+                        "Duration / अवधि : 28–30 September 2026",
+                        "Topic / विषय : Scientific Exploration of Moon",
+                        "Programme / Programme : Chandrayaan Missions"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation is conducting the national meeting? / National meeting कौन-सी organisation आयोजित कर रही है?",
+                            "options": [
+                                "NASA",
+                                "ISRO",
+                                "DRDO",
+                                "CSIR"
+                            ],
+                            "answer": "ISRO"
+                        },
+                        {
+                            "question": "Where is the meeting being held? / Meeting कहाँ आयोजित हो रही है?",
+                            "options": [
+                                "New Delhi",
+                                "Hyderabad",
+                                "Bengaluru",
+                                "Chennai"
+                            ],
+                            "answer": "Bengaluru"
+                        },
+                        {
+                            "question": "The meeting focuses on scientific exploration of which celestial body? / Meeting किस celestial body की scientific exploration पर focused है?",
+                            "options": [
+                                "Mars",
+                                "Moon",
+                                "Venus",
+                                "Jupiter"
+                            ],
+                            "answer": "Moon"
+                        },
+                        {
+                            "question": "Which Indian space programme is associated with the meeting? / Meeting किस Indian space programme से related है?",
+                            "options": [
+                                "Gaganyaan",
+                                "Chandrayaan",
+                                "Aditya-L1",
+                                "Mangalyaan"
+                            ],
+                            "answer": "Chandrayaan"
+                        },
+                        {
+                            "question": "How many days is the meeting scheduled for? / Meeting कितने दिनों के लिए scheduled है?",
+                            "options": [
+                                "2 days",
+                                "3 days",
+                                "4 days",
+                                "5 days"
+                            ],
+                            "answer": "3 days"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Industry",
+                    "title": "India's Industrial Production Grows 8% in August 2026 / August 2026 में India's Industrial Production 8% बढ़ा",
+                    "summary": "India's Index of Industrial Production recorded an 8.0% year-on-year growth in August 2026 compared with 6.7% growth in July. The data indicates stronger industrial activity during the month. / India के Index of Industrial Production में August 2026 में year-on-year 8.0% growth दर्ज की गई, जबकि July में growth 6.7% थी.",
+                    "sourceName": "Testbook / Banking Current Affairs",
+                    "sourceUrl": "https://www.testcloud.in/daily-current-affairs-today?date=30-september-2026",
+                    "staticGK": [
+                        "Indicator / सूचकांक : Index of Industrial Production",
+                        "August Growth / August Growth : 8.0%",
+                        "July Growth / July Growth : 6.7%",
+                        "Measure / माप : Industrial Activity",
+                        "Economy / अर्थव्यवस्था : Indian Economy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much did India's industrial production grow in August 2026? / August 2026 में India's industrial production कितनी बढ़ी?",
+                            "options": [
+                                "6.0%",
+                                "7.0%",
+                                "8.0%",
+                                "9.0%"
+                            ],
+                            "answer": "8.0%"
+                        },
+                        {
+                            "question": "Which indicator measures industrial production? / Industrial production को कौन-सा indicator measure करता है?",
+                            "options": [
+                                "CPI",
+                                "IIP",
+                                "GDP",
+                                "WPI"
+                            ],
+                            "answer": "IIP"
+                        },
+                        {
+                            "question": "What was the industrial growth rate in July 2026 mentioned in the report? / July 2026 में industrial growth rate कितनी थी?",
+                            "options": [
+                                "5.7%",
+                                "6.7%",
+                                "7.7%",
+                                "8.7%"
+                            ],
+                            "answer": "6.7%"
+                        },
+                        {
+                            "question": "What does IIP stand for? / IIP का full form क्या है?",
+                            "options": [
+                                "Indian Investment Programme",
+                                "Index of Industrial Production",
+                                "Industrial Investment Plan",
+                                "Indian Industry Performance"
+                            ],
+                            "answer": "Index of Industrial Production"
+                        },
+                        {
+                            "question": "IIP mainly indicates the performance of which sector? / IIP मुख्य रूप से किस sector की performance बताता है?",
+                            "options": [
+                                "Industrial sector",
+                                "Agriculture only",
+                                "Banking only",
+                                "Tourism only"
+                            ],
+                            "answer": "Industrial sector"
+                        }
+                    ]
+                },
+                {
+                    "category": "Skill Development",
+                    "title": "DDU-GKY Completes 12 Years of Rural Skill Development / DDU-GKY ने Rural Skill Development के 12 वर्ष पूरे किए",
+                    "summary": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana completed 12 years of rural skill development. The scheme has trained more than 18.47 lakh candidates across more than 800 job roles. / Deen Dayal Upadhyaya Grameen Kaushalya Yojana ने rural skill development के 12 वर्ष पूरे किए। इस scheme के तहत 800 से अधिक job roles में 18.47 lakh से अधिक candidates को training दी गई है.",
+                    "sourceName": "TestCloud",
+                    "sourceUrl": "https://www.testcloud.in/daily-current-affairs-today?date=30-september-2026",
+                    "staticGK": [
+                        "Scheme / योजना : DDU-GKY",
+                        "Full Form / पूरा नाम : Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+                        "Duration / अवधि : 12 Years",
+                        "Candidates Trained / प्रशिक्षित Candidates : More than 18.47 lakh",
+                        "Focus / Focus : Rural Skill Development"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of DDU-GKY? / DDU-GKY का full form क्या है?",
+                            "options": [
+                                "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+                                "Digital Development Urban Kaushal Yojana",
+                                "Deen Dayal Gramin Knowledge Yojana",
+                                "Development and Digital Growth Yojana"
+                            ],
+                            "answer": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana"
+                        },
+                        {
+                            "question": "How many years of rural skill development has DDU-GKY completed? / DDU-GKY ने कितने वर्ष पूरे किए?",
+                            "options": [
+                                "10 years",
+                                "11 years",
+                                "12 years",
+                                "15 years"
+                            ],
+                            "answer": "12 years"
+                        },
+                        {
+                            "question": "More than how many candidates have been trained? / कितने से अधिक candidates को train किया गया है?",
+                            "options": [
+                                "8.47 lakh",
+                                "12.47 lakh",
+                                "18.47 lakh",
+                                "28.47 lakh"
+                            ],
+                            "answer": "18.47 lakh"
+                        },
+                        {
+                            "question": "DDU-GKY mainly focuses on which area? / DDU-GKY मुख्य रूप से किस area पर focused है?",
+                            "options": [
+                                "Rural skill development",
+                                "Urban transport",
+                                "Higher education",
+                                "Space research"
+                            ],
+                            "answer": "Rural skill development"
+                        },
+                        {
+                            "question": "The scheme provides training across more than how many job roles? / Scheme कितने से अधिक job roles में training देती है?",
+                            "options": [
+                                "400",
+                                "600",
+                                "800",
+                                "1000"
+                            ],
+                            "answer": "800"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Neeru Dhandha Wins Fifth Gold Medal for India at Asian Games / Neeru Dhandha ने Asian Games में India के लिए Fifth Gold जीता",
+                    "summary": "Indian athlete Neeru Dhandha secured India's fifth gold medal at the ongoing Asian Games, adding another major achievement to India's medal campaign. / Indian athlete Neeru Dhandha ने ongoing Asian Games में India के लिए fifth gold medal हासिल किया और India's medal campaign में एक और महत्वपूर्ण उपलब्धि जोड़ी.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Neeru Dhandha",
+                        "Country / देश : India",
+                        "Medal / पदक : Gold",
+                        "Indian Gold Medal Count / India के Gold Medals : Fifth",
+                        "Event / प्रतियोगिता : Asian Games 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won India's fifth gold medal mentioned in the report? / Report में India का fifth gold medal किसने जीता?",
+                            "options": [
+                                "Neeru Dhandha",
+                                "Esha Singh",
+                                "Manu Bhaker",
+                                "Avinash Sable"
+                            ],
+                            "answer": "Neeru Dhandha"
+                        },
+                        {
+                            "question": "Which medal did Neeru Dhandha win? / Neeru Dhandha ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Which country does Neeru Dhandha represent? / Neeru Dhandha किस country को represent करती हैं?",
+                            "options": [
+                                "India",
+                                "Japan",
+                                "China",
+                                "South Korea"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "The medal was won at which major sporting event? / Medal किस major sporting event में जीता गया?",
+                            "options": [
+                                "Olympic Games",
+                                "Asian Games",
+                                "Commonwealth Games",
+                                "World Championships"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "The achievement contributed to India's medal campaign in which year? / यह achievement किस year की medal campaign से related है?",
+                            "options": [
+                                "2024",
+                                "2025",
+                                "2026",
+                                "2027"
+                            ],
+                            "answer": "2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Business & Economy",
+                    "title": "Indian Stock Market Opens Mixed on 30 September 2026 / 30 September 2026 को Indian Stock Market में Mixed Opening",
+                    "summary": "Indian benchmark indices opened with mixed movement on 30 September 2026. The Nifty 50 was around 22,702.9 while the Sensex was around 72,605.07 at 9:20 a.m. IST. / 30 September 2026 को Indian benchmark indices की opening mixed रही। सुबह 9:20 बजे IST पर Nifty 50 लगभग 22,702.9 और Sensex लगभग 72,605.07 के स्तर पर था.",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/indian-shares-likely-rise-oil-comes-off-bse-joins-nifty-2026-09-30/",
+                    "staticGK": [
+                        "Index / सूचकांक : Nifty 50",
+                        "Nifty Level / Nifty स्तर : Around 22,702.9",
+                        "Index / सूचकांक : BSE Sensex",
+                        "Sensex Level / Sensex स्तर : Around 72,605.07",
+                        "Market / बाजार : Indian Stock Market"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which index was around 22,702.9 at 9:20 a.m. IST? / 9:20 a.m. IST पर कौन-सा index लगभग 22,702.9 था?",
+                            "options": [
+                                "Sensex",
+                                "Nifty 50",
+                                "Bank Nifty",
+                                "Nifty IT"
+                            ],
+                            "answer": "Nifty 50"
+                        },
+                        {
+                            "question": "Which index represents the BSE? / BSE को कौन-सा index represent करता है?",
+                            "options": [
+                                "Nifty 50",
+                                "Sensex",
+                                "Nifty Bank",
+                                "Nifty Midcap"
+                            ],
+                            "answer": "Sensex"
+                        },
+                        {
+                            "question": "At what time were the market levels mentioned? / Market levels किस समय बताए गए?",
+                            "options": [
+                                "8:20 a.m.",
+                                "9:20 a.m.",
+                                "10:20 a.m.",
+                                "11:20 a.m."
+                            ],
+                            "answer": "9:20 a.m."
+                        },
+                        {
+                            "question": "What type of opening was reported? / कैसी opening report की गई?",
+                            "options": [
+                                "Strongly positive",
+                                "Strongly negative",
+                                "Mixed",
+                                "Market closed"
+                            ],
+                            "answer": "Mixed"
+                        },
+                        {
+                            "question": "Nifty 50 is associated with which stock exchange? / Nifty 50 किस stock exchange से associated है?",
+                            "options": [
+                                "NSE",
+                                "BSE",
+                                "MCX",
+                                "NCDEX"
+                            ],
+                            "answer": "NSE"
+                        }
+                    ]
+                },
+                {
+                    "category": "International & Environment",
+                    "title": "Global Leaders Continue Discussions on Climate Change and International Conflicts / Global Leaders ने Climate Change और International Conflicts पर Discussions जारी रखीं",
+                    "summary": "Global leaders continued discussions on major international issues including climate change and ongoing conflicts. The developments highlight the role of diplomacy and international cooperation in addressing global challenges. / Global leaders ने climate change और ongoing conflicts सहित प्रमुख international issues पर discussions जारी रखीं। ये developments global challenges के समाधान में diplomacy और international cooperation की भूमिका को दर्शाते हैं.",
+                    "sourceName": "EdexLive",
+                    "sourceUrl": "https://www.edexlive.com/sunshine-jottings/school-assembly-news-today-september-30-2026-top-headlines-thought-word-history",
+                    "staticGK": [
+                        "Major Issue / प्रमुख मुद्दा : Climate Change",
+                        "Other Issue / अन्य मुद्दा : International Conflicts",
+                        "Approach / दृष्टिकोण : Diplomacy",
+                        "Cooperation / सहयोग : International Cooperation",
+                        "Scope / क्षेत्र : Global Affairs"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which environmental issue was highlighted? / कौन-सा environmental issue highlighted हुआ?",
+                            "options": [
+                                "Climate Change",
+                                "Deforestation only",
+                                "Ocean Tourism",
+                                "Urban Transport"
+                            ],
+                            "answer": "Climate Change"
+                        },
+                        {
+                            "question": "Which approach is important for addressing international conflicts? / International conflicts को address करने में कौन-सा approach important है?",
+                            "options": [
+                                "Diplomacy",
+                                "Isolation only",
+                                "Trade ban only",
+                                "Tourism"
+                            ],
+                            "answer": "Diplomacy"
+                        },
+                        {
+                            "question": "International cooperation mainly helps address what? / International cooperation मुख्य रूप से किसे address करने में मदद करता है?",
+                            "options": [
+                                "Global challenges",
+                                "Local sports only",
+                                "School exams only",
+                                "Personal banking"
+                            ],
+                            "answer": "Global challenges"
+                        },
+                        {
+                            "question": "Climate change is mainly related to changes in what? / Climate change मुख्य रूप से किसमें बदलाव से related है?",
+                            "options": [
+                                "Long-term climate patterns",
+                                "Daily school timetable",
+                                "Currency notes",
+                                "Railway tickets"
+                            ],
+                            "answer": "Long-term climate patterns"
+                        },
+                        {
+                            "question": "Which field is closely connected with international diplomacy? / International diplomacy किस field से closely connected है?",
+                            "options": [
+                                "International Relations",
+                                "Mathematics",
+                                "Botany",
+                                "Accounting"
+                            ],
+                            "answer": "International Relations"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Security",
+                    "title": "Assam Rifles Jawan Killed in Ambush in Northeast India / Northeast India में Assam Rifles के Jawan की Ambush में मृत्यु",
+                    "summary": "An Assam Rifles jawan was killed in an ambush in Northeast India on 30 September 2026. The incident highlighted continuing security challenges in the region. / 30 September 2026 को Northeast India में एक Assam Rifles jawan की ambush में मृत्यु हो गई। इस incident ने region में जारी security challenges को highlight किया.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
+                    "staticGK": [
+                        "Force / बल : Assam Rifles",
+                        "Region / क्षेत्र : Northeast India",
+                        "Incident / घटना : Ambush",
+                        "Sector / क्षेत्र : National Security",
+                        "Role / भूमिका : Security and Counter-Insurgency"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which force was involved in the reported incident? / Reported incident में कौन-सी force involved थी?",
+                            "options": [
+                                "Assam Rifles",
+                                "BSF",
+                                "CRPF",
+                                "CISF"
+                            ],
+                            "answer": "Assam Rifles"
+                        },
+                        {
+                            "question": "In which part of India did the incident occur? / Incident भारत के किस region में हुआ?",
+                            "options": [
+                                "Western India",
+                                "Southern India",
+                                "Northeast India",
+                                "Central India"
+                            ],
+                            "answer": "Northeast India"
+                        },
+                        {
+                            "question": "What type of incident was reported? / किस प्रकार की घटना report हुई?",
+                            "options": [
+                                "Flood",
+                                "Ambush",
+                                "Train accident",
+                                "Cyber attack"
+                            ],
+                            "answer": "Ambush"
+                        },
+                        {
+                            "question": "Assam Rifles is primarily associated with security in which region? / Assam Rifles मुख्य रूप से किस region की security से associated है?",
+                            "options": [
+                                "Northeast India",
+                                "Western Coast",
+                                "Rajasthan Desert",
+                                "Andaman Islands"
+                            ],
+                            "answer": "Northeast India"
+                        },
+                        {
+                            "question": "The incident was related to which broad subject? / Incident किस broad subject से related था?",
+                            "options": [
+                                "National Security",
+                                "Agriculture",
+                                "Banking",
+                                "Education"
+                            ],
+                            "answer": "National Security"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
