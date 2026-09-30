@@ -10,7 +10,7 @@ const container = document.getElementById("currentAffairsContainer");
 
 // URL से month पढ़ो
 const params = new URLSearchParams(window.location.search);
-const month = params.get("month") || "july-2026";
+const month = params.get("month") || "August-2026";
 
 // Active Month Button
 document.querySelectorAll(".month-btn").forEach(btn => {
