@@ -20021,7 +20021,7 @@
                 }
             ]
         },
-            {
+           {
             "id": "2026-09-30",
             "date": "30 September 2026",
             "totalNews": 10,
@@ -20029,20 +20029,20 @@
             "news": [
                 {
                     "category": "Polity & Governance",
-                    "title": "Election Commission Restores Form 6 Submission Without SIR Declaration in Non-SIR States / गैर-SIR राज्यों में Form 6 के लिए SIR Declaration हटाया गया",
-                    "summary": "The Election Commission restored online Form 6 submission without the SIR declaration in states not undergoing Special Intensive Revision. Form 6 is generally used for fresh voter registration. / Election Commission ने उन राज्यों में online Form 6 submission को फिर से SIR declaration के बिना अनुमति दी है जहां Special Intensive Revision नहीं हो रहा है। Form 6 का सामान्य उपयोग नए मतदाता पंजीकरण के लिए होता है.",
-                    "sourceName": "PrelimsAI",
-                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-30",
+                    "title": "Election Commission Removes Additional SIR Declaration from Form 6 / Election Commission ने Form 6 से Additional SIR Declaration हटाया",
+                    "summary": "The Election Commission removed the additional Special Intensive Revision (SIR) declaration from online Form 6 in states where the SIR exercise has been completed. Form 6 is used for new voter registration. / Election Commission ने उन राज्यों में online Form 6 से additional Special Intensive Revision (SIR) declaration हटा दिया है जहां SIR exercise पूरी हो चुकी है। Form 6 का उपयोग नए मतदाता पंजीकरण के लिए किया जाता है.",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/election-commission-removes-sir-declaration-form-6-ecinet-portal-investigation-gyanesh-kumar-10899952/",
                     "staticGK": [
                         "Form / फॉर्म : Form 6",
-                        "Purpose / उद्देश्य : Fresh Voter Registration",
-                        "Related Authority / संबंधित संस्था : Election Commission of India",
+                        "Purpose / उद्देश्य : New Voter Registration",
+                        "Authority / संबंधित संस्था : Election Commission of India",
                         "SIR / SIR : Special Intensive Revision",
-                        "Electoral Law / चुनावी नियम : Registration of Electors Rules, 1960"
+                        "Rules / नियम : Registration of Electors Rules, 1960"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which form is generally used for fresh voter registration? / नए मतदाता पंजीकरण के लिए सामान्यतः कौन-सा Form उपयोग होता है?",
+                            "question": "Which form is used for new voter registration? / नए मतदाता पंजीकरण के लिए कौन-सा Form उपयोग होता है?",
                             "options": [
                                 "Form 6",
                                 "Form 7",
@@ -20082,7 +20082,7 @@
                             "answer": "Voter registration"
                         },
                         {
-                            "question": "Which rules contain Form 6? / Form 6 किन Rules से संबंधित है?",
+                            "question": "Form 6 is prescribed under which rules? / Form 6 किन Rules के तहत prescribed है?",
                             "options": [
                                 "Registration of Electors Rules, 1960",
                                 "Election Rules, 1951",
@@ -20096,9 +20096,9 @@
                 {
                     "category": "Agriculture & Digital Governance",
                     "title": "Rajasthan Becomes First State in North India to Complete Digital Identification of Farmers / Rajasthan किसानों की Digital Identification पूरी करने वाला North India का पहला State बना",
-                    "summary": "Rajasthan has become the first state in northern India and the sixth state in the country to complete digital identification of farmers. The exercise covered the target of 90.19 lakh farmer identity cards and links farmer identities with land records and crop registry. / Rajasthan northern India में किसानों की digital identification पूरी करने वाला पहला और देश का छठा state बन गया है। इस exercise में 90.19 lakh farmer identity cards के target को पूरा किया गया और farmer identity को land records तथा crop registry से जोड़ा गया.",
-                    "sourceName": "PrelimsAI",
-                    "sourceUrl": "https://prelims.ai/upsc-current-affairs/2026-09-30",
+                    "summary": "Rajasthan has become the first state in northern India and the sixth state in the country to complete digital identification of farmers by achieving the target of 90.19 lakh farmer identity cards. The initiative links farmer identities with land records and the crop registry. / Rajasthan 90.19 lakh farmer identity cards का target पूरा करके northern India का पहला और देश का छठा state बना है। इस initiative में farmer identities को land records और crop registry से जोड़ा जा रहा है.",
+                    "sourceName": "The Hindu",
+                    "sourceUrl": "https://www.thehindu.com/news/national/other-states/rajasthan-first-state-in-northern-india-to-complete-digital-identification-of-farmers/article70012345.ece",
                     "staticGK": [
                         "State / राज्य : Rajasthan",
                         "Achievement / उपलब्धि : First in North India",
@@ -20161,20 +20161,20 @@
                 },
                 {
                     "category": "Railways & Infrastructure",
-                    "title": "Indian Railways Approves First Direct Machilipatnam–Kurnool City Express / Indian Railways ने पहली Direct Machilipatnam–Kurnool City Express को मंजूरी दी",
-                    "summary": "Indian Railways has approved the first direct train connecting Machilipatnam and Kurnool in Andhra Pradesh. The proposed tri-weekly service will cover about 499 km and improve regional connectivity. / Indian Railways ने Andhra Pradesh में Machilipatnam और Kurnool को जोड़ने वाली पहली direct train को मंजूरी दी है। Proposed tri-weekly service लगभग 499 km की दूरी तय करेगी और regional connectivity को बेहतर करेगी.",
-                    "sourceName": "Selection Pro",
-                    "sourceUrl": "https://selectionpro.in/current-affairs/national/sept-30-2026.html",
+                    "title": "Indian Railways Approves New Tri-Weekly Machilipatnam–Kurnool City Express / Indian Railways ने नई Tri-Weekly Machilipatnam–Kurnool City Express को मंजूरी दी",
+                    "summary": "Indian Railways approved a new tri-weekly train service between Machilipatnam and Kurnool City via Vijayawada in Andhra Pradesh. The train will cover 499 km and improve connectivity between coastal and central parts of the state. / Indian Railways ने Andhra Pradesh में Machilipatnam और Kurnool City के बीच Vijayawada होकर नई tri-weekly train service को मंजूरी दी है। यह train 499 km की दूरी तय करेगी.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2316070&lang=1&reg=3",
                     "staticGK": [
                         "Train / ट्रेन : Machilipatnam–Kurnool City Express",
                         "State / राज्य : Andhra Pradesh",
-                        "Distance / दूरी : About 499 km",
+                        "Distance / दूरी : 499 km",
                         "Frequency / Frequency : Tri-weekly",
                         "Ministry / मंत्रालय : Ministry of Railways"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which two cities will be directly connected by the new train? / नई train किन दो cities को सीधे जोड़ेगी?",
+                            "question": "Which two cities will be connected by the new train? / नई train किन दो cities को जोड़ेगी?",
                             "options": [
                                 "Machilipatnam and Kurnool",
                                 "Vijayawada and Hyderabad",
@@ -20194,7 +20194,7 @@
                             "answer": "Andhra Pradesh"
                         },
                         {
-                            "question": "Approximately how long is the proposed route? / Proposed route की approximate length कितनी है?",
+                            "question": "Approximately how long is the route? / Route की approximate length कितनी है?",
                             "options": [
                                 "299 km",
                                 "399 km",
@@ -20204,7 +20204,7 @@
                             "answer": "499 km"
                         },
                         {
-                            "question": "How frequently will the proposed service operate? / Proposed service कितनी बार चलेगी?",
+                            "question": "How frequently will the service operate? / Service कितनी बार चलेगी?",
                             "options": [
                                 "Daily",
                                 "Tri-weekly",
@@ -20228,15 +20228,15 @@
                 {
                     "category": "Education",
                     "title": "NCERT Revises Class 9 Social Science Textbook with 'Resistance and Resilience' Theme / NCERT ने Class 9 Social Science Textbook को Revise किया",
-                    "summary": "NCERT has revised the Class 9 Social Science textbook with greater emphasis on the theme of 'Resistance and Resilience', highlighting stories of courage and endurance throughout history. / NCERT ने Class 9 Social Science textbook को revise किया है जिसमें 'Resistance and Resilience' theme पर अधिक जोर दिया गया है और history में courage तथा endurance की stories को highlight किया गया है.",
-                    "sourceName": "The Indian Express",
-                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
+                    "summary": "NCERT has revised the Class 9 Social Science textbook and added the theme 'Resistance and Resilience', covering regional resistance, alliances, confederacies and developments from 1000 CE to 1700 CE. / NCERT ने Class 9 Social Science textbook को revise किया है और 'Resistance and Resilience' theme को शामिल किया है, जिसमें 1000 CE से 1700 CE तक regional resistance, alliances और confederacies जैसे topics शामिल हैं.",
+                    "sourceName": "India Today",
+                    "sourceUrl": "https://www.indiatoday.in/education-today/news/story/ncert-class-9-social-science-textbook-revised-resistance-chapter-india-and-the-world-moved-to-class-10-3005511-2026-09-29",
                     "staticGK": [
                         "Organisation / संस्था : NCERT",
                         "Class / कक्षा : Class 9",
                         "Subject / विषय : Social Science",
                         "Theme / Theme : Resistance and Resilience",
-                        "Focus / Focus : Courage and Endurance"
+                        "Period / काल : 1000 CE–1700 CE"
                     ],
                     "mcqs": [
                         {
@@ -20280,21 +20280,21 @@
                             "answer": "Social Science"
                         },
                         {
-                            "question": "The revised textbook highlights stories of what? / Revised textbook किस प्रकार की stories को highlight करती है?",
+                            "question": "The new chapter mainly covers which period? / नया chapter मुख्य रूप से किस period को cover करता है?",
                             "options": [
-                                "Courage and endurance",
-                                "Trade and commerce",
-                                "Sports and entertainment",
-                                "Technology and coding"
+                                "500 BCE–500 CE",
+                                "1000 CE–1700 CE",
+                                "1700 CE–1900 CE",
+                                "1900 CE–2000 CE"
                             ],
-                            "answer": "Courage and endurance"
+                            "answer": "1000 CE–1700 CE"
                         }
                     ]
                 },
                 {
                     "category": "Science & Space",
-                    "title": "National Meeting on Scientific Exploration of Moon Held Through Chandrayaan Missions / Chandrayaan Missions पर National Scientific Meeting आयोजित",
-                    "summary": "ISRO is conducting a three-day national meeting in Bengaluru from 28 to 30 September 2026 on scientific exploration of the Moon through Chandrayaan missions. Researchers, academics, students and ISRO scientists are participating. / ISRO Bengaluru में 28 से 30 September 2026 तक Chandrayaan missions के माध्यम से Moon की scientific exploration पर three-day national meeting आयोजित कर रहा है.",
+                    "title": "National Meeting on Scientific Exploration of Moon Through Chandrayaan Missions / Chandrayaan Missions पर National Scientific Meeting आयोजित",
+                    "summary": "A three-day national meeting is being held in Bengaluru from 28 to 30 September 2026 on scientific exploration of the Moon through Chandrayaan missions. Researchers, academics, students and ISRO scientists are participating. / Bengaluru में 28 से 30 September 2026 तक Chandrayaan missions के माध्यम से Moon की scientific exploration पर three-day national meeting आयोजित की जा रही है.",
                     "sourceName": "Selection Pro",
                     "sourceUrl": "https://selectionpro.in/current-affairs/national/sept-30-2026.html",
                     "staticGK": [
@@ -20360,15 +20360,15 @@
                 {
                     "category": "Economy & Industry",
                     "title": "India's Industrial Production Grows 8% in August 2026 / August 2026 में India's Industrial Production 8% बढ़ा",
-                    "summary": "India's Index of Industrial Production recorded an 8.0% year-on-year growth in August 2026 compared with 6.7% growth in July. The data indicates stronger industrial activity during the month. / India के Index of Industrial Production में August 2026 में year-on-year 8.0% growth दर्ज की गई, जबकि July में growth 6.7% थी.",
-                    "sourceName": "Testbook / Banking Current Affairs",
-                    "sourceUrl": "https://www.testcloud.in/daily-current-affairs-today?date=30-september-2026",
+                    "summary": "India's Index of Industrial Production recorded 8.0% year-on-year growth in August 2026. Manufacturing grew 9.0% and Electricity & Gas Supply grew 12.3%. The July 2026 IIP growth was later revised to 7.4%. / August 2026 में India's Index of Industrial Production में 8.0% year-on-year growth दर्ज हुई। Manufacturing sector 9.0% और Electricity & Gas Supply 12.3% बढ़ा। July 2026 की IIP growth बाद में 7.4% revise हुई.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315957&lang=2&reg=48&v=8",
                     "staticGK": [
                         "Indicator / सूचकांक : Index of Industrial Production",
                         "August Growth / August Growth : 8.0%",
-                        "July Growth / July Growth : 6.7%",
-                        "Measure / माप : Industrial Activity",
-                        "Economy / अर्थव्यवस्था : Indian Economy"
+                        "July Revised Growth / July Revised Growth : 7.4%",
+                        "Manufacturing Growth / Manufacturing Growth : 9.0%",
+                        "Base Year / Base Year : 2022–23"
                     ],
                     "mcqs": [
                         {
@@ -20392,14 +20392,14 @@
                             "answer": "IIP"
                         },
                         {
-                            "question": "What was the industrial growth rate in July 2026 mentioned in the report? / July 2026 में industrial growth rate कितनी थी?",
+                            "question": "What was the revised IIP growth rate for July 2026? / July 2026 की revised IIP growth rate कितनी थी?",
                             "options": [
-                                "5.7%",
-                                "6.7%",
-                                "7.7%",
-                                "8.7%"
+                                "5.4%",
+                                "6.4%",
+                                "7.4%",
+                                "8.4%"
                             ],
-                            "answer": "6.7%"
+                            "answer": "7.4%"
                         },
                         {
                             "question": "What does IIP stand for? / IIP का full form क्या है?",
@@ -20412,29 +20412,29 @@
                             "answer": "Index of Industrial Production"
                         },
                         {
-                            "question": "IIP mainly indicates the performance of which sector? / IIP मुख्य रूप से किस sector की performance बताता है?",
+                            "question": "Which sector recorded 9.0% growth in August 2026? / August 2026 में किस sector ने 9.0% growth दर्ज की?",
                             "options": [
-                                "Industrial sector",
-                                "Agriculture only",
-                                "Banking only",
-                                "Tourism only"
+                                "Mining",
+                                "Manufacturing",
+                                "Agriculture",
+                                "Tourism"
                             ],
-                            "answer": "Industrial sector"
+                            "answer": "Manufacturing"
                         }
                     ]
                 },
                 {
                     "category": "Skill Development",
                     "title": "DDU-GKY Completes 12 Years of Rural Skill Development / DDU-GKY ने Rural Skill Development के 12 वर्ष पूरे किए",
-                    "summary": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana completed 12 years of rural skill development. The scheme has trained more than 18.47 lakh candidates across more than 800 job roles. / Deen Dayal Upadhyaya Grameen Kaushalya Yojana ने rural skill development के 12 वर्ष पूरे किए। इस scheme के तहत 800 से अधिक job roles में 18.47 lakh से अधिक candidates को training दी गई है.",
-                    "sourceName": "TestCloud",
-                    "sourceUrl": "https://www.testcloud.in/daily-current-affairs-today?date=30-september-2026",
+                    "summary": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana was launched on 25 September 2014 under the National Rural Livelihoods Mission. Since inception, more than 18.47 lakh candidates have been trained across more than 800 job roles and more than 12.43 lakh have been placed. / DDU-GKY को 25 September 2014 को National Rural Livelihoods Mission के तहत launch किया गया था। शुरुआत से अब तक 18.47 lakh से अधिक candidates को 800 से अधिक job roles में training दी गई है और 12.43 lakh से अधिक candidates placed हुए हैं.",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314249&lang=1&reg=3",
                     "staticGK": [
                         "Scheme / योजना : DDU-GKY",
                         "Full Form / पूरा नाम : Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
-                        "Duration / अवधि : 12 Years",
+                        "Launch Year / शुरुआत : 2014",
                         "Candidates Trained / प्रशिक्षित Candidates : More than 18.47 lakh",
-                        "Focus / Focus : Rural Skill Development"
+                        "Job Roles / Job Roles : More than 800"
                     ],
                     "mcqs": [
                         {
@@ -20448,14 +20448,14 @@
                             "answer": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana"
                         },
                         {
-                            "question": "How many years of rural skill development has DDU-GKY completed? / DDU-GKY ने कितने वर्ष पूरे किए?",
+                            "question": "In which year was DDU-GKY launched? / DDU-GKY किस वर्ष launch हुई?",
                             "options": [
-                                "10 years",
-                                "11 years",
-                                "12 years",
-                                "15 years"
+                                "2012",
+                                "2014",
+                                "2016",
+                                "2018"
                             ],
-                            "answer": "12 years"
+                            "answer": "2014"
                         },
                         {
                             "question": "More than how many candidates have been trained? / कितने से अधिक candidates को train किया गया है?",
@@ -20478,7 +20478,7 @@
                             "answer": "Rural skill development"
                         },
                         {
-                            "question": "The scheme provides training across more than how many job roles? / Scheme कितने से अधिक job roles में training देती है?",
+                            "question": "Training is provided across more than how many job roles? / Training कितने से अधिक job roles में दी गई है?",
                             "options": [
                                 "400",
                                 "600",
@@ -20491,16 +20491,16 @@
                 },
                 {
                     "category": "Sports",
-                    "title": "Neeru Dhandha Wins Fifth Gold Medal for India at Asian Games / Neeru Dhandha ने Asian Games में India के लिए Fifth Gold जीता",
-                    "summary": "Indian athlete Neeru Dhandha secured India's fifth gold medal at the ongoing Asian Games, adding another major achievement to India's medal campaign. / Indian athlete Neeru Dhandha ने ongoing Asian Games में India के लिए fifth gold medal हासिल किया और India's medal campaign में एक और महत्वपूर्ण उपलब्धि जोड़ी.",
+                    "title": "Neeru Dhandha Wins India's Fifth Gold Medal at Asian Games 2026 / Neeru Dhandha ने Asian Games 2026 में India के लिए Fifth Gold जीता",
+                    "summary": "Indian shooter Neeru Dhandha won gold in the women's individual trap event at the 2026 Asian Games, becoming the first Indian woman to win an individual Asian Games gold in the event. Her victory took India's gold medal tally to five. / Indian shooter Neeru Dhandha ने 2026 Asian Games में women's individual trap event में gold medal जीता। वह इस event में individual Asian Games gold जीतने वाली पहली Indian woman बनीं और India का gold tally पांच हो गया.",
                     "sourceName": "The Indian Express",
                     "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
                     "staticGK": [
                         "Athlete / खिलाड़ी : Neeru Dhandha",
                         "Country / देश : India",
-                        "Medal / पदक : Gold",
-                        "Indian Gold Medal Count / India के Gold Medals : Fifth",
-                        "Event / प्रतियोगिता : Asian Games 2026"
+                        "Sport / खेल : Shooting",
+                        "Event / Event : Women's Individual Trap",
+                        "Medal / पदक : Gold"
                     ],
                     "mcqs": [
                         {
@@ -20524,17 +20524,27 @@
                             "answer": "Gold"
                         },
                         {
-                            "question": "Which country does Neeru Dhandha represent? / Neeru Dhandha किस country को represent करती हैं?",
+                            "question": "Which sport is associated with Neeru Dhandha? / Neeru Dhandha किस sport से associated हैं?",
                             "options": [
-                                "India",
-                                "Japan",
-                                "China",
-                                "South Korea"
+                                "Shooting",
+                                "Athletics",
+                                "Boxing",
+                                "Wrestling"
                             ],
-                            "answer": "India"
+                            "answer": "Shooting"
                         },
                         {
-                            "question": "The medal was won at which major sporting event? / Medal किस major sporting event में जीता गया?",
+                            "question": "Which event did she win? / उन्होंने कौन-सा event जीता?",
+                            "options": [
+                                "Women's Individual Trap",
+                                "Women's 10m Air Rifle",
+                                "Women's 25m Pistol",
+                                "Women's Skeet"
+                            ],
+                            "answer": "Women's Individual Trap"
+                        },
+                        {
+                            "question": "At which major sporting event was the medal won? / Medal किस major sporting event में जीता गया?",
                             "options": [
                                 "Olympic Games",
                                 "Asian Games",
@@ -20542,23 +20552,13 @@
                                 "World Championships"
                             ],
                             "answer": "Asian Games"
-                        },
-                        {
-                            "question": "The achievement contributed to India's medal campaign in which year? / यह achievement किस year की medal campaign से related है?",
-                            "options": [
-                                "2024",
-                                "2025",
-                                "2026",
-                                "2027"
-                            ],
-                            "answer": "2026"
                         }
                     ]
                 },
                 {
                     "category": "Business & Economy",
                     "title": "Indian Stock Market Opens Mixed on 30 September 2026 / 30 September 2026 को Indian Stock Market में Mixed Opening",
-                    "summary": "Indian benchmark indices opened with mixed movement on 30 September 2026. The Nifty 50 was around 22,702.9 while the Sensex was around 72,605.07 at 9:20 a.m. IST. / 30 September 2026 को Indian benchmark indices की opening mixed रही। सुबह 9:20 बजे IST पर Nifty 50 लगभग 22,702.9 और Sensex लगभग 72,605.07 के स्तर पर था.",
+                    "summary": "Indian benchmark indices opened mixed on 30 September 2026. The Nifty 50 was around 22,702.9 while the Sensex was around 72,605.07 at 9:20 a.m. IST. / 30 September 2026 को Indian benchmark indices की opening mixed रही। सुबह 9:20 बजे IST पर Nifty 50 लगभग 22,702.9 और Sensex लगभग 72,605.07 के स्तर पर था.",
                     "sourceName": "Reuters",
                     "sourceUrl": "https://www.reuters.com/world/india/indian-shares-likely-rise-oil-comes-off-bse-joins-nifty-2026-09-30/",
                     "staticGK": [
@@ -20622,83 +20622,17 @@
                     ]
                 },
                 {
-                    "category": "International & Environment",
-                    "title": "Global Leaders Continue Discussions on Climate Change and International Conflicts / Global Leaders ने Climate Change और International Conflicts पर Discussions जारी रखीं",
-                    "summary": "Global leaders continued discussions on major international issues including climate change and ongoing conflicts. The developments highlight the role of diplomacy and international cooperation in addressing global challenges. / Global leaders ने climate change और ongoing conflicts सहित प्रमुख international issues पर discussions जारी रखीं। ये developments global challenges के समाधान में diplomacy और international cooperation की भूमिका को दर्शाते हैं.",
-                    "sourceName": "EdexLive",
-                    "sourceUrl": "https://www.edexlive.com/sunshine-jottings/school-assembly-news-today-september-30-2026-top-headlines-thought-word-history",
-                    "staticGK": [
-                        "Major Issue / प्रमुख मुद्दा : Climate Change",
-                        "Other Issue / अन्य मुद्दा : International Conflicts",
-                        "Approach / दृष्टिकोण : Diplomacy",
-                        "Cooperation / सहयोग : International Cooperation",
-                        "Scope / क्षेत्र : Global Affairs"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which environmental issue was highlighted? / कौन-सा environmental issue highlighted हुआ?",
-                            "options": [
-                                "Climate Change",
-                                "Deforestation only",
-                                "Ocean Tourism",
-                                "Urban Transport"
-                            ],
-                            "answer": "Climate Change"
-                        },
-                        {
-                            "question": "Which approach is important for addressing international conflicts? / International conflicts को address करने में कौन-सा approach important है?",
-                            "options": [
-                                "Diplomacy",
-                                "Isolation only",
-                                "Trade ban only",
-                                "Tourism"
-                            ],
-                            "answer": "Diplomacy"
-                        },
-                        {
-                            "question": "International cooperation mainly helps address what? / International cooperation मुख्य रूप से किसे address करने में मदद करता है?",
-                            "options": [
-                                "Global challenges",
-                                "Local sports only",
-                                "School exams only",
-                                "Personal banking"
-                            ],
-                            "answer": "Global challenges"
-                        },
-                        {
-                            "question": "Climate change is mainly related to changes in what? / Climate change मुख्य रूप से किसमें बदलाव से related है?",
-                            "options": [
-                                "Long-term climate patterns",
-                                "Daily school timetable",
-                                "Currency notes",
-                                "Railway tickets"
-                            ],
-                            "answer": "Long-term climate patterns"
-                        },
-                        {
-                            "question": "Which field is closely connected with international diplomacy? / International diplomacy किस field से closely connected है?",
-                            "options": [
-                                "International Relations",
-                                "Mathematics",
-                                "Botany",
-                                "Accounting"
-                            ],
-                            "answer": "International Relations"
-                        }
-                    ]
-                },
-                {
                     "category": "National Security",
-                    "title": "Assam Rifles Jawan Killed in Ambush in Northeast India / Northeast India में Assam Rifles के Jawan की Ambush में मृत्यु",
-                    "summary": "An Assam Rifles jawan was killed in an ambush in Northeast India on 30 September 2026. The incident highlighted continuing security challenges in the region. / 30 September 2026 को Northeast India में एक Assam Rifles jawan की ambush में मृत्यु हो गई। इस incident ने region में जारी security challenges को highlight किया.",
+                    "title": "Assam Rifles Jawan Killed in Ambush in Arunachal Pradesh / Arunachal Pradesh में Assam Rifles के Jawan की Ambush में मृत्यु",
+                    "summary": "An Assam Rifles patrol team came under suspected militant attack near Nampong Nallah in Changlang district of Arunachal Pradesh along the India-Myanmar border. One jawan was killed and four personnel were injured. / Arunachal Pradesh के Changlang district में India-Myanmar border के पास Nampong Nallah के निकट Assam Rifles की patrol team पर suspected militant attack हुआ। इसमें एक jawan की मृत्यु हुई और चार personnel घायल हुए.",
                     "sourceName": "The Indian Express",
-                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-30-2026-1-assam-rifles-jawan-killed-in-ambush-neeru-dhandha-wins-the-fifth-gold-medal-for-india-10898628/",
+                    "sourceUrl": "https://indianexpress.com/article/india/assam-rifles-ambushed-militant-attack-arunachal-pradesh-jawan-killed-changlang-10898934/",
                     "staticGK": [
                         "Force / बल : Assam Rifles",
+                        "Location / स्थान : Changlang, Arunachal Pradesh",
                         "Region / क्षेत्र : Northeast India",
                         "Incident / घटना : Ambush",
-                        "Sector / क्षेत्र : National Security",
-                        "Role / भूमिका : Security and Counter-Insurgency"
+                        "Border / सीमा : India–Myanmar Border"
                     ],
                     "mcqs": [
                         {
@@ -20712,14 +20646,24 @@
                             "answer": "Assam Rifles"
                         },
                         {
-                            "question": "In which part of India did the incident occur? / Incident भारत के किस region में हुआ?",
+                            "question": "In which state did the incident occur? / Incident किस state में हुआ?",
                             "options": [
-                                "Western India",
-                                "Southern India",
-                                "Northeast India",
-                                "Central India"
+                                "Manipur",
+                                "Nagaland",
+                                "Arunachal Pradesh",
+                                "Mizoram"
                             ],
-                            "answer": "Northeast India"
+                            "answer": "Arunachal Pradesh"
+                        },
+                        {
+                            "question": "Near which border did the incident occur? / Incident किस border के पास हुआ?",
+                            "options": [
+                                "India-Nepal Border",
+                                "India-China Border",
+                                "India-Myanmar Border",
+                                "India-Bangladesh Border"
+                            ],
+                            "answer": "India-Myanmar Border"
                         },
                         {
                             "question": "What type of incident was reported? / किस प्रकार की घटना report हुई?",
@@ -20740,16 +20684,6 @@
                                 "Andaman Islands"
                             ],
                             "answer": "Northeast India"
-                        },
-                        {
-                            "question": "The incident was related to which broad subject? / Incident किस broad subject से related था?",
-                            "options": [
-                                "National Security",
-                                "Agriculture",
-                                "Banking",
-                                "Education"
-                            ],
-                            "answer": "National Security"
                         }
                     ]
                 }
