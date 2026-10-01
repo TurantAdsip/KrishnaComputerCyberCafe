@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-01",
+  "title": "Class 10 NCERT Geography Quiz",
+  "date": "1 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "संसाधनों के विकास के लिए सबसे महत्वपूर्ण कारक कौन-सा है? / Which is the most important factor for the development of resources?",
+      "options": [
+        "तकनीकी विकास / Technological development",
+        "जनसंख्या वृद्धि / Population growth",
+        "जलवायु परिवर्तन / Climate change",
+        "वनों की कटाई / Deforestation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "भारत में काली मिट्टी मुख्य रूप से किस फसल की खेती के लिए उपयुक्त है? / Black soil in India is mainly suitable for the cultivation of which crop?",
+      "options": [
+        "कपास / Cotton",
+        "चाय / Tea",
+        "जूट / Jute",
+        "गेहूँ / Wheat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "चिपको आंदोलन मुख्य रूप से किससे संबंधित था? / The Chipko Movement was mainly related to which of the following?",
+      "options": [
+        "वन संरक्षण / Forest conservation",
+        "जल संरक्षण / Water conservation",
+        "मृदा संरक्षण / Soil conservation",
+        "वन्यजीव शिकार / Wildlife hunting"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "बहुउद्देशीय नदी घाटी परियोजनाओं का प्रमुख उद्देश्य क्या है? / What is a major purpose of multipurpose river valley projects?",
+      "options": [
+        "सिंचाई और बिजली उत्पादन / Irrigation and electricity generation",
+        "केवल मत्स्य पालन / Only fishing",
+        "केवल पर्यटन / Only tourism",
+        "केवल पेयजल आपूर्ति / Only drinking water supply"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में रबी फसल का उदाहरण कौन-सा है? / Which of the following is an example of a Rabi crop in India?",
+      "options": [
+        "गेहूँ / Wheat",
+        "धान / Rice",
+        "कपास / Cotton",
+        "जूट / Jute"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "भारत में बॉक्साइट किस धातु का अयस्क है? / Bauxite is an ore of which metal in India?",
+      "options": [
+        "लोहा / Iron",
+        "तांबा / Copper",
+        "एल्युमिनियम / Aluminium",
+        "मैंगनीज / Manganese"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "भारत में लौह-इस्पात उद्योग को आधारभूत उद्योग क्यों कहा जाता है? / Why is the iron and steel industry called a basic industry in India?",
+      "options": [
+        "यह अन्य उद्योगों के लिए मशीनें और सामग्री उपलब्ध कराता है / It provides machines and materials for other industries",
+        "यह केवल कृषि पर निर्भर है / It depends only on agriculture",
+        "यह केवल निर्यात के लिए उत्पादन करता है / It produces only for exports",
+        "यह केवल घरेलू वस्तुएँ बनाता है / It produces only household goods"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "भारत में सूती वस्त्र उद्योग का प्रमुख केंद्र कौन-सा है? / Which is a major centre of the cotton textile industry in India?",
+      "options": [
+        "मुंबई / Mumbai",
+        "शिमला / Shimla",
+        "पटना / Patna",
+        "श्रीनगर / Srinagar"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "स्वर्णिम चतुर्भुज परियोजना किन प्रमुख महानगरों को जोड़ती है? / The Golden Quadrilateral project connects which major metropolitan cities?",
+      "options": [
+        "दिल्ली, मुंबई, चेन्नई और कोलकाता / Delhi, Mumbai, Chennai and Kolkata",
+        "दिल्ली, पटना, लखनऊ और जयपुर / Delhi, Patna, Lucknow and Jaipur",
+        "मुंबई, पुणे, नागपुर और भोपाल / Mumbai, Pune, Nagpur and Bhopal",
+        "चेन्नई, हैदराबाद, बेंगलुरु और कोच्चि / Chennai, Hyderabad, Bengaluru and Kochi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "भारत में अंतरराष्ट्रीय व्यापार के लिए सबसे महत्वपूर्ण परिवहन साधनों में से एक कौन-सा है? / Which is one of the most important means of transport for India's international trade?",
+      "options": [
+        "समुद्री परिवहन / Sea transport",
+        "बैलगाड़ी / Bullock cart",
+        "साइकिल / Bicycle",
+        "पैदल परिवहन / Walking"
+      ],
+      "answer": 0
+    }
+  ]
+}
