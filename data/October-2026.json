@@ -1,0 +1,739 @@
+{
+    "month": "September 2026",
+    "days": [
+        {
+            "id": "2026-10-01",
+            "date": "1 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 1 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Polity & Governance",
+                    "title": "UPSC Completes 100 Years with Centenary Celebrations / UPSC ने 100 वर्ष पूरे किए",
+                    "summary": "The Union Public Service Commission (UPSC) completed 100 years since its establishment in 1926. The centenary celebrations were held at Bharat Mandapam, New Delhi. The Prime Minister participated in the programme and a commemorative coin, stamp and book were released. / Union Public Service Commission (UPSC) ने 1926 में स्थापना के बाद 100 वर्ष पूरे किए। Centenary celebrations Bharat Mandapam, New Delhi में आयोजित हुए। प्रधानमंत्री ने कार्यक्रम में भाग लिया तथा commemorative coin, stamp और book जारी की गई।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2316911&lang=1&reg=3",
+                    "staticGK": [
+                        "Organisation / संस्था : Union Public Service Commission (UPSC)",
+                        "Established / स्थापना : 1926",
+                        "Centenary / शताब्दी : 100 Years",
+                        "Venue / स्थान : Bharat Mandapam, New Delhi",
+                        "Commemorative Items / स्मारक सामग्री : Coin, Stamp and Book"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which year was UPSC established? / UPSC की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1920",
+                                "1926",
+                                "1930",
+                                "1947"
+                            ],
+                            "answer": "1926"
+                        },
+                        {
+                            "question": "Where were the UPSC centenary celebrations held? / UPSC centenary celebrations कहाँ आयोजित हुए?",
+                            "options": [
+                                "Vigyan Bhavan",
+                                "Bharat Mandapam",
+                                "Rashtrapati Bhavan",
+                                "Parliament House"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        },
+                        {
+                            "question": "How many years of establishment did UPSC complete? / UPSC ने स्थापना के कितने वर्ष पूरे किए?",
+                            "options": [
+                                "75",
+                                "90",
+                                "100",
+                                "125"
+                            ],
+                            "answer": "100"
+                        },
+                        {
+                            "question": "Which organisation conducts the Civil Services Examination? / Civil Services Examination कौन-सी संस्था आयोजित करती है?",
+                            "options": [
+                                "SSC",
+                                "UPSC",
+                                "NTA",
+                                "IBPS"
+                            ],
+                            "answer": "UPSC"
+                        },
+                        {
+                            "question": "Which item was released to mark the UPSC centenary? / UPSC centenary के अवसर पर क्या जारी किया गया?",
+                            "options": [
+                                "Coin and Stamp",
+                                "Currency Note only",
+                                "Medal only",
+                                "Passport"
+                            ],
+                            "answer": "Coin and Stamp"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Consumer Affairs",
+                    "title": "Government Revises Sugar Stock Holding Norms / सरकार ने Sugar Stock Holding Norms में बदलाव किया",
+                    "summary": "With the new sugar season beginning on 1 October 2026, the Government revised stock holding norms for sugar dealers. The stock holding period was reduced to 15 days and the general stock limit was fixed at 1,000 quintals from 15 October to 30 November 2026, with higher limits for Kolkata metropolitan areas and Assam. / 1 October 2026 से नई sugar season शुरू होने के साथ सरकार ने sugar dealers के stock holding norms में बदलाव किया। Stock holding period 15 days किया गया और 15 October से 30 November 2026 तक सामान्य stock limit 1,000 quintals रखी गई, जबकि Kolkata metropolitan areas और Assam के लिए higher limit रखी गई।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317497&lang=1&reg=3",
+                    "staticGK": [
+                        "New Sugar Season / नई sugar season : 1 October 2026",
+                        "Stock Holding Period / Stock अवधि : 15 Days",
+                        "General Stock Limit / सामान्य सीमा : 1,000 Quintals",
+                        "Special Limit / विशेष सीमा : 2,000 Quintals for Kolkata extended metropolitan areas and Assam",
+                        "Effective Period / प्रभावी अवधि : 15 October–30 November 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the revised stock holding period for sugar dealers? / Sugar dealers के लिए revised stock holding period कितना है?",
+                            "options": [
+                                "7 days",
+                                "10 days",
+                                "15 days",
+                                "30 days"
+                            ],
+                            "answer": "15 days"
+                        },
+                        {
+                            "question": "What is the general stock holding limit? / सामान्य stock holding limit कितनी है?",
+                            "options": [
+                                "500 quintals",
+                                "1,000 quintals",
+                                "1,500 quintals",
+                                "2,000 quintals"
+                            ],
+                            "answer": "1,000 quintals"
+                        },
+                        {
+                            "question": "The revised norms mainly relate to which commodity? / Revised norms मुख्य रूप से किस commodity से संबंधित हैं?",
+                            "options": [
+                                "Wheat",
+                                "Rice",
+                                "Sugar",
+                                "Cotton"
+                            ],
+                            "answer": "Sugar"
+                        },
+                        {
+                            "question": "What is the special stock limit for Assam? / Assam के लिए special stock limit कितनी है?",
+                            "options": [
+                                "1,000 quintals",
+                                "1,500 quintals",
+                                "2,000 quintals",
+                                "2,500 quintals"
+                            ],
+                            "answer": "2,000 quintals"
+                        },
+                        {
+                            "question": "The new sugar season commenced on which date? / नई sugar season किस तारीख से शुरू हुई?",
+                            "options": [
+                                "1 September 2026",
+                                "15 September 2026",
+                                "1 October 2026",
+                                "15 October 2026"
+                            ],
+                            "answer": "1 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Administration",
+                    "title": "Narendra Bhooshan Assumes Charge as Environment Secretary / नरेंद्र भूषण ने Environment Secretary का पद संभाला",
+                    "summary": "Shri Narendra Bhooshan, a 1992-batch IAS officer of the Uttar Pradesh cadre, assumed charge as Secretary of the Ministry of Environment, Forest and Climate Change (MoEFCC) on 1 October 2026. / 1992-batch Uttar Pradesh cadre के IAS अधिकारी श्री नरेंद्र भूषण ने 1 October 2026 को Ministry of Environment, Forest and Climate Change (MoEFCC) के Secretary का पद संभाला।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317443&lang=1&reg=3",
+                    "staticGK": [
+                        "Officer / अधिकारी : Shri Narendra Bhooshan",
+                        "Batch / बैच : 1992 IAS",
+                        "Cadre / कैडर : Uttar Pradesh",
+                        "Ministry / मंत्रालय : MoEFCC",
+                        "Charge Assumed / पदभार : 1 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who assumed charge as Secretary of MoEFCC? / MoEFCC के Secretary का पद किसने संभाला?",
+                            "options": [
+                                "Narendra Bhooshan",
+                                "Ashok K. Meena",
+                                "Keshav Chandra",
+                                "Jual Oram"
+                            ],
+                            "answer": "Narendra Bhooshan"
+                        },
+                        {
+                            "question": "Narendra Bhooshan belongs to which IAS batch? / नरेंद्र भूषण किस IAS batch से हैं?",
+                            "options": [
+                                "1990",
+                                "1991",
+                                "1992",
+                                "1993"
+                            ],
+                            "answer": "1992"
+                        },
+                        {
+                            "question": "Which cadre does Narendra Bhooshan belong to? / नरेंद्र भूषण किस cadre से संबंधित हैं?",
+                            "options": [
+                                "Bihar",
+                                "Uttar Pradesh",
+                                "Rajasthan",
+                                "Madhya Pradesh"
+                            ],
+                            "answer": "Uttar Pradesh"
+                        },
+                        {
+                            "question": "What does MoEFCC stand for? / MoEFCC का full form क्या है?",
+                            "options": [
+                                "Ministry of Environment, Forest and Climate Change",
+                                "Ministry of Energy, Forest and Climate Council",
+                                "Ministry of Ecology and Forest Conservation Council",
+                                "Ministry of Environment and Federal Climate Council"
+                            ],
+                            "answer": "Ministry of Environment, Forest and Climate Change"
+                        },
+                        {
+                            "question": "When did Narendra Bhooshan assume charge? / नरेंद्र भूषण ने पदभार कब संभाला?",
+                            "options": [
+                                "30 September 2026",
+                                "1 October 2026",
+                                "2 October 2026",
+                                "5 October 2026"
+                            ],
+                            "answer": "1 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Social Justice & Law",
+                    "title": "Government Strengthens Implementation of PCR and SC/ST (Prevention of Atrocities) Acts / सरकार ने PCR और SC/ST Acts के Implementation को मजबूत किया",
+                    "summary": "The Central Government released ₹1,423.30 crore to States and Union Territories over three financial years for implementation of the Protection of Civil Rights Act, 1955 and the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989. Measures include special courts, victim support, relief, rehabilitation and awareness. / केंद्र सरकार ने Protection of Civil Rights Act, 1955 और Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 के implementation के लिए तीन financial years में States और UTs को ₹1,423.30 crore जारी किए। इसमें special courts, victim support, relief, rehabilitation और awareness measures शामिल हैं।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317515&lang=2&reg=48",
+                    "staticGK": [
+                        "PCR Act / PCR Act : Protection of Civil Rights Act, 1955",
+                        "PoA Act / PoA Act : SC/ST (Prevention of Atrocities) Act, 1989",
+                        "Central Assistance / केंद्रीय सहायता : ₹1,423.30 crore",
+                        "Period / अवधि : Three Financial Years",
+                        "Implementation / कार्यान्वयन : States and Union Territories"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which year was the Protection of Civil Rights Act enacted? / Protection of Civil Rights Act किस वर्ष enacted हुआ?",
+                            "options": [
+                                "1950",
+                                "1955",
+                                "1960",
+                                "1976"
+                            ],
+                            "answer": "1955"
+                        },
+                        {
+                            "question": "In which year was the SC/ST (Prevention of Atrocities) Act enacted? / SC/ST (Prevention of Atrocities) Act किस वर्ष enacted हुआ?",
+                            "options": [
+                                "1985",
+                                "1989",
+                                "1992",
+                                "1995"
+                            ],
+                            "answer": "1989"
+                        },
+                        {
+                            "question": "How much central assistance was released? / कितनी central assistance जारी की गई?",
+                            "options": [
+                                "₹1,123.30 crore",
+                                "₹1,323.30 crore",
+                                "₹1,423.30 crore",
+                                "₹1,523.30 crore"
+                            ],
+                            "answer": "₹1,423.30 crore"
+                        },
+                        {
+                            "question": "Who primarily implements these Acts? / इन Acts का primary implementation कौन करता है?",
+                            "options": [
+                                "State Governments and UT Administrations",
+                                "RBI",
+                                "UPSC",
+                                "Election Commission"
+                            ],
+                            "answer": "State Governments and UT Administrations"
+                        },
+                        {
+                            "question": "Which of the following is included in the measures? / निम्न में से कौन-सा measure शामिल है?",
+                            "options": [
+                                "Special Courts",
+                                "Space Missions",
+                                "Bank Mergers",
+                                "Railway Electrification"
+                            ],
+                            "answer": "Special Courts"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Development & Governance",
+                    "title": "Special Gram Sabhas and People’s Plan Campaign 2026-27 / Special Gram Sabhas और People’s Plan Campaign 2026-27",
+                    "summary": "Special Gram Sabhas will be held across India on 2 October 2026 to discuss governance reforms and local development priorities. The People’s Plan Campaign 2026-27, ‘Sabki Yojana, Sabka Vikas’, will support preparation of Gram Panchayat Development Plans for FY 2027-28 through participatory planning. / 2 October 2026 को पूरे भारत में Special Gram Sabhas आयोजित की जाएंगी। इनमें governance reforms और local development priorities पर चर्चा होगी। People’s Plan Campaign 2026-27 ‘Sabki Yojana, Sabka Vikas’ के तहत participatory planning से FY 2027-28 के Gram Panchayat Development Plans तैयार किए जाएंगे।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317494&lang=1&reg=3",
+                    "staticGK": [
+                        "Campaign / अभियान : People’s Plan Campaign 2026-27",
+                        "Theme / थीम : Sabki Yojana, Sabka Vikas",
+                        "Special Gram Sabha / विशेष ग्राम सभा : 2 October 2026",
+                        "Plan / योजना : Gram Panchayat Development Plan (GPDP)",
+                        "FY / वित्तीय वर्ष : 2027-28"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "On which date will Special Gram Sabhas be held? / Special Gram Sabhas किस तारीख को होंगी?",
+                            "options": [
+                                "1 October",
+                                "2 October",
+                                "5 October",
+                                "15 October"
+                            ],
+                            "answer": "2 October"
+                        },
+                        {
+                            "question": "What is the theme of People’s Plan Campaign 2026-27? / People’s Plan Campaign 2026-27 की theme क्या है?",
+                            "options": [
+                                "Sabka Saath Sabka Vikas",
+                                "Sabki Yojana, Sabka Vikas",
+                                "Viksit Gaon, Viksit Bharat",
+                                "Gram Swaraj Mission"
+                            ],
+                            "answer": "Sabki Yojana, Sabka Vikas"
+                        },
+                        {
+                            "question": "What plan will Gram Panchayats prepare? / Gram Panchayats कौन-सा plan तैयार करेंगी?",
+                            "options": [
+                                "District Development Plan",
+                                "Gram Panchayat Development Plan",
+                                "National Development Plan",
+                                "State Development Plan"
+                            ],
+                            "answer": "Gram Panchayat Development Plan"
+                        },
+                        {
+                            "question": "The plans will be prepared for which financial year? / Plans किस financial year के लिए तैयार होंगे?",
+                            "options": [
+                                "2025-26",
+                                "2026-27",
+                                "2027-28",
+                                "2028-29"
+                            ],
+                            "answer": "2027-28"
+                        },
+                        {
+                            "question": "Which institution provides a direct platform for local citizens to participate? / Local citizens को direct participation platform कौन देता है?",
+                            "options": [
+                                "Gram Sabha",
+                                "Rajya Sabha",
+                                "Lok Sabha",
+                                "NITI Aayog"
+                            ],
+                            "answer": "Gram Sabha"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "RDI Scheme Call Temporarily Closed for Administrative Reasons / RDI Scheme का Call Administrative Reasons से अस्थायी रूप से बंद",
+                    "summary": "The Technology Development Board clarified that the running call under the Research Development & Innovation (RDI) Scheme was closed purely for administrative reasons, not due to shortage of funds. The call is expected to reopen after assessment of proposals received up to 30 September 2026. / Technology Development Board ने स्पष्ट किया कि Research Development & Innovation (RDI) Scheme का running call funds की कमी के कारण नहीं बल्कि administrative reasons से बंद किया गया है। 30 September 2026 तक प्राप्त proposals के assessment के बाद call फिर से खुलने की बात कही गई है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317509&lang=2&reg=48",
+                    "staticGK": [
+                        "Scheme / योजना : Research Development & Innovation (RDI) Scheme",
+                        "Organisation / संस्था : Technology Development Board (TDB)",
+                        "Reason for Closure / बंद करने का कारण : Administrative Reason",
+                        "Fund Shortage / Funds की कमी : No",
+                        "Proposal Cut-off / Proposal Cut-off : 30 September 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which scheme was discussed in the clarification? / Clarification किस scheme से संबंधित है?",
+                            "options": [
+                                "RDI Scheme",
+                                "PLI Scheme",
+                                "PM-KISAN",
+                                "Startup India"
+                            ],
+                            "answer": "RDI Scheme"
+                        },
+                        {
+                            "question": "Which organisation issued the clarification? / Clarification किस organisation ने जारी किया?",
+                            "options": [
+                                "RBI",
+                                "TDB",
+                                "SEBI",
+                                "ISRO"
+                            ],
+                            "answer": "TDB"
+                        },
+                        {
+                            "question": "Why was the call closed? / Call किस कारण बंद किया गया?",
+                            "options": [
+                                "Fund shortage",
+                                "Administrative reason",
+                                "Technical failure",
+                                "Legal order"
+                            ],
+                            "answer": "Administrative reason"
+                        },
+                        {
+                            "question": "Was there a shortage of funds for disbursement? / क्या disbursement के लिए funds की कमी थी?",
+                            "options": [
+                                "Yes",
+                                "No",
+                                "Partly",
+                                "Not stated"
+                            ],
+                            "answer": "No"
+                        },
+                        {
+                            "question": "Proposals received up to which date will be assessed? / किस तारीख तक प्राप्त proposals assess किए जाएंगे?",
+                            "options": [
+                                "25 September 2026",
+                                "30 September 2026",
+                                "1 October 2026",
+                                "5 October 2026"
+                            ],
+                            "answer": "30 September 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Cleanliness",
+                    "title": "Health Ministry Organises Shramdaan under Swachhata Hi Seva 2026 / Health Ministry ने Swachhata Hi Seva 2026 के तहत Shramdaan आयोजित किया",
+                    "summary": "The Union Ministry of Health and Family Welfare organised a voluntary cleanliness drive under Swachhata Hi Seva 2026 near Kartavya Bhavan-1 in New Delhi. Dr. Rajiv Bahl, Secretary of the Department of Health Research and Director General of ICMR, led the drive. / Union Ministry of Health and Family Welfare ने New Delhi के Kartavya Bhavan-1 के पास Swachhata Hi Seva 2026 के तहत voluntary cleanliness drive आयोजित की। Department of Health Research के Secretary और ICMR के Director General Dr. Rajiv Bahl ने drive का नेतृत्व किया।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317416&lang=2&reg=48",
+                    "staticGK": [
+                        "Campaign / अभियान : Swachhata Hi Seva 2026",
+                        "Location / स्थान : Kartavya Bhavan-1, New Delhi",
+                        "Lead / नेतृत्व : Dr. Rajiv Bahl",
+                        "Organisation / संस्था : Ministry of Health and Family Welfare",
+                        "Associated Institution / संबंधित संस्था : ICMR"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Under which campaign was the cleanliness drive organised? / Cleanliness drive किस campaign के तहत आयोजित हुई?",
+                            "options": [
+                                "Swachhata Hi Seva 2026",
+                                "Swachh Bharat Mission 2020",
+                                "Mission LiFE",
+                                "Fit India"
+                            ],
+                            "answer": "Swachhata Hi Seva 2026"
+                        },
+                        {
+                            "question": "Where was the drive organised? / Drive कहाँ आयोजित हुई?",
+                            "options": [
+                                "Kartavya Bhavan-1, New Delhi",
+                                "India Gate",
+                                "Red Fort",
+                                "Parliament House"
+                            ],
+                            "answer": "Kartavya Bhavan-1, New Delhi"
+                        },
+                        {
+                            "question": "Who led the shramdaan? / Shramdaan का नेतृत्व किसने किया?",
+                            "options": [
+                                "Dr. Rajiv Bahl",
+                                "Jual Oram",
+                                "G. Kishan Reddy",
+                                "Narendra Bhooshan"
+                            ],
+                            "answer": "Dr. Rajiv Bahl"
+                        },
+                        {
+                            "question": "Dr. Rajiv Bahl is associated with which institution as DG? / Dr. Rajiv Bahl किस institution के DG हैं?",
+                            "options": [
+                                "AIIMS",
+                                "ICMR",
+                                "NITI Aayog",
+                                "CSIR"
+                            ],
+                            "answer": "ICMR"
+                        },
+                        {
+                            "question": "Which ministry organised the drive? / Drive किस ministry ने आयोजित की?",
+                            "options": [
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Culture",
+                                "Ministry of Mines",
+                                "Ministry of Jal Shakti"
+                            ],
+                            "answer": "Ministry of Health and Family Welfare"
+                        }
+                    ]
+                },
+                {
+                    "category": "Water & Tribal Development",
+                    "title": "Jal Shakti Ministry Reviews Drinking Water Coverage in Tribal Areas / Jal Shakti Ministry ने Tribal Areas में Drinking Water Coverage की समीक्षा की",
+                    "summary": "The Department of Drinking Water and Sanitation reviewed drinking water coverage in tribal areas under PM-JANMAN and DA-JGUA. A dedicated provision of ₹5,000 crore under JJM 2.0 has been earmarked to address drinking water gaps in eligible villages and habitations. / Department of Drinking Water and Sanitation ने PM-JANMAN और DA-JGUA के तहत tribal areas में drinking water coverage की समीक्षा की। Eligible villages और habitations में drinking water gaps को address करने के लिए JJM 2.0 के तहत ₹5,000 crore का dedicated provision रखा गया है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317450&lang=1&reg=3",
+                    "staticGK": [
+                        "Department / विभाग : Department of Drinking Water and Sanitation",
+                        "Programmes / योजनाएँ : PM-JANMAN and DA-JGUA",
+                        "JJM 2.0 Provision / प्रावधान : ₹5,000 crore",
+                        "Focus / मुख्य focus : Drinking Water Coverage",
+                        "Validation Platform / सत्यापन platform : District Water and Sanitation Mission (DWSM)"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which department conducted the review? / Review किस department ने किया?",
+                            "options": [
+                                "DDWS",
+                                "DPIIT",
+                                "DRDO",
+                                "DOPT"
+                            ],
+                            "answer": "DDWS"
+                        },
+                        {
+                            "question": "Which programmes are related to the review? / Review किन programmes से संबंधित है?",
+                            "options": [
+                                "PM-JANMAN and DA-JGUA",
+                                "PM-KISAN and PMFBY",
+                                "PMAY and Ujjwala",
+                                "Skill India and Startup India"
+                            ],
+                            "answer": "PM-JANMAN and DA-JGUA"
+                        },
+                        {
+                            "question": "How much provision under JJM 2.0 is earmarked for drinking water gaps? / JJM 2.0 के तहत कितना provision रखा गया है?",
+                            "options": [
+                                "₹2,000 crore",
+                                "₹3,000 crore",
+                                "₹5,000 crore",
+                                "₹10,000 crore"
+                            ],
+                            "answer": "₹5,000 crore"
+                        },
+                        {
+                            "question": "What is the main focus of the initiative? / Initiative का मुख्य focus क्या है?",
+                            "options": [
+                                "Road construction",
+                                "Drinking water coverage",
+                                "Railway expansion",
+                                "Digital banking"
+                            ],
+                            "answer": "Drinking water coverage"
+                        },
+                        {
+                            "question": "Which platform is used for district-level validation? / District-level validation के लिए कौन-सा platform है?",
+                            "options": [
+                                "DWSM",
+                                "GSTN",
+                                "eNAM",
+                                "DigiLocker"
+                            ],
+                            "answer": "DWSM"
+                        }
+                    ]
+                },
+                {
+                    "category": "Culture & Environment",
+                    "title": "Ministry of Culture Gears Up for Special Campaign 6.0 / Ministry of Culture ने Special Campaign 6.0 की तैयारी की",
+                    "summary": "The Ministry of Culture has prepared for Special Campaign 6.0 with 595 sites identified for cleanliness. More than 31,515 physical files and 323 e-files were identified for review, while the implementation phase will run from 2 to 31 October 2026 with special focus on e-waste disposal. / Ministry of Culture ने Special Campaign 6.0 के लिए 595 sites को cleanliness drive हेतु identify किया है। 31,515 से अधिक physical files और 323 e-files review के लिए identify की गईं। Implementation phase 2 से 31 October 2026 तक चलेगा और e-waste disposal पर विशेष focus रहेगा।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317480&lang=1&reg=3",
+                    "staticGK": [
+                        "Campaign / अभियान : Special Campaign 6.0",
+                        "Cleanliness Sites / सफाई sites : 595",
+                        "Physical Files / Physical files : 31,515+",
+                        "E-Files / E-files : 323",
+                        "Implementation Phase / Implementation phase : 2–31 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which campaign is being undertaken by the Ministry of Culture? / Ministry of Culture कौन-सा campaign चला रहा है?",
+                            "options": [
+                                "Special Campaign 5.0",
+                                "Special Campaign 6.0",
+                                "Mission LiFE 2.0",
+                                "Clean India 2030"
+                            ],
+                            "answer": "Special Campaign 6.0"
+                        },
+                        {
+                            "question": "How many sites were identified for cleanliness? / कितनी sites cleanliness के लिए identify की गईं?",
+                            "options": [
+                                "495",
+                                "595",
+                                "695",
+                                "795"
+                            ],
+                            "answer": "595"
+                        },
+                        {
+                            "question": "How many physical files were identified for review? / कितनी physical files review के लिए identify की गईं?",
+                            "options": [
+                                "21,515",
+                                "31,515",
+                                "41,515",
+                                "51,515"
+                            ],
+                            "answer": "31,515"
+                        },
+                        {
+                            "question": "How many e-files were identified for review? / कितनी e-files review के लिए identify की गईं?",
+                            "options": [
+                                "223",
+                                "323",
+                                "423",
+                                "523"
+                            ],
+                            "answer": "323"
+                        },
+                        {
+                            "question": "What is a special focus of the campaign? / Campaign का special focus क्या है?",
+                            "options": [
+                                "E-waste disposal",
+                                "Space research",
+                                "Banking reforms",
+                                "Railway tourism"
+                            ],
+                            "answer": "E-waste disposal"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Tourism",
+                    "title": "Surya Kiran Air Show Proposed at Lonar, Ajanta and Ellora / Lonar, Ajanta और Ellora में Surya Kiran Air Show का प्रस्ताव",
+                    "summary": "Union Minister Prataprao Jadhav requested the Defence Minister to consider performances by the Indian Air Force’s Surya Kiran Aerobatic Display Team at Lonar Crater Lake, Ajanta and Ellora during 23–25 November 2026. The proposal aims to promote tourism while showcasing India's aviation capabilities. / केंद्रीय मंत्री Prataprao Jadhav ने Defence Minister से 23–25 November 2026 के दौरान Lonar Crater Lake, Ajanta और Ellora में Indian Air Force की Surya Kiran Aerobatic Display Team के performances पर विचार करने का अनुरोध किया। प्रस्ताव का उद्देश्य tourism को बढ़ावा देना और भारत की aviation capabilities को प्रदर्शित करना है।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317470&lang=1&reg=3",
+                    "staticGK": [
+                        "Team / टीम : Surya Kiran Aerobatic Display Team",
+                        "Force / बल : Indian Air Force",
+                        "Key Location / प्रमुख स्थान : Lonar Crater Lake",
+                        "Other Locations / अन्य स्थान : Ajanta and Ellora",
+                        "Proposed Dates / प्रस्तावित तारीख : 23–25 November 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team is proposed to perform the air show? / Air show में कौन-सी team perform करेगी?",
+                            "options": [
+                                "Surya Kiran",
+                                "Sarang",
+                                "Akash Ganga",
+                                "Garud"
+                            ],
+                            "answer": "Surya Kiran"
+                        },
+                        {
+                            "question": "Surya Kiran is associated with which force? / Surya Kiran किस force से associated है?",
+                            "options": [
+                                "Indian Army",
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Where is Lonar Crater Lake located? / Lonar Crater Lake कहाँ स्थित है?",
+                            "options": [
+                                "Maharashtra",
+                                "Gujarat",
+                                "Rajasthan",
+                                "Madhya Pradesh"
+                            ],
+                            "answer": "Maharashtra"
+                        },
+                        {
+                            "question": "Which other heritage sites are included in the proposal? / Proposal में कौन-से अन्य heritage sites शामिल हैं?",
+                            "options": [
+                                "Khajuraho and Sanchi",
+                                "Ajanta and Ellora",
+                                "Hampi and Pattadakal",
+                                "Konark and Puri"
+                            ],
+                            "answer": "Ajanta and Ellora"
+                        },
+                        {
+                            "question": "What is the proposed period for the air show? / Air show की proposed period क्या है?",
+                            "options": [
+                                "1–3 November",
+                                "10–12 November",
+                                "23–25 November",
+                                "28–30 November"
+                            ],
+                            "answer": "23–25 November"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mining & Environment",
+                    "title": "G. Kishan Reddy Leads Swachhata Hi Seva Cleanliness Drive / जी. किशन रेड्डी ने Swachhata Hi Seva Cleanliness Drive का नेतृत्व किया",
+                    "summary": "Union Minister for Coal and Mines Shri G. Kishan Reddy led a cleanliness drive under Swachhata Hi Seva 2026 at Yashwant Palace Market, Chanakyapuri, New Delhi. An ‘Ek Ped Maa Ke Naam’ plantation activity was also undertaken. / Coal and Mines Minister Shri G. Kishan Reddy ने New Delhi के Chanakyapuri स्थित Yashwant Palace Market में Swachhata Hi Seva 2026 के तहत cleanliness drive का नेतृत्व किया। ‘Ek Ped Maa Ke Naam’ plantation activity भी आयोजित की गई।",
+                    "sourceName": "Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2317462&lang=1&reg=3",
+                    "staticGK": [
+                        "Minister / मंत्री : G. Kishan Reddy",
+                        "Ministry / मंत्रालय : Ministry of Coal and Mines",
+                        "Location / स्थान : Yashwant Palace Market, Chanakyapuri",
+                        "Campaign / अभियान : Swachhata Hi Seva 2026",
+                        "Plantation Initiative / वृक्षारोपण initiative : Ek Ped Maa Ke Naam"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who led the cleanliness drive? / Cleanliness drive का नेतृत्व किसने किया?",
+                            "options": [
+                                "G. Kishan Reddy",
+                                "Jual Oram",
+                                "Prataprao Jadhav",
+                                "Rajiv Bahl"
+                            ],
+                            "answer": "G. Kishan Reddy"
+                        },
+                        {
+                            "question": "Where was the drive held? / Drive कहाँ आयोजित हुई?",
+                            "options": [
+                                "Yashwant Palace Market, Chanakyapuri",
+                                "India Gate",
+                                "Red Fort",
+                                "Rajpath"
+                            ],
+                            "answer": "Yashwant Palace Market, Chanakyapuri"
+                        },
+                        {
+                            "question": "Under which campaign was it organised? / यह किस campaign के तहत आयोजित हुई?",
+                            "options": [
+                                "Swachhata Hi Seva 2026",
+                                "Special Campaign 5.0",
+                                "Mission LiFE",
+                                "Green India Mission"
+                            ],
+                            "answer": "Swachhata Hi Seva 2026"
+                        },
+                        {
+                            "question": "Which plantation initiative was undertaken? / कौन-सी plantation initiative की गई?",
+                            "options": [
+                                "Van Mahotsav",
+                                "Ek Ped Maa Ke Naam",
+                                "Green Bharat",
+                                "One Tree One Student"
+                            ],
+                            "answer": "Ek Ped Maa Ke Naam"
+                        },
+                        {
+                            "question": "G. Kishan Reddy is Union Minister for which ministries? / G. Kishan Reddy किन ministries के Union Minister हैं?",
+                            "options": [
+                                "Coal and Mines",
+                                "Health and Education",
+                                "Railways and Defence",
+                                "Finance and Commerce"
+                            ],
+                            "answer": "Coal and Mines"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
