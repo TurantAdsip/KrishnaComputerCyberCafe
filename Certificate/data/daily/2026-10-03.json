@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-03",
+  "title": "Class 10 NCERT Political Science Quiz",
+  "date": "3 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "बेल्जियम में सत्ता की साझेदारी का मुख्य उद्देश्य क्या था? / What was the main purpose of power sharing in Belgium?",
+      "options": [
+        "विभिन्न भाषाई समुदायों के बीच संघर्ष को रोकना / To prevent conflict among different linguistic communities",
+        "केवल बहुसंख्यक समुदाय को सत्ता देना / To give power only to the majority community",
+        "देश को विभाजित करना / To divide the country",
+        "सेना को अधिक शक्ति देना / To give more power to the military"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "श्रीलंका में 1956 का 'Sinhala Only Act' किस भाषा को आधिकारिक भाषा बनाया गया था? / Which language was made the official language by the 'Sinhala Only Act' of 1956 in Sri Lanka?",
+      "options": [
+        "सिंहला / Sinhala",
+        "तमिल / Tamil",
+        "अंग्रेजी / English",
+        "हिंदी / Hindi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "भारत में संघवाद की कितनी प्रमुख विशेषताएँ हैं जिनमें केंद्र और राज्यों के बीच शक्तियों का विभाजन शामिल है? / Which feature of federalism involves division of powers between the central and state governments in India?",
+      "options": [
+        "शक्तियों का संवैधानिक विभाजन / Constitutional division of powers",
+        "एकदलीय शासन / One-party rule",
+        "सैन्य शासन / Military rule",
+        "न्यायपालिका का उन्मूलन / Abolition of judiciary"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "भारत में कितने स्तरों वाली सरकार की व्यवस्था है? / How many levels of government are there in India?",
+      "options": [
+        "तीन / Three",
+        "दो / Two",
+        "चार / Four",
+        "पाँच / Five"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में स्थानीय स्वशासन को संवैधानिक दर्जा किस संशोधन द्वारा मिला? / Which amendment gave constitutional status to local self-government in India?",
+      "options": [
+        "73वाँ और 74वाँ संशोधन / 73rd and 74th Amendments",
+        "42वाँ संशोधन / 42nd Amendment",
+        "44वाँ संशोधन / 44th Amendment",
+        "61वाँ संशोधन / 61st Amendment"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "सत्ता की साझेदारी का एक नैतिक कारण क्या है? / What is a moral reason for power sharing?",
+      "options": [
+        "यह लोकतंत्र की मूल भावना है / It is the spirit of democracy",
+        "यह बहुमत को पूर्ण शक्ति देती है / It gives complete power to the majority",
+        "यह चुनाव समाप्त करती है / It ends elections",
+        "यह विपक्ष को समाप्त करती है / It eliminates the opposition"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में किस सूची में केंद्र और राज्य दोनों कानून बना सकते हैं? / On which list can both the Union and State governments make laws in India?",
+      "options": [
+        "समवर्ती सूची / Concurrent List",
+        "संघ सूची / Union List",
+        "राज्य सूची / State List",
+        "स्थानीय सूची / Local List"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "भारत में पंचायतों और नगरपालिकाओं में महिलाओं के लिए कम-से-कम कितने स्थान आरक्षित किए गए हैं? / What minimum proportion of seats is reserved for women in Panchayats and Municipalities in India?",
+      "options": [
+        "एक-तिहाई / One-third",
+        "एक-चौथाई / One-fourth",
+        "आधा / One-half",
+        "दो-तिहाई / Two-thirds"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "सामुदायिक सरकार की व्यवस्था किस देश में देखने को मिलती है? / In which country can we find the system of community government?",
+      "options": [
+        "बेल्जियम / Belgium",
+        "श्रीलंका / Sri Lanka",
+        "भारत / India",
+        "नेपाल / Nepal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "संघवाद की सफलता के लिए कौन-सा तत्व महत्वपूर्ण है? / Which factor is important for the success of federalism?",
+      "options": [
+        "आपसी विश्वास और सत्ता साझा करने की सहमति / Mutual trust and agreement to share power",
+        "केवल केंद्रीय सत्ता / Only central authority",
+        "एक ही भाषा / A single language",
+        "एक ही राजनीतिक दल / A single political party"
+      ],
+      "answer": 0
+    }
+  ]
+}

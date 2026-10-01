@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-02",
+  "title": "Class 10 NCERT Geography Quiz",
+  "date": "2 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "संसाधनों का नियोजन क्यों आवश्यक है? / Why is resource planning necessary?",
+      "options": [
+        "संसाधनों के विवेकपूर्ण उपयोग के लिए / For judicious use of resources",
+        "संसाधनों को समाप्त करने के लिए / To exhaust resources",
+        "केवल औद्योगिक विकास के लिए / Only for industrial development",
+        "केवल कृषि बढ़ाने के लिए / Only to increase agriculture"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "भारत में भूमि निम्नीकरण का प्रमुख कारण कौन-सा है? / Which is a major cause of land degradation in India?",
+      "options": [
+        "वनों की कटाई / Deforestation",
+        "वर्षा जल संचयन / Rainwater harvesting",
+        "वृक्षारोपण / Afforestation",
+        "मृदा संरक्षण / Soil conservation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "एजेंडा 21 किससे संबंधित है? / Agenda 21 is related to which of the following?",
+      "options": [
+        "सतत विकास / Sustainable development",
+        "औद्योगिक उत्पादन / Industrial production",
+        "जनसंख्या नियंत्रण / Population control",
+        "अंतरराष्ट्रीय व्यापार / International trade"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "भारत में वन्यजीव संरक्षण अधिनियम कब लागू किया गया था? / When was the Wildlife Protection Act implemented in India?",
+      "options": [
+        "1972 / 1972",
+        "1962 / 1962",
+        "1982 / 1982",
+        "1992 / 1992"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में सबसे अधिक क्षेत्र में कौन-सी फसल उगाई जाती है? / Which crop is grown over the largest area in India?",
+      "options": [
+        "चावल / Rice",
+        "गेहूँ / Wheat",
+        "मक्का / Maize",
+        "कपास / Cotton"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "भारत में चाय उत्पादन के लिए कौन-सा राज्य प्रसिद्ध है? / Which state is famous for tea production in India?",
+      "options": [
+        "असम / Assam",
+        "राजस्थान / Rajasthan",
+        "हरियाणा / Haryana",
+        "पंजाब / Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में अभ्रक के प्रमुख उत्पादक क्षेत्रों में कौन-सा पठार शामिल है? / Which plateau is included among the major mica-producing regions of India?",
+      "options": [
+        "छोटानागपुर पठार / Chota Nagpur Plateau",
+        "मालवा पठार / Malwa Plateau",
+        "दक्कन पठार / Deccan Plateau",
+        "मेघालय पठार / Meghalaya Plateau"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "भारत में परमाणु ऊर्जा के लिए मुख्य रूप से किस खनिज का उपयोग किया जाता है? / Which mineral is mainly used for nuclear energy in India?",
+      "options": [
+        "यूरेनियम / Uranium",
+        "लोहा / Iron",
+        "अभ्रक / Mica",
+        "बॉक्साइट / Bauxite"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "औद्योगिक प्रदूषण का प्रमुख स्रोत कौन-सा है? / Which is a major source of industrial pollution?",
+      "options": [
+        "औद्योगिक अपशिष्ट / Industrial waste",
+        "वृक्षारोपण / Afforestation",
+        "वर्षा जल / Rainwater",
+        "जैविक खाद / Organic manure"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "पाइपलाइन परिवहन का उपयोग मुख्य रूप से किसके परिवहन के लिए किया जाता है? / Pipeline transport is mainly used for transporting which of the following?",
+      "options": [
+        "पेट्रोलियम और प्राकृतिक गैस / Petroleum and natural gas",
+        "कोयला और लौह अयस्क / Coal and iron ore",
+        "कपास और जूट / Cotton and jute",
+        "मशीनरी और वाहन / Machinery and vehicles"
+      ],
+      "answer": 0
+    }
+  ]
+}
