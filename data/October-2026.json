@@ -1402,6 +1402,674 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-10-03",
+            "date": "3 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 3 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Sports",
+                    "title": "Indian Women’s Hockey Team Wins Gold at Asian Games / भारतीय महिला हॉकी टीम ने Asian Games में Gold जीता",
+                    "summary": "The Indian Women’s Hockey Team won the Gold medal at the Asian Games after more than four decades. The achievement was highlighted by the Prime Minister as a result of skills and teamwork. / भारतीय महिला हॉकी टीम ने चार दशक से अधिक समय बाद Asian Games में Gold medal जीता। प्रधानमंत्री ने इसे skills और teamwork का परिणाम बताया।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318340&reg=48&lang=2",
+                    "staticGK": [
+                        "Event / प्रतियोगिता : Asian Games 2026",
+                        "Sport / खेल : Women’s Hockey",
+                        "Medal / पदक : Gold",
+                        "Team / टीम : Indian Women’s Hockey Team",
+                        "Significance / महत्व : Gold after over four decades"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did the Indian Women’s Hockey Team win at the Asian Games? / भारतीय महिला हॉकी टीम ने Asian Games में कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "No medal"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Which sport is associated with this achievement? / यह achievement किस sport से संबंधित है?",
+                            "options": [
+                                "Hockey",
+                                "Football",
+                                "Badminton",
+                                "Archery"
+                            ],
+                            "answer": "Hockey"
+                        },
+                        {
+                            "question": "Which team won the medal? / कौन-सी team ने medal जीता?",
+                            "options": [
+                                "Indian Women’s Hockey Team",
+                                "Indian Men’s Hockey Team",
+                                "Indian Women’s Cricket Team",
+                                "Indian Women’s Football Team"
+                            ],
+                            "answer": "Indian Women’s Hockey Team"
+                        },
+                        {
+                            "question": "At which event was the Gold won? / Gold किस event में जीता गया?",
+                            "options": [
+                                "Olympic Games",
+                                "Asian Games",
+                                "Commonwealth Games",
+                                "World Cup"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "The Gold was won after more than how long? / यह Gold कितने समय से अधिक बाद जीता गया?",
+                            "options": [
+                                "Two decades",
+                                "Three decades",
+                                "Four decades",
+                                "Five decades"
+                            ],
+                            "answer": "Four decades"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Sujeet Wins Gold in Men’s 65 kg Freestyle Wrestling / सुजीत ने Men’s 65 kg Freestyle Wrestling में Gold जीता",
+                    "summary": "Sujeet won the Gold medal in the Men’s 65 kg Freestyle Wrestling event at the Asian Games. On his Asian Games debut, he delivered India’s first Wrestling Gold of this edition. / सुजीत ने Asian Games में Men’s 65 kg Freestyle Wrestling में Gold medal जीता। अपने Asian Games debut में उन्होंने इस edition का भारत का पहला Wrestling Gold जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318273&reg=48&lang=2",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Sujeet",
+                        "Sport / खेल : Freestyle Wrestling",
+                        "Weight Category / भार वर्ग : Men’s 65 kg",
+                        "Medal / पदक : Gold",
+                        "Special Fact / विशेष तथ्य : India’s first Wrestling Gold of this edition"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Sujeet win? / सुजीत ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Which weight category did Sujeet compete in? / सुजीत ने किस weight category में compete किया?",
+                            "options": [
+                                "57 kg",
+                                "65 kg",
+                                "74 kg",
+                                "86 kg"
+                            ],
+                            "answer": "65 kg"
+                        },
+                        {
+                            "question": "Which sport did Sujeet compete in? / सुजीत किस sport में compete करते हैं?",
+                            "options": [
+                                "Boxing",
+                                "Freestyle Wrestling",
+                                "Judo",
+                                "Weightlifting"
+                            ],
+                            "answer": "Freestyle Wrestling"
+                        },
+                        {
+                            "question": "What was special about Sujeet’s achievement? / सुजीत की achievement की खास बात क्या थी?",
+                            "options": [
+                                "India’s first Wrestling Gold of this edition",
+                                "India’s first Olympic Gold",
+                                "First Silver of the event",
+                                "First medal in boxing"
+                            ],
+                            "answer": "India’s first Wrestling Gold of this edition"
+                        },
+                        {
+                            "question": "Sujeet won the medal at which event? / सुजीत ने medal किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Wrestling Championship"
+                            ],
+                            "answer": "Asian Games"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Ankush Wins Gold in Men’s 80 kg Boxing / अंकुश ने Men’s 80 kg Boxing में Gold जीता",
+                    "summary": "Ankush won the Gold medal in the Men’s 80 kg Boxing event at the Asian Games after an emphatic victory in the final. / अंकुश ने Asian Games में Men’s 80 kg Boxing event के final में शानदार जीत के साथ Gold medal जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318272&reg=48&lang=2",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Ankush",
+                        "Sport / खेल : Boxing",
+                        "Weight Category / भार वर्ग : Men’s 80 kg",
+                        "Medal / पदक : Gold",
+                        "Event / प्रतियोगिता : Asian Games 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Ankush won Gold in which sport? / अंकुश ने किस sport में Gold जीता?",
+                            "options": [
+                                "Boxing",
+                                "Wrestling",
+                                "Hockey",
+                                "Archery"
+                            ],
+                            "answer": "Boxing"
+                        },
+                        {
+                            "question": "What was Ankush’s weight category? / अंकुश की weight category क्या थी?",
+                            "options": [
+                                "65 kg",
+                                "75 kg",
+                                "80 kg",
+                                "90 kg"
+                            ],
+                            "answer": "80 kg"
+                        },
+                        {
+                            "question": "At which event did Ankush win the medal? / अंकुश ने medal किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "World Championship",
+                                "Commonwealth Games"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "Which medal did Ankush win? / अंकुश ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Ankush won the Gold after victory in which stage? / अंकुश ने Gold किस stage में जीत के बाद प्राप्त किया?",
+                            "options": [
+                                "Qualification",
+                                "Quarter-final",
+                                "Semi-final",
+                                "Final"
+                            ],
+                            "answer": "Final"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Parveen Wins Gold in Women’s 65 kg Boxing / परवीन ने Women’s 65 kg Boxing में Gold जीता",
+                    "summary": "Parveen won the Gold medal in the Women’s 65 kg Boxing event at the Asian Games after a hard-fought final. / परवीन ने Asian Games में Women’s 65 kg Boxing event के hard-fought final के बाद Gold medal जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318269&reg=48&lang=2",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Parveen",
+                        "Sport / खेल : Boxing",
+                        "Weight Category / भार वर्ग : Women’s 65 kg",
+                        "Medal / पदक : Gold",
+                        "Event / प्रतियोगिता : Asian Games 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Parveen win? / परवीन ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Parveen competed in which sport? / परवीन ने किस sport में compete किया?",
+                            "options": [
+                                "Boxing",
+                                "Wrestling",
+                                "Hockey",
+                                "Shooting"
+                            ],
+                            "answer": "Boxing"
+                        },
+                        {
+                            "question": "What was Parveen’s weight category? / परवीन की weight category क्या थी?",
+                            "options": [
+                                "60 kg",
+                                "65 kg",
+                                "70 kg",
+                                "75 kg"
+                            ],
+                            "answer": "65 kg"
+                        },
+                        {
+                            "question": "Where did Parveen win the medal? / परवीन ने medal कहाँ जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Cup"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "How was the final described? / Final को कैसे describe किया गया?",
+                            "options": [
+                                "Easy",
+                                "Cancelled",
+                                "Hard-fought",
+                                "Uncontested"
+                            ],
+                            "answer": "Hard-fought"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Lovlina Borgohain Wins Gold in Women’s 75 kg Boxing / लवलीना बोरगोहेन ने Women’s 75 kg Boxing में Gold जीता",
+                    "summary": "Lovlina Borgohain won the Gold medal in the Women’s 75 kg Boxing event at the Asian Games with a 5-0 victory in the final. / लवलीना बोरगोहेन ने Asian Games में Women’s 75 kg Boxing event के final में 5-0 की जीत के साथ Gold medal जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318262&reg=48&lang=2",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Lovlina Borgohain",
+                        "Sport / खेल : Boxing",
+                        "Weight Category / भार वर्ग : Women’s 75 kg",
+                        "Medal / पदक : Gold",
+                        "Final Result / Final परिणाम : 5-0"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Lovlina Borgohain win? / लवलीना बोरगोहेन ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "What was her weight category? / उनकी weight category क्या थी?",
+                            "options": [
+                                "60 kg",
+                                "65 kg",
+                                "70 kg",
+                                "75 kg"
+                            ],
+                            "answer": "75 kg"
+                        },
+                        {
+                            "question": "Which sport is Lovlina associated with? / लवलीना किस sport से associated हैं?",
+                            "options": [
+                                "Boxing",
+                                "Hockey",
+                                "Wrestling",
+                                "Shooting"
+                            ],
+                            "answer": "Boxing"
+                        },
+                        {
+                            "question": "What was the score in the final? / Final का score क्या था?",
+                            "options": [
+                                "3-2",
+                                "4-1",
+                                "5-0",
+                                "2-1"
+                            ],
+                            "answer": "5-0"
+                        },
+                        {
+                            "question": "At which event did Lovlina win Gold? / लवलीना ने Gold किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "World Championship",
+                                "Commonwealth Games"
+                            ],
+                            "answer": "Asian Games"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "India Wins Historic Bronze in Men’s Quadrant Sepaktakraw / भारत ने Men’s Quadrant Sepaktakraw में ऐतिहासिक Bronze जीता",
+                    "summary": "India’s Men’s Quadrant Team won a Bronze medal in Sepaktakraw at the Asian Games. It was India’s first-ever medal in the Men’s Quadrant event at the Games. / भारत की Men’s Quadrant Team ने Asian Games में Sepaktakraw में Bronze medal जीता। यह Games के Men’s Quadrant event में भारत का पहला-ever medal था।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318267&reg=48&lang=2",
+                    "staticGK": [
+                        "Sport / खेल : Sepaktakraw",
+                        "Event / स्पर्धा : Men’s Quadrant",
+                        "Medal / पदक : Bronze",
+                        "Team / टीम : Indian Men’s Quadrant Team",
+                        "Historic Fact / ऐतिहासिक तथ्य : India’s first-ever medal in Men’s Quadrant at the Games"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which sport was involved in India’s historic medal? / भारत के historic medal से कौन-सा sport जुड़ा है?",
+                            "options": [
+                                "Sepaktakraw",
+                                "Hockey",
+                                "Boxing",
+                                "Wrestling"
+                            ],
+                            "answer": "Sepaktakraw"
+                        },
+                        {
+                            "question": "Which medal did India win? / भारत ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "No medal"
+                            ],
+                            "answer": "Bronze"
+                        },
+                        {
+                            "question": "Which event was involved? / कौन-सी event involved थी?",
+                            "options": [
+                                "Men’s Quadrant",
+                                "Women’s Team",
+                                "Mixed Doubles",
+                                "Men’s Singles"
+                            ],
+                            "answer": "Men’s Quadrant"
+                        },
+                        {
+                            "question": "What was special about this medal? / इस medal की खास बात क्या थी?",
+                            "options": [
+                                "India’s first-ever medal in Men’s Quadrant at the Games",
+                                "India’s first Olympic medal",
+                                "India’s first Gold",
+                                "India’s first hockey medal"
+                            ],
+                            "answer": "India’s first-ever medal in Men’s Quadrant at the Games"
+                        },
+                        {
+                            "question": "At which event was the medal won? / Medal किस event में जीता गया?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Cup"
+                            ],
+                            "answer": "Asian Games"
+                        }
+                    ]
+                },
+                {
+                    "category": "Geography & Administration",
+                    "title": "28 Places and Features of Ladakh Identified on Survey of India Map / Ladakh के 28 Places और Features को Survey of India Map पर चिन्हित किया गया",
+                    "summary": "The Government of India, in consultation with the Union Territory of Ladakh, identified 28 places and features in Ladakh by standard names on the official Survey of India map. / भारत सरकार ने UT Ladakh के परामर्श से Ladakh के 28 places और features को standard names के साथ Survey of India के official map पर चिन्हित किया।",
+                    "sourceName": "Ministry of Home Affairs / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318027&reg=48&lang=2",
+                    "staticGK": [
+                        "Region / क्षेत्र : Union Territory of Ladakh",
+                        "Number of Places/Features / संख्या : 28",
+                        "Official Map / आधिकारिक मानचित्र : Survey of India",
+                        "Example Feature / उदाहरण : Yangpa River",
+                        "Example Peak / उदाहरण : Zorawar Peak"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many places/features were identified in Ladakh? / Ladakh में कितने places/features identify किए गए?",
+                            "options": [
+                                "18",
+                                "28",
+                                "38",
+                                "48"
+                            ],
+                            "answer": "28"
+                        },
+                        {
+                            "question": "Which organisation’s official map includes these features? / इन features को किस organisation के official map पर चिन्हित किया गया?",
+                            "options": [
+                                "Survey of India",
+                                "ISRO",
+                                "ASI",
+                                "NITI Aayog"
+                            ],
+                            "answer": "Survey of India"
+                        },
+                        {
+                            "question": "Ladakh is a what? / Ladakh क्या है?",
+                            "options": [
+                                "State",
+                                "Union Territory",
+                                "District",
+                                "Municipal Corporation"
+                            ],
+                            "answer": "Union Territory"
+                        },
+                        {
+                            "question": "Which of the following is identified as a river? / इनमें से कौन river के रूप में identified है?",
+                            "options": [
+                                "Yangpa River",
+                                "Zorawar Peak",
+                                "Parpik",
+                                "Atisha Giri"
+                            ],
+                            "answer": "Yangpa River"
+                        },
+                        {
+                            "question": "Which of the following is a peak listed in the release? / निम्न में से कौन-सा listed peak है?",
+                            "options": [
+                                "Zorawar Peak",
+                                "Yangpa River",
+                                "Shkorga Valley",
+                                "Guru Rinpoche Lake"
+                            ],
+                            "answer": "Zorawar Peak"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture & Exports",
+                    "title": "Bihar’s Makhana Exported to Greece Through APEDA / APEDA के माध्यम से Bihar का Makhana Greece Export हुआ",
+                    "summary": "APEDA facilitated the export of 1 MT of popped Makhana from Purnea, Bihar to Greece. The shipment is to move from Mundra Port in India to Piraeus Port in Greece. / APEDA ने Purnea, Bihar से 1 MT popped Makhana को Greece export करने की सुविधा दी। Shipment India के Mundra Port से Greece के Piraeus Port जाएगा।",
+                    "sourceName": "Ministry of Commerce & Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318075&reg=48&lang=2",
+                    "staticGK": [
+                        "Product / उत्पाद : Popped (Phool) Makhana",
+                        "Quantity / मात्रा : 1 MT",
+                        "Origin / स्रोत : Purnea, Bihar",
+                        "Destination / गंतव्य : Greece",
+                        "Ports / Ports : Mundra Port to Piraeus Port"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which product was exported to Greece? / Greece को कौन-सा product export किया गया?",
+                            "options": [
+                                "Makhana",
+                                "Tea",
+                                "Rice",
+                                "Spices"
+                            ],
+                            "answer": "Makhana"
+                        },
+                        {
+                            "question": "From which Indian district was the Makhana consignment sourced? / Makhana consignment किस Indian district से sourced था?",
+                            "options": [
+                                "Purnea",
+                                "Patna",
+                                "Gaya",
+                                "Muzaffarpur"
+                            ],
+                            "answer": "Purnea"
+                        },
+                        {
+                            "question": "Which state is associated with the Makhana consignment? / Makhana consignment किस state से associated है?",
+                            "options": [
+                                "Bihar",
+                                "Uttar Pradesh",
+                                "West Bengal",
+                                "Odisha"
+                            ],
+                            "answer": "Bihar"
+                        },
+                        {
+                            "question": "What was the quantity of the exported consignment? / Exported consignment की quantity कितनी थी?",
+                            "options": [
+                                "500 kg",
+                                "1 MT",
+                                "5 MT",
+                                "10 MT"
+                            ],
+                            "answer": "1 MT"
+                        },
+                        {
+                            "question": "Which Greek port is the destination port? / Greece का destination port कौन-सा है?",
+                            "options": [
+                                "Piraeus Port",
+                                "Athens Port",
+                                "Thessaloniki Port",
+                                "Patras Port"
+                            ],
+                            "answer": "Piraeus Port"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Exports",
+                    "title": "RELIEF Intervention Timeline Extended to Support Exporters / Exporters को support देने के लिए RELIEF Intervention की Timeline बढ़ाई गई",
+                    "summary": "The Department of Commerce extended timelines under Component II of RELIEF to support exporters affected by disruptions in West Asia maritime logistics. The component encourages exporters to obtain ECGC cover with 95% risk coverage for specified shipments. / Department of Commerce ने West Asia maritime logistics disruptions से प्रभावित exporters को support देने के लिए RELIEF के Component II की timelines बढ़ाईं। इस component में specified shipments के लिए ECGC cover और 95% risk coverage का प्रावधान है।",
+                    "sourceName": "Ministry of Commerce & Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318053&reg=48&lang=2",
+                    "staticGK": [
+                        "Scheme / योजना : RELIEF",
+                        "Full Form / पूरा नाम : Resilience & Logistics Intervention for Export Facilitation",
+                        "Component / घटक : Component II",
+                        "Risk Coverage / Risk कवरेज : 95%",
+                        "Launch Date / शुरुआत : 19 March 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of RELIEF? / RELIEF का full form क्या है?",
+                            "options": [
+                                "Resilience & Logistics Intervention for Export Facilitation",
+                                "Regional Logistics Initiative for Export Finance",
+                                "Resilient Economic Logistics and Industrial Export Framework",
+                                "Rapid Export Logistics Improvement Fund"
+                            ],
+                            "answer": "Resilience & Logistics Intervention for Export Facilitation"
+                        },
+                        {
+                            "question": "Which component’s timeline was extended? / किस component की timeline extend की गई?",
+                            "options": [
+                                "Component I",
+                                "Component II",
+                                "Component III",
+                                "Component IV"
+                            ],
+                            "answer": "Component II"
+                        },
+                        {
+                            "question": "What risk coverage is provided under the component? / इस component के तहत कितनी risk coverage है?",
+                            "options": [
+                                "75%",
+                                "85%",
+                                "90%",
+                                "95%"
+                            ],
+                            "answer": "95%"
+                        },
+                        {
+                            "question": "RELIEF was launched on which date? / RELIEF किस date को launched हुआ था?",
+                            "options": [
+                                "19 March 2026",
+                                "1 April 2026",
+                                "15 August 2026",
+                                "2 October 2026"
+                            ],
+                            "answer": "19 March 2026"
+                        },
+                        {
+                            "question": "Which sector is primarily supported by RELIEF? / RELIEF मुख्य रूप से किस sector को support करता है?",
+                            "options": [
+                                "Exporters",
+                                "Tourism operators",
+                                "School students",
+                                "Sports teams"
+                            ],
+                            "answer": "Exporters"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Ports",
+                    "title": "Mumbai’s Jawahar Dweep Becomes India’s First Plastic-free Oil Terminal / Mumbai का Jawahar Dweep भारत का पहला Plastic-free Oil Terminal बना",
+                    "summary": "Mumbai Port Authority declared Jawahar Dweep Marine Oil Terminal plastic-free during Swachhata Abhiyan 2026. The initiative aims to reduce single-use plastic across port operations. / Mumbai Port Authority ने Swachhata Abhiyan 2026 के दौरान Jawahar Dweep Marine Oil Terminal को plastic-free घोषित किया। इसका उद्देश्य port operations में single-use plastic को कम करना है।",
+                    "sourceName": "Ministry of Ports, Shipping and Waterways / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318498&reg=48&lang=2",
+                    "staticGK": [
+                        "Terminal / टर्मिनल : Jawahar Dweep Marine Oil Terminal",
+                        "Port / Port : Mumbai Port",
+                        "Status / स्थिति : India’s first plastic-free oil terminal",
+                        "Programme / कार्यक्रम : Swachhata Abhiyan 2026",
+                        "Focus / मुख्य focus : Reduction of single-use plastic"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which terminal became India’s first plastic-free oil terminal? / कौन-सा terminal India का पहला plastic-free oil terminal बना?",
+                            "options": [
+                                "Jawahar Dweep",
+                                "Kandla Oil Terminal",
+                                "Cochin Oil Terminal",
+                                "Paradip Oil Terminal"
+                            ],
+                            "answer": "Jawahar Dweep"
+                        },
+                        {
+                            "question": "Jawahar Dweep is associated with which port? / Jawahar Dweep किस port से associated है?",
+                            "options": [
+                                "Mumbai Port",
+                                "Chennai Port",
+                                "Kolkata Port",
+                                "Visakhapatnam Port"
+                            ],
+                            "answer": "Mumbai Port"
+                        },
+                        {
+                            "question": "What was the main environmental focus? / मुख्य environmental focus क्या था?",
+                            "options": [
+                                "Reduction of single-use plastic",
+                                "Coal production",
+                                "Road construction",
+                                "Oil exploration"
+                            ],
+                            "answer": "Reduction of single-use plastic"
+                        },
+                        {
+                            "question": "During which programme was the declaration made? / Declaration किस programme के दौरान की गई?",
+                            "options": [
+                                "Swachhata Abhiyan 2026",
+                                "Fit India Mission",
+                                "Jal Jeevan Mission",
+                                "Khelo India"
+                            ],
+                            "answer": "Swachhata Abhiyan 2026"
+                        },
+                        {
+                            "question": "Which ministry is associated with the release? / यह release किस ministry से associated है?",
+                            "options": [
+                                "Ministry of Ports, Shipping and Waterways",
+                                "Ministry of Environment only",
+                                "Ministry of Finance",
+                                "Ministry of Agriculture"
+                            ],
+                            "answer": "Ministry of Ports, Shipping and Waterways"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
