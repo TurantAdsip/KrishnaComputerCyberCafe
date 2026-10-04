@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-04-history",
+  "title": "Class 10 NCERT History Quiz",
+  "date": "4 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "फ्रांसीसी क्रांति के दौरान फ्रांस में कौन-सा विचार लोकप्रिय हुआ? / Which idea became popular during the French Revolution?",
+      "options": [
+        "स्वतंत्रता, समानता और बंधुत्व / Liberty, Equality and Fraternity",
+        "राजतंत्र और साम्राज्यवाद / Monarchy and Imperialism",
+        "सैन्य शासन / Military Rule",
+        "निरंकुशता / Absolutism"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "जर्मनी के एकीकरण में किस राज्य ने प्रमुख भूमिका निभाई? / Which state played the leading role in the unification of Germany?",
+      "options": [
+        "प्रशा / Prussia",
+        "बवेरिया / Bavaria",
+        "सैक्सोनी / Saxony",
+        "हैम्बर्ग / Hamburg"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "भारत में सत्याग्रह का प्रयोग सबसे पहले महात्मा गांधी ने किस देश में किया था? / In which country did Mahatma Gandhi first use the method of Satyagraha?",
+      "options": [
+        "दक्षिण अफ्रीका / South Africa",
+        "भारत / India",
+        "इंग्लैंड / England",
+        "श्रीलंका / Sri Lanka"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "रॉलेट एक्ट किस वर्ष पारित किया गया था? / In which year was the Rowlatt Act passed?",
+      "options": [
+        "1919",
+        "1920",
+        "1915",
+        "1930"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "जलियांवाला बाग हत्याकांड कब हुआ था? / When did the Jallianwala Bagh massacre take place?",
+      "options": [
+        "13 अप्रैल 1919 / 13 April 1919",
+        "26 जनवरी 1920 / 26 January 1920",
+        "15 अगस्त 1919 / 15 August 1919",
+        "5 फरवरी 1922 / 5 February 1922"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "दांडी मार्च किस आंदोलन से संबंधित था? / The Dandi March was associated with which movement?",
+      "options": [
+        "सविनय अवज्ञा आंदोलन / Civil Disobedience Movement",
+        "असहयोग आंदोलन / Non-Cooperation Movement",
+        "भारत छोड़ो आंदोलन / Quit India Movement",
+        "खिलाफत आंदोलन / Khilafat Movement"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में छापाखाना सबसे पहले किस शहर में स्थापित हुआ था? / In which city was the first printing press established in India?",
+      "options": [
+        "गोवा / Goa",
+        "दिल्ली / Delhi",
+        "मुंबई / Mumbai",
+        "कोलकाता / Kolkata"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "स्पिनिंग जेनी का आविष्कार किसने किया था? / Who invented the Spinning Jenny?",
+      "options": [
+        "जेम्स हरग्रीव्स / James Hargreaves",
+        "जेम्स वाट / James Watt",
+        "रिचर्ड आर्कराइट / Richard Arkwright",
+        "सैमुअल क्रॉम्पटन / Samuel Crompton"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "वर्नाक्युलर प्रेस एक्ट किस वर्ष लागू किया गया था? / In which year was the Vernacular Press Act introduced?",
+      "options": [
+        "1878",
+        "1885",
+        "1905",
+        "1919"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "प्रथम विश्व युद्ध किस अवधि के बीच हुआ था? / Between which years did the First World War take place?",
+      "options": [
+        "1914–1918",
+        "1912–1916",
+        "1918–1922",
+        "1939–1945"
+      ],
+      "answer": 0
+    }
+  ]
+}

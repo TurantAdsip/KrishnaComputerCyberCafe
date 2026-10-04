@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-05-geography",
+  "title": "Class 10 NCERT Geography Quiz",
+  "date": "5 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में भूमि उपयोग का सबसे बड़ा भाग किस प्रकार की भूमि के अंतर्गत आता है? / Which category accounts for the largest share of land use in India?",
+      "options": [
+        "कृषि भूमि / Agricultural land",
+        "वन भूमि / Forest land",
+        "बंजर भूमि / Barren land",
+        "चारागाह भूमि / Pasture land"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "काली मिट्टी किस फसल की खेती के लिए सबसे उपयुक्त मानी जाती है? / Black soil is most suitable for which crop?",
+      "options": [
+        "कपास / Cotton",
+        "चाय / Tea",
+        "गेहूँ / Wheat",
+        "जूट / Jute"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "भारत में सबसे अधिक वर्षा वाला क्षेत्र किस प्रकार के वन के लिए उपयुक्त है? / Areas receiving heavy rainfall are suitable for which type of forests?",
+      "options": [
+        "उष्णकटिबंधीय सदाबहार वन / Tropical Evergreen Forests",
+        "कंटीले वन / Thorn Forests",
+        "पर्णपाती वन / Deciduous Forests",
+        "पर्वतीय वन / Mountain Forests"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "भारत में वन्यजीव संरक्षण अधिनियम कब लागू किया गया था? / When was the Wildlife Protection Act implemented in India?",
+      "options": [
+        "1972",
+        "1965",
+        "1980",
+        "1991"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "बहुउद्देशीय नदी घाटी परियोजनाओं का प्रमुख उद्देश्य क्या है? / What is a major purpose of multipurpose river valley projects?",
+      "options": [
+        "सिंचाई और बिजली उत्पादन / Irrigation and electricity generation",
+        "केवल मछली पालन / Only fishing",
+        "केवल परिवहन / Only transportation",
+        "केवल पर्यटन / Only tourism"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "भारत में चाय का प्रमुख उत्पादक राज्य कौन-सा है? / Which is a major tea-producing state in India?",
+      "options": [
+        "असम / Assam",
+        "राजस्थान / Rajasthan",
+        "पंजाब / Punjab",
+        "हरियाणा / Haryana"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "रबी फसलें सामान्यतः कब बोई जाती हैं? / When are Rabi crops generally sown?",
+      "options": [
+        "सर्दियों में / During winter",
+        "मानसून के आरंभ में / At the beginning of monsoon",
+        "गर्मियों के अंत में / At the end of summer",
+        "वर्षा ऋतु के मध्य में / During the middle of rainy season"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "भारत में सबसे अधिक क्षेत्र में कौन-सी फसल उगाई जाती है? / Which crop is grown over the largest area in India?",
+      "options": [
+        "चावल / Rice",
+        "गेहूँ / Wheat",
+        "कपास / Cotton",
+        "चाय / Tea"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "बॉक्साइट किस प्रकार का संसाधन है? / What type of resource is bauxite?",
+      "options": [
+        "खनिज संसाधन / Mineral resource",
+        "वन संसाधन / Forest resource",
+        "जल संसाधन / Water resource",
+        "कृषि संसाधन / Agricultural resource"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "भारत में लौह-अयस्क का प्रमुख उत्पादक राज्य कौन-सा है? / Which is a major iron ore producing state in India?",
+      "options": [
+        "ओडिशा / Odisha",
+        "पंजाब / Punjab",
+        "हरियाणा / Haryana",
+        "बिहार / Bihar"
+      ],
+      "answer": 0
+    }
+  ]
+}

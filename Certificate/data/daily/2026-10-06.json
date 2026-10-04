@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-06-polity",
+  "title": "Class 10 NCERT Political Science Quiz",
+  "date": "6 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "सत्ता की साझेदारी लोकतंत्र के लिए क्यों महत्वपूर्ण है? / Why is power sharing important for democracy?",
+      "options": [
+        "यह विभिन्न समूहों की भागीदारी सुनिश्चित करती है / It ensures participation of different groups",
+        "यह केवल बहुमत को शक्ति देती है / It gives power only to the majority",
+        "यह चुनाव समाप्त करती है / It ends elections",
+        "यह विपक्ष को समाप्त करती है / It eliminates the opposition"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "भारत में संघ सूची के विषयों पर कानून कौन बना सकता है? / Who can make laws on subjects in the Union List in India?",
+      "options": [
+        "केंद्र सरकार / Union Government",
+        "राज्य सरकार / State Government",
+        "स्थानीय सरकार / Local Government",
+        "ग्राम पंचायत / Gram Panchayat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "भारत में सरकार के कितने स्तर हैं? / How many levels of government are there in India?",
+      "options": [
+        "तीन / Three",
+        "दो / Two",
+        "चार / Four",
+        "पाँच / Five"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "राजनीतिक दलों का मुख्य उद्देश्य क्या होता है? / What is the main objective of political parties?",
+      "options": [
+        "चुनाव लड़ना और सरकार बनाना / To contest elections and form government",
+        "न्यायपालिका चलाना / To run the judiciary",
+        "सेना का संचालन करना / To operate the military",
+        "संविधान समाप्त करना / To abolish the Constitution"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में कितने राष्ट्रीय राजनीतिक दलों को निर्वाचन आयोग द्वारा मान्यता प्राप्त है? / How many national political parties are recognised by the Election Commission of India?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "लोकतंत्र में विपक्षी दल की महत्वपूर्ण भूमिका क्या है? / What is an important role of the opposition party in a democracy?",
+      "options": [
+        "सरकार की नीतियों की आलोचना और निगरानी करना / To criticise and monitor government policies",
+        "सरकार को समाप्त करना / To abolish the government",
+        "चुनाव रोकना / To stop elections",
+        "न्यायपालिका को नियंत्रित करना / To control the judiciary"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में स्थानीय सरकारों को संवैधानिक दर्जा किस संशोधन से मिला? / Which amendments gave constitutional status to local governments in India?",
+      "options": [
+        "73वाँ और 74वाँ संशोधन / 73rd and 74th Amendments",
+        "42वाँ और 44वाँ संशोधन / 42nd and 44th Amendments",
+        "61वाँ और 62वाँ संशोधन / 61st and 62nd Amendments",
+        "86वाँ और 87वाँ संशोधन / 86th and 87th Amendments"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "जाति और राजनीति के बीच संबंध किस प्रकार का है? / What is the relationship between caste and politics?",
+      "options": [
+        "दोनों एक-दूसरे को प्रभावित करते हैं / Both influence each other",
+        "जाति का राजनीति से कोई संबंध नहीं है / Caste has no relation to politics",
+        "केवल राजनीति जाति को प्रभावित करती है / Only politics influences caste",
+        "जाति हमेशा राजनीति को नियंत्रित करती है / Caste always controls politics"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "भारत में धर्मनिरपेक्षता का मुख्य अर्थ क्या है? / What is the main meaning of secularism in India?",
+      "options": [
+        "सभी धर्मों के प्रति समान व्यवहार / Equal treatment of all religions",
+        "एक धर्म को विशेष दर्जा देना / Giving special status to one religion",
+        "धर्म पर पूर्ण प्रतिबंध / Complete ban on religion",
+        "केवल बहुसंख्यक धर्म को मान्यता देना / Recognising only the majority religion"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "लोकतंत्र का एक प्रमुख परिणाम क्या है? / What is a major outcome of democracy?",
+      "options": [
+        "जवाबदेह और उत्तरदायी सरकार / Accountable and responsive government",
+        "निरंकुश शासन / Dictatorial government",
+        "सैन्य शासन / Military rule",
+        "एकदलीय शासन / One-party rule"
+      ],
+      "answer": 0
+    }
+  ]
+}
