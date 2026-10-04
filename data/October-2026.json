@@ -2070,6 +2070,740 @@
                     ]
                 }
             ]
+        },
+          {
+            "id": "2026-10-04",
+            "date": "4 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 4 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Sports",
+                    "title": "Indian Men’s Hockey Team Retains Gold at Asian Games / भारतीय पुरुष हॉकी टीम ने Asian Games में Gold बरकरार रखा",
+                    "summary": "The Indian Men’s Hockey Team retained the Asian Games Gold with a commanding victory in the final. India won back-to-back Asian Games Golds for the first time and secured its fifth Gold overall. / भारतीय पुरुष हॉकी टीम ने final में शानदार जीत के साथ Asian Games Gold बरकरार रखा। भारत ने पहली बार लगातार दो Asian Games Gold जीते और कुल पाँचवाँ Gold हासिल किया।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318743&lang=1&reg=3",
+                    "staticGK": [
+                        "Sport / खेल : Men’s Hockey",
+                        "Event / प्रतियोगिता : Asian Games 2026",
+                        "Medal / पदक : Gold",
+                        "Achievement / उपलब्धि : Back-to-back Asian Games Golds",
+                        "Special Fact / विशेष तथ्य : Fifth Asian Games Gold overall"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did the Indian Men’s Hockey Team retain? / भारतीय पुरुष हॉकी टीम ने कौन-सा medal बरकरार रखा?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "In which event did India retain the medal? / भारत ने किस event में medal बरकरार रखा?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "World Cup",
+                                "Commonwealth Games"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "How many Asian Games Golds has India won overall in Men’s Hockey after this achievement? / इस उपलब्धि के बाद Men’s Hockey में भारत के कुल कितने Asian Games Gold हैं?",
+                            "options": [
+                                "Three",
+                                "Four",
+                                "Five",
+                                "Six"
+                            ],
+                            "answer": "Five"
+                        },
+                        {
+                            "question": "What was special about the achievement? / इस achievement की खास बात क्या थी?",
+                            "options": [
+                                "First back-to-back Asian Games Golds",
+                                "First Olympic Gold",
+                                "First World Cup Gold",
+                                "First Asian Games medal"
+                            ],
+                            "answer": "First back-to-back Asian Games Golds"
+                        },
+                        {
+                            "question": "Which sport is associated with the achievement? / यह achievement किस sport से संबंधित है?",
+                            "options": [
+                                "Hockey",
+                                "Cricket",
+                                "Wrestling",
+                                "Archery"
+                            ],
+                            "answer": "Hockey"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Aman Sehrawat Wins Historic Gold in Men’s 57 kg Freestyle Wrestling / अमन सहरावत ने Men’s 57 kg Freestyle Wrestling में Historic Gold जीता",
+                    "summary": "Aman Sehrawat won a historic Gold medal in the Men’s 57 kg Freestyle Wrestling event at the Asian Games. / अमन सहरावत ने Asian Games में Men’s 57 kg Freestyle Wrestling event में historic Gold medal जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PMContents/PMContents.aspx?lang=1&menuid=1&reg=34",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Aman Sehrawat",
+                        "Sport / खेल : Freestyle Wrestling",
+                        "Weight Category / भार वर्ग : Men’s 57 kg",
+                        "Medal / पदक : Gold",
+                        "Event / प्रतियोगिता : Asian Games 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Aman Sehrawat win? / अमन सहरावत ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "What was Aman Sehrawat’s weight category? / अमन सहरावत की weight category क्या थी?",
+                            "options": [
+                                "57 kg",
+                                "65 kg",
+                                "74 kg",
+                                "86 kg"
+                            ],
+                            "answer": "57 kg"
+                        },
+                        {
+                            "question": "Which sport did Aman Sehrawat compete in? / अमन सहरावत ने किस sport में compete किया?",
+                            "options": [
+                                "Freestyle Wrestling",
+                                "Boxing",
+                                "Judo",
+                                "Shooting"
+                            ],
+                            "answer": "Freestyle Wrestling"
+                        },
+                        {
+                            "question": "At which event did he win the medal? / उन्होंने medal किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Championship"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "What was the colour of Aman’s medal? / अमन के medal का colour क्या था?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Indian Men’s Cricket Team Retains Gold at Asian Games / भारतीय पुरुष Cricket Team ने Asian Games में Gold बरकरार रखा",
+                    "summary": "The Indian Men’s Cricket Team retained its Gold medal at the Asian Games, continuing its title-winning performance. / भारतीय पुरुष Cricket Team ने Asian Games में अपना Gold medal बरकरार रखते हुए title-winning performance जारी रखी।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318678&lang=1&reg=3",
+                    "staticGK": [
+                        "Sport / खेल : Cricket",
+                        "Event / प्रतियोगिता : Asian Games 2026",
+                        "Medal / पदक : Gold",
+                        "Team / टीम : Indian Men’s Cricket Team",
+                        "Achievement / उपलब्धि : Retained the title"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did India retain in Men’s Cricket? / Men’s Cricket में भारत ने कौन-सा medal बरकरार रखा?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Which team retained the title? / किस team ने title retain किया?",
+                            "options": [
+                                "Indian Men’s Cricket Team",
+                                "Indian Women’s Cricket Team",
+                                "Indian Men’s Hockey Team",
+                                "Indian Men’s Football Team"
+                            ],
+                            "answer": "Indian Men’s Cricket Team"
+                        },
+                        {
+                            "question": "At which event did India retain Gold? / भारत ने Gold किस event में बरकरार रखा?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "World Cup",
+                                "Commonwealth Games"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "Which sport was involved? / कौन-सा sport involved था?",
+                            "options": [
+                                "Cricket",
+                                "Hockey",
+                                "Wrestling",
+                                "Archery"
+                            ],
+                            "answer": "Cricket"
+                        },
+                        {
+                            "question": "What did the team retain? / Team ने क्या retain किया?",
+                            "options": [
+                                "Its Gold medal/title",
+                                "Silver medal",
+                                "Bronze medal",
+                                "Only participation"
+                            ],
+                            "answer": "Its Gold medal/title"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Pranavi Sharath Urs Wins India’s First Women’s Individual Golf Gold at Asian Games / प्रणवी शरत उर्स ने Asian Games में India का पहला Women’s Individual Golf Gold जीता",
+                    "summary": "Pranavi Sharath Urs won India’s first-ever Gold in Women’s Individual Golf at the Asian Games. / प्रणवी शरत उर्स ने Asian Games में Women’s Individual Golf में भारत का पहला-ever Gold medal जीता।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2318677&lang=1&reg=3",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Pranavi Sharath Urs",
+                        "Sport / खेल : Golf",
+                        "Event / स्पर्धा : Women’s Individual Golf",
+                        "Medal / पदक : Gold",
+                        "Special Fact / विशेष तथ्य : India’s first-ever Gold in Women’s Individual Golf at the Asian Games"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won India’s first-ever Asian Games Gold in Women’s Individual Golf? / Women’s Individual Golf में भारत का पहला Asian Games Gold किसने जीता?",
+                            "options": [
+                                "Pranavi Sharath Urs",
+                                "Aditi Ashok",
+                                "Avani Prashanth",
+                                "Vani Kapoor"
+                            ],
+                            "answer": "Pranavi Sharath Urs"
+                        },
+                        {
+                            "question": "Which sport is associated with Pranavi’s achievement? / प्रणवी की achievement किस sport से संबंधित है?",
+                            "options": [
+                                "Golf",
+                                "Hockey",
+                                "Archery",
+                                "Shooting"
+                            ],
+                            "answer": "Golf"
+                        },
+                        {
+                            "question": "Which medal did she win? / उन्होंने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "At which event did she win the medal? / उन्होंने medal किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Cup"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "What was historic about the achievement? / Achievement में historic क्या था?",
+                            "options": [
+                                "India’s first-ever Gold in Women’s Individual Golf",
+                                "India’s first Olympic Gold",
+                                "India’s first golf medal at any event",
+                                "India’s first Silver"
+                            ],
+                            "answer": "India’s first-ever Gold in Women’s Individual Golf"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Kumkum Anil Mohod Wins Historic Gold in Recurve Individual Archery / कुमकुम अनिल मोहोड ने Recurve Individual Archery में Historic Gold जीता",
+                    "summary": "Kumkum Anil Mohod became the first Indian woman to win Recurve Individual Gold at the 2026 Asian Games. / कुमकुम अनिल मोहोड 2026 Asian Games में Recurve Individual Gold जीतने वाली पहली Indian woman बनीं।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318676&lang=1&reg=3",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Kumkum Anil Mohod",
+                        "Sport / खेल : Archery",
+                        "Event / स्पर्धा : Recurve Individual",
+                        "Medal / पदक : Gold",
+                        "Historic Fact / ऐतिहासिक तथ्य : First Indian woman to win Recurve Individual Gold at the Asian Games"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won historic Recurve Individual Gold? / Historic Recurve Individual Gold किसने जीता?",
+                            "options": [
+                                "Kumkum Anil Mohod",
+                                "Ankita Bhakat",
+                                "Dhiraj Bommadevara",
+                                "Deepika Kumari"
+                            ],
+                            "answer": "Kumkum Anil Mohod"
+                        },
+                        {
+                            "question": "Which sport is associated with the achievement? / Achievement किस sport से संबंधित है?",
+                            "options": [
+                                "Archery",
+                                "Boxing",
+                                "Wrestling",
+                                "Golf"
+                            ],
+                            "answer": "Archery"
+                        },
+                        {
+                            "question": "Which medal did Kumkum win? / कुमकुम ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Gold"
+                        },
+                        {
+                            "question": "Which event did she win? / उन्होंने कौन-सा event जीता?",
+                            "options": [
+                                "Recurve Individual",
+                                "Recurve Mixed Team",
+                                "Compound Individual",
+                                "Team Sprint"
+                            ],
+                            "answer": "Recurve Individual"
+                        },
+                        {
+                            "question": "What was historic about her victory? / उनकी victory में historic क्या था?",
+                            "options": [
+                                "First Indian woman to win Recurve Individual Gold",
+                                "First Indian woman in archery",
+                                "First Asian Games medal by India",
+                                "First Olympic Gold"
+                            ],
+                            "answer": "First Indian woman to win Recurve Individual Gold"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "Deepak Punia Wins Bronze in Men’s 97 kg Freestyle Wrestling / दीपक पूनिया ने Men’s 97 kg Freestyle Wrestling में Bronze जीता",
+                    "summary": "Deepak Punia won the Bronze medal in Men’s 97 kg Freestyle Wrestling at the Asian Games. India returned to the podium in this event after six decades. / दीपक पूनिया ने Asian Games में Men’s 97 kg Freestyle Wrestling में Bronze medal जीता। इस event में भारत छह दशक बाद podium पर लौटा।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318742&lang=1&reg=3",
+                    "staticGK": [
+                        "Athlete / खिलाड़ी : Deepak Punia",
+                        "Sport / खेल : Freestyle Wrestling",
+                        "Weight Category / भार वर्ग : Men’s 97 kg",
+                        "Medal / पदक : Bronze",
+                        "Special Fact / विशेष तथ्य : India returned to the podium in this event after six decades"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which medal did Deepak Punia win? / दीपक पूनिया ने कौन-सा medal जीता?",
+                            "options": [
+                                "Gold",
+                                "Silver",
+                                "Bronze",
+                                "None"
+                            ],
+                            "answer": "Bronze"
+                        },
+                        {
+                            "question": "What was his weight category? / उनकी weight category क्या थी?",
+                            "options": [
+                                "86 kg",
+                                "97 kg",
+                                "65 kg",
+                                "74 kg"
+                            ],
+                            "answer": "97 kg"
+                        },
+                        {
+                            "question": "Which sport did Deepak Punia compete in? / दीपक पूनिया ने किस sport में compete किया?",
+                            "options": [
+                                "Freestyle Wrestling",
+                                "Boxing",
+                                "Judo",
+                                "Hockey"
+                            ],
+                            "answer": "Freestyle Wrestling"
+                        },
+                        {
+                            "question": "At which event did he win the medal? / उन्होंने medal किस event में जीता?",
+                            "options": [
+                                "Asian Games",
+                                "Olympics",
+                                "Commonwealth Games",
+                                "World Cup"
+                            ],
+                            "answer": "Asian Games"
+                        },
+                        {
+                            "question": "After how long did India return to the podium in this event? / इस event में भारत कितने समय बाद podium पर लौटा?",
+                            "options": [
+                                "Four decades",
+                                "Five decades",
+                                "Six decades",
+                                "Seven decades"
+                            ],
+                            "answer": "Six decades"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "India Demonstrates First 5.56 km Free-Space Quantum Key Distribution Link / भारत ने पहला 5.56 km Free-Space Quantum Key Distribution Link Demonstrate किया",
+                    "summary": "India’s first free-space Quantum Key Distribution (QKD) link was demonstrated over 5.56 km between BISAG-N and IIT Gandhinagar. / भारत का पहला free-space Quantum Key Distribution (QKD) link 5.56 km की दूरी पर BISAG-N और IIT Gandhinagar के बीच demonstrate किया गया।",
+                    "sourceName": "Ministry of Electronics & Information Technology / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318656&lang=1&reg=3",
+                    "staticGK": [
+                        "Technology / तकनीक : Quantum Key Distribution (QKD)",
+                        "Distance / दूरी : 5.56 km",
+                        "Institutions / संस्थान : BISAG-N and IIT Gandhinagar",
+                        "Key Rate / Key दर : 230–260 bps",
+                        "Special Fact / विशेष तथ्य : India’s first free-space QKD link"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was the distance of India’s first demonstrated free-space QKD link? / भारत के पहले demonstrated free-space QKD link की दूरी कितनी थी?",
+                            "options": [
+                                "5.56 km",
+                                "2.56 km",
+                                "10 km",
+                                "15.56 km"
+                            ],
+                            "answer": "5.56 km"
+                        },
+                        {
+                            "question": "What does QKD stand for? / QKD का full form क्या है?",
+                            "options": [
+                                "Quantum Key Distribution",
+                                "Quantum Knowledge Data",
+                                "Quick Key Deployment",
+                                "Quantum Kernel Device"
+                            ],
+                            "answer": "Quantum Key Distribution"
+                        },
+                        {
+                            "question": "Which two institutions were connected in the field trial? / Field trial में कौन-से दो institutions connected थे?",
+                            "options": [
+                                "BISAG-N and IIT Gandhinagar",
+                                "ISRO and IIT Delhi",
+                                "DRDO and IIT Bombay",
+                                "BARC and IIT Kanpur"
+                            ],
+                            "answer": "BISAG-N and IIT Gandhinagar"
+                        },
+                        {
+                            "question": "What was the secure key generation rate achieved? / Secure key generation rate कितना achieve हुआ?",
+                            "options": [
+                                "230–260 bps",
+                                "50–70 bps",
+                                "500–600 bps",
+                                "1–2 Mbps"
+                            ],
+                            "answer": "230–260 bps"
+                        },
+                        {
+                            "question": "Which ministry reported the demonstration? / Demonstration को किस ministry ने report किया?",
+                            "options": [
+                                "Ministry of Electronics & Information Technology",
+                                "Ministry of Defence",
+                                "Ministry of Finance",
+                                "Ministry of Science Education"
+                            ],
+                            "answer": "Ministry of Electronics & Information Technology"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment",
+                    "title": "Captive-Bred Great Indian Bustards Set for Release into the Wild / Captive-Bred Great Indian Bustards को Wild में Release करने की प्रक्रिया शुरू",
+                    "summary": "The process was initiated for releasing two captive-bred Great Indian Bustards from a soft-release facility into the wild at Desert National Park, Jaisalmer. / Jaisalmer के Desert National Park में soft-release facility से दो captive-bred Great Indian Bustards को wild में release करने की प्रक्रिया शुरू की गई।",
+                    "sourceName": "Ministry of Environment, Forest and Climate Change / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2318629&lang=2&reg=48",
+                    "staticGK": [
+                        "Species / प्रजाति : Great Indian Bustard",
+                        "Status / स्थिति : Critically Endangered",
+                        "Location / स्थान : Desert National Park, Jaisalmer",
+                        "Birds / पक्षी : Two captive-bred Great Indian Bustards",
+                        "Programme / कार्यक्रम : GIB Recovery Programme"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which bird is being released into the wild? / किस bird को wild में release किया जा रहा है?",
+                            "options": [
+                                "Great Indian Bustard",
+                                "Great Hornbill",
+                                "Sarus Crane",
+                                "Indian Peafowl"
+                            ],
+                            "answer": "Great Indian Bustard"
+                        },
+                        {
+                            "question": "What is the conservation status of the Great Indian Bustard? / Great Indian Bustard की conservation status क्या है?",
+                            "options": [
+                                "Critically Endangered",
+                                "Endangered",
+                                "Vulnerable",
+                                "Least Concern"
+                            ],
+                            "answer": "Critically Endangered"
+                        },
+                        {
+                            "question": "Where is the release being undertaken? / Release कहाँ किया जा रहा है?",
+                            "options": [
+                                "Desert National Park, Jaisalmer",
+                                "Ranthambore National Park",
+                                "Keoladeo National Park",
+                                "Gir National Park"
+                            ],
+                            "answer": "Desert National Park, Jaisalmer"
+                        },
+                        {
+                            "question": "How many captive-bred birds were involved in the initial release process? / Initial release process में कितने captive-bred birds शामिल थे?",
+                            "options": [
+                                "Two",
+                                "Three",
+                                "Five",
+                                "Ten"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "question": "Which programme is associated with the initiative? / Initiative किस programme से associated है?",
+                            "options": [
+                                "GIB Recovery Programme",
+                                "Project Tiger",
+                                "Project Elephant",
+                                "Project Dolphin"
+                            ],
+                            "answer": "GIB Recovery Programme"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "NABKISAN Lists India’s First WASH-Focused Social Bond, Raises ₹180 Crore / NABKISAN ने India का पहला WASH-Focused Social Bond List किया, ₹180 Crore जुटाए",
+                    "summary": "NABKISAN Finance Limited listed India’s first Social Bond dedicated exclusively to the Water, Sanitation and Hygiene sector and raised ₹180 crore. / NABKISAN Finance Limited ने Water, Sanitation and Hygiene sector को exclusively dedicated India का पहला Social Bond list किया और ₹180 crore जुटाए।",
+                    "sourceName": "Ministry of Finance / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318568&lang=1&reg=1",
+                    "staticGK": [
+                        "Issuer / जारीकर्ता : NABKISAN Finance Limited",
+                        "Parent Institution / Parent संस्था : NABARD",
+                        "Sector / क्षेत्र : Water, Sanitation and Hygiene (WASH)",
+                        "Amount Raised / जुटाई गई राशि : ₹180 crore",
+                        "Coupon Rate / Coupon दर : 8.10%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who listed India’s first WASH-focused Social Bond? / India का पहला WASH-focused Social Bond किसने list किया?",
+                            "options": [
+                                "NABKISAN Finance Limited",
+                                "RBI",
+                                "SEBI",
+                                "NABARD directly"
+                            ],
+                            "answer": "NABKISAN Finance Limited"
+                        },
+                        {
+                            "question": "What does WASH relate to? / WASH किससे related है?",
+                            "options": [
+                                "Water, Sanitation and Hygiene",
+                                "Wealth, Agriculture and Social Housing",
+                                "Water and Solar Highway",
+                                "Women and Skill Hub"
+                            ],
+                            "answer": "Water, Sanitation and Hygiene"
+                        },
+                        {
+                            "question": "How much did NABKISAN raise through the bond? / NABKISAN ने bond के माध्यम से कितनी राशि जुटाई?",
+                            "options": [
+                                "₹180 crore",
+                                "₹100 crore",
+                                "₹250 crore",
+                                "₹500 crore"
+                            ],
+                            "answer": "₹180 crore"
+                        },
+                        {
+                            "question": "What was the coupon rate of the five-year bond? / Five-year bond की coupon rate क्या थी?",
+                            "options": [
+                                "8.10%",
+                                "7.10%",
+                                "8.50%",
+                                "9.10%"
+                            ],
+                            "answer": "8.10%"
+                        },
+                        {
+                            "question": "NABKISAN is a subsidiary of which institution? / NABKISAN किस institution की subsidiary है?",
+                            "options": [
+                                "NABARD",
+                                "RBI",
+                                "SIDBI",
+                                "SEBI"
+                            ],
+                            "answer": "NABARD"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy",
+                    "title": "5th Kautilya Economic Conclave Held in New Delhi / 5th Kautilya Economic Conclave New Delhi में आयोजित",
+                    "summary": "The 5th Kautilya Economic Conclave 2026 was held in New Delhi from 3 to 5 October under the theme “Resilience in an Age of Flux”. / 5th Kautilya Economic Conclave 2026 New Delhi में 3 से 5 October तक “Resilience in an Age of Flux” theme के तहत आयोजित हुआ।",
+                    "sourceName": "Ministry of Finance / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317567&lang=1&reg=3",
+                    "staticGK": [
+                        "Edition / संस्करण : 5th Kautilya Economic Conclave",
+                        "Year / वर्ष : 2026",
+                        "Venue / स्थान : New Delhi",
+                        "Theme / Theme : Resilience in an Age of Flux",
+                        "Partner / Partner संस्था : Institute of Economic Growth with Ministry of Finance"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of the Kautilya Economic Conclave was held in 2026? / 2026 में Kautilya Economic Conclave का कौन-सा edition आयोजित हुआ?",
+                            "options": [
+                                "5th",
+                                "4th",
+                                "6th",
+                                "3rd"
+                            ],
+                            "answer": "5th"
+                        },
+                        {
+                            "question": "Where was KEC 2026 held? / KEC 2026 कहाँ आयोजित हुआ?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "What was the theme of KEC 2026? / KEC 2026 की theme क्या थी?",
+                            "options": [
+                                "Resilience in an Age of Flux",
+                                "India First",
+                                "One Earth One Future",
+                                "Growth Through Innovation"
+                            ],
+                            "answer": "Resilience in an Age of Flux"
+                        },
+                        {
+                            "question": "From which dates was the conclave scheduled? / Conclave किन dates में scheduled था?",
+                            "options": [
+                                "3–5 October 2026",
+                                "1–3 October 2026",
+                                "4–6 October 2026",
+                                "5–7 October 2026"
+                            ],
+                            "answer": "3–5 October 2026"
+                        },
+                        {
+                            "question": "Which institution organises KEC in partnership with the Ministry of Finance? / Ministry of Finance के साथ partnership में KEC कौन organise करता है?",
+                            "options": [
+                                "Institute of Economic Growth",
+                                "NITI Aayog",
+                                "RBI",
+                                "SEBI"
+                            ],
+                            "answer": "Institute of Economic Growth"
+                        }
+                    ]
+                },
+                {
+                    "category": "Youth & Health",
+                    "title": "Goa to Host ‘Nasha Mukt Yuva’ Marathon on October 4 / Goa में 4 October को ‘Nasha Mukt Yuva’ Marathon आयोजित",
+                    "summary": "MY Bharat Goa and the Goa Olympic Association are organising a ‘Nasha Mukt Yuva’ Marathon at Miramar, Panaji on October 4 under the nationwide campaign for a drug-free and healthy India. / MY Bharat Goa और Goa Olympic Association ने drug-free और healthy India के संदेश के लिए 4 October को Miramar, Panaji में ‘Nasha Mukt Yuva’ Marathon आयोजित किया।",
+                    "sourceName": "Ministry of Youth Affairs and Sports / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318607&lang=1&reg=1",
+                    "staticGK": [
+                        "Campaign / अभियान : Nasha Mukt Yuva for Viksit Bharat – 100 Sundays Campaign",
+                        "Location / स्थान : Miramar, Panaji, Goa",
+                        "Date / तारीख : 4 October 2026",
+                        "Expected Participants / अपेक्षित प्रतिभागी : Around 400",
+                        "Focus / मुख्य focus : Drug-free and healthy India"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the Nasha Mukt Yuva Marathon being organised? / Nasha Mukt Yuva Marathon कहाँ आयोजित किया जा रहा है?",
+                            "options": [
+                                "Miramar, Panaji",
+                                "Margao",
+                                "Vasco da Gama",
+                                "Mapusa"
+                            ],
+                            "answer": "Miramar, Panaji"
+                        },
+                        {
+                            "question": "On which date is the marathon scheduled? / Marathon किस date को scheduled है?",
+                            "options": [
+                                "4 October 2026",
+                                "2 October 2026",
+                                "5 October 2026",
+                                "10 October 2026"
+                            ],
+                            "answer": "4 October 2026"
+                        },
+                        {
+                            "question": "Which campaign is associated with the marathon? / Marathon किस campaign से associated है?",
+                            "options": [
+                                "Nasha Mukt Yuva for Viksit Bharat – 100 Sundays Campaign",
+                                "Fit India School Campaign",
+                                "Khelo India Campaign",
+                                "Swachh Bharat Campaign"
+                            ],
+                            "answer": "Nasha Mukt Yuva for Viksit Bharat – 100 Sundays Campaign"
+                        },
+                        {
+                            "question": "Approximately how many young participants are expected? / लगभग कितने young participants expected हैं?",
+                            "options": [
+                                "400",
+                                "100",
+                                "1,000",
+                                "2,000"
+                            ],
+                            "answer": "400"
+                        },
+                        {
+                            "question": "What is the main message of the marathon? / Marathon का main message क्या है?",
+                            "options": [
+                                "Drug-free and healthy India",
+                                "Digital India",
+                                "Clean Rivers",
+                                "Save Tigers"
+                            ],
+                            "answer": "Drug-free and healthy India"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
