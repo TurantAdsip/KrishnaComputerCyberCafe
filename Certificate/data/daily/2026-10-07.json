@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-07-polity",
+  "title": "Class 10 NCERT Political Science Quiz - Part 2",
+  "date": "7 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "श्रीलंका में 1956 में कौन-सी भाषा को आधिकारिक भाषा बनाया गया था? / Which language was made the official language of Sri Lanka in 1956?",
+      "options": [
+        "सिंहला / Sinhala",
+        "तमिल / Tamil",
+        "अंग्रेजी / English",
+        "हिंदी / Hindi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "बेल्जियम में सामुदायिक सरकार किस आधार पर चुनी जाती है? / On what basis is the community government elected in Belgium?",
+      "options": [
+        "भाषा समुदाय / Language community",
+        "धर्म / Religion",
+        "आय / Income",
+        "क्षेत्रफल / Area"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "भारत में संघवाद की एक प्रमुख विशेषता क्या है? / What is a major feature of federalism in India?",
+      "options": [
+        "सत्ता का विभिन्न स्तरों में विभाजन / Division of power among different levels of government",
+        "सारी शक्ति केंद्र के पास होना / All power with the Centre",
+        "राज्यों का कोई अधिकार न होना / No powers for states",
+        "केवल स्थानीय सरकार का शासन / Rule only by local government"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "भारत में तीसरे स्तर की सरकार को क्या कहा जाता है? / What is the third tier of government in India called?",
+      "options": [
+        "स्थानीय सरकार / Local Government",
+        "केंद्रीय सरकार / Central Government",
+        "राज्य सरकार / State Government",
+        "संघ सरकार / Union Government"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में ग्राम पंचायत के सदस्यों का चुनाव कौन करता है? / Who elects the members of a Gram Panchayat in India?",
+      "options": [
+        "ग्राम सभा के मतदाता / Voters of the Gram Sabha",
+        "राज्यपाल / Governor",
+        "मुख्यमंत्री / Chief Minister",
+        "सांसद / Member of Parliament"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "राजनीतिक दल का कौन-सा कार्य लोकतंत्र के लिए सबसे महत्वपूर्ण है? / Which function of political parties is most important for democracy?",
+      "options": [
+        "नीतियाँ और कार्यक्रम बनाना तथा चुनाव लड़ना / Making policies and programmes and contesting elections",
+        "न्यायालय चलाना / Running courts",
+        "सेना का संचालन करना / Operating the army",
+        "मुद्रा जारी करना / Issuing currency"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत में राजनीतिक दलों के सामने प्रमुख चुनौती कौन-सी है? / Which is a major challenge faced by political parties in India?",
+      "options": [
+        "आंतरिक लोकतंत्र की कमी / Lack of internal democracy",
+        "बहुत अधिक आंतरिक लोकतंत्र / Too much internal democracy",
+        "चुनावों का न होना / Absence of elections",
+        "मतदाताओं का न होना / Absence of voters"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "लोकतंत्र में राजनीतिक दलों के बीच प्रतिस्पर्धा का एक लाभ क्या है? / What is one advantage of competition among political parties in a democracy?",
+      "options": [
+        "जनता को विभिन्न विकल्प मिलते हैं / People get different choices",
+        "चुनाव समाप्त हो जाते हैं / Elections are abolished",
+        "विपक्ष समाप्त हो जाता है / Opposition disappears",
+        "एक ही दल हमेशा शासन करता है / One party always rules"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "लोकतंत्र में पारदर्शिता का क्या अर्थ है? / What does transparency mean in a democracy?",
+      "options": [
+        "सरकार के कार्यों और निर्णयों की जानकारी जनता को उपलब्ध होना / Government actions and decisions being accessible to the public",
+        "सरकार से सभी जानकारी छिपाना / Hiding all information from the government",
+        "केवल नेताओं को जानकारी देना / Giving information only to leaders",
+        "चुनाव समाप्त करना / Ending elections"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "लोकतंत्र में नागरिकों की गरिमा और स्वतंत्रता किससे मजबूत होती है? / What strengthens the dignity and freedom of citizens in a democracy?",
+      "options": [
+        "समानता और मौलिक अधिकार / Equality and Fundamental Rights",
+        "निरंकुश शासन / Dictatorial rule",
+        "सैन्य शासन / Military rule",
+        "एकदलीय शासन / One-party rule"
+      ],
+      "answer": 0
+    }
+  ]
+}
