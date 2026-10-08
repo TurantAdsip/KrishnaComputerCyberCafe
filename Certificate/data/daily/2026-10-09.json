@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-09-history",
+  "title": "Class 10 NCERT History Quiz - Part 2",
+  "date": "9 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "वियना कांग्रेस 1815 की मेजबानी किसने की थी? / Who hosted the Congress of Vienna in 1815?",
+      "options": [
+        "ड्यूक मेटरनिख / Duke Metternich",
+        "ज्यूसेपे मैजिनी / Giuseppe Mazzini",
+        "ओटो वॉन बिस्मार्क / Otto von Bismarck",
+        "नेपोलियन बोनापार्ट / Napoleon Bonaparte"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "ज्यूसेपे मैजिनी किस देश के एकीकरण से जुड़े थे? / Giuseppe Mazzini was associated with the unification of which country?",
+      "options": [
+        "इटली / Italy",
+        "जर्मनी / Germany",
+        "फ्रांस / France",
+        "ग्रीस / Greece"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "जर्मनी के एकीकरण के लिए बिस्मार्क ने किस नीति का प्रयोग किया? / Which policy did Bismarck use for the unification of Germany?",
+      "options": [
+        "रक्त और लौह की नीति / Policy of Blood and Iron",
+        "अहिंसा की नीति / Policy of Non-violence",
+        "बहिष्कार की नीति / Policy of Boycott",
+        "सत्याग्रह की नीति / Policy of Satyagraha"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "साइमन कमीशन भारत कब आया था? / When did the Simon Commission come to India?",
+      "options": [
+        "1928",
+        "1925",
+        "1930",
+        "1932"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "महात्मा गांधी ने नमक कानून तोड़ने के लिए किस स्थान पर मार्च समाप्त किया था? / At which place did Mahatma Gandhi end the march to break the salt law?",
+      "options": [
+        "दांडी / Dandi",
+        "चंपारण / Champaran",
+        "खेड़ा / Kheda",
+        "सूरत / Surat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "गांधी-इरविन समझौता किस वर्ष हुआ था? / In which year was the Gandhi-Irwin Pact signed?",
+      "options": [
+        "1931",
+        "1929",
+        "1930",
+        "1932"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "भारत छोड़ो आंदोलन किस वर्ष शुरू किया गया था? / In which year was the Quit India Movement launched?",
+      "options": [
+        "1942",
+        "1939",
+        "1940",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "वर्नाक्युलर प्रेस एक्ट किस वर्ष लागू किया गया था? / In which year was the Vernacular Press Act passed?",
+      "options": [
+        "1878",
+        "1857",
+        "1885",
+        "1905"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "भारत में पहला मुद्रित समाचार पत्र किसने प्रकाशित किया था? / Who published the first printed newspaper in India?",
+      "options": [
+        "जेम्स ऑगस्टस हिक्की / James Augustus Hickey",
+        "राजा राममोहन राय / Raja Rammohan Roy",
+        "बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+        "महात्मा गांधी / Mahatma Gandhi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "‘केसरी’ समाचार पत्र किसने शुरू किया था? / Who started the newspaper 'Kesari'?",
+      "options": [
+        "बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+        "महात्मा गांधी / Mahatma Gandhi",
+        "जवाहरलाल नेहरू / Jawaharlal Nehru",
+        "दादाभाई नौरोजी / Dadabhai Naoroji"
+      ],
+      "answer": 0
+    }
+  ]
+}

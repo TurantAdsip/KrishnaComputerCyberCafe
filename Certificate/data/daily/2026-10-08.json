@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-08-history",
+  "title": "Class 10 NCERT History Quiz - Part 1",
+  "date": "8 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "फ्रेडरिक सोरियू ने 1848 में किस प्रकार की दुनिया की कल्पना की थी? / What kind of world did Frédéric Sorrieu envision in 1848?",
+      "options": [
+        "लोकतांत्रिक और सामाजिक गणराज्यों की दुनिया / A world of democratic and social republics",
+        "राजशाहियों की दुनिया / A world of monarchies",
+        "सैन्य शासन की दुनिया / A world of military rule",
+        "औपनिवेशिक साम्राज्यों की दुनिया / A world of colonial empires"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "जर्मनी के एकीकरण में किस राज्य ने प्रमुख भूमिका निभाई? / Which state played the leading role in the unification of Germany?",
+      "options": [
+        "प्रशा / Prussia",
+        "बवेरिया / Bavaria",
+        "सैक्सोनी / Saxony",
+        "हनोवर / Hanover"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question": "इटली के एकीकरण में गैरीबाल्डी ने क्या भूमिका निभाई? / What role did Garibaldi play in the unification of Italy?",
+      "options": [
+        "उन्होंने स्वयंसेवकों की सेना का नेतृत्व किया / He led an army of volunteers",
+        "उन्होंने फ्रांस के राजा का समर्थन किया / He supported the King of France",
+        "उन्होंने ऑस्ट्रिया की सेना का नेतृत्व किया / He led the Austrian army",
+        "उन्होंने ब्रिटिश संसद में कार्य किया / He worked in the British Parliament"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "‘हिंद स्वराज’ पुस्तक किसने लिखी थी? / Who wrote the book 'Hind Swaraj'?",
+      "options": [
+        "महात्मा गांधी / Mahatma Gandhi",
+        "जवाहरलाल नेहरू / Jawaharlal Nehru",
+        "बाल गंगाधर तिलक / Bal Gangadhar Tilak",
+        "सुभाष चंद्र बोस / Subhas Chandra Bose"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "भारत में सत्याग्रह का पहला सफल प्रयोग महात्मा गांधी ने कहाँ किया था? / Where did Mahatma Gandhi conduct his first successful Satyagraha in India?",
+      "options": [
+        "चंपारण / Champaran",
+        "खेड़ा / Kheda",
+        "अहमदाबाद / Ahmedabad",
+        "दांडी / Dandi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "रॉलेट एक्ट किस वर्ष पारित किया गया था? / In which year was the Rowlatt Act passed?",
+      "options": [
+        "1919",
+        "1915",
+        "1922",
+        "1930"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "जलियांवाला बाग हत्याकांड कब हुआ था? / When did the Jallianwala Bagh massacre take place?",
+      "options": [
+        "13 अप्रैल 1919",
+        "15 अगस्त 1919",
+        "26 जनवरी 1920",
+        "5 फरवरी 1922"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "असहयोग आंदोलन किस वर्ष शुरू किया गया था? / In which year was the Non-Cooperation Movement launched?",
+      "options": [
+        "1920",
+        "1919",
+        "1922",
+        "1930"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "दांडी मार्च किस आंदोलन से संबंधित था? / The Dandi March was associated with which movement?",
+      "options": [
+        "सविनय अवज्ञा आंदोलन / Civil Disobedience Movement",
+        "असहयोग आंदोलन / Non-Cooperation Movement",
+        "भारत छोड़ो आंदोलन / Quit India Movement",
+        "खिलाफत आंदोलन / Khilafat Movement"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "भारत में प्रिंटिंग प्रेस सबसे पहले किस देश से आई थी? / From which country did the printing press first come to India?",
+      "options": [
+        "पुर्तगाल / Portugal",
+        "ब्रिटेन / Britain",
+        "फ्रांस / France",
+        "जर्मनी / Germany"
+      ],
+      "answer": 0
+    }
+  ]
+}

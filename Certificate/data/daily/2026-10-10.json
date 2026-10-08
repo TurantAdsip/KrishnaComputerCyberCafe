@@ -1,0 +1,120 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-10-history",
+  "title": "Class 10 NCERT History Quiz - Part 3",
+  "date": "10 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "फ्रांस में 1848 की क्रांति के बाद किसे सार्वभौमिक पुरुष मताधिकार दिया गया? / What was introduced in France after the Revolution of 1848?",
+      "options": [
+        "केवल महिलाओं को मताधिकार / Voting rights only for women",
+        "सभी वयस्क पुरुषों को मत देने का अधिकार / Suffrage for all adult men",
+        "केवल संपत्ति मालिकों को मताधिकार / Voting rights only for property owners",
+        "केवल पादरियों को मताधिकार / Voting rights only for clergy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "यंग इटली नामक संगठन की स्थापना किसने की थी? / Who founded the organisation called Young Italy?",
+      "options": [
+        "ओटो वॉन बिस्मार्क / Otto von Bismarck",
+        "मेटरनिख / Metternich",
+        "गैरीबाल्डी / Giuseppe Garibaldi",
+        "ज्यूसेपे मैजिनी / Giuseppe Mazzini"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "जर्मनी का एकीकरण किस वर्ष पूरा हुआ? / In which year was the unification of Germany completed?",
+      "options": [
+        "1861",
+        "1848",
+        "1871",
+        "1885"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "भारत में सत्याग्रह सभा की स्थापना किस आंदोलन के दौरान हुई थी? / During which movement was the Satyagraha Sabha formed in India?",
+      "options": [
+        "सविनय अवज्ञा आंदोलन / Civil Disobedience Movement",
+        "रॉलेट सत्याग्रह / Rowlatt Satyagraha",
+        "भारत छोड़ो आंदोलन / Quit India Movement",
+        "असहयोग आंदोलन / Non-Cooperation Movement"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "खेड़ा सत्याग्रह मुख्य रूप से किस समस्या से संबंधित था? / The Kheda Satyagraha was mainly related to which problem?",
+      "options": [
+        "नमक कानून / Salt law",
+        "मजदूरों की हड़ताल / Workers' strike",
+        "किसानों द्वारा लगान में राहत की मांग / Farmers demanding relief from revenue payment",
+        "विदेशी कपड़ों का बहिष्कार / Boycott of foreign cloth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "अहमदाबाद मिल हड़ताल 1918 में गांधीजी ने किसके समर्थन में आंदोलन किया था? / Whom did Gandhi support during the Ahmedabad Mill Strike of 1918?",
+      "options": [
+        "कपड़ा मिल के मजदूर / Textile mill workers",
+        "व्यापारी / Merchants",
+        "छात्र / Students",
+        "किसान / Peasants"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "पूर्ण स्वराज की मांग को कांग्रेस ने किस अधिवेशन में अपनाया था? / At which session did the Congress adopt the demand for Purna Swaraj?",
+      "options": [
+        "सूरत अधिवेशन, 1907 / Surat Session, 1907",
+        "लाहौर अधिवेशन, 1929 / Lahore Session, 1929",
+        "नागपुर अधिवेशन, 1920 / Nagpur Session, 1920",
+        "कलकत्ता अधिवेशन, 1917 / Calcutta Session, 1917"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "प्रिंटिंग प्रेस का आविष्कार किसने किया था? / Who invented the printing press?",
+      "options": [
+        "जेम्स ऑगस्टस हिक्की / James Augustus Hickey",
+        "एरिक हाब्सबाम / Eric Hobsbawm",
+        "जोहान गुटेनबर्ग / Johann Gutenberg",
+        "मार्टिन लूथर / Martin Luther"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "मार्टिन लूथर किस आंदोलन से प्रमुख रूप से जुड़े थे? / Martin Luther was closely associated with which movement?",
+      "options": [
+        "औद्योगिक क्रांति / Industrial Revolution",
+        "रूसी क्रांति / Russian Revolution",
+        "फ्रांसीसी क्रांति / French Revolution",
+        "प्रोटेस्टेंट सुधार आंदोलन / Protestant Reformation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "भारत में धार्मिक सुधार आंदोलनों में प्रिंट संस्कृति ने क्या भूमिका निभाई? / What role did print culture play in religious reform movements in India?",
+      "options": [
+        "सभी पुस्तकों पर प्रतिबंध लगाया / It banned all books",
+        "विचारों और बहसों को व्यापक रूप से फैलाने में मदद की / It helped spread ideas and debates widely",
+        "शिक्षा को समाप्त किया / It ended education",
+        "केवल सरकारी सूचनाएँ प्रकाशित कीं / It published only government information"
+      ],
+      "answer": 1
+    }
+  ]
+}
