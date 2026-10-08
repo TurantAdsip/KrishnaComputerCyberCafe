@@ -4874,6 +4874,740 @@
                     ]
                 }
             ]
+        },
+             {
+            "id": "2026-10-08",
+            "date": "8 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 8 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Defence",
+                    "title": "Indian Air Force Day 2026: IAF Celebrates 94th Anniversary / भारतीय वायु सेना दिवस 2026: IAF की 94वीं वर्षगांठ",
+                    "summary": "Indian Air Force Day is observed on 8 October every year. In 2026, the Indian Air Force is celebrating its 94th anniversary. The day marks the establishment of the Indian Air Force on 8 October 1932. The 2026 celebrations include aerial displays and events showcasing the capabilities of the IAF. / भारतीय वायु सेना दिवस हर वर्ष 8 अक्टूबर को मनाया जाता है। वर्ष 2026 में भारतीय वायु सेना अपनी 94वीं वर्षगांठ मना रही है। यह दिवस 8 अक्टूबर 1932 को भारतीय वायु सेना की स्थापना की स्मृति में मनाया जाता है।",
+                    "sourceName": "Indian Air Force / Defence Current Affairs Sources",
+                    "sourceUrl": "https://www.indianairforce.nic.in/",
+                    "staticGK": [
+                        "Day / दिवस : Indian Air Force Day",
+                        "Date / तारीख : 8 October",
+                        "Year of Establishment / स्थापना वर्ष : 1932",
+                        "2026 Anniversary / 2026 वर्षगांठ : 94th",
+                        "IAF Motto / आदर्श वाक्य : Nabhah Sparsham Deeptham"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is Indian Air Force Day observed? / भारतीय वायु सेना दिवस कब मनाया जाता है?",
+                            "options": [
+                                "5 October",
+                                "8 October",
+                                "15 October",
+                                "26 January"
+                            ],
+                            "answer": "8 October"
+                        },
+                        {
+                            "question": "In which year was the Indian Air Force established? / भारतीय वायु सेना की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1930",
+                                "1932",
+                                "1942",
+                                "1947"
+                            ],
+                            "answer": "1932"
+                        },
+                        {
+                            "question": "Which anniversary of the IAF is being observed in 2026? / 2026 में IAF की कौन-सी वर्षगांठ मनाई जा रही है?",
+                            "options": [
+                                "92nd",
+                                "93rd",
+                                "94th",
+                                "95th"
+                            ],
+                            "answer": "94th"
+                        },
+                        {
+                            "question": "What is the motto of the Indian Air Force? / भारतीय वायु सेना का आदर्श वाक्य क्या है?",
+                            "options": [
+                                "Satyameva Jayate",
+                                "Nabhah Sparsham Deeptham",
+                                "Service Before Self",
+                                "Vayam Rakshamah"
+                            ],
+                            "answer": "Nabhah Sparsham Deeptham"
+                        },
+                        {
+                            "question": "Indian Air Force Day commemorates the establishment of which organisation? / भारतीय वायु सेना दिवस किस संगठन की स्थापना की स्मृति में मनाया जाता है?",
+                            "options": [
+                                "Indian Army",
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "Indian Coast Guard"
+                            ],
+                            "answer": "Indian Air Force"
+                        }
+                    ]
+                },
+                {
+                    "category": "Telecom & Technology",
+                    "title": "Prime Minister to Inaugurate 10th India Mobile Congress 2026 / प्रधानमंत्री 10वें India Mobile Congress 2026 का उद्घाटन करेंगे",
+                    "summary": "Prime Minister Narendra Modi is scheduled to inaugurate the 10th edition of India Mobile Congress (IMC) 2026 on 8 October at Yashobhoomi, New Delhi. The theme of IMC 2026 is 'Scale Without Boundaries'. The event focuses on next-generation connectivity, AI, 5G, 6G, semiconductors, cybersecurity and digital infrastructure. / प्रधानमंत्री नरेंद्र मोदी 8 अक्टूबर को नई दिल्ली के यशोभूमि में India Mobile Congress 2026 के 10वें संस्करण का उद्घाटन करने वाले हैं। IMC 2026 की theme 'Scale Without Boundaries' है।",
+                    "sourceName": "Prime Minister of India / Department of Telecommunications",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-10th-edition-of-india-mobile-congress-on-8-october/",
+                    "staticGK": [
+                        "Event / आयोजन : India Mobile Congress 2026",
+                        "Edition / संस्करण : 10th",
+                        "Theme / थीम : Scale Without Boundaries",
+                        "Venue / स्थान : Yashobhoomi, New Delhi",
+                        "Key Areas / प्रमुख क्षेत्र : 5G, 6G, AI, Semiconductors and Cybersecurity"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of India Mobile Congress is being held in 2026? / 2026 में India Mobile Congress का कौन-सा edition आयोजित हो रहा है?",
+                            "options": [
+                                "8th",
+                                "9th",
+                                "10th",
+                                "11th"
+                            ],
+                            "answer": "10th"
+                        },
+                        {
+                            "question": "What is the theme of IMC 2026? / IMC 2026 की theme क्या है?",
+                            "options": [
+                                "Digital India First",
+                                "Scale Without Boundaries",
+                                "Connect Every Village",
+                                "Future of Bharat"
+                            ],
+                            "answer": "Scale Without Boundaries"
+                        },
+                        {
+                            "question": "Where will IMC 2026 be inaugurated? / IMC 2026 का उद्घाटन कहाँ होगा?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Yashobhoomi",
+                                "Vigyan Bhawan",
+                                "Pragati Maidan"
+                            ],
+                            "answer": "Yashobhoomi"
+                        },
+                        {
+                            "question": "Which ministry is associated with the organisation of IMC? / IMC के आयोजन से कौन-सा मंत्रालय/विभाग जुड़ा है?",
+                            "options": [
+                                "Department of Telecommunications",
+                                "Ministry of Railways",
+                                "Ministry of Defence",
+                                "Ministry of Education"
+                            ],
+                            "answer": "Department of Telecommunications"
+                        },
+                        {
+                            "question": "Which technology is among the key focus areas of IMC 2026? / निम्न में से कौन IMC 2026 का प्रमुख focus area है?",
+                            "options": [
+                                "5G and 6G",
+                                "Coal Mining",
+                                "Agricultural Irrigation",
+                                "Traditional Textiles"
+                            ],
+                            "answer": "5G and 6G"
+                        }
+                    ]
+                },
+                {
+                    "category": "Healthcare",
+                    "title": "JOSH Teams to be Launched Nationally for TB-Free India / TB-मुक्त भारत के लिए JOSH Teams का राष्ट्रीय शुभारंभ",
+                    "summary": "The Union Ministry of Health and Family Welfare, in collaboration with the Ministry of Youth Affairs & Sports and the Ministry of Defence, is launching JOSH (Joint Squad for Health) Teams on 8 October 2026 at Bharat Mandapam, New Delhi. In the first phase, the teams will be rolled out across 55 districts in 11 States to strengthen youth-led community mobilisation for TB elimination. / स्वास्थ्य एवं परिवार कल्याण मंत्रालय, युवा मामले एवं खेल मंत्रालय और रक्षा मंत्रालय के सहयोग से 8 अक्टूबर 2026 को नई दिल्ली के भारत मंडपम में JOSH (Joint Squad for Health) Teams का राष्ट्रीय शुभारंभ किया जा रहा है। पहले चरण में 11 राज्यों के 55 जिलों में इन teams को शुरू किया जाएगा।",
+                    "sourceName": "Ministry of Health and Family Welfare / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319900&lang=1&reg=3",
+                    "staticGK": [
+                        "Full Form / पूर्ण नाम : Joint Squad for Health",
+                        "Main Focus / मुख्य फोकस : TB Elimination",
+                        "First Phase / पहला चरण : 55 districts",
+                        "States / राज्य : 11",
+                        "Launch Venue / लॉन्च स्थान : Bharat Mandapam, New Delhi"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of JOSH? / JOSH का full form क्या है?",
+                            "options": [
+                                "Joint Organisation for Social Health",
+                                "Joint Squad for Health",
+                                "Junior Organisation for Health",
+                                "Joint Service for Human Development"
+                            ],
+                            "answer": "Joint Squad for Health"
+                        },
+                        {
+                            "question": "JOSH Teams are primarily related to which health goal? / JOSH Teams मुख्य रूप से किस health goal से संबंधित हैं?",
+                            "options": [
+                                "TB Elimination",
+                                "Polio Eradication",
+                                "Malaria Control",
+                                "Cancer Screening"
+                            ],
+                            "answer": "TB Elimination"
+                        },
+                        {
+                            "question": "In how many districts will JOSH Teams be rolled out initially? / शुरुआत में JOSH Teams कितने जिलों में शुरू की जाएंगी?",
+                            "options": [
+                                "35",
+                                "45",
+                                "55",
+                                "65"
+                            ],
+                            "answer": "55"
+                        },
+                        {
+                            "question": "In how many States will the first phase be implemented? / पहले चरण में कितने राज्यों में इसे लागू किया जाएगा?",
+                            "options": [
+                                "8",
+                                "10",
+                                "11",
+                                "15"
+                            ],
+                            "answer": "11"
+                        },
+                        {
+                            "question": "Where will the national launch of JOSH Teams take place? / JOSH Teams का national launch कहाँ होगा?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Yashobhoomi",
+                                "AIIMS Delhi",
+                                "Vigyan Bhawan"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Maritime",
+                    "title": "SAREX-2026 SAR Demonstration to be Held off Paradip Coast / Paradip तट पर SAREX-2026 का SAR Demonstration",
+                    "summary": "The Indian Coast Guard is conducting the 12th National Maritime Search and Rescue Exercise (SAREX-2026) off the Paradip coast. A Search and Rescue demonstration is scheduled for 8 October. The exercise includes Indian Coast Guard, Navy, Air Force and civil/state agencies, with international observers from 30 countries. / भारतीय तटरक्षक बल Paradip तट के पास 12वें National Maritime Search and Rescue Exercise (SAREX-2026) का आयोजन कर रहा है। 8 अक्टूबर को Search and Rescue demonstration निर्धारित है। इसमें भारतीय तटरक्षक बल, नौसेना, वायुसेना और नागरिक/राज्य एजेंसियां भाग ले रही हैं।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319740&lang=1&reg=3",
+                    "staticGK": [
+                        "Exercise / अभ्यास : SAREX-2026",
+                        "Full Form / पूर्ण नाम : National Maritime Search and Rescue Exercise",
+                        "Edition / संस्करण : 12th",
+                        "Location / स्थान : Off Paradip Coast, Odisha",
+                        "International Participation / अंतरराष्ट्रीय भागीदारी : 30 countries"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of SAREX? / SAREX का full form क्या है?",
+                            "options": [
+                                "National Maritime Search and Rescue Exercise",
+                                "Special Air Rescue Exercise",
+                                "Strategic Maritime Defence Exercise",
+                                "Sea Rescue and Exploration Exercise"
+                            ],
+                            "answer": "National Maritime Search and Rescue Exercise"
+                        },
+                        {
+                            "question": "Which edition of SAREX is being conducted in 2026? / 2026 में SAREX का कौन-सा edition आयोजित हो रहा है?",
+                            "options": [
+                                "10th",
+                                "11th",
+                                "12th",
+                                "13th"
+                            ],
+                            "answer": "12th"
+                        },
+                        {
+                            "question": "Where is SAREX-2026 being conducted? / SAREX-2026 कहाँ आयोजित हो रहा है?",
+                            "options": [
+                                "Kochi",
+                                "Paradip Coast",
+                                "Mumbai",
+                                "Chennai"
+                            ],
+                            "answer": "Paradip Coast"
+                        },
+                        {
+                            "question": "Which organisation is organising SAREX-2026? / SAREX-2026 का आयोजन कौन कर रहा है?",
+                            "options": [
+                                "Indian Coast Guard",
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "NDRF"
+                            ],
+                            "answer": "Indian Coast Guard"
+                        },
+                        {
+                            "question": "Observers from how many countries are participating? / कितने देशों के observers भाग ले रहे हैं?",
+                            "options": [
+                                "20",
+                                "25",
+                                "30",
+                                "35"
+                            ],
+                            "answer": "30"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking & Economy",
+                    "title": "RBI Raises Repo Rate to 5.50% / RBI ने Repo Rate बढ़ाकर 5.50% किया",
+                    "summary": "The Reserve Bank of India raised the policy repo rate by 25 basis points to 5.50% on 7 October 2026. The move marked the first repo-rate increase in nearly four years and reflected concerns over inflationary pressures. The RBI also shifted its monetary policy stance toward calibrated tightening. / भारतीय रिजर्व बैंक ने 7 अक्टूबर 2026 को policy repo rate में 25 basis points की वृद्धि करते हुए इसे 5.50% कर दिया। यह लगभग चार वर्षों में पहली repo-rate वृद्धि थी। RBI ने monetary policy stance को calibrated tightening की ओर भी बदला।",
+                    "sourceName": "Reserve Bank of India / Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-raises-policy-rate-by-25-bps-first-hike-nearly-four-years-2026-10-07/",
+                    "staticGK": [
+                        "New Repo Rate / नई Repo Rate : 5.50%",
+                        "Increase / वृद्धि : 25 basis points",
+                        "Decision Date / निर्णय तिथि : 7 October 2026",
+                        "Policy Stance / नीति रुख : Calibrated Tightening",
+                        "Institution / संस्था : Reserve Bank of India"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the new RBI repo rate after the October 2026 hike? / अक्टूबर 2026 की वृद्धि के बाद RBI की नई repo rate क्या है?",
+                            "options": [
+                                "5.00%",
+                                "5.25%",
+                                "5.50%",
+                                "5.75%"
+                            ],
+                            "answer": "5.50%"
+                        },
+                        {
+                            "question": "By how many basis points did RBI increase the repo rate? / RBI ने repo rate में कितने basis points की वृद्धि की?",
+                            "options": [
+                                "10",
+                                "15",
+                                "25",
+                                "50"
+                            ],
+                            "answer": "25"
+                        },
+                        {
+                            "question": "Which institution decides India's monetary policy repo rate? / भारत में monetary policy repo rate का निर्णय कौन करता है?",
+                            "options": [
+                                "SEBI",
+                                "RBI's Monetary Policy Committee",
+                                "Finance Commission",
+                                "NITI Aayog"
+                            ],
+                            "answer": "RBI's Monetary Policy Committee"
+                        },
+                        {
+                            "question": "What policy stance did RBI shift toward? / RBI किस policy stance की ओर गया?",
+                            "options": [
+                                "Accommodative",
+                                "Neutral",
+                                "Calibrated Tightening",
+                                "Expansionary"
+                            ],
+                            "answer": "Calibrated Tightening"
+                        },
+                        {
+                            "question": "The repo rate is associated with which institution? / Repo rate किस संस्था से संबंधित है?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NABARD",
+                                "SIDBI"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy",
+                    "title": "Cabinet Approves ₹10,000 Crore SME Growth Fund / कैबिनेट ने ₹10,000 करोड़ SME Growth Fund को मंजूरी दी",
+                    "summary": "The Union Cabinet approved a government commitment of ₹10,000 crore for establishing the SME Growth Fund. The fund is intended to provide growth-oriented equity capital to promising small and medium enterprises and support the emergence of competitive Indian enterprises across manufacturing, services, technology and innovation-driven sectors. / केंद्रीय कैबिनेट ने SME Growth Fund की स्थापना के लिए ₹10,000 करोड़ की सरकारी commitment को मंजूरी दी। इसका उद्देश्य promising small and medium enterprises को growth-oriented equity capital उपलब्ध कराना और manufacturing, services, technology तथा innovation sectors में भारतीय enterprises को मजबूत करना है।",
+                    "sourceName": "Ministry of Finance / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2319534&lang=2&reg=3",
+                    "staticGK": [
+                        "Fund / फंड : SME Growth Fund",
+                        "Government Commitment / सरकारी commitment : ₹10,000 crore",
+                        "Purpose / उद्देश्य : Growth-oriented equity capital",
+                        "Target Sector / लक्षित क्षेत्र : Small and Medium Enterprises",
+                        "Framework / ढांचा : Alternative Investment Fund"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much has the government committed to the SME Growth Fund? / SME Growth Fund के लिए सरकार ने कितनी commitment की है?",
+                            "options": [
+                                "₹5,000 crore",
+                                "₹7,500 crore",
+                                "₹10,000 crore",
+                                "₹15,000 crore"
+                            ],
+                            "answer": "₹10,000 crore"
+                        },
+                        {
+                            "question": "What does SME stand for? / SME का full form क्या है?",
+                            "options": [
+                                "Small and Medium Enterprises",
+                                "Special Market Enterprises",
+                                "Small Manufacturing Economy",
+                                "Strategic Medium Economy"
+                            ],
+                            "answer": "Small and Medium Enterprises"
+                        },
+                        {
+                            "question": "What type of capital will the fund provide to promising SMEs? / यह fund promising SMEs को किस प्रकार की capital देगा?",
+                            "options": [
+                                "Equity capital",
+                                "Only grants",
+                                "Only subsidies",
+                                "Foreign currency loans"
+                            ],
+                            "answer": "Equity capital"
+                        },
+                        {
+                            "question": "The SME Growth Fund is linked with which broad objective? / SME Growth Fund किस broad objective से जुड़ा है?",
+                            "options": [
+                                "Creating future champion enterprises",
+                                "Building airports only",
+                                "Tourism promotion only",
+                                "Defence recruitment"
+                            ],
+                            "answer": "Creating future champion enterprises"
+                        },
+                        {
+                            "question": "Under which framework will the fund be established? / Fund किस framework के तहत स्थापित किया जाएगा?",
+                            "options": [
+                                "Alternative Investment Fund",
+                                "Sovereign Gold Fund",
+                                "National Pension Fund",
+                                "District Mineral Fund"
+                            ],
+                            "answer": "Alternative Investment Fund"
+                        }
+                    ]
+                },
+                {
+                    "category": "Transport & Infrastructure",
+                    "title": "Integrated Transport & Logistics Authority Approved / Integrated Transport & Logistics Authority को मंजूरी",
+                    "summary": "The Union Cabinet approved the setting up of the Integrated Transport & Logistics Authority (ITLA) as a Special Purpose Vehicle. ITLA will support integrated transport and logistics planning, research, project appraisal, monitoring, impact assessment and policy support across different transport domains. / केंद्रीय कैबिनेट ने Integrated Transport & Logistics Authority (ITLA) को Special Purpose Vehicle के रूप में स्थापित करने की मंजूरी दी। ITLA integrated transport and logistics planning, research, project appraisal, monitoring और impact assessment में सहायता करेगा।",
+                    "sourceName": "Cabinet / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2319529&lang=2&reg=48",
+                    "staticGK": [
+                        "Full Form / पूर्ण नाम : Integrated Transport & Logistics Authority",
+                        "Abbreviation / संक्षिप्त नाम : ITLA",
+                        "Structure / संरचना : Special Purpose Vehicle (SPV)",
+                        "Main Role / मुख्य भूमिका : Integrated transport and logistics planning",
+                        "Approved By / मंजूरी : Union Cabinet"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of ITLA? / ITLA का full form क्या है?",
+                            "options": [
+                                "Integrated Transport & Logistics Authority",
+                                "Indian Transport Logistics Agency",
+                                "Integrated Transit Law Authority",
+                                "Indian Trade & Logistics Association"
+                            ],
+                            "answer": "Integrated Transport & Logistics Authority"
+                        },
+                        {
+                            "question": "What type of entity is ITLA approved as? / ITLA को किस प्रकार की entity के रूप में मंजूरी दी गई है?",
+                            "options": [
+                                "Special Purpose Vehicle",
+                                "Public Sector Bank",
+                                "Regulatory Tribunal",
+                                "Constitutional Body"
+                            ],
+                            "answer": "Special Purpose Vehicle"
+                        },
+                        {
+                            "question": "Which body approved the setting up of ITLA? / ITLA की स्थापना को किसने मंजूरी दी?",
+                            "options": [
+                                "Union Cabinet",
+                                "Supreme Court",
+                                "Election Commission",
+                                "RBI"
+                            ],
+                            "answer": "Union Cabinet"
+                        },
+                        {
+                            "question": "What is a major role of ITLA? / ITLA की प्रमुख भूमिका क्या है?",
+                            "options": [
+                                "Integrated transport planning",
+                                "Banking regulation",
+                                "School education",
+                                "Election management"
+                            ],
+                            "answer": "Integrated transport planning"
+                        },
+                        {
+                            "question": "ITLA mainly covers which two broad areas? / ITLA मुख्य रूप से किन दो broad areas से संबंधित है?",
+                            "options": [
+                                "Transport and Logistics",
+                                "Health and Education",
+                                "Defence and Space",
+                                "Agriculture and Tourism"
+                            ],
+                            "answer": "Transport and Logistics"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Statistics",
+                    "title": "MoSPI Releases Strategy for Environmental Economic Accounts 2026–2030 / MoSPI ने Environmental Economic Accounts Strategy 2026–2030 जारी की",
+                    "summary": "The Ministry of Statistics and Programme Implementation released the 'Strategy for Environmental Economic Accounts in India: 2026–2030'. The strategy provides a roadmap for expanding environmental accounting, addressing data gaps and strengthening coverage of areas such as forests, minerals, soil, land, water, carbon stock and biodiversity. / सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय ने 'Strategy for Environmental Economic Accounts in India: 2026–2030' जारी की। यह strategy environmental accounting के विस्तार, data gaps को दूर करने और forests, minerals, soil, land, water, carbon stock तथा biodiversity जैसे क्षेत्रों की coverage मजबूत करने का roadmap प्रदान करती है।",
+                    "sourceName": "Ministry of Statistics & Programme Implementation / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2320063&lang=1&reg=3",
+                    "staticGK": [
+                        "Document / दस्तावेज : Strategy for Environmental Economic Accounts in India",
+                        "Period / अवधि : 2026–2030",
+                        "Ministry / मंत्रालय : MoSPI",
+                        "Framework / framework : System of Environmental-Economic Accounting (SEEA)",
+                        "Key Areas / प्रमुख क्षेत्र : Forests, Water, Land, Biodiversity and Carbon Stock"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which ministry released the Strategy for Environmental Economic Accounts 2026–2030? / यह strategy किस मंत्रालय ने जारी की?",
+                            "options": [
+                                "MoSPI",
+                                "Ministry of Finance",
+                                "Ministry of Environment",
+                                "Ministry of Agriculture"
+                            ],
+                            "answer": "MoSPI"
+                        },
+                        {
+                            "question": "What is the period covered by the strategy? / Strategy की अवधि क्या है?",
+                            "options": [
+                                "2024–2028",
+                                "2025–2030",
+                                "2026–2030",
+                                "2026–2035"
+                            ],
+                            "answer": "2026–2030"
+                        },
+                        {
+                            "question": "What does SEEA stand for? / SEEA का full form क्या है?",
+                            "options": [
+                                "System of Environmental-Economic Accounting",
+                                "Scientific Environment and Economic Assessment",
+                                "System of Energy and Environmental Administration",
+                                "Sustainable Economic and Ecological Authority"
+                            ],
+                            "answer": "System of Environmental-Economic Accounting"
+                        },
+                        {
+                            "question": "Which of the following is covered under the strategy? / निम्न में से कौन strategy में covered है?",
+                            "options": [
+                                "Biodiversity",
+                                "Railway Ticketing",
+                                "Banking Licences",
+                                "Election Symbols"
+                            ],
+                            "answer": "Biodiversity"
+                        },
+                        {
+                            "question": "The strategy primarily aims to strengthen which area? / Strategy का मुख्य उद्देश्य किस क्षेत्र को मजबूत करना है?",
+                            "options": [
+                                "Environmental accounting",
+                                "Defence recruitment",
+                                "Sports training",
+                                "School examinations"
+                            ],
+                            "answer": "Environmental accounting"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment",
+                    "title": "Andhra Pradesh Declares Drought in 21 Districts / आंध्र प्रदेश ने 21 जिलों में सूखा घोषित किया",
+                    "summary": "Andhra Pradesh has declared drought conditions across 21 of its 26 districts following a significant rainfall deficit. Reports indicate that 388 mandals are affected. Official rainfall data also shows a substantial statewide rainfall deficit during the 2026 monsoon period. / आंध्र प्रदेश ने 26 में से 21 जिलों में सूखे की स्थिति घोषित की है। रिपोर्टों के अनुसार 388 mandals प्रभावित हैं। आधिकारिक rainfall data में 2026 monsoon period के दौरान राज्य में महत्वपूर्ण rainfall deficit दर्ज किया गया है।",
+                    "sourceName": "Andhra Pradesh Government Data / Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-08-october-2026-delhi-andhra-announces-drought-across-21-district-cabinet-approves-rs-10000-crore-sme-fund-10910892/",
+                    "staticGK": [
+                        "State / राज्य : Andhra Pradesh",
+                        "Drought-affected Districts / प्रभावित जिले : 21",
+                        "Total Districts / कुल जिले : 26",
+                        "Affected Mandals / प्रभावित मंडल : 388",
+                        "Major Cause / प्रमुख कारण : Rainfall Deficit"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many districts of Andhra Pradesh have been declared drought-affected? / आंध्र प्रदेश के कितने जिलों में सूखा घोषित किया गया है?",
+                            "options": [
+                                "15",
+                                "18",
+                                "21",
+                                "24"
+                            ],
+                            "answer": "21"
+                        },
+                        {
+                            "question": "How many districts does Andhra Pradesh have according to the report? / रिपोर्ट के अनुसार आंध्र प्रदेश में कितने जिले हैं?",
+                            "options": [
+                                "24",
+                                "25",
+                                "26",
+                                "28"
+                            ],
+                            "answer": "26"
+                        },
+                        {
+                            "question": "Approximately how many mandals are affected? / लगभग कितने mandals प्रभावित हैं?",
+                            "options": [
+                                "188",
+                                "288",
+                                "388",
+                                "488"
+                            ],
+                            "answer": "388"
+                        },
+                        {
+                            "question": "What is the major reason behind the drought declaration? / सूखा घोषित करने का प्रमुख कारण क्या है?",
+                            "options": [
+                                "Rainfall deficit",
+                                "Cyclone",
+                                "Earthquake",
+                                "Sea-level rise"
+                            ],
+                            "answer": "Rainfall deficit"
+                        },
+                        {
+                            "question": "Andhra Pradesh is located on which coast of India? / आंध्र प्रदेश भारत के किस तट पर स्थित है?",
+                            "options": [
+                                "Western Coast",
+                                "Eastern Coast",
+                                "Northern Coast",
+                                "Southern Arabian Coast"
+                            ],
+                            "answer": "Eastern Coast"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Awards",
+                    "title": "Nobel Prize in Literature 2026 to Be Announced on 8 October / Nobel Prize in Literature 2026 की घोषणा 8 अक्टूबर को",
+                    "summary": "The Nobel Prize in Literature 2026 is scheduled to be announced by the Swedish Academy on 8 October 2026. The announcement is expected at 1:00 PM Central European Summer Time, corresponding to around 4:30 PM Indian Standard Time. Since the announcement is scheduled for later on 8 October, the laureate should not be stated as confirmed in a morning current-affairs update. / Nobel Prize in Literature 2026 की घोषणा Swedish Academy द्वारा 8 अक्टूबर 2026 को की जानी है। घोषणा लगभग 1:00 PM CEST, यानी लगभग 4:30 PM IST पर निर्धारित है। चूंकि यह घोषणा 8 अक्टूबर को बाद में होनी है, इसलिए सुबह के current-affairs update में विजेता का नाम confirmed रूप से नहीं लिखना चाहिए।",
+                    "sourceName": "Nobel Prize / Nobel Prize Museum",
+                    "sourceUrl": "https://www.nobelprize.org/prizes/literature/",
+                    "staticGK": [
+                        "Award / पुरस्कार : Nobel Prize in Literature",
+                        "Announcement Date / घोषणा तिथि : 8 October 2026",
+                        "Announcing Body / घोषणा संस्था : Swedish Academy",
+                        "Announcement Time / समय : Around 4:30 PM IST",
+                        "Ceremony / पुरस्कार समारोह : 10 December 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is the 2026 Nobel Prize in Literature scheduled to be announced? / 2026 Nobel Prize in Literature की घोषणा कब scheduled है?",
+                            "options": [
+                                "5 October",
+                                "7 October",
+                                "8 October",
+                                "9 October"
+                            ],
+                            "answer": "8 October"
+                        },
+                        {
+                            "question": "Which body announces the Nobel Prize in Literature? / Nobel Prize in Literature की घोषणा कौन करता है?",
+                            "options": [
+                                "Norwegian Nobel Committee",
+                                "Swedish Academy",
+                                "Royal Swedish Academy of Sciences",
+                                "Karolinska Institutet"
+                            ],
+                            "answer": "Swedish Academy"
+                        },
+                        {
+                            "question": "Around what time is the Literature announcement expected in India? / भारत में Literature announcement लगभग किस समय expected है?",
+                            "options": [
+                                "12:30 PM",
+                                "2:30 PM",
+                                "4:30 PM",
+                                "6:30 PM"
+                            ],
+                            "answer": "4:30 PM"
+                        },
+                        {
+                            "question": "The Nobel Prize in Literature is associated with which field? / Nobel Prize in Literature किस field से संबंधित है?",
+                            "options": [
+                                "Literature",
+                                "Physics",
+                                "Medicine",
+                                "Economics"
+                            ],
+                            "answer": "Literature"
+                        },
+                        {
+                            "question": "In which month are Nobel Prize ceremonies traditionally held? / Nobel Prize ceremonies traditionally किस महीने में होती हैं?",
+                            "options": [
+                                "October",
+                                "November",
+                                "December",
+                                "January"
+                            ],
+                            "answer": "December"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports",
+                    "title": "India Finishes Fourth with 85 Medals at Asian Games 2026 / Asian Games 2026 में भारत 85 पदकों के साथ चौथे स्थान पर",
+                    "summary": "India finished fourth in the overall medal standings at the 20th Asian Games held in Aichi-Nagoya, Japan. India won 85 medals, including 21 gold, 27 silver and 37 bronze medals. China topped the medal table. / जापान के Aichi-Nagoya में आयोजित 20वें Asian Games में भारत overall medal standings में चौथे स्थान पर रहा। भारत ने कुल 85 पदक जीते, जिनमें 21 gold, 27 silver और 37 bronze शामिल हैं। China medal table में शीर्ष पर रहा।",
+                    "sourceName": "Asian Games 2026 / Current Affairs Sources",
+                    "sourceUrl": "https://www.ocagames.com/",
+                    "staticGK": [
+                        "Edition / संस्करण : 20th Asian Games",
+                        "Host / मेजबान : Aichi-Nagoya, Japan",
+                        "India's Rank / भारत की रैंक : 4th",
+                        "India's Medals / भारत के पदक : 85",
+                        "India's Gold Medals / भारत के स्वर्ण : 21"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many medals did India win at the 2026 Asian Games? / 2026 Asian Games में भारत ने कितने पदक जीते?",
+                            "options": [
+                                "75",
+                                "80",
+                                "85",
+                                "90"
+                            ],
+                            "answer": "85"
+                        },
+                        {
+                            "question": "What position did India finish in the medal table? / Medal table में भारत किस स्थान पर रहा?",
+                            "options": [
+                                "2nd",
+                                "3rd",
+                                "4th",
+                                "5th"
+                            ],
+                            "answer": "4th"
+                        },
+                        {
+                            "question": "How many gold medals did India win? / भारत ने कितने gold medals जीते?",
+                            "options": [
+                                "19",
+                                "21",
+                                "23",
+                                "25"
+                            ],
+                            "answer": "21"
+                        },
+                        {
+                            "question": "Where were the 2026 Asian Games held? / 2026 Asian Games कहाँ आयोजित हुए?",
+                            "options": [
+                                "Seoul",
+                                "Aichi-Nagoya",
+                                "Beijing",
+                                "Jakarta"
+                            ],
+                            "answer": "Aichi-Nagoya"
+                        },
+                        {
+                            "question": "Which country topped the medal table at the 2026 Asian Games? / 2026 Asian Games में medal table में कौन-सा देश शीर्ष पर रहा?",
+                            "options": [
+                                "Japan",
+                                "India",
+                                "China",
+                                "South Korea"
+                            ],
+                            "answer": "China"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
