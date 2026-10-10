@@ -6276,6 +6276,674 @@
                     ]
                 }
             ]
+        },
+             {
+            "id": "2026-10-10",
+            "date": "10 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 10 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Important Day",
+                    "title": "World Mental Health Day 2026 / विश्व मानसिक स्वास्थ्य दिवस 2026",
+                    "summary": "World Mental Health Day is observed on 10 October to raise awareness of mental health and encourage action to support mental well-being. The WHO's 2026 campaign theme is “Lived experiences heard: real voices, real change”, highlighting the importance of involving people with lived experience in mental-health policies and services. / विश्व मानसिक स्वास्थ्य दिवस 10 अक्टूबर को मानसिक स्वास्थ्य के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। WHO की 2026 की थीम “Lived experiences heard: real voices, real change” है।",
+                    "sourceName": "World Health Organization (WHO)",
+                    "sourceUrl": "https://www.who.int/campaigns/world-mental-health-day/2026",
+                    "staticGK": [
+                        "Day / दिवस : World Mental Health Day",
+                        "Date / तारीख : 10 October",
+                        "2026 Theme / 2026 की थीम : Lived experiences heard: real voices, real change",
+                        "Organisation / संगठन : World Health Organization (WHO)",
+                        "Purpose / उद्देश्य : Awareness and action on mental health"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is World Mental Health Day observed? / विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+                            "options": [
+                                "10 October",
+                                "9 October",
+                                "12 October",
+                                "15 October"
+                            ],
+                            "answer": "10 October"
+                        },
+                        {
+                            "question": "Which organisation publishes the 2026 campaign page? / 2026 अभियान पृष्ठ किस संगठन ने जारी किया है?",
+                            "options": [
+                                "WHO",
+                                "UNESCO",
+                                "UNICEF",
+                                "World Bank"
+                            ],
+                            "answer": "WHO"
+                        },
+                        {
+                            "question": "What is the 2026 theme? / 2026 की थीम क्या है?",
+                            "options": [
+                                "Lived experiences heard: real voices, real change",
+                                "Health for all by 2030",
+                                "Mental health at work",
+                                "One world, one health"
+                            ],
+                            "answer": "Lived experiences heard: real voices, real change"
+                        },
+                        {
+                            "question": "World Mental Health Day mainly raises awareness about what? / यह दिवस मुख्यतः किसके प्रति जागरूकता बढ़ाता है?",
+                            "options": [
+                                "Mental health",
+                                "Postal services",
+                                "Ocean trade",
+                                "Road safety"
+                            ],
+                            "answer": "Mental health"
+                        },
+                        {
+                            "question": "The WHO stands for what? / WHO का पूरा नाम क्या है?",
+                            "options": [
+                                "World Health Organization",
+                                "World Humanitarian Office",
+                                "World Hospital Organisation",
+                                "World Health Observatory"
+                            ],
+                            "answer": "World Health Organization"
+                        }
+                    ]
+                },
+                {
+                    "category": "National News & Governance",
+                    "title": "Delhi on High Alert Ahead of Planned Protest / प्रस्तावित प्रदर्शन से पहले दिल्ली में सुरक्षा बढ़ाई गई",
+                    "summary": "News reports on 10 October 2026 said security was tightened in parts of New Delhi ahead of a planned youth-led protest linked to allegations about electoral-roll revisions. Authorities announced restrictions and precautionary measures; the allegations and political claims remain contested. / 10 अक्टूबर 2026 की समाचार रिपोर्टों के अनुसार मतदाता सूची संशोधन से जुड़े आरोपों के बीच प्रस्तावित युवा प्रदर्शन से पहले नई दिल्ली के कुछ हिस्सों में सुरक्षा बढ़ाई गई।",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/",
+                    "staticGK": [
+                        "Date / तारीख : 10 October 2026",
+                        "Location / स्थान : New Delhi",
+                        "Issue / मुद्दा : Electoral-roll revision allegations",
+                        "Nature / प्रकृति : Planned public protest",
+                        "Note / ध्यान दें : Allegations are contested"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which city was reported to be on heightened security alert? / किस शहर में सुरक्षा बढ़ाए जाने की खबर थी?",
+                            "options": [
+                                "New Delhi",
+                                "Jaipur",
+                                "Bhopal",
+                                "Kochi"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "The planned protest was linked to which issue? / प्रस्तावित प्रदर्शन किस मुद्दे से जुड़ा था?",
+                            "options": [
+                                "Electoral-roll revisions",
+                                "Railway recruitment",
+                                "Water tariffs",
+                                "School textbooks"
+                            ],
+                            "answer": "Electoral-roll revisions"
+                        },
+                        {
+                            "question": "On which date were these reports published? / ये रिपोर्टें किस तारीख को प्रकाशित हुईं?",
+                            "options": [
+                                "10 October 2026",
+                                "5 October 2026",
+                                "15 September 2026",
+                                "2 November 2026"
+                            ],
+                            "answer": "10 October 2026"
+                        },
+                        {
+                            "question": "Which source reported the security measures? / सुरक्षा उपायों की रिपोर्ट किसने दी?",
+                            "options": [
+                                "Reuters",
+                                "UPU",
+                                "WHO",
+                                "ISRO"
+                            ],
+                            "answer": "Reuters"
+                        },
+                        {
+                            "question": "Electoral rolls are primarily associated with which process? / मतदाता सूची मुख्यतः किस प्रक्रिया से संबंधित है?",
+                            "options": [
+                                "Elections",
+                                "Census of wildlife",
+                                "School admissions",
+                                "Bank lending"
+                            ],
+                            "answer": "Elections"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education",
+                    "title": "NIOS Releases October–November 2026 Exam Date Sheet / NIOS ने अक्टूबर–नवंबर 2026 परीक्षा डेटशीट जारी की",
+                    "summary": "Reports on 10 October stated that the National Institute of Open Schooling released its October–November 2026 public-examination date sheet for Secondary and Senior Secondary learners. The reported theory examinations are scheduled to begin on 22 October 2026. Students should check the official NIOS website for the complete timetable and updates. / 10 अक्टूबर की रिपोर्टों के अनुसार NIOS ने माध्यमिक और उच्च माध्यमिक विद्यार्थियों की अक्टूबर–नवंबर 2026 सार्वजनिक परीक्षाओं की डेटशीट जारी की। रिपोर्ट के अनुसार थ्योरी परीक्षाएँ 22 अक्टूबर से शुरू होनी हैं।",
+                    "sourceName": "Times of India (education report)",
+                    "sourceUrl": "https://timesofindia.indiatimes.com/education/news/nios-date-sheet-2026-released-for-class-10-12-october-november-exams-check-complete-timetable-here/articleshow/134824331.cms",
+                    "staticGK": [
+                        "Full Form / पूरा नाम : National Institute of Open Schooling",
+                        "Exam levels / परीक्षा स्तर : Secondary and Senior Secondary",
+                        "Exam session / सत्र : October–November 2026",
+                        "Reported start date / रिपोर्ट की गई शुरुआत : 22 October 2026",
+                        "Advice / सलाह : Verify timetable on official NIOS website"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of NIOS? / NIOS का पूरा नाम क्या है?",
+                            "options": [
+                                "National Institute of Open Schooling",
+                                "National Indian Online School",
+                                "National Institute of Official Studies",
+                                "New Institute of Open Science"
+                            ],
+                            "answer": "National Institute of Open Schooling"
+                        },
+                        {
+                            "question": "Which exam session does the report cover? / रिपोर्ट किस परीक्षा सत्र से संबंधित है?",
+                            "options": [
+                                "October–November 2026",
+                                "April–May 2026",
+                                "January–February 2027",
+                                "June–July 2026"
+                            ],
+                            "answer": "October–November 2026"
+                        },
+                        {
+                            "question": "Which classes/levels are mentioned? / किन स्तरों का उल्लेख है?",
+                            "options": [
+                                "Secondary and Senior Secondary",
+                                "Only primary",
+                                "Only undergraduate",
+                                "Postgraduate only"
+                            ],
+                            "answer": "Secondary and Senior Secondary"
+                        },
+                        {
+                            "question": "When are theory exams reported to begin? / थ्योरी परीक्षाएँ कब शुरू होने की रिपोर्ट है?",
+                            "options": [
+                                "22 October 2026",
+                                "10 October 2026",
+                                "1 November 2026",
+                                "15 December 2026"
+                            ],
+                            "answer": "22 October 2026"
+                        },
+                        {
+                            "question": "Where should students verify the final timetable? / विद्यार्थियों को अंतिम डेटशीट कहाँ जाँचनी चाहिए?",
+                            "options": [
+                                "Official NIOS website",
+                                "A social-media comment",
+                                "An unofficial poster only",
+                                "A private coaching advertisement"
+                            ],
+                            "answer": "Official NIOS website"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Banking",
+                    "title": "RBI Raises Repo Rate to 5.5% / RBI ने रेपो दर बढ़ाकर 5.5% की",
+                    "summary": "A Reuters report dated 7 October 2026 said the Reserve Bank of India raised the policy repo rate by 25 basis points to 5.5%, its first hike in nearly four years, amid inflation concerns. This is a recent economic development relevant to banking and competitive-exam preparation. / 7 अक्टूबर 2026 की Reuters रिपोर्ट के अनुसार भारतीय रिज़र्व बैंक ने महँगाई की चिंताओं के बीच नीतिगत रेपो दर 25 आधार अंक बढ़ाकर 5.5% कर दी।",
+                    "sourceName": "Reuters",
+                    "sourceUrl": "https://www.reuters.com/world/india/india-raises-policy-rate-by-25-bps-first-hike-nearly-four-years-2026-10-07/",
+                    "staticGK": [
+                        "Institution / संस्था : Reserve Bank of India (RBI)",
+                        "Reported repo rate / रिपोर्ट की गई रेपो दर : 5.5%",
+                        "Change / बदलाव : Increase of 25 basis points",
+                        "Report date / रिपोर्ट तारीख : 7 October 2026",
+                        "Key concern / प्रमुख चिंता : Inflation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution sets India's policy repo rate? / भारत की नीतिगत रेपो दर कौन निर्धारित करता है?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "SEBI",
+                                "NABARD alone",
+                                "Ministry of Education"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        },
+                        {
+                            "question": "What repo rate was reported after the increase? / बढ़ोतरी के बाद रेपो दर कितनी बताई गई?",
+                            "options": [
+                                "5.5%",
+                                "4.0%",
+                                "6.5%",
+                                "7.5%"
+                            ],
+                            "answer": "5.5%"
+                        },
+                        {
+                            "question": "How much was the reported increase? / रिपोर्ट के अनुसार कितनी बढ़ोतरी हुई?",
+                            "options": [
+                                "25 basis points",
+                                "10 basis points",
+                                "50 basis points",
+                                "100 basis points"
+                            ],
+                            "answer": "25 basis points"
+                        },
+                        {
+                            "question": "What concern was cited in the report? / रिपोर्ट में किस चिंता का उल्लेख था?",
+                            "options": [
+                                "Inflation",
+                                "School attendance",
+                                "Postal delays",
+                                "Tourism season"
+                            ],
+                            "answer": "Inflation"
+                        },
+                        {
+                            "question": "One basis point equals how many percentage points? / एक आधार अंक कितने प्रतिशत अंक के बराबर होता है?",
+                            "options": [
+                                "0.01",
+                                "0.1",
+                                "1",
+                                "10"
+                            ],
+                            "answer": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "India Mobile Congress 2026 Highlights 5G, 6G and AI / India Mobile Congress 2026 में 5G, 6G और AI पर जोर",
+                    "summary": "The 10th India Mobile Congress 2026 was scheduled to be inaugurated on 8 October at Yashobhoomi, New Delhi, under the theme “Scale Without Boundaries”. Its focus areas included 5G, 6G, artificial intelligence, semiconductors, cybersecurity and digital infrastructure. / India Mobile Congress 2026 का 10वाँ संस्करण 8 अक्टूबर को नई दिल्ली के यशोभूमि में “Scale Without Boundaries” थीम के साथ आयोजित किया गया। प्रमुख विषयों में 5G, 6G, AI और साइबर सुरक्षा शामिल थे।",
+                    "sourceName": "Prime Minister's Office",
+                    "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-10th-edition-of-india-mobile-congress-on-8-october/",
+                    "staticGK": [
+                        "Event / आयोजन : India Mobile Congress 2026",
+                        "Edition / संस्करण : 10th",
+                        "Theme / थीम : Scale Without Boundaries",
+                        "Venue / स्थान : Yashobhoomi, New Delhi",
+                        "Focus / प्रमुख क्षेत्र : 5G, 6G, AI, semiconductors and cybersecurity"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which edition of India Mobile Congress was held in 2026? / 2026 में कौन-सा संस्करण आयोजित हुआ?",
+                            "options": [
+                                "10th",
+                                "8th",
+                                "9th",
+                                "11th"
+                            ],
+                            "answer": "10th"
+                        },
+                        {
+                            "question": "What was the theme of IMC 2026? / IMC 2026 की थीम क्या थी?",
+                            "options": [
+                                "Scale Without Boundaries",
+                                "Digital India First",
+                                "Connect Every Village",
+                                "Technology for All"
+                            ],
+                            "answer": "Scale Without Boundaries"
+                        },
+                        {
+                            "question": "Where was the event scheduled? / आयोजन कहाँ निर्धारित था?",
+                            "options": [
+                                "Yashobhoomi, New Delhi",
+                                "Red Fort, Delhi",
+                                "Bharat Mandapam, Delhi",
+                                "Mumbai Port"
+                            ],
+                            "answer": "Yashobhoomi, New Delhi"
+                        },
+                        {
+                            "question": "Which next-generation connectivity technologies were highlighted? / किन अगली पीढ़ी की कनेक्टिविटी तकनीकों पर जोर था?",
+                            "options": [
+                                "5G and 6G",
+                                "2G only",
+                                "FM and AM radio only",
+                                "Fax technology"
+                            ],
+                            "answer": "5G and 6G"
+                        },
+                        {
+                            "question": "AI stands for what? / AI का पूरा नाम क्या है?",
+                            "options": [
+                                "Artificial Intelligence",
+                                "Automated Internet",
+                                "Advanced Information",
+                                "Applied Interface"
+                            ],
+                            "answer": "Artificial Intelligence"
+                        }
+                    ]
+                },
+                {
+                    "category": "Healthcare",
+                    "title": "JOSH Teams Initiative for TB-Free India / TB-मुक्त भारत के लिए JOSH Teams पहल",
+                    "summary": "A Ministry of Health and Family Welfare/PIB release described the planned national launch of JOSH (Joint Squad for Health) Teams on 8 October 2026 at Bharat Mandapam, New Delhi. The first phase was planned across 55 districts in 11 states to strengthen youth-led community mobilisation for tuberculosis elimination. / स्वास्थ्य एवं परिवार कल्याण मंत्रालय/PIB की जानकारी के अनुसार JOSH (Joint Squad for Health) Teams का राष्ट्रीय शुभारंभ 8 अक्टूबर को नई दिल्ली के भारत मंडपम में निर्धारित था। पहले चरण में 11 राज्यों के 55 जिलों को शामिल करने की योजना थी।",
+                    "sourceName": "Ministry of Health and Family Welfare / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319900&lang=1&reg=3",
+                    "staticGK": [
+                        "Full Form / पूरा नाम : Joint Squad for Health",
+                        "Main focus / मुख्य फोकस : TB elimination",
+                        "First phase / पहला चरण : 55 districts",
+                        "States / राज्य : 11",
+                        "Launch venue / शुभारंभ स्थान : Bharat Mandapam, New Delhi"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of JOSH? / JOSH का पूरा नाम क्या है?",
+                            "options": [
+                                "Joint Squad for Health",
+                                "Joint Organisation for Social Health",
+                                "Junior Organisation for Health",
+                                "Joint Service for Human Development"
+                            ],
+                            "answer": "Joint Squad for Health"
+                        },
+                        {
+                            "question": "JOSH Teams focus on which goal? / JOSH Teams किस लक्ष्य पर केंद्रित हैं?",
+                            "options": [
+                                "TB elimination",
+                                "Space research",
+                                "Railway safety",
+                                "Ocean exploration"
+                            ],
+                            "answer": "TB elimination"
+                        },
+                        {
+                            "question": "How many districts were included in the planned first phase? / प्रस्तावित पहले चरण में कितने जिले थे?",
+                            "options": [
+                                "55",
+                                "35",
+                                "45",
+                                "65"
+                            ],
+                            "answer": "55"
+                        },
+                        {
+                            "question": "How many states were included in the first phase? / पहले चरण में कितने राज्य थे?",
+                            "options": [
+                                "11",
+                                "8",
+                                "10",
+                                "15"
+                            ],
+                            "answer": "11"
+                        },
+                        {
+                            "question": "Where was the national launch scheduled? / राष्ट्रीय शुभारंभ कहाँ निर्धारित था?",
+                            "options": [
+                                "Bharat Mandapam",
+                                "Yashobhoomi",
+                                "AIIMS Bilaspur",
+                                "Vigyan Bhawan"
+                            ],
+                            "answer": "Bharat Mandapam"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Maritime",
+                    "title": "SAREX-2026 Maritime Search and Rescue Exercise / SAREX-2026 समुद्री खोज एवं बचाव अभ्यास",
+                    "summary": "The Indian Coast Guard was conducting the 12th National Maritime Search and Rescue Exercise (SAREX-2026) off the Paradip coast in Odisha. The exercise aims to strengthen coordination among maritime and civil agencies during search-and-rescue operations. / भारतीय तटरक्षक बल ओडिशा के पारादीप तट के पास 12वें राष्ट्रीय समुद्री खोज एवं बचाव अभ्यास SAREX-2026 का आयोजन कर रहा था। इसका उद्देश्य खोज एवं बचाव अभियानों में विभिन्न एजेंसियों के बीच समन्वय बढ़ाना है।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319740&lang=1&reg=3",
+                    "staticGK": [
+                        "Exercise / अभ्यास : SAREX-2026",
+                        "Full Form / पूरा नाम : National Maritime Search and Rescue Exercise",
+                        "Edition / संस्करण : 12th",
+                        "Location / स्थान : Off Paradip Coast, Odisha",
+                        "Lead organisation / प्रमुख संगठन : Indian Coast Guard"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation leads SAREX-2026? / SAREX-2026 का नेतृत्व कौन करता है?",
+                            "options": [
+                                "Indian Coast Guard",
+                                "Indian Army",
+                                "BSF",
+                                "NDRF"
+                            ],
+                            "answer": "Indian Coast Guard"
+                        },
+                        {
+                            "question": "Where was the exercise conducted? / अभ्यास कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Paradip Coast, Odisha",
+                                "Kochi, Kerala",
+                                "Mumbai, Maharashtra",
+                                "Chennai, Tamil Nadu"
+                            ],
+                            "answer": "Paradip Coast, Odisha"
+                        },
+                        {
+                            "question": "Which edition was SAREX-2026? / SAREX-2026 कौन-सा संस्करण था?",
+                            "options": [
+                                "12th",
+                                "10th",
+                                "11th",
+                                "13th"
+                            ],
+                            "answer": "12th"
+                        },
+                        {
+                            "question": "SAREX is related to which activity? / SAREX किस गतिविधि से संबंधित है?",
+                            "options": [
+                                "Search and rescue",
+                                "Space exploration",
+                                "Bank supervision",
+                                "Forest census"
+                            ],
+                            "answer": "Search and rescue"
+                        },
+                        {
+                            "question": "Paradip is located in which state? / पारादीप किस राज्य में स्थित है?",
+                            "options": [
+                                "Odisha",
+                                "Gujarat",
+                                "Goa",
+                                "Andhra Pradesh"
+                            ],
+                            "answer": "Odisha"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & MSME",
+                    "title": "Cabinet Approves ₹10,000 Crore SME Growth Fund / कैबिनेट ने ₹10,000 करोड़ SME Growth Fund को मंजूरी दी",
+                    "summary": "A Press Information Bureau release reported that the Union Cabinet approved a government commitment of ₹10,000 crore for the SME Growth Fund. The fund is intended to provide growth-oriented equity capital to promising small and medium enterprises and support their expansion and competitiveness. / PIB की रिपोर्ट के अनुसार केंद्रीय कैबिनेट ने SME Growth Fund के लिए ₹10,000 करोड़ की सरकारी प्रतिबद्धता को मंजूरी दी। इसका उद्देश्य छोटे और मध्यम उद्यमों को विकास के लिए इक्विटी पूंजी उपलब्ध कराना है।",
+                    "sourceName": "Press Information Bureau (PIB), Cabinet",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2319534&lang=2&reg=3",
+                    "staticGK": [
+                        "Fund / फंड : SME Growth Fund",
+                        "Government commitment / सरकारी प्रतिबद्धता : ₹10,000 crore",
+                        "Target / लक्षित क्षेत्र : Small and Medium Enterprises",
+                        "Support / सहायता : Growth-oriented equity capital",
+                        "Approved by / मंजूरी : Union Cabinet"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much was committed to the SME Growth Fund? / SME Growth Fund के लिए कितनी राशि की प्रतिबद्धता थी?",
+                            "options": [
+                                "₹10,000 crore",
+                                "₹5,000 crore",
+                                "₹7,500 crore",
+                                "₹15,000 crore"
+                            ],
+                            "answer": "₹10,000 crore"
+                        },
+                        {
+                            "question": "What does SME stand for? / SME का पूरा नाम क्या है?",
+                            "options": [
+                                "Small and Medium Enterprises",
+                                "Special Market Enterprises",
+                                "Small Manufacturing Economy",
+                                "Strategic Medium Economy"
+                            ],
+                            "answer": "Small and Medium Enterprises"
+                        },
+                        {
+                            "question": "What type of capital is the fund intended to provide? / फंड किस प्रकार की पूंजी देने के लिए है?",
+                            "options": [
+                                "Equity capital",
+                                "Only grants",
+                                "Foreign currency only",
+                                "Personal loans"
+                            ],
+                            "answer": "Equity capital"
+                        },
+                        {
+                            "question": "Which body approved the fund? / फंड को किसने मंजूरी दी?",
+                            "options": [
+                                "Union Cabinet",
+                                "Supreme Court",
+                                "Election Commission",
+                                "RBI"
+                            ],
+                            "answer": "Union Cabinet"
+                        },
+                        {
+                            "question": "Which businesses are targeted by the fund? / फंड किन उद्यमों को लक्षित करता है?",
+                            "options": [
+                                "Small and medium enterprises",
+                                "Only large foreign banks",
+                                "School boards",
+                                "Sports federations"
+                            ],
+                            "answer": "Small and medium enterprises"
+                        }
+                    ]
+                },
+                {
+                    "category": "Transport & Infrastructure",
+                    "title": "Integrated Transport and Logistics Authority Approved / Integrated Transport & Logistics Authority को मंजूरी",
+                    "summary": "The Union Cabinet approved setting up the Integrated Transport & Logistics Authority (ITLA) as a Special Purpose Vehicle. It is intended to support integrated transport and logistics planning, research, project appraisal, monitoring and policy support across transport sectors. / केंद्रीय कैबिनेट ने Integrated Transport & Logistics Authority (ITLA) को Special Purpose Vehicle के रूप में स्थापित करने की मंजूरी दी। यह परिवहन और लॉजिस्टिक्स क्षेत्रों में एकीकृत योजना, अनुसंधान, परियोजना मूल्यांकन तथा निगरानी में सहायता करेगी।",
+                    "sourceName": "Press Information Bureau (PIB), Cabinet",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2319529&lang=2&reg=48",
+                    "staticGK": [
+                        "Full Form / पूरा नाम : Integrated Transport & Logistics Authority",
+                        "Abbreviation / संक्षिप्त नाम : ITLA",
+                        "Structure / संरचना : Special Purpose Vehicle (SPV)",
+                        "Main role / मुख्य भूमिका : Integrated transport and logistics planning",
+                        "Approved by / मंजूरी : Union Cabinet"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of ITLA? / ITLA का पूरा नाम क्या है?",
+                            "options": [
+                                "Integrated Transport & Logistics Authority",
+                                "Indian Transport Logistics Agency",
+                                "Integrated Transit Law Authority",
+                                "Indian Trade & Logistics Association"
+                            ],
+                            "answer": "Integrated Transport & Logistics Authority"
+                        },
+                        {
+                            "question": "ITLA was approved as what type of entity? / ITLA को किस प्रकार की इकाई के रूप में मंजूरी दी गई?",
+                            "options": [
+                                "Special Purpose Vehicle",
+                                "Public Sector Bank",
+                                "Regulatory Tribunal",
+                                "Constitutional Body"
+                            ],
+                            "answer": "Special Purpose Vehicle"
+                        },
+                        {
+                            "question": "Which body approved ITLA? / ITLA को किसने मंजूरी दी?",
+                            "options": [
+                                "Union Cabinet",
+                                "Supreme Court",
+                                "Election Commission",
+                                "RBI"
+                            ],
+                            "answer": "Union Cabinet"
+                        },
+                        {
+                            "question": "What is a major role of ITLA? / ITLA की प्रमुख भूमिका क्या है?",
+                            "options": [
+                                "Integrated transport planning",
+                                "Banking regulation",
+                                "School examinations",
+                                "Election management"
+                            ],
+                            "answer": "Integrated transport planning"
+                        },
+                        {
+                            "question": "ITLA covers which two areas? / ITLA किन दो क्षेत्रों से संबंधित है?",
+                            "options": [
+                                "Transport and logistics",
+                                "Health and education",
+                                "Defence and space",
+                                "Agriculture and tourism"
+                            ],
+                            "answer": "Transport and logistics"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Statistics",
+                    "title": "India's Environmental Economic Accounts Strategy 2026–2030 / भारत की Environmental Economic Accounts Strategy 2026–2030",
+                    "summary": "The Ministry of Statistics and Programme Implementation released a strategy for Environmental Economic Accounts in India for 2026–2030. The roadmap aims to expand environmental accounting and improve data coverage for forests, land, water, minerals, carbon stock and biodiversity. / सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय ने भारत में Environmental Economic Accounts के लिए 2026–2030 की रणनीति जारी की। इसका उद्देश्य वन, भूमि, जल, खनिज, कार्बन स्टॉक और जैव विविधता से संबंधित आँकड़ों को बेहतर बनाना है।",
+                    "sourceName": "Ministry of Statistics and Programme Implementation / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2320063&lang=1&reg=3",
+                    "staticGK": [
+                        "Document / दस्तावेज : Strategy for Environmental Economic Accounts in India",
+                        "Period / अवधि : 2026–2030",
+                        "Ministry / मंत्रालय : MoSPI",
+                        "Framework / ढाँचा : System of Environmental-Economic Accounting (SEEA)",
+                        "Key areas / प्रमुख क्षेत्र : Forests, water, land and biodiversity"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which ministry released the strategy? / रणनीति किस मंत्रालय ने जारी की?",
+                            "options": [
+                                "MoSPI",
+                                "Ministry of Finance",
+                                "Ministry of Agriculture",
+                                "Ministry of Railways"
+                            ],
+                            "answer": "MoSPI"
+                        },
+                        {
+                            "question": "What period does the strategy cover? / रणनीति किस अवधि को कवर करती है?",
+                            "options": [
+                                "2026–2030",
+                                "2024–2028",
+                                "2025–2030",
+                                "2026–2035"
+                            ],
+                            "answer": "2026–2030"
+                        },
+                        {
+                            "question": "What does SEEA stand for? / SEEA का पूरा नाम क्या है?",
+                            "options": [
+                                "System of Environmental-Economic Accounting",
+                                "Scientific Environment and Economic Assessment",
+                                "System of Energy and Environmental Administration",
+                                "Sustainable Economic and Ecological Authority"
+                            ],
+                            "answer": "System of Environmental-Economic Accounting"
+                        },
+                        {
+                            "question": "Which topic is covered by environmental economic accounts? / पर्यावरणीय आर्थिक लेखांकन में कौन-सा विषय शामिल है?",
+                            "options": [
+                                "Biodiversity",
+                                "Railway ticketing",
+                                "Banking licences",
+                                "Election symbols"
+                            ],
+                            "answer": "Biodiversity"
+                        },
+                        {
+                            "question": "What is the strategy intended to strengthen? / रणनीति का उद्देश्य किसे मजबूत करना है?",
+                            "options": [
+                                "Environmental accounting",
+                                "Defence recruitment",
+                                "Sports training",
+                                "School examinations"
+                            ],
+                            "answer": "Environmental accounting"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
