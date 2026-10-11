@@ -1,0 +1,121 @@
+
+{
+  "quizType": "daily",
+  "quizId": "2026-10-11",
+  "title": "Class 8-9 NCERT Mathematics Quiz - Part 1",
+  "date": "11 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "यदि x + 7 = 15, तो x का मान क्या होगा? / If x + 7 = 15, what is the value of x?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "एक परिमेय संख्या का उदाहरण कौन-सा है? / Which of the following is a rational number?",
+      "options": [
+        "√2",
+        "π",
+        "3/5",
+        "√7"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "बहुपद 2x + 5 की घात क्या है? / What is the degree of the polynomial 2x + 5?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "एक त्रिभुज के तीनों कोणों का योग कितना होता है? / What is the sum of the three angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "यदि किसी वर्ग की भुजा 6 cm है, तो उसका क्षेत्रफल कितना होगा? / If the side of a square is 6 cm, what is its area?",
+      "options": [
+        "12 cm²",
+        "24 cm²",
+        "36 cm²",
+        "48 cm²"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "बिंदु (0, 5) किस अक्ष पर स्थित है? / On which axis does the point (0, 5) lie?",
+      "options": [
+        "X-axis",
+        "Y-axis",
+        "Origin",
+        "Neither axis"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "√144 का मान क्या है? / What is the value of √144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "यदि दो समानांतर रेखाओं को एक तिर्यक रेखा काटती है, तो संगत कोण कैसे होते हैं? / When a transversal cuts two parallel lines, how are the corresponding angles related?",
+      "options": [
+        "Equal",
+        "Their sum is 90°",
+        "Their sum is 180°",
+        "Always unequal"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 9,
+      "question": "एक पासे को एक बार फेंकने पर सम संख्या आने की प्रायिकता क्या है? / What is the probability of getting an even number when a die is rolled once?",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "यदि किसी वृत्त की त्रिज्या 7 cm है, तो उसका व्यास कितना होगा? / If the radius of a circle is 7 cm, what is its diameter?",
+      "options": [
+        "7 cm",
+        "14 cm",
+        "21 cm",
+        "44 cm"
+      ],
+      "answer": 1
+    }
+  ]
+}

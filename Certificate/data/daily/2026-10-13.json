@@ -1,0 +1,130 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-13",
+  "title": "Class 10 NCERT Geography Quiz - Part 2",
+  "date": "13 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में संसाधनों के संरक्षण का मुख्य उद्देश्य क्या है? / What is the main objective of resource conservation in India?",
+      "options": [
+        "संसाधनों का अत्यधिक उपयोग / Excessive use of resources",
+        "संसाधनों का विवेकपूर्ण उपयोग / Judicious use of resources",
+        "संसाधनों का निर्यात रोकना / Stopping resource exports",
+        "औद्योगिक विकास रोकना / Stopping industrial development"
+      ],
+      "answer": 1,
+      "explanation": "संसाधनों का संरक्षण उनके विवेकपूर्ण उपयोग और भविष्य की पीढ़ियों के लिए उपलब्धता सुनिश्चित करने में मदद करता है। / Resource conservation promotes judicious use and helps ensure availability for future generations."
+    },
+    {
+      "id": 2,
+      "question": "भारत में भूमि निम्नीकरण का एक प्रमुख कारण क्या है? / What is a major cause of land degradation in India?",
+      "options": [
+        "वृक्षारोपण / Afforestation",
+        "वन संरक्षण / Forest conservation",
+        "अत्यधिक चराई / Overgrazing",
+        "वर्षा जल संचयन / Rainwater harvesting"
+      ],
+      "answer": 2,
+      "explanation": "अत्यधिक चराई से वनस्पति आवरण कम हो सकता है और मिट्टी का क्षरण बढ़ सकता है। / Overgrazing can reduce vegetation cover and increase soil erosion."
+    },
+    {
+      "id": 3,
+      "question": "किस मिट्टी को रेगुर मिट्टी भी कहा जाता है? / Which soil is also known as Regur soil?",
+      "options": [
+        "जलोढ़ मिट्टी / Alluvial Soil",
+        "काली मिट्टी / Black Soil",
+        "लाल मिट्टी / Red Soil",
+        "लेटराइट मिट्टी / Laterite Soil"
+      ],
+      "answer": 1,
+      "explanation": "काली मिट्टी को रेगुर मिट्टी भी कहा जाता है। यह कपास की खेती के लिए विशेष रूप से उपयुक्त है। / Black soil is also known as Regur soil and is especially suitable for cotton cultivation."
+    },
+    {
+      "id": 4,
+      "question": "भारत में वन और वन्यजीव संरक्षण के लिए कौन-सा अधिनियम बनाया गया था? / Which act was introduced in India for the protection of forests and wildlife?",
+      "options": [
+        "वन्यजीव संरक्षण अधिनियम, 1972 / Wildlife Protection Act, 1972",
+        "शिक्षा का अधिकार अधिनियम, 2009 / Right to Education Act, 2009",
+        "भारतीय नागरिकता अधिनियम, 1955 / Citizenship Act, 1955",
+        "सूचना का अधिकार अधिनियम, 2005 / Right to Information Act, 2005"
+      ],
+      "answer": 0,
+      "explanation": "वन्यजीव संरक्षण अधिनियम, 1972 का उद्देश्य वन्यजीवों और उनके संरक्षण को कानूनी सुरक्षा प्रदान करना है। / The Wildlife Protection Act, 1972 provides legal protection for wildlife conservation."
+    },
+    {
+      "id": 5,
+      "question": "झूम खेती मुख्य रूप से किस प्रकार की कृषि है? / Jhum cultivation is primarily which type of farming?",
+      "options": [
+        "वाणिज्यिक कृषि / Commercial Farming",
+        "स्थानांतरी कृषि / Shifting Cultivation",
+        "गहन कृषि / Intensive Farming",
+        "बागानी कृषि / Plantation Farming"
+      ],
+      "answer": 1,
+      "explanation": "झूम खेती स्थानांतरी कृषि का एक रूप है, जिसमें किसान कुछ समय तक भूमि पर खेती करने के बाद दूसरे क्षेत्र में चले जाते हैं। / Jhum cultivation is a form of shifting cultivation in which farmers move to another area after cultivating land for a period."
+    },
+    {
+      "id": 6,
+      "question": "भारत में रबी फसलों की बुवाई सामान्यतः किस मौसम में की जाती है? / In which season are Rabi crops generally sown in India?",
+      "options": [
+        "वर्षा ऋतु / Rainy Season",
+        "शीत ऋतु / Winter Season",
+        "ग्रीष्म ऋतु / Summer Season",
+        "मानसून के अंत में ही / Only at the end of the monsoon"
+      ],
+      "answer": 1,
+      "explanation": "रबी फसलों की बुवाई सामान्यतः सर्दियों में होती है और कटाई वसंत ऋतु में की जाती है। / Rabi crops are generally sown in winter and harvested in spring."
+    },
+    {
+      "id": 7,
+      "question": "निम्नलिखित में से कौन-सी खरीफ फसल है? / Which of the following is a Kharif crop?",
+      "options": [
+        "गेहूँ / Wheat",
+        "चना / Gram",
+        "सरसों / Mustard",
+        "धान / Rice"
+      ],
+      "answer": 3,
+      "explanation": "धान भारत की प्रमुख खरीफ फसलों में से एक है और सामान्यतः मानसून के आगमन के साथ इसकी खेती की जाती है। / Rice is a major Kharif crop in India and is generally cultivated with the arrival of the monsoon."
+    },
+    {
+      "id": 8,
+      "question": "भारत में भाखड़ा नांगल बाँध किस नदी पर बनाया गया है? / On which river is the Bhakra Nangal Dam built?",
+      "options": [
+        "गंगा / Ganga",
+        "सतलुज / Sutlej",
+        "गोदावरी / Godavari",
+        "कृष्णा / Krishna"
+      ],
+      "answer": 1,
+      "explanation": "भाखड़ा नांगल बाँध सतलुज नदी पर स्थित एक प्रमुख बहुउद्देशीय परियोजना है। / The Bhakra Nangal Dam is a major multipurpose project on the Sutlej River."
+    },
+    {
+      "id": 9,
+      "question": "निम्नलिखित में से कौन-सा एक गैर-पारंपरिक ऊर्जा स्रोत है? / Which of the following is a non-conventional source of energy?",
+      "options": [
+        "कोयला / Coal",
+        "पेट्रोलियम / Petroleum",
+        "सौर ऊर्जा / Solar Energy",
+        "प्राकृतिक गैस / Natural Gas"
+      ],
+      "answer": 2,
+      "explanation": "सौर ऊर्जा एक नवीकरणीय और गैर-पारंपरिक ऊर्जा स्रोत है। / Solar energy is a renewable and non-conventional source of energy."
+    },
+    {
+      "id": 10,
+      "question": "भारत में लौह और इस्पात उद्योग किस प्रकार का उद्योग है? / The iron and steel industry in India belongs to which category?",
+      "options": [
+        "कृषि आधारित उद्योग / Agro-based Industry",
+        "खनिज आधारित उद्योग / Mineral-based Industry",
+        "वन आधारित उद्योग / Forest-based Industry",
+        "समुद्री आधारित उद्योग / Marine-based Industry"
+      ],
+      "answer": 1,
+      "explanation": "लौह और इस्पात उद्योग लौह अयस्क, कोयला और चूना पत्थर जैसे खनिज संसाधनों पर आधारित है। / The iron and steel industry is based on mineral resources such as iron ore, coal and limestone."
+    }
+  ]
+}

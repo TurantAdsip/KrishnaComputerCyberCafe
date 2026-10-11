@@ -1,0 +1,130 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-12",
+  "title": "Class 10 NCERT Geography Quiz - Part 1",
+  "date": "12 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में सबसे अधिक क्षेत्रफल पर कौन-सी मिट्टी पाई जाती है? / Which soil type covers the largest area in India?",
+      "options": [
+        "काली मिट्टी / Black Soil",
+        "जलोढ़ मिट्टी / Alluvial Soil",
+        "लाल और पीली मिट्टी / Red and Yellow Soil",
+        "लेटराइट मिट्टी / Laterite Soil"
+      ],
+      "answer": 1,
+      "explanation": "जलोढ़ मिट्टी भारत में सबसे अधिक क्षेत्रफल में पाई जाती है और यह अत्यंत उपजाऊ होती है। / Alluvial soil covers the largest area in India and is highly fertile."
+    },
+    {
+      "id": 2,
+      "question": "काली मिट्टी किस फसल की खेती के लिए सबसे अधिक उपयुक्त है? / Black soil is most suitable for which crop?",
+      "options": [
+        "चाय / Tea",
+        "कपास / Cotton",
+        "जूट / Jute",
+        "कॉफी / Coffee"
+      ],
+      "answer": 1,
+      "explanation": "काली मिट्टी में नमी बनाए रखने की क्षमता अधिक होती है, इसलिए यह कपास की खेती के लिए उपयुक्त है। / Black soil retains moisture well, making it suitable for cotton cultivation."
+    },
+    {
+      "id": 3,
+      "question": "भारत में बहने वाली सबसे लंबी नदी कौन-सी है? / Which is the longest river flowing within India?",
+      "options": [
+        "गोदावरी / Godavari",
+        "यमुना / Yamuna",
+        "गंगा / Ganga",
+        "नर्मदा / Narmada"
+      ],
+      "answer": 2,
+      "explanation": "गंगा भारत में बहने वाली सबसे लंबी नदी है। / The Ganga is the longest river flowing within India."
+    },
+    {
+      "id": 4,
+      "question": "भारत में किस प्रकार की जलवायु पाई जाती है? / Which type of climate is found in India?",
+      "options": [
+        "भूमध्यसागरीय जलवायु / Mediterranean Climate",
+        "मानसूनी जलवायु / Monsoon Climate",
+        "ध्रुवीय जलवायु / Polar Climate",
+        "भूमध्यरेखीय जलवायु / Equatorial Climate"
+      ],
+      "answer": 1,
+      "explanation": "भारत की जलवायु को मुख्य रूप से मानसूनी जलवायु कहा जाता है। / India's climate is primarily classified as a monsoon climate."
+    },
+    {
+      "id": 5,
+      "question": "भारत में चाय उत्पादन के लिए कौन-सा राज्य प्रसिद्ध है? / Which Indian state is famous for tea production?",
+      "options": [
+        "राजस्थान / Rajasthan",
+        "असम / Assam",
+        "पंजाब / Punjab",
+        "हरियाणा / Haryana"
+      ],
+      "answer": 1,
+      "explanation": "असम अपने चाय बागानों और चाय उत्पादन के लिए प्रसिद्ध है। / Assam is famous for its tea gardens and tea production."
+    },
+    {
+      "id": 6,
+      "question": "सुंदरवन डेल्टा मुख्य रूप से किन नदियों द्वारा बनाया गया है? / The Sundarbans Delta is mainly formed by which rivers?",
+      "options": [
+        "गंगा और ब्रह्मपुत्र / Ganga and Brahmaputra",
+        "नर्मदा और ताप्ती / Narmada and Tapi",
+        "गोदावरी और कृष्णा / Godavari and Krishna",
+        "सिंधु और झेलम / Indus and Jhelum"
+      ],
+      "answer": 0,
+      "explanation": "गंगा और ब्रह्मपुत्र नदियाँ मिलकर विश्व के सबसे बड़े डेल्टाई क्षेत्रों में से एक बनाती हैं। / The Ganga and Brahmaputra together form one of the world's largest delta regions."
+    },
+    {
+      "id": 7,
+      "question": "भारत में लौह अयस्क का प्रमुख उत्पादक राज्य कौन-सा है? / Which is a major iron ore-producing state in India?",
+      "options": [
+        "ओडिशा / Odisha",
+        "पंजाब / Punjab",
+        "हरियाणा / Haryana",
+        "बिहार / Bihar"
+      ],
+      "answer": 0,
+      "explanation": "ओडिशा भारत के प्रमुख लौह अयस्क उत्पादक राज्यों में से एक है। / Odisha is one of India's major iron ore-producing states."
+    },
+    {
+      "id": 8,
+      "question": "भारत में हरित क्रांति का मुख्य उद्देश्य क्या था? / What was the main objective of the Green Revolution in India?",
+      "options": [
+        "वन क्षेत्र बढ़ाना / Increase forest cover",
+        "खाद्यान्न उत्पादन बढ़ाना / Increase food grain production",
+        "खनिज उत्पादन बढ़ाना / Increase mineral production",
+        "मछली उत्पादन कम करना / Reduce fish production"
+      ],
+      "answer": 1,
+      "explanation": "हरित क्रांति का मुख्य उद्देश्य उन्नत बीजों, सिंचाई और उर्वरकों के उपयोग से खाद्यान्न उत्पादन बढ़ाना था। / The Green Revolution aimed to increase food grain production through improved seeds, irrigation and fertilizers."
+    },
+    {
+      "id": 9,
+      "question": "भारत में सबसे अधिक वर्षा प्राप्त करने वाले स्थानों में से एक कौन-सा है? / Which of the following is one of the places receiving the highest rainfall in India?",
+      "options": [
+        "जैसलमेर / Jaisalmer",
+        "लेह / Leh",
+        "मौसिनराम / Mawsynram",
+        "बीकानेर / Bikaner"
+      ],
+      "answer": 2,
+      "explanation": "मेघालय का मौसिनराम अपनी अत्यधिक वार्षिक वर्षा के लिए प्रसिद्ध है। / Mawsynram in Meghalaya is famous for its extremely high annual rainfall."
+    },
+    {
+      "id": 10,
+      "question": "भारत में संसाधनों के नियोजन की आवश्यकता क्यों है? / Why is resource planning necessary in India?",
+      "options": [
+        "संसाधनों का समान वितरण सुनिश्चित करने के लिए / To ensure equitable distribution of resources",
+        "सभी संसाधनों को समाप्त करने के लिए / To exhaust all resources",
+        "केवल आयात बढ़ाने के लिए / To increase imports only",
+        "कृषि को पूरी तरह बंद करने के लिए / To stop agriculture completely"
+      ],
+      "answer": 0,
+      "explanation": "संसाधनों का नियोजन उनके विवेकपूर्ण उपयोग और क्षेत्रीय असमानताओं को कम करने में मदद करता है। / Resource planning promotes the judicious use of resources and helps reduce regional inequalities."
+    }
+  ]
+}

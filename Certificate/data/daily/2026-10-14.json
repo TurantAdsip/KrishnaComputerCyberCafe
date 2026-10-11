@@ -1,0 +1,130 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-14",
+  "title": "Class 10 NCERT Geography Quiz - Part 3",
+  "date": "14 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में जलोढ़ मिट्टी मुख्य रूप से किन क्षेत्रों में पाई जाती है? / In which regions of India is alluvial soil mainly found?",
+      "options": [
+        "उत्तरी मैदान / Northern Plains",
+        "अरावली पर्वतीय क्षेत्र / Aravalli Hills",
+        "थार मरुस्थल का मध्य भाग / Central Thar Desert",
+        "पश्चिमी घाट की ऊँची चोटियाँ / High peaks of the Western Ghats"
+      ],
+      "answer": 0,
+      "explanation": "जलोढ़ मिट्टी मुख्य रूप से सिंधु, गंगा और ब्रह्मपुत्र नदी प्रणालियों द्वारा निर्मित उत्तरी मैदानों में पाई जाती है। / Alluvial soil is mainly found in the Northern Plains formed by the Indus, Ganga and Brahmaputra river systems."
+    },
+    {
+      "id": 2,
+      "question": "मृदा अपरदन को रोकने का एक प्रभावी उपाय कौन-सा है? / Which is an effective method of preventing soil erosion?",
+      "options": [
+        "वनों की कटाई / Deforestation",
+        "अत्यधिक चराई / Overgrazing",
+        "वृक्षारोपण / Afforestation",
+        "खनन में वृद्धि / Increasing mining"
+      ],
+      "answer": 2,
+      "explanation": "वृक्षों की जड़ें मिट्टी को बाँधकर रखती हैं और जल तथा वायु द्वारा होने वाले मृदा अपरदन को कम करती हैं। / Tree roots hold the soil together and reduce erosion caused by water and wind."
+    },
+    {
+      "id": 3,
+      "question": "भारत में कॉफी उत्पादन के लिए कौन-सा राज्य प्रसिद्ध है? / Which Indian state is famous for coffee production?",
+      "options": [
+        "हरियाणा / Haryana",
+        "कर्नाटक / Karnataka",
+        "पंजाब / Punjab",
+        "उत्तर प्रदेश / Uttar Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "कर्नाटक भारत का प्रमुख कॉफी उत्पादक राज्य है। / Karnataka is a major coffee-producing state in India."
+    },
+    {
+      "id": 4,
+      "question": "भारत में अधिकांश वर्षा किस मानसून से होती है? / Most rainfall in India is received from which monsoon?",
+      "options": [
+        "उत्तर-पूर्वी मानसून / Northeast Monsoon",
+        "दक्षिण-पश्चिमी मानसून / Southwest Monsoon",
+        "शीतकालीन पश्चिमी विक्षोभ / Winter Western Disturbances",
+        "स्थानीय हवाएँ / Local Winds"
+      ],
+      "answer": 1,
+      "explanation": "भारत के अधिकांश भागों में जून से सितंबर के दौरान दक्षिण-पश्चिमी मानसून से वर्षा होती है। / Most parts of India receive rainfall from the southwest monsoon between June and September."
+    },
+    {
+      "id": 5,
+      "question": "नर्मदा नदी किस दिशा में बहती है? / In which direction does the Narmada River flow?",
+      "options": [
+        "पूर्व की ओर / Eastward",
+        "पश्चिम की ओर / Westward",
+        "उत्तर की ओर / Northward",
+        "दक्षिण की ओर / Southward"
+      ],
+      "answer": 1,
+      "explanation": "नर्मदा नदी मध्य भारत की भ्रंश घाटी से होकर पश्चिम की ओर बहती है और अरब सागर में गिरती है। / The Narmada flows westward through a rift valley in central India and drains into the Arabian Sea."
+    },
+    {
+      "id": 6,
+      "question": "निम्नलिखित में से कौन-सा खनिज ऊर्जा संसाधन है? / Which of the following is an energy mineral?",
+      "options": [
+        "अभ्रक / Mica",
+        "चूना पत्थर / Limestone",
+        "कोयला / Coal",
+        "मैंगनीज / Manganese"
+      ],
+      "answer": 2,
+      "explanation": "कोयला एक प्रमुख पारंपरिक ऊर्जा संसाधन है, जिसका उपयोग बिजली उत्पादन और उद्योगों में किया जाता है। / Coal is a major conventional energy resource used for electricity generation and industrial purposes."
+    },
+    {
+      "id": 7,
+      "question": "भारत में जूट उद्योग मुख्य रूप से किस राज्य में केंद्रित है? / In which Indian state is the jute industry mainly concentrated?",
+      "options": [
+        "गुजरात / Gujarat",
+        "पश्चिम बंगाल / West Bengal",
+        "राजस्थान / Rajasthan",
+        "मध्य प्रदेश / Madhya Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "पश्चिम बंगाल में हुगली नदी के किनारे जूट उद्योग का प्रमुख संकेंद्रण पाया जाता है। / The jute industry is mainly concentrated along the Hooghly River in West Bengal."
+    },
+    {
+      "id": 8,
+      "question": "बहुउद्देशीय नदी घाटी परियोजनाओं का एक प्रमुख उद्देश्य क्या है? / What is a major objective of multipurpose river valley projects?",
+      "options": [
+        "केवल पर्यटन को बढ़ावा देना / Promoting tourism only",
+        "सिंचाई और जलविद्युत उत्पादन / Irrigation and hydroelectric power generation",
+        "केवल सड़क निर्माण / Road construction only",
+        "वनों की कटाई बढ़ाना / Increasing deforestation"
+      ],
+      "answer": 1,
+      "explanation": "बहुउद्देशीय परियोजनाएँ सिंचाई, बिजली उत्पादन, बाढ़ नियंत्रण और जल आपूर्ति जैसे कई कार्य करती हैं। / Multipurpose projects support irrigation, power generation, flood control and water supply."
+    },
+    {
+      "id": 9,
+      "question": "किस प्रकार की कृषि में किसान मुख्य रूप से बाजार में बेचने के लिए फसलें उगाते हैं? / In which type of farming do farmers mainly grow crops for sale in the market?",
+      "options": [
+        "निर्वाह कृषि / Subsistence Farming",
+        "वाणिज्यिक कृषि / Commercial Farming",
+        "स्थानांतरी कृषि / Shifting Cultivation",
+        "पशुपालन मात्र / Livestock Rearing Only"
+      ],
+      "answer": 1,
+      "explanation": "वाणिज्यिक कृषि में फसलों का उत्पादन मुख्य रूप से बाजार में बिक्री और आय अर्जित करने के लिए किया जाता है। / Commercial farming primarily produces crops for sale in the market and for earning income."
+    },
+    {
+      "id": 10,
+      "question": "भारत में विनिर्माण उद्योगों का विकास क्यों महत्वपूर्ण है? / Why is the development of manufacturing industries important in India?",
+      "options": [
+        "रोजगार और आर्थिक विकास के लिए / For employment and economic growth",
+        "कृषि उत्पादन पूरी तरह समाप्त करने के लिए / To eliminate agricultural production completely",
+        "प्राकृतिक संसाधनों का अपव्यय करने के लिए / To waste natural resources",
+        "व्यापार को रोकने के लिए / To stop trade"
+      ],
+      "answer": 0,
+      "explanation": "विनिर्माण उद्योग रोजगार पैदा करते हैं, कच्चे माल का मूल्य बढ़ाते हैं और देश के आर्थिक विकास में योगदान देते हैं। / Manufacturing industries create jobs, add value to raw materials and contribute to the country's economic growth."
+    }
+  ]
+}
