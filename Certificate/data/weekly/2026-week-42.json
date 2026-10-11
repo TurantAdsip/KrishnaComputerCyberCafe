@@ -1,0 +1,342 @@
+
+{
+  "quizType": "weekly",
+  "quizId": "2026-week-42",
+  "title": "Weekly NCERT Geography Quiz - Class 9 & 10",
+  "week": "Week 42",
+  "date": "12 October - 18 October 2026",
+  "totalQuestions": 30,
+  "timeLimit": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the northernmost range of the Himalayas called? / हिमालय की सबसे उत्तरी पर्वत श्रृंखला क्या कहलाती है?",
+      "options": [
+        "Himadri / हिमाद्रि",
+        "Shiwalik / शिवालिक",
+        "Himachal / हिमाचल",
+        "Aravalli / अरावली"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which is the oldest landmass of India? / भारत का सबसे प्राचीन भूभाग कौन-सा है?",
+      "options": [
+        "Northern Plains / उत्तरी मैदान",
+        "Peninsular Plateau / प्रायद्वीपीय पठार",
+        "Himalayas / हिमालय",
+        "Coastal Plains / तटीय मैदान"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which river is known as the Dakshin Ganga? / किस नदी को दक्षिण गंगा कहा जाता है?",
+      "options": [
+        "Krishna / कृष्णा",
+        "Narmada / नर्मदा",
+        "Godavari / गोदावरी",
+        "Kaveri / कावेरी"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which river flows through a rift valley? / कौन-सी नदी भ्रंश घाटी से होकर बहती है?",
+      "options": [
+        "Ganga / गंगा",
+        "Yamuna / यमुना",
+        "Godavari / गोदावरी",
+        "Narmada / नर्मदा"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which is the largest delta in the world? / विश्व का सबसे बड़ा डेल्टा कौन-सा है?",
+      "options": [
+        "Sundarbans Delta / सुंदरबन डेल्टा",
+        "Nile Delta / नील डेल्टा",
+        "Mahanadi Delta / महानदी डेल्टा",
+        "Godavari Delta / गोदावरी डेल्टा"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 6,
+      "question": "Which type of forest is found in areas receiving heavy rainfall? / अधिक वर्षा वाले क्षेत्रों में किस प्रकार के वन पाए जाते हैं?",
+      "options": [
+        "Thorn Forests / कांटेदार वन",
+        "Tropical Evergreen Forests / उष्णकटिबंधीय सदाबहार वन",
+        "Mountain Forests / पर्वतीय वन",
+        "Mangrove Forests only / केवल मैंग्रोव वन"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which state has the largest area under forests in India? / भारत में वन क्षेत्रफल के हिसाब से सबसे बड़ा राज्य कौन-सा है?",
+      "options": [
+        "Kerala / केरल",
+        "Punjab / पंजाब",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Haryana / हरियाणा"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which soil is ideal for growing cotton? / कपास की खेती के लिए कौन-सी मिट्टी उपयुक्त है?",
+      "options": [
+        "Alluvial Soil / जलोढ़ मिट्टी",
+        "Laterite Soil / लैटेराइट मिट्टी",
+        "Arid Soil / शुष्क मिट्टी",
+        "Black Soil / काली मिट्टी"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which soil is mainly formed by river deposits? / कौन-सी मिट्टी मुख्य रूप से नदियों द्वारा जमा किए गए अवसादों से बनती है?",
+      "options": [
+        "Alluvial Soil / जलोढ़ मिट्टी",
+        "Black Soil / काली मिट्टी",
+        "Red Soil / लाल मिट्टी",
+        "Laterite Soil / लैटेराइट मिट्टी"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 10,
+      "question": "Which crop is known as a Kharif crop? / इनमें से कौन-सी खरीफ फसल है?",
+      "options": [
+        "Wheat / गेहूँ",
+        "Rice / चावल",
+        "Gram / चना",
+        "Mustard / सरसों"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which crop is mainly grown during the Rabi season? / रबी ऋतु में मुख्य रूप से कौन-सी फसल उगाई जाती है?",
+      "options": [
+        "Rice / चावल",
+        "Jute / जूट",
+        "Wheat / गेहूँ",
+        "Cotton / कपास"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which is the main source of irrigation in many parts of northern India? / उत्तरी भारत के कई भागों में सिंचाई का प्रमुख साधन क्या है?",
+      "options": [
+        "Sea water / समुद्री जल",
+        "Glaciers only / केवल हिमनद",
+        "Rainwater only / केवल वर्षा जल",
+        "Canals and tube wells / नहरें और नलकूप"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is the main cause of monsoon rainfall in India? / भारत में मानसूनी वर्षा का मुख्य कारण क्या है?",
+      "options": [
+        "Seasonal reversal of winds / पवनों की मौसमी दिशा परिवर्तन",
+        "Volcanic activity / ज्वालामुखीय गतिविधि",
+        "Ocean tides / समुद्री ज्वार",
+        "Earthquakes / भूकंप"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "Which place receives very high rainfall in Meghalaya? / मेघालय में किस स्थान पर बहुत अधिक वर्षा होती है?",
+      "options": [
+        "Jaipur / जयपुर",
+        "Mawsynram / मौसिनराम",
+        "Jaisalmer / जैसलमेर",
+        "Leh / लेह"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which winds bring most of the rainfall to India? / भारत में अधिकांश वर्षा कौन-सी पवनें लाती हैं?",
+      "options": [
+        "Trade winds in winter / सर्दियों की व्यापारिक पवनें",
+        "Polar winds / ध्रुवीय पवनें",
+        "Southwest monsoon winds / दक्षिण-पश्चिम मानसूनी पवनें",
+        "Local desert winds / स्थानीय मरुस्थलीय पवनें"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which is the most widespread natural vegetation in India? / भारत में सबसे व्यापक रूप से पाया जाने वाला प्राकृतिक वनस्पति प्रकार कौन-सा है?",
+      "options": [
+        "Tropical Evergreen Forests / उष्णकटिबंधीय सदाबहार वन",
+        "Mangrove Forests / मैंग्रोव वन",
+        "Alpine Vegetation / अल्पाइन वनस्पति",
+        "Tropical Deciduous Forests / उष्णकटिबंधीय पर्णपाती वन"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What is the main objective of resource planning? / संसाधन नियोजन का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "Sustainable and balanced use of resources / संसाधनों का सतत और संतुलित उपयोग",
+        "Wasting natural resources / प्राकृतिक संसाधनों की बर्बादी",
+        "Stopping all industries / सभी उद्योगों को बंद करना",
+        "Increasing pollution / प्रदूषण बढ़ाना"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a renewable resource? / निम्नलिखित में से कौन-सा नवीकरणीय संसाधन है?",
+      "options": [
+        "Coal / कोयला",
+        "Solar Energy / सौर ऊर्जा",
+        "Petroleum / पेट्रोलियम",
+        "Natural Gas / प्राकृतिक गैस"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which mineral is the basic raw material for the iron and steel industry? / लौह एवं इस्पात उद्योग का प्रमुख खनिज कच्चा माल कौन-सा है?",
+      "options": [
+        "Mica / अभ्रक",
+        "Limestone only / केवल चूना पत्थर",
+        "Iron Ore / लौह अयस्क",
+        "Bauxite / बॉक्साइट"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which energy source is considered non-conventional? / कौन-सा ऊर्जा स्रोत गैर-पारंपरिक माना जाता है?",
+      "options": [
+        "Coal / कोयला",
+        "Petroleum / पेट्रोलियम",
+        "Firewood / जलावन लकड़ी",
+        "Solar Energy / सौर ऊर्जा"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Which is the most important means of transport for carrying heavy goods over long distances in India? / भारत में भारी सामान को लंबी दूरी तक ले जाने का महत्वपूर्ण साधन कौन-सा है?",
+      "options": [
+        "Railways / रेलमार्ग",
+        "Bullock carts / बैलगाड़ियाँ",
+        "Bicycles / साइकिलें",
+        "Walking / पैदल चलना"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "question": "Which port is located in Maharashtra? / महाराष्ट्र में कौन-सा बंदरगाह स्थित है?",
+      "options": [
+        "Chennai Port / चेन्नई बंदरगाह",
+        "Mumbai Port / मुंबई बंदरगाह",
+        "Paradip Port / पारादीप बंदरगाह",
+        "Kandla Port / कांडला बंदरगाह"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Which industry is known as a basic industry because it supplies raw material to other industries? / कौन-सा उद्योग अन्य उद्योगों को कच्चा माल प्रदान करने के कारण आधारभूत उद्योग कहलाता है?",
+      "options": [
+        "Sugar Industry / चीनी उद्योग",
+        "Tourism Industry / पर्यटन उद्योग",
+        "Iron and Steel Industry / लौह एवं इस्पात उद्योग",
+        "Entertainment Industry / मनोरंजन उद्योग"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Which state is a major producer of tea in India? / भारत में चाय का प्रमुख उत्पादक राज्य कौन-सा है?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Haryana / हरियाणा",
+        "Punjab / पंजाब",
+        "Assam / असम"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "Which farming method is commonly practised in areas with high population pressure on land? / भूमि पर अधिक जनसंख्या दबाव वाले क्षेत्रों में सामान्यतः कौन-सी कृषि पद्धति अपनाई जाती है?",
+      "options": [
+        "Intensive Subsistence Farming / गहन निर्वाह कृषि",
+        "Commercial Ranching / वाणिज्यिक पशुपालन",
+        "Shifting Cultivation only / केवल स्थानांतरण कृषि",
+        "Plantation Farming only / केवल बागानी कृषि"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "question": "What is the main purpose of rainwater harvesting? / वर्षा जल संचयन का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "Increase soil erosion / मृदा अपरदन बढ़ाना",
+        "Collect and conserve rainwater / वर्षा जल एकत्र करना और संरक्षित करना",
+        "Increase water pollution / जल प्रदूषण बढ़ाना",
+        "Waste groundwater / भूजल की बर्बादी"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a major cause of land degradation in India? / भारत में भूमि निम्नीकरण का प्रमुख कारण कौन-सा है?",
+      "options": [
+        "Afforestation / वनीकरण",
+        "Terrace farming / सीढ़ीदार खेती",
+        "Overgrazing / अत्यधिक चराई",
+        "Rainwater harvesting / वर्षा जल संचयन"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Which river forms the famous Dhuandhar Falls? / प्रसिद्ध धुआँधार जलप्रपात किस नदी पर स्थित है?",
+      "options": [
+        "Ganga / गंगा",
+        "Yamuna / यमुना",
+        "Godavari / गोदावरी",
+        "Narmada / नर्मदा"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "Which state is associated with the Chipko Movement? / चिपको आंदोलन किस राज्य से संबंधित है?",
+      "options": [
+        "Uttarakhand (then part of Uttar Pradesh) / उत्तराखंड (तत्कालीन उत्तर प्रदेश का भाग)",
+        "Tamil Nadu / तमिलनाडु",
+        "Gujarat / गुजरात",
+        "Punjab / पंजाब"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 30,
+      "question": "What is the main aim of sustainable development? / सतत विकास का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "Use all resources immediately / सभी संसाधनों का तुरंत उपयोग करना",
+        "Meet present needs without compromising future generations / भविष्य की पीढ़ियों की जरूरतों से समझौता किए बिना वर्तमान आवश्यकताओं को पूरा करना",
+        "Stop all economic activities / सभी आर्थिक गतिविधियों को रोकना",
+        "Depend only on non-renewable resources / केवल अनवीकरणीय संसाधनों पर निर्भर रहना"
+      ],
+      "answer": 1
+    }
+  ]
+}
