@@ -7612,6 +7612,2744 @@
                     ]
                 }
             ]
+        },
+                {
+            "id": "2026-10-12",
+            "date": "12 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 12 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Agriculture & Government Schemes",
+                    "title": "PM Dhan-Dhaanya Krishi Yojana Completes One Year / प्रधानमंत्री धन-धान्य कृषि योजना का एक वर्ष पूरा",
+                    "summary": "The Prime Minister Dhan-Dhaanya Krishi Yojana completed one year, with a focus on improving agricultural productivity, irrigation, credit access and coordinated development in selected districts. Union Agriculture Minister Shivraj Singh Chouhan highlighted district-led planning and coordination among government departments. / प्रधानमंत्री धन-धान्य कृषि योजना का एक वर्ष पूरा हुआ। इस योजना का उद्देश्य चयनित जिलों में कृषि उत्पादकता, सिंचाई, ऋण सुविधा और विभागों के बीच समन्वय को बढ़ावा देना है।",
+                    "sourceName": "Ministry of Agriculture & Farmers Welfare / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322443&lang=2&reg=3",
+                    "staticGK": [
+                        "Scheme / योजना : PM Dhan-Dhaanya Krishi Yojana",
+                        "Abbreviation / संक्षिप्त नाम : PMDDKY",
+                        "Focus / मुख्य उद्देश्य : Agricultural development",
+                        "Approach / दृष्टिकोण : District-led planning",
+                        "Minister / मंत्री : Shivraj Singh Chouhan"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which scheme completed one year in October 2026? / अक्टूबर 2026 में किस योजना का एक वर्ष पूरा हुआ?",
+                            "options": [
+                                "PM Dhan-Dhaanya Krishi Yojana",
+                                "PM-KISAN",
+                                "PMAY",
+                                "PM Ujjwala Yojana"
+                            ],
+                            "answer": "PM Dhan-Dhaanya Krishi Yojana"
+                        },
+                        {
+                            "question": "Which sector is the primary focus of PMDDKY? / PMDDKY का मुख्य क्षेत्र कौन-सा है?",
+                            "options": [
+                                "Agriculture",
+                                "Tourism",
+                                "Telecommunications",
+                                "Space research"
+                            ],
+                            "answer": "Agriculture"
+                        },
+                        {
+                            "question": "Who is the Union Agriculture Minister named in the report? / रिपोर्ट में केंद्रीय कृषि मंत्री के रूप में किसका नाम है?",
+                            "options": [
+                                "Shivraj Singh Chouhan",
+                                "Piyush Goyal",
+                                "Dharmendra Pradhan",
+                                "Amit Shah"
+                            ],
+                            "answer": "Shivraj Singh Chouhan"
+                        },
+                        {
+                            "question": "Which planning approach is emphasised under the initiative? / इस पहल में किस योजना पद्धति पर जोर दिया गया है?",
+                            "options": [
+                                "District-led planning",
+                                "Foreign-led planning",
+                                "Port-led planning only",
+                                "City tourism planning"
+                            ],
+                            "answer": "District-led planning"
+                        },
+                        {
+                            "question": "Which of the following is a key agricultural development concern? / निम्नलिखित में से कौन कृषि विकास का प्रमुख विषय है?",
+                            "options": [
+                                "Irrigation and farm credit",
+                                "Cinema promotion",
+                                "International aviation",
+                                "Luxury retail"
+                            ],
+                            "answer": "Irrigation and farm credit"
+                        }
+                    ]
+                },
+                {
+                    "category": "Skill Development & Education",
+                    "title": "PM-SETU Approves ₹440 Crore for Nine Government ITIs / PM-SETU के तहत नौ सरकारी ITI के लिए ₹440 करोड़ स्वीकृत",
+                    "summary": "The Ministry of Skill Development and Entrepreneurship announced shareholder agreements for upgrading government Industrial Training Institutes in the Surat and Visakhapatnam clusters under PM-SETU. The initiative involves AM/NS India and the governments of Gujarat and Andhra Pradesh, with ₹440 crore approved for nine ITIs. / कौशल विकास एवं उद्यमशीलता मंत्रालय ने PM-SETU के तहत सूरत और विशाखापत्तनम क्लस्टर के सरकारी औद्योगिक प्रशिक्षण संस्थानों के उन्नयन के लिए समझौतों की जानकारी दी। नौ ITI के लिए ₹440 करोड़ स्वीकृत किए गए।",
+                    "sourceName": "Ministry of Skill Development and Entrepreneurship / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2322170&lang=1&reg=3",
+                    "staticGK": [
+                        "Scheme / योजना : PM-SETU",
+                        "Full form / पूरा नाम : Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs",
+                        "Approved amount / स्वीकृत राशि : ₹440 crore",
+                        "ITIs covered / शामिल ITI : Nine",
+                        "Clusters / क्लस्टर : Surat and Visakhapatnam"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much funding was approved for upgrading nine ITIs? / नौ ITI के उन्नयन के लिए कितनी राशि स्वीकृत हुई?",
+                            "options": [
+                                "₹440 crore",
+                                "₹100 crore",
+                                "₹250 crore",
+                                "₹1,000 crore"
+                            ],
+                            "answer": "₹440 crore"
+                        },
+                        {
+                            "question": "Which scheme is associated with the ITI upgradation? / ITI उन्नयन किस योजना के अंतर्गत है?",
+                            "options": [
+                                "PM-SETU",
+                                "PM-KISAN",
+                                "PMAY",
+                                "PMGSY"
+                            ],
+                            "answer": "PM-SETU"
+                        },
+                        {
+                            "question": "Which two clusters were mentioned? / किन दो क्लस्टरों का उल्लेख किया गया?",
+                            "options": [
+                                "Surat and Visakhapatnam",
+                                "Delhi and Jaipur",
+                                "Pune and Nagpur",
+                                "Patna and Ranchi"
+                            ],
+                            "answer": "Surat and Visakhapatnam"
+                        },
+                        {
+                            "question": "What does ITI stand for? / ITI का पूरा नाम क्या है?",
+                            "options": [
+                                "Industrial Training Institute",
+                                "Indian Technology Initiative",
+                                "International Trade Institution",
+                                "Industrial Transport Institute"
+                            ],
+                            "answer": "Industrial Training Institute"
+                        },
+                        {
+                            "question": "Which company is participating in the reported partnership? / रिपोर्ट में किस कंपनी की भागीदारी बताई गई है?",
+                            "options": [
+                                "AM/NS India",
+                                "Indian Railways",
+                                "NABARD",
+                                "India Post"
+                            ],
+                            "answer": "AM/NS India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Development & Women Empowerment",
+                    "title": "National SARAS Mela 2026 to Be Held in Vijayawada / राष्ट्रीय सरस मेला 2026 विजयवाड़ा में आयोजित होगा",
+                    "summary": "The Ministry of Rural Development announced the National SARAS Mela 2026 in Vijayawada, Andhra Pradesh, from 13 to 31 October. The event is expected to bring more than 1,500 women entrepreneurs from Self-Help Groups across over 30 States and Union Territories, providing a platform to showcase traditional products and rural enterprises. / ग्रामीण विकास मंत्रालय के अनुसार राष्ट्रीय सरस मेला 13 से 31 अक्टूबर 2026 तक विजयवाड़ा, आंध्र प्रदेश में आयोजित होगा। इसमें 30 से अधिक राज्यों और केंद्रशासित प्रदेशों के स्वयं सहायता समूहों की 1,500 से अधिक महिला उद्यमियों के भाग लेने की योजना है।",
+                    "sourceName": "Ministry of Rural Development / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2322458&lang=1&reg=48",
+                    "staticGK": [
+                        "Event / आयोजन : National SARAS Mela 2026",
+                        "Venue / स्थान : Punnami Ghat, Vijayawada",
+                        "State / राज्य : Andhra Pradesh",
+                        "Dates / तारीखें : 13–31 October 2026",
+                        "Main participants / प्रमुख प्रतिभागी : Women Self-Help Group entrepreneurs"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is the National SARAS Mela 2026 scheduled? / राष्ट्रीय सरस मेला 2026 कहाँ निर्धारित है?",
+                            "options": [
+                                "Vijayawada",
+                                "Chennai",
+                                "Lucknow",
+                                "Bhopal"
+                            ],
+                            "answer": "Vijayawada"
+                        },
+                        {
+                            "question": "Vijayawada is in which state? / विजयवाड़ा किस राज्य में है?",
+                            "options": [
+                                "Andhra Pradesh",
+                                "Telangana",
+                                "Tamil Nadu",
+                                "Karnataka"
+                            ],
+                            "answer": "Andhra Pradesh"
+                        },
+                        {
+                            "question": "Which ministry is associated with the event? / यह आयोजन किस मंत्रालय से संबंधित है?",
+                            "options": [
+                                "Ministry of Rural Development",
+                                "Ministry of Railways",
+                                "Ministry of Defence",
+                                "Ministry of External Affairs"
+                            ],
+                            "answer": "Ministry of Rural Development"
+                        },
+                        {
+                            "question": "Which groups are expected to benefit directly from the mela? / मेले से किन समूहों को प्रत्यक्ष लाभ मिलने की उम्मीद है?",
+                            "options": [
+                                "Women Self-Help Groups",
+                                "Foreign airlines",
+                                "Stock exchanges",
+                                "Professional cricket clubs"
+                            ],
+                            "answer": "Women Self-Help Groups"
+                        },
+                        {
+                            "question": "What is one major objective of the SARAS Mela? / सरस मेले का एक प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "Market access for rural products",
+                                "Space exploration",
+                                "Currency printing",
+                                "Railway recruitment"
+                            ],
+                            "answer": "Market access for rural products"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Postal Week",
+                    "title": "Philately Day Observed on 12 October 2026 / 12 अक्टूबर 2026 को डाक टिकट संग्रह दिवस मनाया गया",
+                    "summary": "Mumbai General Post Office observed Philately Day on 12 October as part of National Postal Week 2026, observed from 9 to 15 October. The programme aimed to encourage stamp collecting among students and young people and to showcase India's history, culture, biodiversity and achievements through postage stamps. / मुंबई जनरल पोस्ट ऑफिस ने राष्ट्रीय डाक सप्ताह 2026 के अंतर्गत 12 अक्टूबर को फिलेटली दिवस मनाया। इसका उद्देश्य विद्यार्थियों और युवाओं में डाक टिकट संग्रह के प्रति रुचि बढ़ाना तथा टिकटों के माध्यम से भारत की संस्कृति, इतिहास और उपलब्धियों को प्रदर्शित करना था।",
+                    "sourceName": "Department of Posts, Ministry of Communications / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2322501&lang=1&reg=1",
+                    "staticGK": [
+                        "Day / दिवस : Philately Day",
+                        "Date / तारीख : 12 October 2026",
+                        "Observance / आयोजन : National Postal Week 2026",
+                        "National Postal Week / राष्ट्रीय डाक सप्ताह : 9–15 October 2026",
+                        "Philately / फिलेटली : Study and collection of postage stamps"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When was Philately Day observed in 2026? / 2026 में फिलेटली दिवस कब मनाया गया?",
+                            "options": [
+                                "12 October",
+                                "10 October",
+                                "14 October",
+                                "15 October"
+                            ],
+                            "answer": "12 October"
+                        },
+                        {
+                            "question": "Philately is associated with which activity? / फिलेटली किस गतिविधि से संबंधित है?",
+                            "options": [
+                                "Stamp collecting",
+                                "Coin minting",
+                                "Bird watching",
+                                "Map making"
+                            ],
+                            "answer": "Stamp collecting"
+                        },
+                        {
+                            "question": "Which institution observed the event in Mumbai? / मुंबई में यह आयोजन किस संस्थान ने किया?",
+                            "options": [
+                                "Mumbai General Post Office",
+                                "Reserve Bank of India",
+                                "IIT Bombay",
+                                "Mumbai Port Authority"
+                            ],
+                            "answer": "Mumbai General Post Office"
+                        },
+                        {
+                            "question": "Philately Day was part of which observance? / फिलेटली दिवस किस आयोजन का हिस्सा था?",
+                            "options": [
+                                "National Postal Week",
+                                "National Science Week",
+                                "National Sports Week",
+                                "National Tourism Week"
+                            ],
+                            "answer": "National Postal Week"
+                        },
+                        {
+                            "question": "What can postage stamps help preserve and showcase? / डाक टिकट किसे संरक्षित और प्रदर्शित करने में मदद करते हैं?",
+                            "options": [
+                                "History and cultural heritage",
+                                "Only weather forecasts",
+                                "Only bank accounts",
+                                "Only railway fares"
+                            ],
+                            "answer": "History and cultural heritage"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Military Exercises",
+                    "title": "Exercise Tarang Shakti 2026 Highlights International Air Force Cooperation / अभ्यास तरंग शक्ति 2026 में अंतरराष्ट्रीय वायुसेना सहयोग पर जोर",
+                    "summary": "The Indian Air Force's Exercise Tarang Shakti 2026 highlighted international military cooperation, interoperability and defence self-reliance. The exercise involved participating foreign air forces and observers and showcased Indian platforms including the LCA Tejas and LCH Prachand. / भारतीय वायु सेना के अभ्यास तरंग शक्ति 2026 में अंतरराष्ट्रीय सैन्य सहयोग, संयुक्त संचालन क्षमता और रक्षा आत्मनिर्भरता पर जोर दिया गया। इसमें विदेशी वायु सेनाओं और पर्यवेक्षकों की भागीदारी रही तथा LCA तेजस और LCH प्रचंड जैसे भारतीय प्लेटफॉर्म प्रदर्शित किए गए।",
+                    "sourceName": "Indian Air Force / Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=21",
+                    "staticGK": [
+                        "Exercise / अभ्यास : Tarang Shakti 2026",
+                        "Service / सैन्य बल : Indian Air Force",
+                        "Aircraft / विमान : LCA Tejas",
+                        "Helicopter / हेलीकॉप्टर : LCH Prachand",
+                        "Focus / मुख्य उद्देश्य : Interoperability and defence cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian service is associated with Exercise Tarang Shakti? / अभ्यास तरंग शक्ति किस भारतीय सैन्य बल से संबंधित है?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Navy",
+                                "Indian Coast Guard",
+                                "Indian Railway Protection Force"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Which indigenous light combat aircraft was highlighted? / किस स्वदेशी हल्के लड़ाकू विमान का उल्लेख हुआ?",
+                            "options": [
+                                "LCA Tejas",
+                                "MiG-21 only",
+                                "C-17 Globemaster",
+                                "Boeing 747"
+                            ],
+                            "answer": "LCA Tejas"
+                        },
+                        {
+                            "question": "LCH Prachand is what type of platform? / LCH प्रचंड किस प्रकार का प्लेटफॉर्म है?",
+                            "options": [
+                                "Light combat helicopter",
+                                "Submarine",
+                                "Aircraft carrier",
+                                "Transport train"
+                            ],
+                            "answer": "Light combat helicopter"
+                        },
+                        {
+                            "question": "What does military interoperability mean? / सैन्य इंटरऑपरेबिलिटी का क्या अर्थ है?",
+                            "options": [
+                                "Forces can operate together effectively",
+                                "Forces avoid all communication",
+                                "Only domestic trade",
+                                "A system of postal delivery"
+                            ],
+                            "answer": "Forces can operate together effectively"
+                        },
+                        {
+                            "question": "Which broader objective does the exercise support? / यह अभ्यास किस व्यापक उद्देश्य को समर्थन देता है?",
+                            "options": [
+                                "International defence cooperation",
+                                "Agricultural subsidies",
+                                "Postal reform",
+                                "Tourism taxation"
+                            ],
+                            "answer": "International defence cooperation"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Maritime Cooperation",
+                    "title": "INS Tarkash Participates in IBSAMAR IX 2026 / INS तरकश IBSAMAR IX 2026 में भाग लेता है",
+                    "summary": "Indian Naval Ship Tarkash was deployed to South Africa for the ninth edition of IBSAMAR, a trilateral maritime exercise involving India, Brazil and South Africa. The exercise is intended to strengthen naval cooperation, coordination and maritime security among the participating countries. / भारतीय नौसेना का पोत INS तरकश IBSAMAR के नौवें संस्करण में भाग लेने के लिए दक्षिण अफ्रीका पहुँचा। यह भारत, ब्राज़ील और दक्षिण अफ्रीका के बीच त्रिपक्षीय समुद्री अभ्यास है, जिसका उद्देश्य नौसैनिक सहयोग और समुद्री सुरक्षा को मजबूत करना है।",
+                    "sourceName": "Indian Navy / Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=21",
+                    "staticGK": [
+                        "Ship / पोत : INS Tarkash",
+                        "Exercise / अभ्यास : IBSAMAR IX",
+                        "Edition / संस्करण : Ninth",
+                        "Countries / देश : India, Brazil and South Africa",
+                        "Focus / उद्देश्य : Maritime cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian naval ship was associated with IBSAMAR IX? / IBSAMAR IX से कौन-सा भारतीय नौसैनिक पोत जुड़ा है?",
+                            "options": [
+                                "INS Tarkash",
+                                "INS Vikramaditya",
+                                "INS Arihant",
+                                "INS Kolkata only"
+                            ],
+                            "answer": "INS Tarkash"
+                        },
+                        {
+                            "question": "How many countries participate in the IBSAMAR trilateral exercise? / IBSAMAR त्रिपक्षीय अभ्यास में कितने देश भाग लेते हैं?",
+                            "options": [
+                                "Three",
+                                "Two",
+                                "Five",
+                                "Seven"
+                            ],
+                            "answer": "Three"
+                        },
+                        {
+                            "question": "Which country hosts the reported deployment destination? / रिपोर्ट में तैनाती का गंतव्य कौन-सा देश है?",
+                            "options": [
+                                "South Africa",
+                                "Japan",
+                                "France",
+                                "Australia"
+                            ],
+                            "answer": "South Africa"
+                        },
+                        {
+                            "question": "Which countries are part of IBSAMAR? / IBSAMAR में कौन-से देश शामिल हैं?",
+                            "options": [
+                                "India, Brazil and South Africa",
+                                "India, Japan and France",
+                                "India, Nepal and Bhutan",
+                                "Brazil, Canada and Germany"
+                            ],
+                            "answer": "India, Brazil and South Africa"
+                        },
+                        {
+                            "question": "What is a key objective of a maritime exercise? / समुद्री अभ्यास का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "Improving naval coordination",
+                                "Conducting school examinations",
+                                "Managing postal stamps",
+                                "Issuing driving licences"
+                            ],
+                            "answer": "Improving naval coordination"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Infrastructure",
+                    "title": "PM GatiShakti Promotes Integrated Infrastructure Planning / पीएम गतिशक्ति एकीकृत अवसंरचना योजना को बढ़ावा देता है",
+                    "summary": "PM GatiShakti is a digital framework for coordinated infrastructure planning using geospatial data. It helps government departments align projects, improve connectivity and reduce delays through integrated planning and data sharing. / पीएम गतिशक्ति भू-स्थानिक डेटा के उपयोग से समन्वित अवसंरचना योजना बनाने का डिजिटल ढाँचा है। यह विभिन्न सरकारी विभागों के बीच तालमेल, बेहतर कनेक्टिविटी और परियोजनाओं के प्रभावी क्रियान्वयन को बढ़ावा देता है।",
+                    "sourceName": "Government of India / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=20",
+                    "staticGK": [
+                        "Initiative / पहल : PM GatiShakti",
+                        "Main focus / मुख्य उद्देश्य : Integrated infrastructure planning",
+                        "Technology / तकनीक : Geospatial data",
+                        "Purpose / उद्देश्य : Better coordination and connectivity",
+                        "Coverage / दायरा : Multiple infrastructure sectors"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the main focus of PM GatiShakti? / पीएम गतिशक्ति का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Integrated infrastructure planning",
+                                "Only school education",
+                                "Only crop insurance",
+                                "Only stamp collection"
+                            ],
+                            "answer": "Integrated infrastructure planning"
+                        },
+                        {
+                            "question": "Which type of data supports the initiative? / इस पहल में किस प्रकार का डेटा उपयोग होता है?",
+                            "options": [
+                                "Geospatial data",
+                                "Only handwritten letters",
+                                "Only census photographs",
+                                "Only audio recordings"
+                            ],
+                            "answer": "Geospatial data"
+                        },
+                        {
+                            "question": "Which outcome does integrated planning seek to improve? / एकीकृत योजना किस परिणाम को बेहतर बनाना चाहती है?",
+                            "options": [
+                                "Connectivity",
+                                "Cinema ticket sales",
+                                "Sports rankings only",
+                                "Postal stamp prices"
+                            ],
+                            "answer": "Connectivity"
+                        },
+                        {
+                            "question": "PM GatiShakti is associated with which broad sector? / पीएम गतिशक्ति किस व्यापक क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Infrastructure",
+                                "Fashion",
+                                "Entertainment",
+                                "Personal banking"
+                            ],
+                            "answer": "Infrastructure"
+                        },
+                        {
+                            "question": "Why is coordination among departments important? / विभागों के बीच समन्वय क्यों महत्वपूर्ण है?",
+                            "options": [
+                                "To improve project planning and execution",
+                                "To stop all infrastructure work",
+                                "To avoid data sharing",
+                                "To replace all local governments"
+                            ],
+                            "answer": "To improve project planning and execution"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Climate Research",
+                    "title": "APARC General Assembly 2026 Begins at IITM Pune / APARC महासभा 2026 IITM पुणे में शुरू",
+                    "summary": "The Atmospheric Processes and their Role in Climate (APARC) General Assembly 2026 was scheduled in Pune from 12 to 16 October. The gathering brings researchers together to discuss atmospheric processes, climate variability and improved climate prediction. / Atmospheric Processes and their Role in Climate (APARC) महासभा 2026 का आयोजन 12 से 16 अक्टूबर तक पुणे में निर्धारित था। इसमें वैज्ञानिक वायुमंडलीय प्रक्रियाओं, जलवायु परिवर्तनशीलता और बेहतर जलवायु पूर्वानुमान पर चर्चा करते हैं।",
+                    "sourceName": "Indian Institute of Tropical Meteorology / Government of India",
+                    "sourceUrl": "https://www.tropmet.res.in/",
+                    "staticGK": [
+                        "Event / आयोजन : APARC General Assembly 2026",
+                        "Dates / तारीखें : 12–16 October 2026",
+                        "City / शहर : Pune",
+                        "Institution / संस्थान : Indian Institute of Tropical Meteorology",
+                        "Focus / मुख्य विषय : Atmospheric processes and climate"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the main subject of the APARC General Assembly? / APARC महासभा का मुख्य विषय क्या है?",
+                            "options": [
+                                "Atmospheric processes and climate",
+                                "Banking regulation",
+                                "Postal services",
+                                "Ancient architecture only"
+                            ],
+                            "answer": "Atmospheric processes and climate"
+                        },
+                        {
+                            "question": "In which city was the 2026 assembly scheduled? / 2026 की महासभा किस शहर में निर्धारित थी?",
+                            "options": [
+                                "Pune",
+                                "Jaipur",
+                                "Chennai",
+                                "Kolkata"
+                            ],
+                            "answer": "Pune"
+                        },
+                        {
+                            "question": "Which date range was announced for the assembly? / महासभा की घोषित तारीखें कौन-सी थीं?",
+                            "options": [
+                                "12–16 October 2026",
+                                "1–5 January 2026",
+                                "20–25 August 2026",
+                                "1–7 December 2026"
+                            ],
+                            "answer": "12–16 October 2026"
+                        },
+                        {
+                            "question": "What is one expected scientific benefit of atmospheric research? / वायुमंडलीय अनुसंधान का एक संभावित वैज्ञानिक लाभ क्या है?",
+                            "options": [
+                                "Improved climate prediction",
+                                "Printing currency",
+                                "Issuing passports",
+                                "Managing school admissions"
+                            ],
+                            "answer": "Improved climate prediction"
+                        },
+                        {
+                            "question": "Which system is studied in atmospheric science? / वायुमंडलीय विज्ञान में किस प्रणाली का अध्ययन किया जाता है?",
+                            "options": [
+                                "Earth's atmosphere",
+                                "Only underground mines",
+                                "Only stock markets",
+                                "Only railway engines"
+                            ],
+                            "answer": "Earth's atmosphere"
+                        }
+                    ]
+                },
+                {
+                    "category": "Youth Affairs & Social Development",
+                    "title": "MY Bharat Conducts Nationwide Awareness Activities Against Drug Abuse / MY Bharat ने नशा-विरोधी जागरूकता गतिविधियाँ आयोजित कीं",
+                    "summary": "MY Bharat conducted activities at multiple locations to raise awareness about drug abuse and encourage youth participation in building a drug-free society. The campaign highlights prevention, community engagement and the role of young volunteers in social development. / MY Bharat ने नशे के दुरुपयोग के प्रति जागरूकता बढ़ाने और नशामुक्त समाज के निर्माण में युवाओं की भागीदारी को प्रोत्साहित करने के लिए विभिन्न स्थानों पर गतिविधियाँ आयोजित कीं।",
+                    "sourceName": "Ministry of Youth Affairs and Sports / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=3",
+                    "staticGK": [
+                        "Organisation / संगठन : MY Bharat",
+                        "Focus / मुख्य विषय : Youth participation",
+                        "Campaign objective / अभियान का उद्देश्य : Drug-abuse awareness",
+                        "Approach / तरीका : Community activities",
+                        "Expected outcome / अपेक्षित परिणाम : Drug-free society"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation conducted the reported youth awareness activities? / रिपोर्ट की गई युवा जागरूकता गतिविधियाँ किस संगठन ने आयोजित कीं?",
+                            "options": [
+                                "MY Bharat",
+                                "RBI",
+                                "SEBI",
+                                "ISRO"
+                            ],
+                            "answer": "MY Bharat"
+                        },
+                        {
+                            "question": "What was the main issue addressed? / मुख्य रूप से किस मुद्दे पर ध्यान दिया गया?",
+                            "options": [
+                                "Drug abuse",
+                                "Road toll collection",
+                                "International trade tariffs",
+                                "Postal rates"
+                            ],
+                            "answer": "Drug abuse"
+                        },
+                        {
+                            "question": "Which group was encouraged to participate? / किस समूह को भागीदारी के लिए प्रोत्साहित किया गया?",
+                            "options": [
+                                "Young people",
+                                "Only foreign tourists",
+                                "Only retired judges",
+                                "Only overseas companies"
+                            ],
+                            "answer": "Young people"
+                        },
+                        {
+                            "question": "What is the purpose of awareness campaigns? / जागरूकता अभियानों का उद्देश्य क्या है?",
+                            "options": [
+                                "Prevention and informed choices",
+                                "Encouraging substance misuse",
+                                "Stopping community participation",
+                                "Reducing public awareness"
+                            ],
+                            "answer": "Prevention and informed choices"
+                        },
+                        {
+                            "question": "Which approach can support a drug-free society? / नशामुक्त समाज बनाने में कौन-सा तरीका सहायक है?",
+                            "options": [
+                                "Community engagement and prevention",
+                                "Ignoring the issue",
+                                "Spreading misinformation",
+                                "Discouraging support services"
+                            ],
+                            "answer": "Community engagement and prevention"
+                        }
+                    ]
+                },
+                {
+                    "category": "Governance & Public Administration",
+                    "title": "Special Campaign 6.0 Focuses on Cleanliness and Reducing Pendency / विशेष अभियान 6.0 में स्वच्छता और लंबित मामलों में कमी पर जोर",
+                    "summary": "The Ministry of Health and Family Welfare continued Special Campaign 6.0 from 2 to 31 October 2026. Activities included cleanliness drives, disposal of scrap and e-waste, better use of office space and faster resolution of pending matters and public grievances. / स्वास्थ्य एवं परिवार कल्याण मंत्रालय ने 2 से 31 अक्टूबर 2026 तक विशेष अभियान 6.0 चलाया। इसके अंतर्गत स्वच्छता, कबाड़ और ई-कचरे का निपटान, कार्यालय स्थान का बेहतर उपयोग तथा लंबित मामलों और जन शिकायतों का शीघ्र समाधान शामिल है।",
+                    "sourceName": "Ministry of Health and Family Welfare / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2322161&lang=1&reg=3",
+                    "staticGK": [
+                        "Campaign / अभियान : Special Campaign 6.0",
+                        "Duration / अवधि : 2–31 October 2026",
+                        "Department / विभाग : Department of Health and Family Welfare",
+                        "Focus / मुख्य विषय : Cleanliness and pendency reduction",
+                        "Activities / गतिविधियाँ : Waste disposal and grievance resolution"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which campaign focuses on cleanliness and reducing pendency? / स्वच्छता और लंबित मामलों में कमी पर कौन-सा अभियान केंद्रित है?",
+                            "options": [
+                                "Special Campaign 6.0",
+                                "Digital India only",
+                                "Fit India School Week",
+                                "National Postal Week"
+                            ],
+                            "answer": "Special Campaign 6.0"
+                        },
+                        {
+                            "question": "What was the announced campaign period? / अभियान की घोषित अवधि क्या थी?",
+                            "options": [
+                                "2–31 October 2026",
+                                "1–15 January 2026",
+                                "5–10 June 2026",
+                                "1–30 December 2026"
+                            ],
+                            "answer": "2–31 October 2026"
+                        },
+                        {
+                            "question": "Which type of waste was included in the campaign activities? / अभियान में किस प्रकार के कचरे का निपटान शामिल था?",
+                            "options": [
+                                "E-waste",
+                                "Only agricultural seeds",
+                                "Only drinking water",
+                                "Only paper currency"
+                            ],
+                            "answer": "E-waste"
+                        },
+                        {
+                            "question": "What does reducing pendency mean in administration? / प्रशासन में लंबित मामलों को कम करने का क्या अर्थ है?",
+                            "options": [
+                                "Resolving pending work faster",
+                                "Increasing unresolved cases",
+                                "Stopping public services",
+                                "Avoiding all records"
+                            ],
+                            "answer": "Resolving pending work faster"
+                        },
+                        {
+                            "question": "Which ministry's department was named in the official release? / आधिकारिक विज्ञप्ति में किस मंत्रालय के विभाग का उल्लेख है?",
+                            "options": [
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Tourism",
+                                "Ministry of External Affairs",
+                                "Ministry of Civil Aviation"
+                            ],
+                            "answer": "Ministry of Health and Family Welfare"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-10-13",
+            "date": "13 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 13 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "International Affairs",
+                    "title": "First BIMSTEC Home Ministers’ Meeting Adopts Delhi Declaration / पहली BIMSTEC गृह मंत्रियों की बैठक में दिल्ली घोषणा अपनाई गई",
+                    "summary": "The first BIMSTEC Home Ministers’ Meeting was held in New Delhi on 13 October 2026. The meeting adopted the Delhi Declaration, focusing on cooperation against terrorism, transnational organised crime, human trafficking, illicit drug trafficking and cyber threats. / पहली BIMSTEC गृह मंत्रियों की बैठक 13 अक्टूबर 2026 को नई दिल्ली में आयोजित हुई। इसमें दिल्ली घोषणा अपनाई गई, जिसमें आतंकवाद, अंतरराष्ट्रीय संगठित अपराध, मानव तस्करी, नशीले पदार्थों की तस्करी और साइबर खतरों से निपटने में सहयोग पर जोर दिया गया।",
+                    "sourceName": "Ministry of Home Affairs / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322964&lang=2&reg=48",
+                    "staticGK": [
+                        "Organisation / संगठन : BIMSTEC",
+                        "Full form / पूरा नाम : Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+                        "Meeting / बैठक : First Home Ministers’ Meeting",
+                        "Venue / स्थान : New Delhi, India",
+                        "Declaration / घोषणा : Delhi Declaration"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the first BIMSTEC Home Ministers’ Meeting held? / पहली BIMSTEC गृह मंत्रियों की बैठक कहाँ आयोजित हुई?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Kathmandu",
+                                "Dhaka"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which declaration was adopted at the meeting? / बैठक में कौन-सी घोषणा अपनाई गई?",
+                            "options": [
+                                "Delhi Declaration",
+                                "Mumbai Declaration",
+                                "Colombo Declaration",
+                                "Kathmandu Declaration"
+                            ],
+                            "answer": "Delhi Declaration"
+                        },
+                        {
+                            "question": "BIMSTEC primarily connects countries around which region? / BIMSTEC मुख्य रूप से किस क्षेत्र के आसपास के देशों को जोड़ता है?",
+                            "options": [
+                                "Bay of Bengal",
+                                "Mediterranean Sea",
+                                "Baltic Sea",
+                                "Caribbean Sea"
+                            ],
+                            "answer": "Bay of Bengal"
+                        },
+                        {
+                            "question": "Which issue was addressed by the meeting? / बैठक में किस मुद्दे पर ध्यान दिया गया?",
+                            "options": [
+                                "Terrorism and transnational crime",
+                                "Space tourism only",
+                                "School examinations",
+                                "International cricket rankings"
+                            ],
+                            "answer": "Terrorism and transnational crime"
+                        },
+                        {
+                            "question": "How many countries are members of BIMSTEC? / BIMSTEC में कितने सदस्य देश हैं?",
+                            "options": [
+                                "Seven",
+                                "Five",
+                                "Eight",
+                                "Ten"
+                            ],
+                            "answer": "Seven"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Naval Technology",
+                    "title": "Indian Navy to Commission Indigenous Multi-Purpose Vessel Samarthak / भारतीय नौसेना स्वदेशी बहुउद्देशीय पोत समर्थक को कमीशन करेगी",
+                    "summary": "The Indian Navy announced that the indigenous multi-purpose vessel Samarthak would be commissioned at Naval Base Karwar on 16 October 2026. Built by Larsen & Toubro under the Make in India initiative, it is the first of four multi-purpose vessels planned for induction. Its roles include maritime surveillance, patrol, trials and humanitarian assistance. / भारतीय नौसेना ने घोषणा की कि स्वदेशी बहुउद्देशीय पोत समर्थक को 16 अक्टूबर 2026 को करवार नौसैनिक अड्डे पर कमीशन किया जाएगा। इसे मेक इन इंडिया पहल के अंतर्गत लार्सन एंड टुब्रो ने बनाया है। यह नौसेना में शामिल किए जाने वाले चार बहुउद्देशीय पोतों में पहला है।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2322795&lang=1&reg=3",
+                    "staticGK": [
+                        "Vessel / पोत : Samarthak",
+                        "Service / सैन्य बल : Indian Navy",
+                        "Builder / निर्माता : Larsen & Toubro",
+                        "Commissioning venue / कमीशनिंग स्थल : Naval Base Karwar",
+                        "Planned commissioning date / निर्धारित तारीख : 16 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the name of the indigenous multi-purpose vessel? / स्वदेशी बहुउद्देशीय पोत का नाम क्या है?",
+                            "options": [
+                                "Samarthak",
+                                "Vikrant",
+                                "Arihant",
+                                "Tarkash"
+                            ],
+                            "answer": "Samarthak"
+                        },
+                        {
+                            "question": "Which organisation will commission Samarthak? / समर्थक को कौन-सा संगठन कमीशन करेगा?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "Indian Army",
+                                "Indian Coast Guard only"
+                            ],
+                            "answer": "Indian Navy"
+                        },
+                        {
+                            "question": "Who built the vessel? / इस पोत का निर्माण किसने किया?",
+                            "options": [
+                                "Larsen & Toubro",
+                                "HAL",
+                                "BHEL",
+                                "BEL"
+                            ],
+                            "answer": "Larsen & Toubro"
+                        },
+                        {
+                            "question": "Where is the commissioning scheduled? / कमीशनिंग कहाँ निर्धारित है?",
+                            "options": [
+                                "Karwar",
+                                "Kochi",
+                                "Chennai",
+                                "Visakhapatnam"
+                            ],
+                            "answer": "Karwar"
+                        },
+                        {
+                            "question": "Which initiative is associated with the vessel’s construction? / पोत के निर्माण से कौन-सी पहल संबंधित है?",
+                            "options": [
+                                "Make in India",
+                                "Digital India",
+                                "Skill India",
+                                "Startup India only"
+                            ],
+                            "answer": "Make in India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Traditional Medicine",
+                    "title": "Ayush Ministry Issues Standard Treatment Guidelines for Skin Disorders / आयुष मंत्रालय ने त्वचा रोगों के लिए मानक उपचार दिशानिर्देश जारी किए",
+                    "summary": "The Ministry of Ayush issued Standard Treatment Guidelines for the management of dermatological disorders across Ayurveda, Siddha, Unani and Homoeopathy, with Yoga also included. The guidelines aim to improve consistency, quality assurance and evidence-informed clinical practice. / आयुष मंत्रालय ने आयुर्वेद, सिद्ध, यूनानी और होम्योपैथी पद्धतियों में त्वचा रोगों के प्रबंधन के लिए मानक उपचार दिशानिर्देश जारी किए। इनमें योग को भी शामिल किया गया है। इन दिशानिर्देशों का उद्देश्य उपचार में एकरूपता, गुणवत्ता और वैज्ञानिक प्रमाणों पर आधारित चिकित्सा को बढ़ावा देना है।",
+                    "sourceName": "Ministry of Ayush / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322793&lang=2&reg=48",
+                    "staticGK": [
+                        "Ministry / मंत्रालय : Ministry of Ayush",
+                        "Guidelines / दिशानिर्देश : Standard Treatment Guidelines",
+                        "Medical systems / चिकित्सा पद्धतियाँ : Ayurveda, Siddha, Unani and Homoeopathy",
+                        "Additional discipline / अतिरिक्त पद्धति : Yoga",
+                        "Focus / मुख्य विषय : Dermatological disorders"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which ministry issued the reported treatment guidelines? / संबंधित उपचार दिशानिर्देश किस मंत्रालय ने जारी किए?",
+                            "options": [
+                                "Ministry of Ayush",
+                                "Ministry of Railways",
+                                "Ministry of Finance",
+                                "Ministry of Tourism"
+                            ],
+                            "answer": "Ministry of Ayush"
+                        },
+                        {
+                            "question": "Which health conditions are covered by the guidelines? / दिशानिर्देश किन स्वास्थ्य समस्याओं से संबंधित हैं?",
+                            "options": [
+                                "Skin disorders",
+                                "Railway injuries only",
+                                "Dental disorders only",
+                                "Eye disorders only"
+                            ],
+                            "answer": "Skin disorders"
+                        },
+                        {
+                            "question": "Which of these is one of the systems covered? / इनमें से कौन-सी एक शामिल चिकित्सा पद्धति है?",
+                            "options": [
+                                "Ayurveda",
+                                "Allopathy only",
+                                "Veterinary surgery only",
+                                "Radiology only"
+                            ],
+                            "answer": "Ayurveda"
+                        },
+                        {
+                            "question": "Which additional discipline was included? / किस अतिरिक्त पद्धति को शामिल किया गया?",
+                            "options": [
+                                "Yoga",
+                                "Astronomy",
+                                "Architecture",
+                                "Economics"
+                            ],
+                            "answer": "Yoga"
+                        },
+                        {
+                            "question": "What is a key aim of Standard Treatment Guidelines? / मानक उपचार दिशानिर्देशों का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "More consistent and quality-assured care",
+                                "Eliminating clinical assessment",
+                                "Replacing all hospitals",
+                                "Stopping medical research"
+                            ],
+                            "answer": "More consistent and quality-assured care"
+                        }
+                    ]
+                },
+                {
+                    "category": "Health & Social Development",
+                    "title": "Towards a TB-Free India: New Screening and Community Initiatives / टीबी-मुक्त भारत की दिशा में जाँच और सामुदायिक पहल",
+                    "summary": "A PIB backgrounder published on 13 October 2026 highlighted India's tuberculosis-control efforts. It reported a 21% decline in annual emerging TB cases between 2015 and 2024, compared with a 12% global decline. The update also highlighted expanded screening, preventive treatment, the TB Mukt Bharat App and community participation through JOSH teams. / 13 अक्टूबर 2026 को प्रकाशित PIB पृष्ठभूमि लेख में भारत के टीबी नियंत्रण प्रयासों की जानकारी दी गई। इसमें 2015 से 2024 के बीच नए टीबी मामलों में वार्षिक स्तर पर 21% की गिरावट बताई गई, जबकि वैश्विक गिरावट 12% थी। इसमें जाँच, निवारक उपचार, टीबी मुक्त भारत ऐप और JOSH टीमों की सामुदायिक भागीदारी का भी उल्लेख किया गया।",
+                    "sourceName": "Ministry of Health and Family Welfare / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322820&lang=2&reg=48",
+                    "staticGK": [
+                        "Disease / रोग : Tuberculosis (TB)",
+                        "Campaign / अभियान : TB Mukt Bharat Abhiyaan",
+                        "Backgrounder date / लेख की तारीख : 13 October 2026",
+                        "New-case decline reported / नए मामलों में बताई गई गिरावट : 21% during 2015–2024",
+                        "Digital tool / डिजिटल साधन : TB Mukt Bharat App"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which disease is the focus of the TB Mukt Bharat Abhiyaan? / टीबी मुक्त भारत अभियान किस रोग पर केंद्रित है?",
+                            "options": [
+                                "Tuberculosis",
+                                "Malaria",
+                                "Dengue",
+                                "Polio"
+                            ],
+                            "answer": "Tuberculosis"
+                        },
+                        {
+                            "question": "What decline in annual emerging TB cases did the backgrounder report for India during 2015–2024? / लेख के अनुसार 2015–2024 के दौरान भारत में नए टीबी मामलों में कितनी गिरावट दर्ज हुई?",
+                            "options": [
+                                "21%",
+                                "12%",
+                                "5%",
+                                "40%"
+                            ],
+                            "answer": "21%"
+                        },
+                        {
+                            "question": "Which digital tool was highlighted? / किस डिजिटल साधन का उल्लेख किया गया?",
+                            "options": [
+                                "TB Mukt Bharat App",
+                                "DigiYatra only",
+                                "UMANG only",
+                                "e-NAM"
+                            ],
+                            "answer": "TB Mukt Bharat App"
+                        },
+                        {
+                            "question": "What does preventive treatment aim to do? / निवारक उपचार का उद्देश्य क्या है?",
+                            "options": [
+                                "Reduce the risk of developing active disease",
+                                "Increase infection risk",
+                                "Replace all diagnostic tests",
+                                "Stop public-health screening"
+                            ],
+                            "answer": "Reduce the risk of developing active disease"
+                        },
+                        {
+                            "question": "Which ministry is primarily responsible for India's national TB programme? / भारत के राष्ट्रीय टीबी कार्यक्रम के लिए मुख्य रूप से कौन-सा मंत्रालय जिम्मेदार है?",
+                            "options": [
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Culture",
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Parliamentary Affairs"
+                            ],
+                            "answer": "Ministry of Health and Family Welfare"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Rural Industries",
+                    "title": "Khadi and Village Industries Promote Rural Entrepreneurship / खादी एवं ग्रामोद्योग से ग्रामीण उद्यमिता को बढ़ावा",
+                    "summary": "A PIB backgrounder published on 13 October 2026 highlighted the contribution of Khadi and Village Industries to rural enterprises, employment and traditional skills. It reported that sales of Khadi and Village Industries products reached ₹1.87 lakh crore in 2025–26. The Khadi Mahotsav, observed from 2 to 31 October, promotes Khadi and the Vocal for Local initiative. / 13 अक्टूबर 2026 को प्रकाशित PIB लेख में ग्रामीण उद्यमों, रोजगार और पारंपरिक कौशल में खादी एवं ग्रामोद्योग के योगदान को रेखांकित किया गया। लेख के अनुसार 2025–26 में खादी एवं ग्रामोद्योग उत्पादों की बिक्री ₹1.87 लाख करोड़ तक पहुँची। 2 से 31 अक्टूबर तक आयोजित खादी महोत्सव खादी और वोकल फॉर लोकल को बढ़ावा देता है।",
+                    "sourceName": "Ministry of Micro, Small and Medium Enterprises / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322625&lang=2&reg=48",
+                    "staticGK": [
+                        "Institution / संस्था : Khadi and Village Industries Commission (KVIC)",
+                        "Establishment law / स्थापना कानून : KVIC Act, 1956",
+                        "Khadi Mahotsav / खादी महोत्सव : 2–31 October",
+                        "Sales reported / दर्ज बिक्री : ₹1.87 lakh crore in 2025–26",
+                        "Key themes / प्रमुख विषय : Rural enterprise and Vocal for Local"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation promotes Khadi and Village Industries? / खादी एवं ग्रामोद्योग को बढ़ावा देने वाली संस्था कौन-सी है?",
+                            "options": [
+                                "KVIC",
+                                "SEBI",
+                                "NABARD only",
+                                "TRAI"
+                            ],
+                            "answer": "KVIC"
+                        },
+                        {
+                            "question": "In which year was the KVIC Act enacted? / KVIC अधिनियम किस वर्ष बनाया गया?",
+                            "options": [
+                                "1956",
+                                "1947",
+                                "1965",
+                                "1991"
+                            ],
+                            "answer": "1956"
+                        },
+                        {
+                            "question": "What sales figure was reported for Khadi and Village Industries products in 2025–26? / 2025–26 में खादी एवं ग्रामोद्योग उत्पादों की बिक्री कितनी बताई गई?",
+                            "options": [
+                                "₹1.87 lakh crore",
+                                "₹18,700 crore",
+                                "₹87,000 crore",
+                                "₹10,000 crore"
+                            ],
+                            "answer": "₹1.87 lakh crore"
+                        },
+                        {
+                            "question": "Which campaign is associated with buying local products? / स्थानीय उत्पाद खरीदने को बढ़ावा देने वाला अभियान कौन-सा है?",
+                            "options": [
+                                "Vocal for Local",
+                                "Digital India only",
+                                "Beti Bachao Beti Padhao",
+                                "Khelo India"
+                            ],
+                            "answer": "Vocal for Local"
+                        },
+                        {
+                            "question": "Which sector can benefit from village industries? / ग्रामोद्योग से किस क्षेत्र को लाभ हो सकता है?",
+                            "options": [
+                                "Rural entrepreneurship",
+                                "Deep-sea mining only",
+                                "Foreign exchange trading only",
+                                "Space tourism only"
+                            ],
+                            "answer": "Rural entrepreneurship"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Governance & Security",
+                    "title": "President Addresses the 66th National Defence College Course / राष्ट्रपति ने 66वें राष्ट्रीय रक्षा महाविद्यालय पाठ्यक्रम को संबोधित किया",
+                    "summary": "President Droupadi Murmu met the faculty and course members of the 66th National Defence College Course at Rashtrapati Bhavan on 13 October 2026. She highlighted the changing security and technological landscape and the need for strategic foresight, preparedness and adaptability. She also noted that national security now extends beyond conventional military domains to areas such as cyber security, space technology and biotechnology. / राष्ट्रपति द्रौपदी मुर्मु ने 13 अक्टूबर 2026 को राष्ट्रपति भवन में राष्ट्रीय रक्षा महाविद्यालय के 66वें पाठ्यक्रम के शिक्षकों और प्रतिभागियों से मुलाकात की। उन्होंने बदलते सुरक्षा एवं तकनीकी परिदृश्य, रणनीतिक दूरदृष्टि और तैयारी के महत्व पर जोर दिया।",
+                    "sourceName": "President's Secretariat / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322784&lang=2&reg=3",
+                    "staticGK": [
+                        "President / राष्ट्रपति : Droupadi Murmu",
+                        "Institution / संस्थान : National Defence College",
+                        "Course / पाठ्यक्रम : 66th Course",
+                        "Venue / स्थान : Rashtrapati Bhavan, New Delhi",
+                        "Modern security areas / आधुनिक सुरक्षा क्षेत्र : Cyber security, space technology and biotechnology"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who met the faculty and members of the 66th National Defence College Course? / 66वें राष्ट्रीय रक्षा महाविद्यालय पाठ्यक्रम के शिक्षकों और प्रतिभागियों से किसने मुलाकात की?",
+                            "options": [
+                                "Droupadi Murmu",
+                                "Narendra Modi",
+                                "C. P. Radhakrishnan",
+                                "Amit Shah"
+                            ],
+                            "answer": "Droupadi Murmu"
+                        },
+                        {
+                            "question": "Where did the meeting take place? / मुलाकात कहाँ हुई?",
+                            "options": [
+                                "Rashtrapati Bhavan",
+                                "Parliament House only",
+                                "India Gate",
+                                "Red Fort"
+                            ],
+                            "answer": "Rashtrapati Bhavan"
+                        },
+                        {
+                            "question": "Which course was mentioned in the official release? / आधिकारिक विज्ञप्ति में किस पाठ्यक्रम का उल्लेख था?",
+                            "options": [
+                                "66th National Defence College Course",
+                                "56th course",
+                                "26th course",
+                                "100th course"
+                            ],
+                            "answer": "66th National Defence College Course"
+                        },
+                        {
+                            "question": "Which modern domain was identified as relevant to national security? / राष्ट्रीय सुरक्षा के लिए किस आधुनिक क्षेत्र को महत्वपूर्ण बताया गया?",
+                            "options": [
+                                "Cyber security",
+                                "Fashion design only",
+                                "Cinema studies",
+                                "Retail marketing"
+                            ],
+                            "answer": "Cyber security"
+                        },
+                        {
+                            "question": "What quality helps address changing security challenges? / बदलती सुरक्षा चुनौतियों से निपटने में कौन-सा गुण सहायक है?",
+                            "options": [
+                                "Strategic foresight",
+                                "Ignoring technology",
+                                "Avoiding preparedness",
+                                "Reducing coordination"
+                            ],
+                            "answer": "Strategic foresight"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations & Economy",
+                    "title": "Prime Minister Addresses Bloomberg New Economy Forum / प्रधानमंत्री ने ब्लूमबर्ग न्यू इकोनॉमी फोरम को संबोधित किया",
+                    "summary": "Prime Minister Narendra Modi addressed the Bloomberg New Economy Forum in New Delhi on 13 October 2026. He discussed India's economic reforms, its role in global growth, innovation, supply-chain cooperation and development. The address highlighted India's engagement with international partners amid global economic uncertainty. / प्रधानमंत्री नरेंद्र मोदी ने 13 अक्टूबर 2026 को नई दिल्ली में ब्लूमबर्ग न्यू इकोनॉमी फोरम को संबोधित किया। उन्होंने भारत के आर्थिक सुधारों, वैश्विक विकास में भूमिका, नवाचार, आपूर्ति शृंखला सहयोग और विकास पर चर्चा की।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322664&reg=48&lang=2",
+                    "staticGK": [
+                        "Event / आयोजन : Bloomberg New Economy Forum",
+                        "Speaker / वक्ता : Prime Minister Narendra Modi",
+                        "Venue / स्थान : New Delhi",
+                        "Date / तारीख : 13 October 2026",
+                        "Main themes / प्रमुख विषय : Economic reforms and global cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who addressed the Bloomberg New Economy Forum? / ब्लूमबर्ग न्यू इकोनॉमी फोरम को किसने संबोधित किया?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Where was the forum held? / फोरम कहाँ आयोजित हुआ?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Hyderabad",
+                                "Jaipur"
+                            ],
+                            "answer": "New Delhi"
+                        },
+                        {
+                            "question": "Which broad subject was discussed at the forum? / फोरम में किस व्यापक विषय पर चर्चा हुई?",
+                            "options": [
+                                "Economic reforms and global growth",
+                                "Only school admissions",
+                                "Only postal services",
+                                "Only wildlife photography"
+                            ],
+                            "answer": "Economic reforms and global growth"
+                        },
+                        {
+                            "question": "What does a supply chain generally describe? / आपूर्ति शृंखला सामान्यतः किसे दर्शाती है?",
+                            "options": [
+                                "The movement of goods from production to consumers",
+                                "A list of school subjects",
+                                "A type of election",
+                                "A weather measurement"
+                            ],
+                            "answer": "The movement of goods from production to consumers"
+                        },
+                        {
+                            "question": "Which city is India's national capital? / भारत की राष्ट्रीय राजधानी कौन-सी है?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Kolkata",
+                                "Chennai"
+                            ],
+                            "answer": "New Delhi"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Development & Women Empowerment",
+                    "title": "President to Grace National SARAS Mela 2026 in Vijayawada / राष्ट्रपति विजयवाड़ा में राष्ट्रीय सरस मेला 2026 में शामिल होंगी",
+                    "summary": "The President's Secretariat announced that President Droupadi Murmu would grace the National SARAS Mela 2026 in Vijayawada, Andhra Pradesh. The mela, scheduled from 13 to 31 October at Punnami Ghat, provides a platform for women entrepreneurs from Self-Help Groups to display traditional products, regional foods and rural enterprises. / राष्ट्रपति सचिवालय ने घोषणा की कि राष्ट्रपति द्रौपदी मुर्मु विजयवाड़ा, आंध्र प्रदेश में राष्ट्रीय सरस मेला 2026 में शामिल होंगी। 13 से 31 अक्टूबर तक पुन्नमी घाट पर निर्धारित यह मेला स्वयं सहायता समूहों की महिला उद्यमियों को पारंपरिक उत्पाद, क्षेत्रीय खाद्य पदार्थ और ग्रामीण उद्यम प्रदर्शित करने का मंच देता है।",
+                    "sourceName": "President's Secretariat / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322953&reg=48&lang=2",
+                    "staticGK": [
+                        "Event / आयोजन : National SARAS Mela 2026",
+                        "President / राष्ट्रपति : Droupadi Murmu",
+                        "Venue / स्थान : Punnami Ghat, Vijayawada",
+                        "Dates / तारीखें : 13–31 October 2026",
+                        "Beneficiaries / लाभार्थी : Women entrepreneurs and Self-Help Groups"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which city is hosting the National SARAS Mela 2026? / राष्ट्रीय सरस मेला 2026 किस शहर में आयोजित हो रहा है?",
+                            "options": [
+                                "Vijayawada",
+                                "Bhopal",
+                                "Patna",
+                                "Jaipur"
+                            ],
+                            "answer": "Vijayawada"
+                        },
+                        {
+                            "question": "Who was announced as the dignitary expected to grace the mela? / मेले में शामिल होने वाली प्रमुख अतिथि के रूप में किसका नाम घोषित किया गया?",
+                            "options": [
+                                "Droupadi Murmu",
+                                "Narendra Modi",
+                                "Nirmala Sitharaman",
+                                "Amit Shah"
+                            ],
+                            "answer": "Droupadi Murmu"
+                        },
+                        {
+                            "question": "Which state is Vijayawada located in? / विजयवाड़ा किस राज्य में स्थित है?",
+                            "options": [
+                                "Andhra Pradesh",
+                                "Telangana",
+                                "Kerala",
+                                "Odisha"
+                            ],
+                            "answer": "Andhra Pradesh"
+                        },
+                        {
+                            "question": "Which group is a major participant in the mela? / मेले में कौन-सा समूह प्रमुख प्रतिभागी है?",
+                            "options": [
+                                "Women Self-Help Groups",
+                                "Foreign embassies only",
+                                "Stock brokers only",
+                                "Professional referees"
+                            ],
+                            "answer": "Women Self-Help Groups"
+                        },
+                        {
+                            "question": "What is one purpose of the SARAS Mela? / सरस मेले का एक उद्देश्य क्या है?",
+                            "options": [
+                                "Promoting rural products and entrepreneurship",
+                                "Conducting military recruitment",
+                                "Regulating stock exchanges",
+                                "Issuing passports"
+                            ],
+                            "answer": "Promoting rural products and entrepreneurship"
+                        }
+                    ]
+                },
+                {
+                    "category": "National Observances & Festivals",
+                    "title": "Navratri: Prime Minister Offers Prayers to Maa Chandraghanta / नवरात्रि में प्रधानमंत्री ने माँ चंद्रघंटा की प्रार्थना की",
+                    "summary": "On 13 October 2026, Prime Minister Narendra Modi shared greetings and prayers associated with Maa Chandraghanta during Navratri. The occasion is connected with the worship of the Goddess on the third day of the nine-day Hindu festival. / 13 अक्टूबर 2026 को प्रधानमंत्री नरेंद्र मोदी ने नवरात्रि के दौरान माँ चंद्रघंटा की पूजा से संबंधित शुभकामनाएँ साझा कीं। माँ चंद्रघंटा की पूजा नौ दिवसीय नवरात्रि के तीसरे दिन की जाती है।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=1",
+                    "staticGK": [
+                        "Festival / त्योहार : Navratri",
+                        "Goddess / देवी : Maa Chandraghanta",
+                        "Worship day / पूजा का दिन : Third day of Navratri",
+                        "Prime Minister / प्रधानमंत्री : Narendra Modi",
+                        "Cultural context / सांस्कृतिक संदर्भ : Hindu religious festival"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which goddess was mentioned in the Prime Minister's Navratri greetings on 13 October? / 13 अक्टूबर की नवरात्रि शुभकामनाओं में किस देवी का उल्लेख था?",
+                            "options": [
+                                "Maa Chandraghanta",
+                                "Maa Lakshmi",
+                                "Maa Saraswati",
+                                "Maa Kali only"
+                            ],
+                            "answer": "Maa Chandraghanta"
+                        },
+                        {
+                            "question": "Maa Chandraghanta is traditionally worshipped on which day of Navratri? / नवरात्रि में माँ चंद्रघंटा की पूजा पारंपरिक रूप से किस दिन होती है?",
+                            "options": [
+                                "Third day",
+                                "First day",
+                                "Seventh day",
+                                "Ninth day"
+                            ],
+                            "answer": "Third day"
+                        },
+                        {
+                            "question": "How many days does Navratri traditionally last? / नवरात्रि पारंपरिक रूप से कितने दिनों तक चलती है?",
+                            "options": [
+                                "Nine",
+                                "Five",
+                                "Seven",
+                                "Twelve"
+                            ],
+                            "answer": "Nine"
+                        },
+                        {
+                            "question": "Who shared the greetings? / शुभकामनाएँ किसने साझा कीं?",
+                            "options": [
+                                "Narendra Modi",
+                                "Droupadi Murmu",
+                                "C. P. Radhakrishnan",
+                                "Shivraj Singh Chouhan"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Navratri is associated with the worship of which divine figure? / नवरात्रि किस देवी की आराधना से संबंधित है?",
+                            "options": [
+                                "Goddess Durga and her forms",
+                                "Lord Indra only",
+                                "Lord Varuna only",
+                                "Lord Kubera only"
+                            ],
+                            "answer": "Goddess Durga and her forms"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Affairs & Diplomacy",
+                    "title": "Prime Minister Holds Conversation with Canadian Prime Minister Mark Carney / प्रधानमंत्री ने कनाडा के प्रधानमंत्री मार्क कार्नी से बातचीत की",
+                    "summary": "Prime Minister Narendra Modi held a conversation with Canadian Prime Minister Mark Carney on 13 October 2026. The official update described the exchange as warm and productive and highlighted discussions on strengthening the India–Canada Strategic Partnership. / प्रधानमंत्री नरेंद्र मोदी ने 13 अक्टूबर 2026 को कनाडा के प्रधानमंत्री मार्क कार्नी से बातचीत की। आधिकारिक जानकारी के अनुसार बातचीत सौहार्दपूर्ण और सकारात्मक रही तथा भारत-कनाडा रणनीतिक साझेदारी को मजबूत करने पर चर्चा हुई।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323025&reg=48&lang=2",
+                    "staticGK": [
+                        "Indian Prime Minister / भारतीय प्रधानमंत्री : Narendra Modi",
+                        "Canadian Prime Minister / कनाडा के प्रधानमंत्री : Mark Carney",
+                        "Date / तारीख : 13 October 2026",
+                        "Relationship / संबंध : India–Canada Strategic Partnership",
+                        "Area / क्षेत्र : Bilateral relations"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is identified as Canada's Prime Minister in the official update? / आधिकारिक जानकारी में कनाडा के प्रधानमंत्री के रूप में किसका नाम है?",
+                            "options": [
+                                "Mark Carney",
+                                "Justin Trudeau",
+                                "Pierre Poilievre",
+                                "Stephen Harper"
+                            ],
+                            "answer": "Mark Carney"
+                        },
+                        {
+                            "question": "Who held the conversation with the Canadian Prime Minister? / कनाडा के प्रधानमंत्री से किसने बातचीत की?",
+                            "options": [
+                                "Narendra Modi",
+                                "Amit Shah",
+                                "Rajnath Singh",
+                                "Om Birla"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "Which relationship was discussed? / किस संबंध को मजबूत करने पर चर्चा हुई?",
+                            "options": [
+                                "India–Canada Strategic Partnership",
+                                "India–Brazil sports partnership only",
+                                "India–Nepal railway agreement only",
+                                "India–Japan postal partnership only"
+                            ],
+                            "answer": "India–Canada Strategic Partnership"
+                        },
+                        {
+                            "question": "What is the capital of Canada? / कनाडा की राजधानी क्या है?",
+                            "options": [
+                                "Ottawa",
+                                "Toronto",
+                                "Vancouver",
+                                "Montreal"
+                            ],
+                            "answer": "Ottawa"
+                        },
+                        {
+                            "question": "A conversation between the leaders of two countries is an example of what? / दो देशों के नेताओं के बीच बातचीत किसका उदाहरण है?",
+                            "options": [
+                                "Bilateral diplomacy",
+                                "Domestic taxation",
+                                "Local municipal election",
+                                "School assessment"
+                            ],
+                            "answer": "Bilateral diplomacy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-10-14",
+            "date": "14 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 14 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Economy & Banking",
+                    "title": "Government Approves Strategic Restructuring of IDBI Bank / सरकार ने IDBI बैंक के रणनीतिक पुनर्गठन को मंजूरी दी",
+                    "summary": "The Cabinet Committee on Economic Affairs approved the strategic restructuring of IDBI Bank Ltd., involving the sale of an aggregate 60.72% equity stake to a strategic buyer. The proposed sale comprises 30.48% held by the Government of India and 30.24% held by LIC. / आर्थिक मामलों की मंत्रिमंडलीय समिति ने IDBI बैंक लिमिटेड के रणनीतिक पुनर्गठन को मंजूरी दी, जिसमें रणनीतिक खरीदार को कुल 60.72% हिस्सेदारी बेचने का प्रस्ताव है। इसमें भारत सरकार की 30.48% और LIC की 30.24% हिस्सेदारी शामिल है।",
+                    "sourceName": "Ministry of Finance / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323318&lang=1&reg=48",
+                    "staticGK": [
+                        "Bank / बैंक : IDBI Bank Ltd.",
+                        "Approved stake for sale / बिक्री के लिए स्वीकृत हिस्सेदारी : 60.72%",
+                        "Government of India stake included / भारत सरकार की हिस्सेदारी : 30.48%",
+                        "LIC stake included / LIC की हिस्सेदारी : 30.24%",
+                        "Approval authority / मंजूरी देने वाली संस्था : Cabinet Committee on Economic Affairs (CCEA)"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What percentage of IDBI Bank's equity was approved for strategic sale? / IDBI बैंक की कितनी प्रतिशत हिस्सेदारी की रणनीतिक बिक्री को मंजूरी दी गई?",
+                            "options": [
+                                "60.72%",
+                                "51%",
+                                "49%",
+                                "74%"
+                            ],
+                            "answer": "60.72%"
+                        },
+                        {
+                            "question": "Which committee approved the strategic restructuring? / रणनीतिक पुनर्गठन को किस समिति ने मंजूरी दी?",
+                            "options": [
+                                "CCEA",
+                                "UPSC",
+                                "NITI Aayog",
+                                "Finance Commission"
+                            ],
+                            "answer": "CCEA"
+                        },
+                        {
+                            "question": "What percentage of the stake included in the proposed sale belongs to the Government of India? / प्रस्तावित बिक्री में भारत सरकार की हिस्सेदारी कितनी है?",
+                            "options": [
+                                "30.48%",
+                                "30.24%",
+                                "15%",
+                                "19%"
+                            ],
+                            "answer": "30.48%"
+                        },
+                        {
+                            "question": "What percentage of the stake included in the proposed sale belongs to LIC? / प्रस्तावित बिक्री में LIC की हिस्सेदारी कितनी है?",
+                            "options": [
+                                "30.24%",
+                                "30.48%",
+                                "19%",
+                                "15%"
+                            ],
+                            "answer": "30.24%"
+                        },
+                        {
+                            "question": "Which institution regulates scheduled commercial banks in India? / भारत में अनुसूचित वाणिज्यिक बैंकों का नियमन कौन करता है?",
+                            "options": [
+                                "Reserve Bank of India",
+                                "Election Commission of India",
+                                "UPSC",
+                                "National Green Tribunal"
+                            ],
+                            "answer": "Reserve Bank of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Government Schemes & Social Welfare",
+                    "title": "Cabinet Approves Continuation of National Social Assistance Programme Till 2030–31 / मंत्रिमंडल ने राष्ट्रीय सामाजिक सहायता कार्यक्रम को 2030–31 तक जारी रखने की मंजूरी दी",
+                    "summary": "The Union Cabinet approved the continuation of the National Social Assistance Programme (NSAP) for five years, from 2026–27 to 2030–31, with a total outlay of ₹53,428 crore. The approved changes include renaming the programme as Pradhan Mantri Samajik Sahayata Yojana, revisions to eligibility and assistance for persons with disabilities, and continuation of existing old-age and widow pension schemes. / केंद्रीय मंत्रिमंडल ने राष्ट्रीय सामाजिक सहायता कार्यक्रम (NSAP) को 2026–27 से 2030–31 तक पाँच वर्षों के लिए ₹53,428 करोड़ के कुल व्यय के साथ जारी रखने की मंजूरी दी। स्वीकृत बदलावों में इसका नाम प्रधानमंत्री सामाजिक सहायता योजना करना, दिव्यांगजनों की पात्रता एवं सहायता में संशोधन और वृद्धावस्था तथा विधवा पेंशन योजनाओं को जारी रखना शामिल है।",
+                    "sourceName": "Cabinet / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323264&lang=1&reg=48",
+                    "staticGK": [
+                        "Programme / कार्यक्रम : National Social Assistance Programme (NSAP)",
+                        "Approved continuation / स्वीकृत अवधि : 2026–27 to 2030–31",
+                        "Total outlay / कुल व्यय : ₹53,428 crore",
+                        "Approved new name / स्वीकृत नया नाम : Pradhan Mantri Samajik Sahayata Yojana",
+                        "Beneficiaries / लाभार्थी : Eligible elderly persons, widows and persons with disabilities"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "For which period was the continuation of NSAP approved? / NSAP को किस अवधि के लिए जारी रखने की मंजूरी दी गई?",
+                            "options": [
+                                "2026–27 to 2030–31",
+                                "2025–26 to 2027–28",
+                                "2027–28 to 2032–33",
+                                "2026–27 to 2028–29"
+                            ],
+                            "answer": "2026–27 to 2030–31"
+                        },
+                        {
+                            "question": "What is the total approved outlay for the programme? / कार्यक्रम के लिए कुल स्वीकृत व्यय कितना है?",
+                            "options": [
+                                "₹53,428 crore",
+                                "₹33,660 crore",
+                                "₹10,000 crore",
+                                "₹52,878 crore"
+                            ],
+                            "answer": "₹53,428 crore"
+                        },
+                        {
+                            "question": "What new name was approved for NSAP? / NSAP के लिए कौन-सा नया नाम स्वीकृत किया गया?",
+                            "options": [
+                                "Pradhan Mantri Samajik Sahayata Yojana",
+                                "Pradhan Mantri Awas Yojana",
+                                "Pradhan Mantri Gram Sadak Yojana",
+                                "Pradhan Mantri Jan Dhan Yojana"
+                            ],
+                            "answer": "Pradhan Mantri Samajik Sahayata Yojana"
+                        },
+                        {
+                            "question": "Which group is covered by social assistance pension schemes? / सामाजिक सहायता पेंशन योजनाओं में कौन-सा समूह शामिल है?",
+                            "options": [
+                                "Eligible elderly persons",
+                                "Only foreign tourists",
+                                "Only large corporations",
+                                "Only professional athletes"
+                            ],
+                            "answer": "Eligible elderly persons"
+                        },
+                        {
+                            "question": "Which ministry is responsible for the National Social Assistance Programme? / राष्ट्रीय सामाजिक सहायता कार्यक्रम के लिए कौन-सा मंत्रालय जिम्मेदार है?",
+                            "options": [
+                                "Ministry of Rural Development",
+                                "Ministry of Defence",
+                                "Ministry of Tourism",
+                                "Ministry of External Affairs"
+                            ],
+                            "answer": "Ministry of Rural Development"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Inflation",
+                    "title": "India's Wholesale Price Inflation Rises to 11.39% in September 2026 / सितंबर 2026 में भारत की थोक मूल्य मुद्रास्फीति बढ़कर 11.39% हुई",
+                    "summary": "According to the provisional Wholesale Price Index data released on 14 October 2026, India's year-on-year wholesale price inflation reached 11.39% in September 2026, compared with 9.92% in August 2026. Inflation in Primary Articles, Fuel and Power, and Manufactured Products stood at 8.67%, 25.85%, and 9.76%, respectively. / 14 अक्टूबर 2026 को जारी अनंतिम थोक मूल्य सूचकांक के आँकड़ों के अनुसार सितंबर 2026 में भारत की वार्षिक थोक मूल्य मुद्रास्फीति बढ़कर 11.39% हो गई, जबकि अगस्त में यह 9.92% थी। प्राथमिक वस्तुओं, ईंधन एवं बिजली और विनिर्मित उत्पादों में मुद्रास्फीति क्रमशः 8.67%, 25.85% और 9.76% रही।",
+                    "sourceName": "Ministry of Commerce and Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323098&lang=1&reg=1",
+                    "staticGK": [
+                        "Index / सूचकांक : Wholesale Price Index (WPI)",
+                        "Reference month / संदर्भ माह : September 2026",
+                        "Year-on-year inflation / वार्षिक मुद्रास्फीति : 11.39%",
+                        "August 2026 inflation / अगस्त 2026 की मुद्रास्फीति : 9.92%",
+                        "Fuel and Power inflation / ईंधन एवं बिजली मुद्रास्फीति : 25.85%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's year-on-year WPI inflation in September 2026? / सितंबर 2026 में भारत की वार्षिक WPI मुद्रास्फीति कितनी थी?",
+                            "options": [
+                                "11.39%",
+                                "9.92%",
+                                "5.50%",
+                                "7.25%"
+                            ],
+                            "answer": "11.39%"
+                        },
+                        {
+                            "question": "What was the WPI inflation rate in August 2026? / अगस्त 2026 में WPI मुद्रास्फीति की दर कितनी थी?",
+                            "options": [
+                                "9.92%",
+                                "11.39%",
+                                "8.67%",
+                                "25.85%"
+                            ],
+                            "answer": "9.92%"
+                        },
+                        {
+                            "question": "Which category recorded inflation of 25.85% in September 2026? / सितंबर 2026 में किस श्रेणी में 25.85% मुद्रास्फीति दर्ज हुई?",
+                            "options": [
+                                "Fuel and Power",
+                                "Primary Articles",
+                                "Manufactured Products",
+                                "Education Services"
+                            ],
+                            "answer": "Fuel and Power"
+                        },
+                        {
+                            "question": "What does WPI measure? / WPI क्या मापता है?",
+                            "options": [
+                                "Changes in wholesale prices",
+                                "Changes in literacy rates",
+                                "Changes in population",
+                                "Changes in rainfall"
+                            ],
+                            "answer": "Changes in wholesale prices"
+                        },
+                        {
+                            "question": "Which office releases India's official Wholesale Price Index data? / भारत के आधिकारिक थोक मूल्य सूचकांक के आँकड़े कौन-सा कार्यालय जारी करता है?",
+                            "options": [
+                                "Office of the Economic Adviser, DPIIT",
+                                "Election Commission of India",
+                                "Union Public Service Commission",
+                                "National Green Tribunal"
+                            ],
+                            "answer": "Office of the Economic Adviser, DPIIT"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Economy & Agriculture",
+                    "title": "India's Coir Sector Creates Rural Livelihoods and Promotes Sustainable Growth / भारत का कॉयर क्षेत्र ग्रामीण आजीविका और सतत विकास को बढ़ावा देता है",
+                    "summary": "The Ministry of Micro, Small and Medium Enterprises highlighted India's coir sector as a contributor to rural employment, entrepreneurship and sustainable growth. More than 21,000 coir units were registered on the Udyam registration portal, generating employment for approximately 2.3 lakh people. Exports of coir products increased by 305% over the preceding ten years. / सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय ने कॉयर क्षेत्र को ग्रामीण रोजगार, उद्यमिता और सतत विकास में योगदान देने वाला क्षेत्र बताया। उद्यम पंजीकरण पोर्टल पर 21,000 से अधिक कॉयर इकाइयाँ पंजीकृत थीं, जिनसे लगभग 2.3 लाख लोगों को रोजगार मिला। पिछले दस वर्षों में कॉयर उत्पादों के निर्यात में 305% की वृद्धि हुई।",
+                    "sourceName": "Ministry of Micro, Small and Medium Enterprises / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323051&lang=1&reg=3",
+                    "staticGK": [
+                        "Industry / उद्योग : Coir industry",
+                        "Raw material / कच्चा माल : Coconut husk",
+                        "Registered units / पंजीकृत इकाइयाँ : More than 21,000",
+                        "Employment / रोजगार : Approximately 2.3 lakh people",
+                        "Export growth / निर्यात वृद्धि : 305% over ten years"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Coir is obtained from which part of the coconut? / कॉयर नारियल के किस भाग से प्राप्त होता है?",
+                            "options": [
+                                "Husk",
+                                "Kernel only",
+                                "Flower",
+                                "Root"
+                            ],
+                            "answer": "Husk"
+                        },
+                        {
+                            "question": "Which ministry promotes the coir industry? / कॉयर उद्योग को कौन-सा मंत्रालय बढ़ावा देता है?",
+                            "options": [
+                                "Ministry of MSME",
+                                "Ministry of Railways",
+                                "Ministry of Defence",
+                                "Ministry of External Affairs"
+                            ],
+                            "answer": "Ministry of MSME"
+                        },
+                        {
+                            "question": "How many coir units were reported as registered on the Udyam portal? / उद्यम पोर्टल पर कितनी कॉयर इकाइयाँ पंजीकृत बताई गईं?",
+                            "options": [
+                                "More than 21,000",
+                                "About 2,100",
+                                "About 500",
+                                "More than 1,000,000"
+                            ],
+                            "answer": "More than 21,000"
+                        },
+                        {
+                            "question": "How much employment was reported for the coir sector? / कॉयर क्षेत्र में कितने लोगों को रोजगार मिलने की जानकारी दी गई?",
+                            "options": [
+                                "Approximately 2.3 lakh",
+                                "Approximately 23,000",
+                                "Approximately 23 lakh",
+                                "Approximately 2,300"
+                            ],
+                            "answer": "Approximately 2.3 lakh"
+                        },
+                        {
+                            "question": "What export growth was reported for coir products over ten years? / दस वर्षों में कॉयर उत्पादों के निर्यात में कितनी वृद्धि बताई गई?",
+                            "options": [
+                                "305%",
+                                "30.5%",
+                                "150%",
+                                "21%"
+                            ],
+                            "answer": "305%"
+                        }
+                    ]
+                },
+                {
+                    "category": "Industry & Infrastructure",
+                    "title": "BHAVYA Scheme to Develop 100 Industrial Parks Across India / BHAVYA योजना के तहत भारत में 100 औद्योगिक पार्क विकसित किए जाएंगे",
+                    "summary": "The PIB backgrounder published on 14 October 2026 described Bharat Audyogik Vikas Yojna (BHAVYA), a ₹33,660 crore initiative to develop 100 plug-and-play industrial parks across India. The parks are intended to provide modern industrial infrastructure, reliable services and faster approvals to attract investment, support MSMEs, strengthen supply chains and create employment. / 14 अक्टूबर 2026 को प्रकाशित PIB पृष्ठभूमि लेख में भारत औद्योगिक विकास योजना (BHAVYA) का विवरण दिया गया। यह ₹33,660 करोड़ की पहल है, जिसके तहत भारत में 100 प्लग-एंड-प्ले औद्योगिक पार्क विकसित किए जाने हैं। इन पार्कों का उद्देश्य आधुनिक औद्योगिक अवसंरचना, विश्वसनीय सेवाएँ और तेज मंजूरी उपलब्ध कराकर निवेश, MSME, आपूर्ति शृंखला और रोजगार को बढ़ावा देना है।",
+                    "sourceName": "Press Information Bureau / PIB Backgrounder",
+                    "sourceUrl": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=160457&lang=1&reg=48",
+                    "staticGK": [
+                        "Scheme / योजना : Bharat Audyogik Vikas Yojna (BHAVYA)",
+                        "Reported outlay / घोषित व्यय : ₹33,660 crore",
+                        "Industrial parks / औद्योगिक पार्क : 100",
+                        "Infrastructure model / अवसंरचना मॉडल : Plug-and-play industrial parks",
+                        "Key objectives / प्रमुख उद्देश्य : Investment, MSME growth and employment"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of BHAVYA? / BHAVYA का पूरा नाम क्या है?",
+                            "options": [
+                                "Bharat Audyogik Vikas Yojna",
+                                "Bharat Agriculture Vikas Yojana",
+                                "Basic Housing and Village Yojana",
+                                "Bharat Aviation Vikas Yojana"
+                            ],
+                            "answer": "Bharat Audyogik Vikas Yojna"
+                        },
+                        {
+                            "question": "What is the reported outlay of the BHAVYA initiative? / BHAVYA पहल का घोषित व्यय कितना है?",
+                            "options": [
+                                "₹33,660 crore",
+                                "₹53,428 crore",
+                                "₹10,000 crore",
+                                "₹3,350 crore"
+                            ],
+                            "answer": "₹33,660 crore"
+                        },
+                        {
+                            "question": "How many industrial parks are planned under the initiative? / इस पहल के तहत कितने औद्योगिक पार्क विकसित करने की योजना है?",
+                            "options": [
+                                "100",
+                                "25",
+                                "50",
+                                "200"
+                            ],
+                            "answer": "100"
+                        },
+                        {
+                            "question": "What does plug-and-play industrial infrastructure aim to provide? / प्लग-एंड-प्ले औद्योगिक अवसंरचना का उद्देश्य क्या उपलब्ध कराना है?",
+                            "options": [
+                                "Ready-to-use industrial facilities and services",
+                                "Only residential housing",
+                                "Only railway stations",
+                                "Only tourist accommodation"
+                            ],
+                            "answer": "Ready-to-use industrial facilities and services"
+                        },
+                        {
+                            "question": "Which businesses are among the intended beneficiaries of BHAVYA? / BHAVYA के लक्षित लाभार्थियों में कौन-से व्यवसाय शामिल हैं?",
+                            "options": [
+                                "Micro, Small and Medium Enterprises",
+                                "Only foreign embassies",
+                                "Only schools",
+                                "Only sports clubs"
+                            ],
+                            "answer": "Micro, Small and Medium Enterprises"
+                        }
+                    ]
+                },
+                {
+                    "category": "Infrastructure & National Development",
+                    "title": "Five Development Projects Worth Around ₹3,350 Crore Announced for Ladakh / लद्दाख के लिए लगभग ₹3,350 करोड़ की पाँच विकास परियोजनाएँ",
+                    "summary": "The Prime Minister's Office announced that five development projects worth around ₹3,350 crore would be inaugurated or dedicated to the nation in Ladakh on 15 October 2026. The projects cover airport infrastructure, strategic road connectivity, hydropower, heritage conservation and water security. They include the new passenger terminal at Leh Airport, the 298-km Nimmu–Padum–Darcha Road and India's first Petroglyph Conservation Park in Leh. / प्रधानमंत्री कार्यालय ने घोषणा की कि लद्दाख में लगभग ₹3,350 करोड़ की पाँच विकास परियोजनाओं का उद्घाटन या लोकार्पण 15 अक्टूबर 2026 को किया जाएगा। इनमें हवाई अड्डा अवसंरचना, रणनीतिक सड़क संपर्क, जलविद्युत, विरासत संरक्षण और जल सुरक्षा से संबंधित परियोजनाएँ शामिल हैं। प्रमुख परियोजनाओं में लेह हवाई अड्डे का नया यात्री टर्मिनल, 298 किलोमीटर लंबी निमू–पदुम–दारचा सड़क और लेह में भारत का पहला पेट्रोग्लिफ संरक्षण पार्क शामिल हैं।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2323218&lang=1&reg=1",
+                    "staticGK": [
+                        "Region / क्षेत्र : Ladakh",
+                        "Project value / परियोजना मूल्य : Around ₹3,350 crore",
+                        "Number of projects / परियोजनाओं की संख्या : Five",
+                        "Road project / सड़क परियोजना : Nimmu–Padum–Darcha Road",
+                        "Scheduled date / निर्धारित तारीख : 15 October 2026"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which Union Territory were the five development projects announced? / पाँच विकास परियोजनाएँ किस केंद्रशासित प्रदेश के लिए घोषित की गईं?",
+                            "options": [
+                                "Ladakh",
+                                "Puducherry",
+                                "Lakshadweep",
+                                "Chandigarh"
+                            ],
+                            "answer": "Ladakh"
+                        },
+                        {
+                            "question": "What was the approximate value of the projects? / परियोजनाओं का अनुमानित मूल्य कितना था?",
+                            "options": [
+                                "₹3,350 crore",
+                                "₹350 crore",
+                                "₹33,500 crore",
+                                "₹53,428 crore"
+                            ],
+                            "answer": "₹3,350 crore"
+                        },
+                        {
+                            "question": "How many projects were included in the announcement? / घोषणा में कितनी परियोजनाएँ शामिल थीं?",
+                            "options": [
+                                "Five",
+                                "Two",
+                                "Seven",
+                                "Ten"
+                            ],
+                            "answer": "Five"
+                        },
+                        {
+                            "question": "What is the reported length of the Nimmu–Padum–Darcha Road? / निमू–पदुम–दारचा सड़क की बताई गई लंबाई कितनी है?",
+                            "options": [
+                                "298 km",
+                                "198 km",
+                                "398 km",
+                                "128 km"
+                            ],
+                            "answer": "298 km"
+                        },
+                        {
+                            "question": "Which airport is receiving a new passenger terminal? / किस हवाई अड्डे पर नया यात्री टर्मिनल बनाया जा रहा है?",
+                            "options": [
+                                "Leh Airport",
+                                "Srinagar Airport",
+                                "Jammu Airport",
+                                "Chandigarh Airport"
+                            ],
+                            "answer": "Leh Airport"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations & Diplomacy",
+                    "title": "Canadian Foreign Minister Anita Anand Calls on Prime Minister Narendra Modi / कनाडा की विदेश मंत्री अनीता आनंद ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात की",
+                    "summary": "Canadian Foreign Minister Anita Anand called on Prime Minister Narendra Modi on 14 October 2026. Their discussions covered strengthening bilateral ties and expanding cooperation in trade, science and technology, defence, security, energy, education, people-to-people relations and multilateral cooperation. The Prime Minister also highlighted the importance of translating positive momentum into tangible outcomes, including progress towards a Comprehensive Economic Partnership Agreement (CEPA). / कनाडा की विदेश मंत्री अनीता आनंद ने 14 अक्टूबर 2026 को प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। बातचीत में व्यापार, विज्ञान एवं प्रौद्योगिकी, रक्षा, सुरक्षा, ऊर्जा, शिक्षा, लोगों के बीच संपर्क और बहुपक्षीय सहयोग के क्षेत्रों में द्विपक्षीय संबंध मजबूत करने पर चर्चा हुई। प्रधानमंत्री ने व्यापक आर्थिक साझेदारी समझौते (CEPA) की दिशा में प्रगति सहित सकारात्मक कूटनीतिक माहौल को ठोस परिणामों में बदलने पर जोर दिया।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323495&lang=1&reg=3",
+                    "staticGK": [
+                        "Countries / देश : India and Canada",
+                        "Canadian Foreign Minister / कनाडा की विदेश मंत्री : Anita Anand",
+                        "Indian Prime Minister / भारतीय प्रधानमंत्री : Narendra Modi",
+                        "Date / तारीख : 14 October 2026",
+                        "Agreement discussed / चर्चा में शामिल समझौता : Comprehensive Economic Partnership Agreement (CEPA)"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who met Prime Minister Narendra Modi on behalf of Canada? / कनाडा की ओर से प्रधानमंत्री नरेंद्र मोदी से किसने मुलाकात की?",
+                            "options": [
+                                "Anita Anand",
+                                "Chrystia Freeland",
+                                "Melanie Joly",
+                                "Mary Ng"
+                            ],
+                            "answer": "Anita Anand"
+                        },
+                        {
+                            "question": "Which countries were involved in the diplomatic meeting? / इस कूटनीतिक मुलाकात में कौन-से देश शामिल थे?",
+                            "options": [
+                                "India and Canada",
+                                "India and Brazil",
+                                "India and Mexico",
+                                "India and Argentina"
+                            ],
+                            "answer": "India and Canada"
+                        },
+                        {
+                            "question": "What does CEPA stand for? / CEPA का पूरा नाम क्या है?",
+                            "options": [
+                                "Comprehensive Economic Partnership Agreement",
+                                "Central Energy Production Authority",
+                                "Common Education Policy Association",
+                                "Council for Environmental Protection Affairs"
+                            ],
+                            "answer": "Comprehensive Economic Partnership Agreement"
+                        },
+                        {
+                            "question": "Which area was included in the discussions? / चर्चा में कौन-सा क्षेत्र शामिल था?",
+                            "options": [
+                                "Trade and technology",
+                                "Only school sports",
+                                "Only cinema awards",
+                                "Only postal stamps"
+                            ],
+                            "answer": "Trade and technology"
+                        },
+                        {
+                            "question": "What is the capital of Canada? / कनाडा की राजधानी क्या है?",
+                            "options": [
+                                "Ottawa",
+                                "Toronto",
+                                "Vancouver",
+                                "Montreal"
+                            ],
+                            "answer": "Ottawa"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways & Employment",
+                    "title": "Cabinet Approves 78-Day Productivity Linked Bonus for Railway Employees / मंत्रिमंडल ने रेलवे कर्मचारियों के लिए 78 दिनों के उत्पादकता आधारित बोनस को मंजूरी दी",
+                    "summary": "The Union Cabinet approved a Productivity Linked Bonus (PLB) equivalent to 78 days' wages for 1,140,770 railway employees, with a total financial outlay of ₹2,009.61 crore. The maximum bonus payable to an eligible employee was reported as ₹17,951. The payment recognises railway staff performance and is intended to encourage continued improvement in railway operations. / केंद्रीय मंत्रिमंडल ने 11,40,770 रेलवे कर्मचारियों के लिए 78 दिनों के वेतन के बराबर उत्पादकता आधारित बोनस (PLB) को मंजूरी दी। इसके लिए कुल ₹2,009.61 करोड़ का व्यय निर्धारित किया गया। पात्र कर्मचारी को अधिकतम ₹17,951 बोनस दिया जाएगा। यह भुगतान रेलवे कर्मचारियों के प्रदर्शन को मान्यता देने और रेलवे संचालन में सुधार को प्रोत्साहित करने के उद्देश्य से किया जाता है।",
+                    "sourceName": "Cabinet / Ministry of Railways / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323256&lang=1&reg=48",
+                    "staticGK": [
+                        "Bonus / बोनस : Productivity Linked Bonus (PLB)",
+                        "Approved period / स्वीकृत अवधि : 78 days' wages",
+                        "Eligible employees / पात्र कर्मचारी : 11,40,770",
+                        "Total outlay / कुल व्यय : ₹2,009.61 crore",
+                        "Maximum bonus per eligible employee / प्रति पात्र कर्मचारी अधिकतम बोनस : ₹17,951"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "For how many days' wages was the Railway PLB approved? / रेलवे PLB कितने दिनों के वेतन के बराबर स्वीकृत हुआ?",
+                            "options": [
+                                "78 days",
+                                "30 days",
+                                "60 days",
+                                "90 days"
+                            ],
+                            "answer": "78 days"
+                        },
+                        {
+                            "question": "What was the total approved financial outlay? / कुल स्वीकृत वित्तीय व्यय कितना था?",
+                            "options": [
+                                "₹2,009.61 crore",
+                                "₹3,350 crore",
+                                "₹53,428 crore",
+                                "₹10,000 crore"
+                            ],
+                            "answer": "₹2,009.61 crore"
+                        },
+                        {
+                            "question": "How many railway employees were covered by the approval? / इस मंजूरी के अंतर्गत कितने रेलवे कर्मचारी शामिल थे?",
+                            "options": [
+                                "11,40,770",
+                                "1,40,770",
+                                "5,00,000",
+                                "20,00,000"
+                            ],
+                            "answer": "11,40,770"
+                        },
+                        {
+                            "question": "What was the maximum bonus amount payable to an eligible employee? / पात्र कर्मचारी को अधिकतम कितना बोनस दिया जा सकता है?",
+                            "options": [
+                                "₹17,951",
+                                "₹10,000",
+                                "₹25,000",
+                                "₹50,000"
+                            ],
+                            "answer": "₹17,951"
+                        },
+                        {
+                            "question": "What is the main purpose of a Productivity Linked Bonus? / उत्पादकता आधारित बोनस का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Recognising performance and encouraging productivity",
+                                "Replacing railway safety rules",
+                                "Reducing railway services",
+                                "Eliminating employee training"
+                            ],
+                            "answer": "Recognising performance and encouraging productivity"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment & Internal Security",
+                    "title": "Central Bureau of Narcotics Destroys Illegal Cannabis Cultivation in Himachal Pradesh / केंद्रीय नारकोटिक्स ब्यूरो ने हिमाचल प्रदेश में अवैध गांजा खेती नष्ट की",
+                    "summary": "The Central Bureau of Narcotics (CBN) reported the destruction of 5,165 acres of illicit cannabis cultivation in Kullu district, Himachal Pradesh, under Operation Parivartan. The operation used ground surveys and drone technology and was supported by the Forest Department and Police Department. Officials also conducted community dialogue to promote alternative crop development and discourage illegal cultivation. / केंद्रीय नारकोटिक्स ब्यूरो (CBN) ने ऑपरेशन परिवर्तन के तहत हिमाचल प्रदेश के कुल्लू जिले में 5,165 एकड़ अवैध गांजा खेती नष्ट करने की जानकारी दी। अभियान में जमीनी सर्वेक्षण और ड्रोन तकनीक का उपयोग किया गया तथा वन विभाग और पुलिस विभाग ने सहयोग किया। अधिकारियों ने वैकल्पिक फसलों को बढ़ावा देने और अवैध खेती को हतोत्साहित करने के लिए ग्रामीणों के साथ संवाद भी किया।",
+                    "sourceName": "Ministry of Finance / Department of Revenue / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323271&lang=1&reg=3",
+                    "staticGK": [
+                        "Organisation / संस्था : Central Bureau of Narcotics (CBN)",
+                        "Operation / अभियान : Operation Parivartan",
+                        "Location / स्थान : Kullu district, Himachal Pradesh",
+                        "Illicit cultivation destroyed / नष्ट की गई अवैध खेती : 5,165 acres",
+                        "Technology used / उपयोग की गई तकनीक : Ground surveys and drones"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation conducted the reported cannabis destruction operation? / गांजा खेती नष्ट करने का अभियान किस संस्था ने चलाया?",
+                            "options": [
+                                "Central Bureau of Narcotics",
+                                "Reserve Bank of India",
+                                "Election Commission of India",
+                                "National Green Tribunal"
+                            ],
+                            "answer": "Central Bureau of Narcotics"
+                        },
+                        {
+                            "question": "What was the name of the operation? / अभियान का नाम क्या था?",
+                            "options": [
+                                "Operation Parivartan",
+                                "Operation Ganga",
+                                "Operation Vijay",
+                                "Operation Meghdoot"
+                            ],
+                            "answer": "Operation Parivartan"
+                        },
+                        {
+                            "question": "In which district was the reported illegal cultivation destroyed? / अवैध खेती किस जिले में नष्ट की गई?",
+                            "options": [
+                                "Kullu",
+                                "Shimla",
+                                "Kangra",
+                                "Mandi"
+                            ],
+                            "answer": "Kullu"
+                        },
+                        {
+                            "question": "How much illicit cannabis cultivation was reported as destroyed? / कितने क्षेत्र में अवैध गांजा खेती नष्ट करने की जानकारी दी गई?",
+                            "options": [
+                                "5,165 acres",
+                                "516 acres",
+                                "1,500 acres",
+                                "10,000 acres"
+                            ],
+                            "answer": "5,165 acres"
+                        },
+                        {
+                            "question": "Which technology helped identify illicit cultivation? / अवैध खेती की पहचान में किस तकनीक ने सहायता की?",
+                            "options": [
+                                "Drone technology",
+                                "Underwater sonar only",
+                                "Satellite television broadcasting",
+                                "Biometric attendance only"
+                            ],
+                            "answer": "Drone technology"
+                        }
+                    ]
+                },
+                {
+                    "category": "Culture & National Observances",
+                    "title": "Prime Minister Offers Prayers to Maa Kushmanda During Navratri / प्रधानमंत्री ने नवरात्रि में माँ कूष्मांडा की पूजा की",
+                    "summary": "On 14 October 2026, Prime Minister Narendra Modi offered prayers to Maa Kushmanda, the fourth form of Goddess Durga worshipped during Navratri. He shared wishes for hope, happiness, prosperity and good health for citizens. The observance highlights the cultural and religious significance of the nine-day festival. / 14 अक्टूबर 2026 को प्रधानमंत्री नरेंद्र मोदी ने नवरात्रि के दौरान देवी दुर्गा के चौथे स्वरूप माँ कूष्मांडा की पूजा की। उन्होंने नागरिकों के जीवन में आशा, सुख, समृद्धि और अच्छे स्वास्थ्य की कामना की। यह अवसर नौ दिवसीय नवरात्रि पर्व के सांस्कृतिक और धार्मिक महत्व को दर्शाता है।",
+                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2323048&lang=1&reg=1",
+                    "staticGK": [
+                        "Festival / त्योहार : Navratri",
+                        "Goddess / देवी : Maa Kushmanda",
+                        "Form of Goddess Durga / देवी दुर्गा का स्वरूप : Fourth form",
+                        "Date / तारीख : 14 October 2026",
+                        "Prime Minister / प्रधानमंत्री : Narendra Modi"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which goddess was mentioned in the Prime Minister's Navratri greetings on 14 October 2026? / 14 अक्टूबर 2026 की प्रधानमंत्री की नवरात्रि शुभकामनाओं में किस देवी का उल्लेख था?",
+                            "options": [
+                                "Maa Kushmanda",
+                                "Maa Chandraghanta",
+                                "Maa Mahagauri",
+                                "Maa Siddhidatri"
+                            ],
+                            "answer": "Maa Kushmanda"
+                        },
+                        {
+                            "question": "Maa Kushmanda is traditionally worshipped on which day of Navratri? / नवरात्रि में माँ कूष्मांडा की पूजा पारंपरिक रूप से किस दिन की जाती है?",
+                            "options": [
+                                "Fourth day",
+                                "First day",
+                                "Seventh day",
+                                "Ninth day"
+                            ],
+                            "answer": "Fourth day"
+                        },
+                        {
+                            "question": "Who offered prayers to Maa Kushmanda in the official update? / आधिकारिक जानकारी के अनुसार माँ कूष्मांडा की पूजा किसने की?",
+                            "options": [
+                                "Narendra Modi",
+                                "Droupadi Murmu",
+                                "Amit Shah",
+                                "Rajnath Singh"
+                            ],
+                            "answer": "Narendra Modi"
+                        },
+                        {
+                            "question": "How many days does Navratri traditionally last? / नवरात्रि पारंपरिक रूप से कितने दिनों तक चलती है?",
+                            "options": [
+                                "Nine",
+                                "Five",
+                                "Seven",
+                                "Twelve"
+                            ],
+                            "answer": "Nine"
+                        },
+                        {
+                            "question": "Navratri is associated with the worship of which deity? / नवरात्रि किस देवी की आराधना से संबंधित है?",
+                            "options": [
+                                "Goddess Durga and her forms",
+                                "Lord Varuna only",
+                                "Lord Kubera only",
+                                "Lord Vishwakarma only"
+                            ],
+                            "answer": "Goddess Durga and her forms"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-10-15",
+            "date": "15 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 15 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "National News / राष्ट्रीय समाचार",
+                    "title": "PM to Dedicate Five Development Projects Worth ₹3,350 Crore in Ladakh / लद्दाख में ₹3,350 करोड़ की विकास परियोजनाएँ",
+                    "summary": "प्रधानमंत्री नरेंद्र मोदी 15 अक्टूबर 2026 को लद्दाख में लगभग ₹3,350 करोड़ की पाँच विकास परियोजनाओं का उद्घाटन और राष्ट्र को समर्पण करने वाले हैं। इनमें लेह एयरपोर्ट का नया यात्री टर्मिनल, 298 किलोमीटर लंबी निम्मू-पदुम-दरचा सड़क और पेट्रोग्लिफ संरक्षण पार्क शामिल हैं। परियोजनाओं का उद्देश्य कनेक्टिविटी, ऊर्जा अवसंरचना, सांस्कृतिक विरासत और जल सुरक्षा को मजबूत करना है।",
+                    "sourceName": "Press Information Bureau (PIB) / Prime Minister's Office",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2323218&lang=1&reg=1",
+                    "staticGK": [
+                        "लद्दाख भारत का केंद्र शासित प्रदेश है।",
+                        "लेह एयरपोर्ट लद्दाख में स्थित है।",
+                        "निम्मू-पदुम-दरचा सड़क की लंबाई 298 किलोमीटर है।",
+                        "पेट्रोग्लिफ प्राचीन शैलचित्रों या चट्टानों पर उकेरे गए चित्रों को कहा जाता है।",
+                        "इन परियोजनाओं का उद्देश्य कनेक्टिविटी और रणनीतिक गतिशीलता को बेहतर बनाना भी है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "लद्दाख में घोषित पाँच विकास परियोजनाओं की कुल अनुमानित लागत कितनी है?",
+                            "options": [
+                                "₹1,250 करोड़",
+                                "₹2,000 करोड़",
+                                "₹3,350 करोड़",
+                                "₹5,000 करोड़"
+                            ],
+                            "answer": "₹3,350 करोड़"
+                        },
+                        {
+                            "question": "निम्मू-पदुम-दरचा सड़क की लंबाई कितनी है?",
+                            "options": [
+                                "198 किलोमीटर",
+                                "248 किलोमीटर",
+                                "298 किलोमीटर",
+                                "398 किलोमीटर"
+                            ],
+                            "answer": "298 किलोमीटर"
+                        },
+                        {
+                            "question": "पेट्रोग्लिफ किससे संबंधित हैं?",
+                            "options": [
+                                "समुद्री जीव",
+                                "चट्टानों पर उकेरे गए चित्र",
+                                "आधुनिक उपग्रह",
+                                "जलविद्युत मशीनें"
+                            ],
+                            "answer": "चट्टानों पर उकेरे गए चित्र"
+                        },
+                        {
+                            "question": "लेह एयरपोर्ट किस केंद्र शासित प्रदेश में स्थित है?",
+                            "options": [
+                                "जम्मू-कश्मीर",
+                                "लद्दाख",
+                                "चंडीगढ़",
+                                "पुडुचेरी"
+                            ],
+                            "answer": "लद्दाख"
+                        },
+                        {
+                            "question": "इन परियोजनाओं का एक प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "समुद्री व्यापार",
+                                "रणनीतिक कनेक्टिविटी मजबूत करना",
+                                "नई संसद बनाना",
+                                "रेलवे का निजीकरण"
+                            ],
+                            "answer": "रणनीतिक कनेक्टिविटी मजबूत करना"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports News / खेल समाचार",
+                    "title": "PM to Interact with India's Asian Games 2026 Contingent / एशियाई खेल 2026 के भारतीय खिलाड़ियों से संवाद",
+                    "summary": "प्रधानमंत्री नरेंद्र मोदी 15 अक्टूबर 2026 को नई दिल्ली के मेजर ध्यानचंद नेशनल स्टेडियम में एशियाई खेल 2026 में भाग लेने वाले भारतीय खिलाड़ियों से संवाद करने वाले हैं। आधिकारिक PIB जानकारी के अनुसार, भारत ने जापान के आइची-नागोया में आयोजित खेलों में 85 पदक जीते और पदक तालिका में चौथा स्थान प्राप्त किया। भारत ने 21 स्वर्ण, 27 रजत और 37 कांस्य पदक जीते।",
+                    "sourceName": "Press Information Bureau (PIB) / Prime Minister's Office",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2323214&lang=1&reg=1",
+                    "staticGK": [
+                        "भारत ने एशियाई खेल 2026 में कुल 85 पदक जीते।",
+                        "भारत ने 21 स्वर्ण, 27 रजत और 37 कांस्य पदक जीते।",
+                        "भारत पदक तालिका में चौथे स्थान पर रहा।",
+                        "खेलों का आयोजन जापान के आइची-नागोया में हुआ।",
+                        "नई दिल्ली में निर्धारित संवाद कार्यक्रम का स्थल मेजर ध्यानचंद नेशनल स्टेडियम है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "एशियाई खेल 2026 में भारत ने कुल कितने पदक जीते?",
+                            "options": [
+                                "75",
+                                "80",
+                                "85",
+                                "95"
+                            ],
+                            "answer": "85"
+                        },
+                        {
+                            "question": "एशियाई खेल 2026 की पदक तालिका में भारत का स्थान क्या रहा?",
+                            "options": [
+                                "दूसरा",
+                                "तीसरा",
+                                "चौथा",
+                                "पाँचवाँ"
+                            ],
+                            "answer": "चौथा"
+                        },
+                        {
+                            "question": "भारत ने एशियाई खेल 2026 में कितने स्वर्ण पदक जीते?",
+                            "options": [
+                                "18",
+                                "21",
+                                "27",
+                                "37"
+                            ],
+                            "answer": "21"
+                        },
+                        {
+                            "question": "एशियाई खेल 2026 का आयोजन किस देश में हुआ?",
+                            "options": [
+                                "चीन",
+                                "जापान",
+                                "दक्षिण कोरिया",
+                                "थाईलैंड"
+                            ],
+                            "answer": "जापान"
+                        },
+                        {
+                            "question": "नई दिल्ली में खिलाड़ियों से संवाद के लिए कौन-सा स्टेडियम निर्धारित किया गया?",
+                            "options": [
+                                "अरुण जेटली स्टेडियम",
+                                "मेजर ध्यानचंद नेशनल स्टेडियम",
+                                "जवाहरलाल नेहरू स्टेडियम, चेन्नई",
+                                "ईडन गार्डन्स"
+                            ],
+                            "answer": "मेजर ध्यानचंद नेशनल स्टेडियम"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture / कृषि",
+                    "title": "Mahila Kisan Diwas 2026 / महिला किसान दिवस 2026",
+                    "summary": "कृषि एवं किसान कल्याण विभाग 15 अक्टूबर 2026 को नई दिल्ली के डॉ. बी. आर. अंबेडकर इंटरनेशनल सेंटर में राष्ट्रीय स्तर पर महिला किसान दिवस आयोजित कर रहा है। इसका उद्देश्य कृषि और ग्रामीण विकास में महिला किसानों के योगदान को पहचानना तथा विकसित भारत के निर्माण में उनकी भूमिका को रेखांकित करना है। यह दिन अंतरराष्ट्रीय ग्रामीण महिला दिवस के साथ भी मनाया जाता है।",
+                    "sourceName": "Press Information Bureau (PIB) / Ministry of Agriculture & Farmers Welfare",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323531&lang=1&reg=3",
+                    "staticGK": [
+                        "महिला किसान दिवस भारत में 15 अक्टूबर को मनाया जाता है।",
+                        "इस दिवस का उद्देश्य कृषि में महिला किसानों के योगदान को पहचानना है।",
+                        "राष्ट्रीय स्तर का कार्यक्रम नई दिल्ली में निर्धारित है।",
+                        "कार्यक्रम का आयोजन कृषि एवं किसान कल्याण विभाग कर रहा है।",
+                        "15 अक्टूबर को अंतरराष्ट्रीय ग्रामीण महिला दिवस भी मनाया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "महिला किसान दिवस 2026 कब आयोजित किया जा रहा है?",
+                            "options": [
+                                "11 अक्टूबर",
+                                "14 अक्टूबर",
+                                "15 अक्टूबर",
+                                "16 अक्टूबर"
+                            ],
+                            "answer": "15 अक्टूबर"
+                        },
+                        {
+                            "question": "महिला किसान दिवस का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "केवल कृषि निर्यात बढ़ाना",
+                                "महिला किसानों के योगदान को पहचानना",
+                                "नई मुद्रा जारी करना",
+                                "रेलवे सेवाओं का विस्तार करना"
+                            ],
+                            "answer": "महिला किसानों के योगदान को पहचानना"
+                        },
+                        {
+                            "question": "महिला किसान दिवस का राष्ट्रीय कार्यक्रम किस शहर में निर्धारित है?",
+                            "options": [
+                                "जयपुर",
+                                "लखनऊ",
+                                "नई दिल्ली",
+                                "भोपाल"
+                            ],
+                            "answer": "नई दिल्ली"
+                        },
+                        {
+                            "question": "महिला किसान दिवस के आयोजन से संबंधित विभाग कौन-सा है?",
+                            "options": [
+                                "कृषि एवं किसान कल्याण विभाग",
+                                "डाक विभाग",
+                                "परमाणु ऊर्जा विभाग",
+                                "खेल विभाग"
+                            ],
+                            "answer": "कृषि एवं किसान कल्याण विभाग"
+                        },
+                        {
+                            "question": "15 अक्टूबर को महिला किसान दिवस के साथ कौन-सा अंतरराष्ट्रीय दिवस भी मनाया जाता है?",
+                            "options": [
+                                "अंतरराष्ट्रीय ग्रामीण महिला दिवस",
+                                "विश्व पर्यावरण दिवस",
+                                "विश्व जल दिवस",
+                                "अंतरराष्ट्रीय योग दिवस"
+                            ],
+                            "answer": "अंतरराष्ट्रीय ग्रामीण महिला दिवस"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Observance / अंतरराष्ट्रीय दिवस",
+                    "title": "International Day of Rural Women / अंतरराष्ट्रीय ग्रामीण महिला दिवस",
+                    "summary": "अंतरराष्ट्रीय ग्रामीण महिला दिवस प्रत्येक वर्ष 15 अक्टूबर को मनाया जाता है। इसका उद्देश्य ग्रामीण महिलाओं की कृषि, खाद्य सुरक्षा, ग्रामीण अर्थव्यवस्था और समुदायों के विकास में महत्वपूर्ण भूमिका को पहचानना है। संयुक्त राष्ट्र महासभा ने 2007 में इस दिवस की स्थापना की थी।",
+                    "sourceName": "United Nations",
+                    "sourceUrl": "https://www.un.org/en/observances/rural-women-day",
+                    "staticGK": [
+                        "अंतरराष्ट्रीय ग्रामीण महिला दिवस 15 अक्टूबर को मनाया जाता है।",
+                        "संयुक्त राष्ट्र महासभा ने 2007 में इस दिवस की स्थापना की थी।",
+                        "ग्रामीण महिलाएँ कृषि और खाद्य सुरक्षा में महत्वपूर्ण भूमिका निभाती हैं।",
+                        "यह दिवस ग्रामीण महिलाओं के अधिकारों और आर्थिक सशक्तिकरण पर ध्यान केंद्रित करता है।",
+                        "यह दिवस ग्रामीण समुदायों के विकास में महिलाओं के योगदान को रेखांकित करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "अंतरराष्ट्रीय ग्रामीण महिला दिवस कब मनाया जाता है?",
+                            "options": [
+                                "8 मार्च",
+                                "5 जून",
+                                "15 अक्टूबर",
+                                "10 दिसंबर"
+                            ],
+                            "answer": "15 अक्टूबर"
+                        },
+                        {
+                            "question": "अंतरराष्ट्रीय ग्रामीण महिला दिवस की स्थापना किस संस्था ने की?",
+                            "options": [
+                                "विश्व बैंक",
+                                "संयुक्त राष्ट्र महासभा",
+                                "विश्व व्यापार संगठन",
+                                "अंतरराष्ट्रीय मुद्रा कोष"
+                            ],
+                            "answer": "संयुक्त राष्ट्र महासभा"
+                        },
+                        {
+                            "question": "इस दिवस की स्थापना किस वर्ष की गई थी?",
+                            "options": [
+                                "2000",
+                                "2005",
+                                "2007",
+                                "2015"
+                            ],
+                            "answer": "2007"
+                        },
+                        {
+                            "question": "यह दिवस मुख्य रूप से किसके योगदान को पहचानता है?",
+                            "options": [
+                                "ग्रामीण महिलाओं",
+                                "अंतरिक्ष यात्रियों",
+                                "समुद्री व्यापारियों",
+                                "अंतरराष्ट्रीय खिलाड़ियों"
+                            ],
+                            "answer": "ग्रामीण महिलाओं"
+                        },
+                        {
+                            "question": "ग्रामीण महिलाएँ किस क्षेत्र में महत्वपूर्ण योगदान देती हैं?",
+                            "options": [
+                                "कृषि और खाद्य सुरक्षा",
+                                "केवल अंतरिक्ष अनुसंधान",
+                                "केवल विमान निर्माण",
+                                "केवल समुद्री परिवहन"
+                            ],
+                            "answer": "कृषि और खाद्य सुरक्षा"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology / विज्ञान एवं प्रौद्योगिकी",
+                    "title": "ICAR's Curtain-Raiser for ESTIC-2026 / ESTIC-2026 से पहले ICAR का कार्यक्रम",
+                    "summary": "भारतीय कृषि अनुसंधान परिषद (ICAR) 15 अक्टूबर 2026 को हरियाणा के करनाल स्थित ICAR-केंद्रीय मृदा लवणता अनुसंधान संस्थान में ESTIC-2026 से पहले एक कार्यक्रम और मीडिया संवाद आयोजित करने वाली है। इसमें कृषि-प्रौद्योगिकी, खाद्य प्रणालियों और पोषण जैसे विषयों पर चर्चा निर्धारित है। ESTIC-2026 का आयोजन 27 से 29 अक्टूबर 2026 तक नई दिल्ली के भारत मंडपम में निर्धारित है।",
+                    "sourceName": "Press Information Bureau (PIB) / Ministry of Agriculture & Farmers Welfare",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323142&lang=1&reg=3",
+                    "staticGK": [
+                        "ICAR का पूरा नाम Indian Council of Agricultural Research है।",
+                        "कार्यक्रम करनाल, हरियाणा में निर्धारित है।",
+                        "कार्यक्रम का स्थल ICAR-केंद्रीय मृदा लवणता अनुसंधान संस्थान है।",
+                        "ESTIC-2026 का आयोजन 27 से 29 अक्टूबर 2026 तक निर्धारित है।",
+                        "ESTIC-2026 का निर्धारित स्थल भारत मंडपम, नई दिल्ली है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "ICAR का पूरा नाम क्या है?",
+                            "options": [
+                                "Indian Council of Agricultural Research",
+                                "Indian Centre for Aviation Research",
+                                "International Council of Academic Research",
+                                "Indian Commission for Applied Chemistry"
+                            ],
+                            "answer": "Indian Council of Agricultural Research"
+                        },
+                        {
+                            "question": "15 अक्टूबर का ICAR कार्यक्रम किस राज्य में निर्धारित है?",
+                            "options": [
+                                "पंजाब",
+                                "हरियाणा",
+                                "राजस्थान",
+                                "उत्तर प्रदेश"
+                            ],
+                            "answer": "हरियाणा"
+                        },
+                        {
+                            "question": "ICAR कार्यक्रम का निर्धारित शहर कौन-सा है?",
+                            "options": [
+                                "करनाल",
+                                "जयपुर",
+                                "पटना",
+                                "देहरादून"
+                            ],
+                            "answer": "करनाल"
+                        },
+                        {
+                            "question": "ESTIC-2026 का आयोजन किस महीने में निर्धारित है?",
+                            "options": [
+                                "अगस्त",
+                                "सितंबर",
+                                "अक्टूबर",
+                                "दिसंबर"
+                            ],
+                            "answer": "अक्टूबर"
+                        },
+                        {
+                            "question": "ESTIC-2026 का निर्धारित स्थल कौन-सा है?",
+                            "options": [
+                                "भारत मंडपम, नई दिल्ली",
+                                "विज्ञान भवन, मुंबई",
+                                "साबरमती आश्रम",
+                                "विक्टोरिया मेमोरियल"
+                            ],
+                            "answer": "भारत मंडपम, नई दिल्ली"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Development / ग्रामीण विकास",
+                    "title": "National SARAS Mela 2026 in Vijayawada / विजयवाड़ा में राष्ट्रीय सरस मेला 2026",
+                    "summary": "राष्ट्रीय सरस मेला 2026 आंध्र प्रदेश के विजयवाड़ा में 13 से 31 अक्टूबर तक आयोजित किया जा रहा है। यह आयोजन ग्रामीण विकास मंत्रालय और आंध्र प्रदेश सरकार के सहयोग से हो रहा है। इसमें 30 से अधिक राज्यों और केंद्र शासित प्रदेशों के स्वयं सहायता समूहों से जुड़ी 1,500 से अधिक महिला उद्यमियों के भाग लेने की जानकारी दी गई है। राष्ट्रपति द्रौपदी मुर्मु द्वारा 15 अक्टूबर को मेले का औपचारिक उद्घाटन निर्धारित है।",
+                    "sourceName": "Press Information Bureau (PIB) / Ministry of Rural Development",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2322458&lang=1&reg=3",
+                    "staticGK": [
+                        "राष्ट्रीय सरस मेला 2026 आंध्र प्रदेश के विजयवाड़ा में आयोजित हो रहा है।",
+                        "मेले की निर्धारित अवधि 13 से 31 अक्टूबर 2026 है।",
+                        "मेले में 30 से अधिक राज्यों और केंद्र शासित प्रदेशों की महिला उद्यमियों के भाग लेने की जानकारी है।",
+                        "आयोजन ग्रामीण विकास मंत्रालय और आंध्र प्रदेश सरकार के सहयोग से हो रहा है।",
+                        "मेले में स्वयं सहायता समूहों के उत्पादों और ग्रामीण उद्यमिता को बढ़ावा दिया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "राष्ट्रीय सरस मेला 2026 किस शहर में आयोजित हो रहा है?",
+                            "options": [
+                                "विशाखापत्तनम",
+                                "विजयवाड़ा",
+                                "हैदराबाद",
+                                "चेन्नई"
+                            ],
+                            "answer": "विजयवाड़ा"
+                        },
+                        {
+                            "question": "राष्ट्रीय सरस मेला 2026 की निर्धारित अवधि क्या है?",
+                            "options": [
+                                "1 से 10 अक्टूबर",
+                                "13 से 31 अक्टूबर",
+                                "15 से 25 नवंबर",
+                                "1 से 15 दिसंबर"
+                            ],
+                            "answer": "13 से 31 अक्टूबर"
+                        },
+                        {
+                            "question": "राष्ट्रीय सरस मेला किस मंत्रालय से संबंधित है?",
+                            "options": [
+                                "ग्रामीण विकास मंत्रालय",
+                                "रक्षा मंत्रालय",
+                                "विदेश मंत्रालय",
+                                "रेल मंत्रालय"
+                            ],
+                            "answer": "ग्रामीण विकास मंत्रालय"
+                        },
+                        {
+                            "question": "सरस मेले में मुख्य रूप से किसे मंच मिलता है?",
+                            "options": [
+                                "स्वयं सहायता समूहों और ग्रामीण उद्यमियों को",
+                                "केवल विदेशी बैंकों को",
+                                "केवल अंतरराष्ट्रीय क्रिकेट टीमों को",
+                                "केवल विमान कंपनियों को"
+                            ],
+                            "answer": "स्वयं सहायता समूहों और ग्रामीण उद्यमियों को"
+                        },
+                        {
+                            "question": "राष्ट्रीय सरस मेला 2026 का उद्घाटन किसके द्वारा निर्धारित है?",
+                            "options": [
+                                "भारत के राष्ट्रपति",
+                                "भारत के मुख्य न्यायाधीश",
+                                "भारतीय रिजर्व बैंक के गवर्नर",
+                                "मुख्य चुनाव आयुक्त"
+                            ],
+                            "answer": "भारत के राष्ट्रपति"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education & Culture / शिक्षा एवं संस्कृति",
+                    "title": "IIAS Diamond Jubilee Celebrations / भारतीय उच्च अध्ययन संस्थान का हीरक जयंती समारोह",
+                    "summary": "भारतीय उच्च अध्ययन संस्थान (IIAS), शिमला, अपनी हीरक जयंती के अवसर पर 11 से 15 अक्टूबर 2026 तक पुस्तकों, कला, विरासत और विचारों पर केंद्रित कार्यक्रम आयोजित कर रहा है। कार्यक्रम में पुस्तक मेला और शैक्षणिक-सांस्कृतिक गतिविधियाँ शामिल हैं। समापन समारोह 15 अक्टूबर को हिमाचल प्रदेश के राज्यपाल की उपस्थिति में निर्धारित है।",
+                    "sourceName": "Press Information Bureau (PIB) / Ministry of Education",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320848&lang=2&reg=48",
+                    "staticGK": [
+                        "IIAS का पूरा नाम Indian Institute of Advanced Study है।",
+                        "IIAS शिमला में स्थित है।",
+                        "संस्थान का हीरक जयंती समारोह 60 वर्ष पूरे होने से संबंधित है।",
+                        "समारोह में पुस्तक मेला, कला, इतिहास और विरासत से संबंधित गतिविधियाँ शामिल हैं।",
+                        "कार्यक्रम की निर्धारित अवधि 11 से 15 अक्टूबर 2026 है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "IIAS का पूरा नाम क्या है?",
+                            "options": [
+                                "Indian Institute of Advanced Study",
+                                "Indian Institute of Agricultural Statistics",
+                                "International Institute of Asian Sports",
+                                "Indian Institute of Applied Science"
+                            ],
+                            "answer": "Indian Institute of Advanced Study"
+                        },
+                        {
+                            "question": "IIAS कहाँ स्थित है?",
+                            "options": [
+                                "शिमला",
+                                "भोपाल",
+                                "रांची",
+                                "कोच्चि"
+                            ],
+                            "answer": "शिमला"
+                        },
+                        {
+                            "question": "हीरक जयंती सामान्यतः कितने वर्ष पूरे होने पर मनाई जाती है?",
+                            "options": [
+                                "25 वर्ष",
+                                "50 वर्ष",
+                                "60 वर्ष",
+                                "100 वर्ष"
+                            ],
+                            "answer": "60 वर्ष"
+                        },
+                        {
+                            "question": "IIAS के हीरक जयंती कार्यक्रम में कौन-सी गतिविधि शामिल है?",
+                            "options": [
+                                "पुस्तक मेला",
+                                "नौसैनिक बेड़ा अभ्यास",
+                                "अंतरराष्ट्रीय विमान प्रदर्शनी",
+                                "क्रिकेट विश्व कप"
+                            ],
+                            "answer": "पुस्तक मेला"
+                        },
+                        {
+                            "question": "IIAS किस राज्य में स्थित है?",
+                            "options": [
+                                "हिमाचल प्रदेश",
+                                "उत्तराखंड",
+                                "सिक्किम",
+                                "अरुणाचल प्रदेश"
+                            ],
+                            "answer": "हिमाचल प्रदेश"
+                        }
+                    ]
+                },
+                {
+                    "category": "Public Health / सार्वजनिक स्वास्थ्य",
+                    "title": "National Orientation Meeting on Disease Surveillance / रोग निगरानी पर राष्ट्रीय बैठक",
+                    "summary": "राष्ट्रीय रोग नियंत्रण केंद्र (NCDC) द्वारा राज्यों और केंद्र शासित प्रदेशों के लिए रोग निगरानी एवं सार्वजनिक स्वास्थ्य कार्यक्रम पर राष्ट्रीय ओरिएंटेशन बैठक 15 और 16 अक्टूबर 2026 को निर्धारित है। कार्यक्रम में एकीकृत रोग निगरानी कार्यक्रम, रेबीज नियंत्रण, सर्पदंश की रोकथाम, जूनोटिक रोगों और एंटीमाइक्रोबियल रेजिस्टेंस जैसे विषय शामिल हैं।",
+                    "sourceName": "National Centre for Disease Control (NCDC) / Ministry of Health & Family Welfare",
+                    "sourceUrl": "https://ncdc.mohfw.gov.in/includes/National%20Orientation%20Meeting%20of%20on%20Disease%20Surveillance%20%26%20Public%20Health%20Programme.php",
+                    "staticGK": [
+                        "NCDC का पूरा नाम National Centre for Disease Control है।",
+                        "यह संस्थान स्वास्थ्य एवं परिवार कल्याण मंत्रालय से संबंधित है।",
+                        "बैठक 15 और 16 अक्टूबर 2026 के लिए निर्धारित है।",
+                        "एकीकृत रोग निगरानी कार्यक्रम का संक्षिप्त नाम IDSP है।",
+                        "एंटीमाइक्रोबियल रेजिस्टेंस सार्वजनिक स्वास्थ्य की एक महत्वपूर्ण चुनौती है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "NCDC का पूरा नाम क्या है?",
+                            "options": [
+                                "National Centre for Disease Control",
+                                "National Council for Digital Communication",
+                                "National Centre for Defence Cooperation",
+                                "National Committee for Drug Commerce"
+                            ],
+                            "answer": "National Centre for Disease Control"
+                        },
+                        {
+                            "question": "रोग निगरानी पर राष्ट्रीय बैठक किन तारीखों के लिए निर्धारित है?",
+                            "options": [
+                                "10 और 11 अक्टूबर",
+                                "12 और 13 अक्टूबर",
+                                "15 और 16 अक्टूबर",
+                                "20 और 21 अक्टूबर"
+                            ],
+                            "answer": "15 और 16 अक्टूबर"
+                        },
+                        {
+                            "question": "IDSP का संबंध किससे है?",
+                            "options": [
+                                "एकीकृत रोग निगरानी",
+                                "रेलवे टिकट बुकिंग",
+                                "अंतरिक्ष अनुसंधान",
+                                "बैंकिंग नियमन"
+                            ],
+                            "answer": "एकीकृत रोग निगरानी"
+                        },
+                        {
+                            "question": "NCDC किस मंत्रालय से संबंधित है?",
+                            "options": [
+                                "स्वास्थ्य एवं परिवार कल्याण मंत्रालय",
+                                "वित्त मंत्रालय",
+                                "शिक्षा मंत्रालय",
+                                "पर्यटन मंत्रालय"
+                            ],
+                            "answer": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय"
+                        },
+                        {
+                            "question": "एंटीमाइक्रोबियल रेजिस्टेंस का संबंध किस क्षेत्र से है?",
+                            "options": [
+                                "सार्वजनिक स्वास्थ्य",
+                                "खनन",
+                                "अंतरिक्ष पर्यटन",
+                                "समुद्री परिवहन"
+                            ],
+                            "answer": "सार्वजनिक स्वास्थ्य"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture & Rural Economy / कृषि एवं ग्रामीण अर्थव्यवस्था",
+                    "title": "Women Farmers and Rural Entrepreneurship / महिला किसान और ग्रामीण उद्यमिता",
+                    "summary": "महिला किसान दिवस और राष्ट्रीय सरस मेला 2026 से जुड़े सरकारी कार्यक्रमों में महिला किसानों, स्वयं सहायता समूहों और ग्रामीण महिला उद्यमियों की आर्थिक भूमिका को प्रमुखता दी गई है। कृषि उत्पादन, स्थानीय उत्पादों के विपणन और आजीविका के अवसरों को बढ़ावा देना ग्रामीण अर्थव्यवस्था को मजबूत करने के महत्वपूर्ण पहलू हैं।",
+                    "sourceName": "Press Information Bureau (PIB) / Ministry of Agriculture & Farmers Welfare",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323531&lang=1&reg=3",
+                    "staticGK": [
+                        "महिला किसान कृषि उत्पादन और ग्रामीण आजीविका में योगदान देती हैं।",
+                        "स्वयं सहायता समूह सामूहिक बचत और आर्थिक गतिविधियों को बढ़ावा देते हैं।",
+                        "ग्रामीण उद्यमिता स्थानीय उत्पादों को बाजार तक पहुँचाने में मदद कर सकती है।",
+                        "महिला किसान दिवस 15 अक्टूबर को मनाया जाता है।",
+                        "ग्रामीण विकास में कौशल, बाजार तक पहुँच और वित्तीय समावेशन महत्वपूर्ण हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "स्वयं सहायता समूहों का एक प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "सामूहिक बचत और आर्थिक गतिविधियों को बढ़ावा देना",
+                                "केवल सरकारी परीक्षाएँ आयोजित करना",
+                                "केवल रेलगाड़ियाँ चलाना",
+                                "केवल विदेशी मुद्रा जारी करना"
+                            ],
+                            "answer": "सामूहिक बचत और आर्थिक गतिविधियों को बढ़ावा देना"
+                        },
+                        {
+                            "question": "ग्रामीण उद्यमिता किसमें सहायता कर सकती है?",
+                            "options": [
+                                "स्थानीय उत्पादों को बाजार तक पहुँचाने में",
+                                "केवल अंतरिक्ष यान बनाने में",
+                                "केवल समुद्री सीमा तय करने में",
+                                "केवल मौसम उपग्रह चलाने में"
+                            ],
+                            "answer": "स्थानीय उत्पादों को बाजार तक पहुँचाने में"
+                        },
+                        {
+                            "question": "महिला किसान दिवस किस तारीख को मनाया जाता है?",
+                            "options": [
+                                "15 अक्टूबर",
+                                "5 जून",
+                                "21 जून",
+                                "26 जनवरी"
+                            ],
+                            "answer": "15 अक्टूबर"
+                        },
+                        {
+                            "question": "ग्रामीण अर्थव्यवस्था को मजबूत करने के लिए क्या महत्वपूर्ण है?",
+                            "options": [
+                                "कौशल और बाजार तक पहुँच",
+                                "केवल आयात पर निर्भरता",
+                                "स्थानीय उत्पादन रोकना",
+                                "ग्रामीण रोजगार समाप्त करना"
+                            ],
+                            "answer": "कौशल और बाजार तक पहुँच"
+                        },
+                        {
+                            "question": "महिला किसानों की प्रमुख भूमिका किस क्षेत्र में है?",
+                            "options": [
+                                "कृषि और ग्रामीण आजीविका",
+                                "केवल अंतरराष्ट्रीय विमानन",
+                                "केवल समुद्री युद्ध",
+                                "केवल दूरसंचार उपग्रह निर्माण"
+                            ],
+                            "answer": "कृषि और ग्रामीण आजीविका"
+                        }
+                    ]
+                },
+                {
+                    "category": "Infrastructure / अवसंरचना",
+                    "title": "Strategic Road Connectivity in Ladakh / लद्दाख में रणनीतिक सड़क संपर्क",
+                    "summary": "लद्दाख में घोषित विकास परियोजनाओं में 298 किलोमीटर लंबी निम्मू-पदुम-दरचा सड़क प्रमुख है। यह सड़क लद्दाख के लिए वैकल्पिक संपर्क उपलब्ध कराने और सशस्त्र बलों की रणनीतिक गतिशीलता मजबूत करने के उद्देश्य से महत्वपूर्ण है। परियोजनाओं में हवाई अड्डा अवसंरचना, ऊर्जा, जल सुरक्षा और विरासत संरक्षण से जुड़े कार्य भी शामिल हैं।",
+                    "sourceName": "Press Information Bureau (PIB) / Prime Minister's Office",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=2323218&lang=1&reg=1",
+                    "staticGK": [
+                        "निम्मू-पदुम-दरचा सड़क की लंबाई 298 किलोमीटर है।",
+                        "यह सड़क लद्दाख के लिए वैकल्पिक संपर्क मार्ग उपलब्ध कराने से संबंधित है।",
+                        "रणनीतिक सड़कें सशस्त्र बलों की आवाजाही में सहायता कर सकती हैं।",
+                        "लद्दाख में सड़क संपर्क भौगोलिक और रणनीतिक दृष्टि से महत्वपूर्ण है।",
+                        "घोषित परियोजनाओं में ऊर्जा अवसंरचना और जल सुरक्षा भी शामिल हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "निम्मू-पदुम-दरचा सड़क की लंबाई कितनी है?",
+                            "options": [
+                                "98 किलोमीटर",
+                                "198 किलोमीटर",
+                                "298 किलोमीटर",
+                                "498 किलोमीटर"
+                            ],
+                            "answer": "298 किलोमीटर"
+                        },
+                        {
+                            "question": "निम्मू-पदुम-दरचा सड़क किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "लद्दाख",
+                                "केरल",
+                                "गोवा",
+                                "तमिलनाडु"
+                            ],
+                            "answer": "लद्दाख"
+                        },
+                        {
+                            "question": "रणनीतिक सड़क संपर्क का एक प्रमुख लाभ क्या है?",
+                            "options": [
+                                "सशस्त्र बलों की आवाजाही में सहायता",
+                                "समुद्री बंदरगाहों का निर्माण",
+                                "केवल पर्यटन कर बढ़ाना",
+                                "केवल हवाई टिकट जारी करना"
+                            ],
+                            "answer": "सशस्त्र बलों की आवाजाही में सहायता"
+                        },
+                        {
+                            "question": "लद्दाख परियोजनाओं में कौन-सा क्षेत्र भी शामिल है?",
+                            "options": [
+                                "जल सुरक्षा",
+                                "समुद्री मत्स्य पालन",
+                                "तटीय जहाज निर्माण",
+                                "डेल्टा सिंचाई"
+                            ],
+                            "answer": "जल सुरक्षा"
+                        },
+                        {
+                            "question": "लद्दाख भारत में किस प्रकार का प्रशासनिक क्षेत्र है?",
+                            "options": [
+                                "केंद्र शासित प्रदेश",
+                                "राज्य",
+                                "विदेशी क्षेत्र",
+                                "नगर निगम"
+                            ],
+                            "answer": "केंद्र शासित प्रदेश"
+                        }
+                    ]
+                },
+                {
+                    "category": "Current Affairs / समसामयिकी",
+                    "title": "October 15: Important Government Events and Observances / 15 अक्टूबर के महत्वपूर्ण सरकारी कार्यक्रम",
+                    "summary": "15 अक्टूबर 2026 को देश में कई महत्वपूर्ण सरकारी कार्यक्रम निर्धारित हैं। इनमें लद्दाख की विकास परियोजनाएँ, एशियाई खेलों के भारतीय खिलाड़ियों से प्रधानमंत्री का संवाद, महिला किसान दिवस और करनाल में ICAR का कार्यक्रम शामिल हैं। इस तारीख को अंतरराष्ट्रीय ग्रामीण महिला दिवस भी मनाया जाता है।",
+                    "sourceName": "Press Information Bureau (PIB) / Government of India",
+                    "sourceUrl": "https://www.pib.gov.in/AllReleasem.aspx?lang=1&reg=1",
+                    "staticGK": [
+                        "15 अक्टूबर को अंतरराष्ट्रीय ग्रामीण महिला दिवस मनाया जाता है।",
+                        "महिला किसान दिवस के राष्ट्रीय कार्यक्रम का आयोजन नई दिल्ली में निर्धारित है।",
+                        "प्रधानमंत्री का एशियाई खेलों के भारतीय खिलाड़ियों से संवाद नई दिल्ली में निर्धारित है।",
+                        "ICAR का ESTIC-2026 से पहले का कार्यक्रम करनाल में निर्धारित है।",
+                        "लद्दाख की विकास परियोजनाओं में सड़क, हवाई अड्डा, ऊर्जा, विरासत और जल सुरक्षा शामिल हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "15 अक्टूबर को कौन-सा अंतरराष्ट्रीय दिवस मनाया जाता है?",
+                            "options": [
+                                "अंतरराष्ट्रीय ग्रामीण महिला दिवस",
+                                "विश्व पर्यावरण दिवस",
+                                "विश्व जल दिवस",
+                                "अंतरराष्ट्रीय योग दिवस"
+                            ],
+                            "answer": "अंतरराष्ट्रीय ग्रामीण महिला दिवस"
+                        },
+                        {
+                            "question": "महिला किसान दिवस के राष्ट्रीय कार्यक्रम का निर्धारित शहर कौन-सा है?",
+                            "options": [
+                                "नई दिल्ली",
+                                "जयपुर",
+                                "पटना",
+                                "भोपाल"
+                            ],
+                            "answer": "नई दिल्ली"
+                        },
+                        {
+                            "question": "ICAR का 15 अक्टूबर का कार्यक्रम किस शहर में निर्धारित है?",
+                            "options": [
+                                "करनाल",
+                                "इंदौर",
+                                "रायपुर",
+                                "लखनऊ"
+                            ],
+                            "answer": "करनाल"
+                        },
+                        {
+                            "question": "प्रधानमंत्री भारतीय एशियाई खेल खिलाड़ियों से कहाँ संवाद करने वाले हैं?",
+                            "options": [
+                                "नई दिल्ली",
+                                "मुंबई",
+                                "चेन्नई",
+                                "कोलकाता"
+                            ],
+                            "answer": "नई दिल्ली"
+                        },
+                        {
+                            "question": "लद्दाख की विकास परियोजनाओं में कौन-सा क्षेत्र शामिल है?",
+                            "options": [
+                                "हवाई अड्डा अवसंरचना",
+                                "केवल समुद्री बंदरगाह",
+                                "केवल तटीय राजमार्ग",
+                                "केवल मेट्रो रेल"
+                            ],
+                            "answer": "हवाई अड्डा अवसंरचना"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
