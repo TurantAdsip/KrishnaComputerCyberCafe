@@ -10351,7 +10351,7 @@
                 }
             ]
         },
-            {
+              {
             "id": "2026-10-16",
             "date": "16 October 2026",
             "totalNews": 10,
@@ -10360,15 +10360,15 @@
                 {
                     "category": "Governance & Digital India",
                     "title": "National Conference on e-Governance Reforms Begins in Dharamshala / धर्मशाला में राष्ट्रीय ई-गवर्नेंस सुधार सम्मेलन शुरू",
-                    "summary": "The Department of Administrative Reforms and Public Grievances (DARPG), Ministry of Personnel, Public Grievances and Pensions, in collaboration with the Government of Himachal Pradesh, is organising a two-day National Conference on e-Governance Reforms in Dharamshala on 16–17 October 2026. The conference focuses on digital transformation, innovation and effective governance practices. / प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG), कार्मिक, लोक शिकायत और पेंशन मंत्रालय, हिमाचल प्रदेश सरकार के सहयोग से 16–17 अक्टूबर 2026 को धर्मशाला में दो दिवसीय राष्ट्रीय ई-गवर्नेंस सुधार सम्मेलन आयोजित कर रहा है। सम्मेलन का उद्देश्य डिजिटल परिवर्तन, नवाचार और प्रभावी शासन प्रक्रियाओं को बढ़ावा देना है।",
-                    "sourceName": "Press Information Bureau (PIB)",
+                    "summary": "The Department of Administrative Reforms and Public Grievances (DARPG), under the Ministry of Personnel, Public Grievances and Pensions, is organising a two-day National Conference on e-Governance Reforms in Dharamshala, Himachal Pradesh, on 16–17 October 2026, in collaboration with the state government. The conference focuses on digital transformation, innovation and citizen-centric governance. / प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG), कार्मिक, लोक शिकायत और पेंशन मंत्रालय के अंतर्गत, हिमाचल प्रदेश सरकार के सहयोग से 16–17 अक्टूबर 2026 को धर्मशाला में दो दिवसीय राष्ट्रीय ई-गवर्नेंस सुधार सम्मेलन आयोजित कर रहा है। सम्मेलन का मुख्य उद्देश्य डिजिटल परिवर्तन, नवाचार और नागरिक-केंद्रित शासन को बढ़ावा देना है।",
+                    "sourceName": "Press Information Bureau (PIB), Government of India",
                     "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323796&lang=1&reg=3",
                     "staticGK": [
                         "Conference / सम्मेलन : National Conference on e-Governance Reforms",
                         "Dates / तिथियाँ : 16–17 October 2026",
                         "Venue / स्थान : Dharamshala, Himachal Pradesh",
                         "Organising Department / आयोजक विभाग : DARPG",
-                        "Main Focus / मुख्य उद्देश्य : Digital transformation and governance reforms"
+                        "Main Focus / मुख्य उद्देश्य : Digital transformation and citizen-centric governance"
                     ],
                     "mcqs": [
                         {
@@ -10417,7 +10417,7 @@
                                 "Digital transformation",
                                 "Space tourism",
                                 "Marine fishing",
-                                "International trade tariffs"
+                                "International tariffs"
                             ],
                             "answer": "Digital transformation"
                         }
@@ -10426,15 +10426,15 @@
                 {
                     "category": "Fisheries & International Cooperation",
                     "title": "Government Approves India's Accession to SIOFA / सरकार ने SIOFA में भारत की भागीदारी को मंजूरी दी",
-                    "summary": "The Central Government approved India's accession to the Southern Indian Ocean Fisheries Agreement (SIOFA), according to a Ministry of Fisheries, Animal Husbandry and Dairying announcement published on 14 October 2026. The agreement provides a framework for international cooperation in managing and conserving fisheries resources in the Southern Indian Ocean. / मत्स्य पालन, पशुपालन और डेयरी मंत्रालय की 14 अक्टूबर 2026 की घोषणा के अनुसार, केंद्र सरकार ने दक्षिणी हिंद महासागर मत्स्य समझौते (SIOFA) में भारत की भागीदारी को मंजूरी दी। यह समझौता दक्षिणी हिंद महासागर में मत्स्य संसाधनों के प्रबंधन और संरक्षण के लिए अंतरराष्ट्रीय सहयोग का ढाँचा प्रदान करता है।",
-                    "sourceName": "Press Information Bureau (PIB)",
-                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=22",
+                    "summary": "On 14 October 2026, the Central Government approved India's accession to the Southern Indian Ocean Fisheries Agreement (SIOFA). The agreement provides a framework for sustainable management of fisheries resources in its area of application and greater participation in international fisheries governance. / 14 अक्टूबर 2026 को केंद्र सरकार ने दक्षिणी हिंद महासागर मत्स्य समझौते (SIOFA) में भारत की भागीदारी को मंजूरी दी। यह समझौता अपने क्षेत्र में मत्स्य संसाधनों के सतत प्रबंधन और अंतरराष्ट्रीय मत्स्य शासन में अधिक भागीदारी के लिए ढाँचा प्रदान करता है।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Fisheries, Animal Husbandry and Dairying",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323370&lang=1&reg=3",
                     "staticGK": [
                         "Agreement / समझौता : Southern Indian Ocean Fisheries Agreement",
                         "Abbreviation / संक्षिप्त नाम : SIOFA",
                         "Approval Announcement / मंजूरी की घोषणा : 14 October 2026",
                         "Region / क्षेत्र : Southern Indian Ocean",
-                        "Main Objective / मुख्य उद्देश्य : Fisheries management and conservation"
+                        "Main Objective / मुख्य उद्देश्य : Sustainable fisheries management"
                     ],
                     "mcqs": [
                         {
@@ -10458,14 +10458,14 @@
                             "answer": "Southern Indian Ocean"
                         },
                         {
-                            "question": "What is the agreement mainly concerned with? / यह समझौता मुख्य रूप से किससे संबंधित है?",
+                            "question": "What is a key objective of SIOFA? / SIOFA का प्रमुख उद्देश्य क्या है?",
                             "options": [
-                                "Fisheries management and conservation",
+                                "Sustainable fisheries management",
                                 "Space exploration",
                                 "International aviation",
-                                "Nuclear energy"
+                                "Nuclear energy development"
                             ],
-                            "answer": "Fisheries management and conservation"
+                            "answer": "Sustainable fisheries management"
                         },
                         {
                             "question": "Which country approved its accession to the agreement? / किस देश ने समझौते में शामिल होने को मंजूरी दी?",
@@ -10490,97 +10490,31 @@
                     ]
                 },
                 {
-                    "category": "Economy & Taxation",
-                    "title": "Windfall Tax on Petrol and Diesel Exports Takes Effect / पेट्रोल और डीजल के निर्यात पर विंडफॉल टैक्स लागू",
-                    "summary": "According to Reuters reporting on 15 October 2026, India introduced a windfall tax on petrol exports of ₹2.50 per litre and diesel exports of ₹8.50 per litre, effective from 16 October 2026. The measure concerns petroleum exports and government taxation. / 15 अक्टूबर 2026 की Reuters रिपोर्ट के अनुसार, भारत ने 16 अक्टूबर 2026 से पेट्रोल के निर्यात पर ₹2.50 प्रति लीटर और डीजल के निर्यात पर ₹8.50 प्रति लीटर विंडफॉल टैक्स लागू किया। यह उपाय पेट्रोलियम निर्यात और सरकारी कराधान से संबंधित है।",
-                    "sourceName": "Reuters",
-                    "sourceUrl": "https://www.reuters.com/business/india-sets-windfall-tax-petrol-exports-25-rupees-per-litre-2026-10-15/",
-                    "staticGK": [
-                        "Petrol Export Tax / पेट्रोल निर्यात कर : ₹2.50 per litre",
-                        "Diesel Export Tax / डीजल निर्यात कर : ₹8.50 per litre",
-                        "Effective Date / लागू होने की तिथि : 16 October 2026",
-                        "Sector / क्षेत्र : Petroleum and energy",
-                        "Tax Type / कर का प्रकार : Windfall tax"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "What was the windfall tax on petrol exports? / पेट्रोल के निर्यात पर विंडफॉल टैक्स कितना था?",
-                            "options": [
-                                "₹1.50 per litre",
-                                "₹2.50 per litre",
-                                "₹5.00 per litre",
-                                "₹8.50 per litre"
-                            ],
-                            "answer": "₹2.50 per litre"
-                        },
-                        {
-                            "question": "What was the windfall tax on diesel exports? / डीजल के निर्यात पर विंडफॉल टैक्स कितना था?",
-                            "options": [
-                                "₹2.50 per litre",
-                                "₹4.50 per litre",
-                                "₹6.50 per litre",
-                                "₹8.50 per litre"
-                            ],
-                            "answer": "₹8.50 per litre"
-                        },
-                        {
-                            "question": "When did the reported export taxes take effect? / रिपोर्ट के अनुसार निर्यात कर कब लागू हुए?",
-                            "options": [
-                                "14 October 2026",
-                                "15 October 2026",
-                                "16 October 2026",
-                                "20 October 2026"
-                            ],
-                            "answer": "16 October 2026"
-                        },
-                        {
-                            "question": "Which sector is directly affected by these taxes? / इन करों से सीधे कौन-सा क्षेत्र प्रभावित होता है?",
-                            "options": [
-                                "Petroleum exports",
-                                "Textile imports",
-                                "Agricultural education",
-                                "Tourism services"
-                            ],
-                            "answer": "Petroleum exports"
-                        },
-                        {
-                            "question": "Which news agency reported the tax rates? / कर की दरों की रिपोर्ट किस समाचार एजेंसी ने दी?",
-                            "options": [
-                                "Reuters",
-                                "UNESCO",
-                                "WHO",
-                                "FAO"
-                            ],
-                            "answer": "Reuters"
-                        }
-                    ]
-                },
-                {
                     "category": "Economy & Employment",
-                    "title": "India's Labour Market Indicators Show Improvement in September 2026 / सितंबर 2026 में भारत के श्रम बाजार संकेतकों में सुधार",
-                    "summary": "A current-affairs report published on 16 October 2026, citing Akashvani News and National Statistics Office data released on 15 October, reported that India's overall labour force participation and worker population ratios increased year-on-year in September 2026. The report also noted a decline in the unemployment rate to 5%. / 16 अक्टूबर 2026 को प्रकाशित करेंट अफेयर्स रिपोर्ट में, 15 अक्टूबर को जारी राष्ट्रीय सांख्यिकी कार्यालय के आँकड़ों और आकाशवाणी समाचार का हवाला देते हुए बताया गया कि सितंबर 2026 में भारत की समग्र श्रम बल भागीदारी दर और कामगार जनसंख्या अनुपात में साल-दर-साल वृद्धि हुई। रिपोर्ट में बेरोजगारी दर घटकर 5% होने की भी जानकारी दी गई।",
-                    "sourceName": "GK Now, citing Akashvani News and NSO data",
-                    "sourceUrl": "https://gknow.in/current-affairs-16-october-2026/",
+                    "title": "September 2026 PLFS Reports Overall Unemployment Rate at 5.0% / सितंबर 2026 की PLFS रिपोर्ट में समग्र बेरोजगारी दर 5.0%",
+                    "summary": "The Ministry of Statistics and Programme Implementation released the Periodic Labour Force Survey (PLFS) Monthly Bulletin for September 2026 on 15 October. It reported an overall Labour Force Participation Rate of 55.5% and an overall Worker Population Ratio of 52.7% for persons aged 15 years and above. The overall unemployment rate was 5.0%. / सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने 15 अक्टूबर को सितंबर 2026 की आवधिक श्रम बल सर्वेक्षण (PLFS) मासिक बुलेटिन जारी की। इसमें 15 वर्ष और उससे अधिक आयु के व्यक्तियों के लिए समग्र श्रम बल भागीदारी दर 55.5%, कामगार जनसंख्या अनुपात 52.7% और बेरोजगारी दर 5.0% बताई गई।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Statistics and Programme Implementation",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323828&lang=2&reg=48",
                     "staticGK": [
+                        "Survey / सर्वेक्षण : Periodic Labour Force Survey",
                         "Reference Month / संबंधित महीना : September 2026",
-                        "Data Release Date / आँकड़े जारी होने की तिथि : 15 October 2026",
-                        "Reported Unemployment Rate / बताई गई बेरोजगारी दर : 5%",
-                        "Statistical Agency / सांख्यिकी एजेंसी : National Statistics Office",
-                        "Related Indicators / संबंधित संकेतक : LFPR and WPR"
+                        "Overall LFPR / समग्र LFPR : 55.5%",
+                        "Overall WPR / समग्र WPR : 52.7%",
+                        "Overall Unemployment Rate / समग्र बेरोजगारी दर : 5.0%"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which organisation is associated with the reported labour-market statistics? / श्रम बाजार के आँकड़ों से कौन-सा संगठन संबंधित है?",
+                            "question": "Which survey provides the reported labour-market statistics? / श्रम बाजार के आँकड़े किस सर्वेक्षण से प्राप्त हुए?",
                             "options": [
-                                "National Statistics Office",
-                                "Election Commission of India",
-                                "NITI Aayog only",
-                                "National Green Tribunal"
+                                "PLFS",
+                                "NFHS",
+                                "ASER",
+                                "Census only"
                             ],
-                            "answer": "National Statistics Office"
+                            "answer": "PLFS"
                         },
                         {
-                            "question": "Which month did the reported labour-market data cover? / श्रम बाजार के आँकड़े किस महीने के थे?",
+                            "question": "Which month did the bulletin cover? / बुलेटिन किस महीने से संबंधित थी?",
                             "options": [
                                 "July 2026",
                                 "August 2026",
@@ -10590,14 +10524,14 @@
                             "answer": "September 2026"
                         },
                         {
-                            "question": "What unemployment rate was reported? / कितनी बेरोजगारी दर बताई गई?",
+                            "question": "What overall unemployment rate was reported? / समग्र बेरोजगारी दर कितनी बताई गई?",
                             "options": [
-                                "3%",
-                                "4%",
-                                "5%",
-                                "7%"
+                                "3.0%",
+                                "4.0%",
+                                "5.0%",
+                                "7.0%"
                             ],
-                            "answer": "5%"
+                            "answer": "5.0%"
                         },
                         {
                             "question": "What does LFPR stand for? / LFPR का पूरा नाम क्या है?",
@@ -10610,99 +10544,99 @@
                             "answer": "Labour Force Participation Rate"
                         },
                         {
-                            "question": "What does WPR stand for in labour statistics? / श्रम आँकड़ों में WPR का क्या अर्थ है?",
+                            "question": "What was the overall LFPR for persons aged 15 years and above? / 15 वर्ष और उससे अधिक आयु के व्यक्तियों की समग्र LFPR कितनी थी?",
                             "options": [
-                                "Worker Population Ratio",
-                                "Wholesale Price Report",
-                                "World Production Rate",
-                                "Workplace Pension Regulation"
+                                "50.5%",
+                                "52.7%",
+                                "55.5%",
+                                "58.0%"
                             ],
-                            "answer": "Worker Population Ratio"
+                            "answer": "55.5%"
                         }
                     ]
                 },
                 {
-                    "category": "Environment & Wetland Conservation",
-                    "title": "India's Ramsar Sites Reach 103 / भारत में रामसर स्थलों की संख्या 103 हुई",
-                    "summary": "A current-affairs report dated 16 October 2026 reported that India's Ramsar site count reached 103 following the addition of Sukhna Wetland in Chandigarh and Sauj Jheel in Uttar Pradesh. Ramsar designation recognises wetlands of international importance and supports wetland conservation. / 16 अक्टूबर 2026 की करेंट अफेयर्स रिपोर्ट के अनुसार, चंडीगढ़ की सुखना वेटलैंड और उत्तर प्रदेश की सौज झील को शामिल किए जाने के बाद भारत में रामसर स्थलों की संख्या 103 हो गई। रामसर दर्जा अंतरराष्ट्रीय महत्व की आर्द्रभूमियों को मान्यता देता है और उनके संरक्षण को बढ़ावा देता है।",
-                    "sourceName": "GK Now, Current Affairs",
-                    "sourceUrl": "https://gknow.in/current-affairs-16-october-2026/",
+                    "category": "Official Statistics & Research",
+                    "title": "121st Issue of Sarvekshana Journal Released / सर्वेक्षण पत्रिका का 121वाँ अंक जारी",
+                    "summary": "The National Statistical Systems Training Academy under the Ministry of Statistics and Programme Implementation released the 121st issue of Sarvekshana on 14 October 2026. The journal publishes research relating to official statistics, including statistical methods, industrial efficiency and social transfers. / सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय के अंतर्गत राष्ट्रीय सांख्यिकीय प्रणाली प्रशिक्षण अकादमी ने 14 अक्टूबर 2026 को सर्वेक्षण पत्रिका का 121वाँ अंक जारी किया। यह पत्रिका आधिकारिक आँकड़ों, सांख्यिकीय विधियों, औद्योगिक दक्षता और सामाजिक हस्तांतरण से संबंधित शोध प्रकाशित करती है।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Statistics and Programme Implementation",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323502&lang=1&reg=3",
                     "staticGK": [
-                        "Total Ramsar Sites / कुल रामसर स्थल : 103",
-                        "Wetland 1 / आर्द्रभूमि 1 : Sukhna Wetland",
-                        "Location 1 / स्थान 1 : Chandigarh",
-                        "Wetland 2 / आर्द्रभूमि 2 : Sauj Jheel",
-                        "Location 2 / स्थान 2 : Uttar Pradesh"
+                        "Publication / प्रकाशन : Sarvekshana",
+                        "Issue / अंक : 121st",
+                        "Release Date / जारी होने की तिथि : 14 October 2026",
+                        "Institution / संस्था : National Statistical Systems Training Academy",
+                        "Ministry / मंत्रालय : Ministry of Statistics and Programme Implementation"
                     ],
                     "mcqs": [
                         {
-                            "question": "How many Ramsar sites were reported for India? / भारत में कितने रामसर स्थल बताए गए?",
+                            "question": "Which journal released its 121st issue? / किस पत्रिका का 121वाँ अंक जारी हुआ?",
                             "options": [
-                                "99",
-                                "101",
-                                "103",
-                                "105"
+                                "Sarvekshana",
+                                "Yojana",
+                                "Kurukshetra",
+                                "India Today"
                             ],
-                            "answer": "103"
+                            "answer": "Sarvekshana"
                         },
                         {
-                            "question": "Where is Sukhna Wetland located? / सुखना वेटलैंड कहाँ स्थित है?",
+                            "question": "Which academy released the journal? / पत्रिका किस अकादमी ने जारी की?",
                             "options": [
-                                "Chandigarh",
-                                "Rajasthan",
-                                "Bihar",
-                                "Kerala"
+                                "National Statistical Systems Training Academy",
+                                "National Police Academy",
+                                "Lal Bahadur Shastri National Academy of Administration",
+                                "National Film Academy"
                             ],
-                            "answer": "Chandigarh"
+                            "answer": "National Statistical Systems Training Academy"
                         },
                         {
-                            "question": "Sauj Jheel is located in which state? / सौज झील किस राज्य में स्थित है?",
+                            "question": "Which ministry is associated with the publication? / यह प्रकाशन किस मंत्रालय से संबंधित है?",
                             "options": [
-                                "Uttar Pradesh",
-                                "Gujarat",
-                                "Punjab",
-                                "Madhya Pradesh"
+                                "Ministry of Statistics and Programme Implementation",
+                                "Ministry of Tourism",
+                                "Ministry of Defence",
+                                "Ministry of Culture"
                             ],
-                            "answer": "Uttar Pradesh"
+                            "answer": "Ministry of Statistics and Programme Implementation"
                         },
                         {
-                            "question": "Which ecosystem is associated with Ramsar sites? / रामसर स्थल किस पारिस्थितिकी तंत्र से संबंधित हैं?",
+                            "question": "What is a major subject covered by Sarvekshana? / सर्वेक्षण का प्रमुख विषय क्या है?",
                             "options": [
-                                "Wetlands",
-                                "Deserts only",
-                                "Glaciers only",
-                                "Volcanoes"
+                                "Official statistics",
+                                "Film production",
+                                "Sports coaching",
+                                "Space tourism"
                             ],
-                            "answer": "Wetlands"
+                            "answer": "Official statistics"
                         },
                         {
-                            "question": "What is the main purpose of Ramsar designation? / रामसर दर्जे का मुख्य उद्देश्य क्या है?",
+                            "question": "On which date was the 121st issue released? / 121वाँ अंक किस तारीख को जारी हुआ?",
                             "options": [
-                                "Wetland conservation",
-                                "Urban road construction",
-                                "Space research",
-                                "Industrial taxation"
+                                "12 October 2026",
+                                "13 October 2026",
+                                "14 October 2026",
+                                "16 October 2026"
                             ],
-                            "answer": "Wetland conservation"
+                            "answer": "14 October 2026"
                         }
                     ]
                 },
                 {
                     "category": "National Affairs & Infrastructure",
-                    "title": "Prime Minister Inaugurates Development Projects Worth ₹3,350 Crore in Ladakh / प्रधानमंत्री ने लद्दाख में ₹3,350 करोड़ की विकास परियोजनाओं का उद्घाटन किया",
-                    "summary": "The Prime Minister's Office reported on 15 October 2026 that Prime Minister Narendra Modi inaugurated five development projects worth approximately ₹3,350 crore in Ladakh. The projects were presented as part of efforts to improve infrastructure and development in the Union Territory. / प्रधानमंत्री कार्यालय ने 15 अक्टूबर 2026 को बताया कि प्रधानमंत्री नरेंद्र मोदी ने लद्दाख में लगभग ₹3,350 करोड़ की पाँच विकास परियोजनाओं का उद्घाटन किया। इन परियोजनाओं को केंद्र शासित प्रदेश में बुनियादी ढाँचे और विकास को बेहतर बनाने के प्रयासों के हिस्से के रूप में प्रस्तुत किया गया।",
-                    "sourceName": "Prime Minister's Office / Press Information Bureau",
+                    "title": "Prime Minister Inaugurates Five Development Projects Worth ₹3,350 Crore in Ladakh / प्रधानमंत्री ने लद्दाख में ₹3,350 करोड़ की पाँच विकास परियोजनाओं का उद्घाटन किया",
+                    "summary": "According to the Prime Minister's Office and PIB, Prime Minister Narendra Modi inaugurated five development projects worth approximately ₹3,350 crore in Ladakh on 15 October 2026. The projects are intended to support infrastructure and development in the Union Territory. / प्रधानमंत्री कार्यालय और PIB के अनुसार, प्रधानमंत्री नरेंद्र मोदी ने 15 अक्टूबर 2026 को लद्दाख में लगभग ₹3,350 करोड़ की पाँच विकास परियोजनाओं का उद्घाटन किया। इन परियोजनाओं का उद्देश्य केंद्र शासित प्रदेश में बुनियादी ढाँचे और विकास को बढ़ावा देना है।",
+                    "sourceName": "Press Information Bureau (PIB), Prime Minister's Office",
                     "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=20",
                     "staticGK": [
                         "Location / स्थान : Ladakh",
                         "Projects / परियोजनाएँ : Five",
                         "Reported Project Value / बताई गई परियोजना लागत : Approximately ₹3,350 crore",
-                        "Reported Date / रिपोर्ट की तिथि : 15 October 2026",
+                        "Date / तिथि : 15 October 2026",
                         "Administrative Status / प्रशासनिक स्थिति : Union Territory"
                     ],
                     "mcqs": [
                         {
-                            "question": "In which Union Territory were the development projects inaugurated? / विकास परियोजनाओं का उद्घाटन किस केंद्र शासित प्रदेश में हुआ?",
+                            "question": "Where were the development projects inaugurated? / विकास परियोजनाओं का उद्घाटन कहाँ हुआ?",
                             "options": [
                                 "Ladakh",
                                 "Puducherry",
@@ -10732,105 +10666,237 @@
                             "answer": "₹3,350 crore"
                         },
                         {
-                            "question": "Which office reported the development? / इस विकास की जानकारी किस कार्यालय ने दी?",
+                            "question": "Who inaugurated the projects? / परियोजनाओं का उद्घाटन किसने किया?",
                             "options": [
-                                "Prime Minister's Office",
-                                "Election Commission",
-                                "Supreme Court Registry",
-                                "University Grants Commission"
+                                "Prime Minister Narendra Modi",
+                                "President of India",
+                                "Vice-President of India",
+                                "Chief Justice of India"
                             ],
-                            "answer": "Prime Minister's Office"
+                            "answer": "Prime Minister Narendra Modi"
                         },
                         {
-                            "question": "What is the broad purpose of infrastructure development projects? / बुनियादी ढाँचा विकास परियोजनाओं का व्यापक उद्देश्य क्या है?",
+                            "question": "Ladakh is administratively classified as what? / लद्दाख प्रशासनिक रूप से क्या है?",
                             "options": [
-                                "Improving infrastructure and development",
-                                "Reducing literacy",
-                                "Stopping public services",
-                                "Restricting transport permanently"
+                                "A Union Territory",
+                                "A state",
+                                "A district of Himachal Pradesh",
+                                "An overseas territory"
                             ],
-                            "answer": "Improving infrastructure and development"
+                            "answer": "A Union Territory"
                         }
                     ]
                 },
                 {
-                    "category": "Technology & Energy",
-                    "title": "India Plans a Data Centre Policy Amid Rising Power Demand / बढ़ती बिजली माँग के बीच भारत की डेटा सेंटर नीति की योजना",
-                    "summary": "Reuters reported on 14 October 2026 that India was preparing a data centre policy as the sector's electricity consumption increased. A government minister said the policy aims to manage power demand and prevent higher electricity costs for consumers. / Reuters ने 14 अक्टूबर 2026 को बताया कि भारत डेटा सेंटर क्षेत्र की बढ़ती बिजली खपत के बीच एक नीति तैयार कर रहा है। एक सरकारी मंत्री के अनुसार, नीति का उद्देश्य बिजली की माँग का प्रबंधन करना और उपभोक्ताओं के लिए बिजली की लागत बढ़ने से रोकना है।",
-                    "sourceName": "Reuters",
-                    "sourceUrl": "https://www.reuters.com/world/india/india-roll-out-data-centre-policy-concerns-grow-over-power-use-2026-10-14/",
+                    "category": "Tribal Affairs & Digital Inclusion",
+                    "title": "Working Group on Tribal Languages Holds First Meeting / जनजातीय भाषाओं पर कार्य समूह की पहली बैठक आयोजित",
+                    "summary": "The Ministry of Tribal Affairs held the first meeting of its Working Group on Tribal Languages on 15 October 2026. The group discussed documentation, digital preservation and promotion of tribal languages. The Adi Vaani platform was discussed as a potential national repository for language resources. / जनजातीय कार्य मंत्रालय ने 15 अक्टूबर 2026 को जनजातीय भाषाओं पर अपने कार्य समूह की पहली बैठक आयोजित की। समूह ने जनजातीय भाषाओं के दस्तावेजीकरण, डिजिटल संरक्षण और प्रोत्साहन पर चर्चा की। आदि वाणी मंच को भाषा संसाधनों के राष्ट्रीय भंडार के रूप में विकसित करने की संभावनाओं पर भी विचार किया गया।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Tribal Affairs",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323661&lang=1&reg=3",
                     "staticGK": [
-                        "Policy Area / नीति क्षेत्र : Data centres",
-                        "Main Concern / मुख्य चिंता : Electricity consumption",
-                        "Policy Objective / नीति का उद्देश्य : Manage power demand",
-                        "Consumer Concern / उपभोक्ता संबंधी चिंता : Electricity costs",
-                        "Sector / क्षेत्र : Digital infrastructure"
+                        "Organisation / संगठन : Ministry of Tribal Affairs",
+                        "Meeting / बैठक : First Working Group Meeting",
+                        "Date / तिथि : 15 October 2026",
+                        "Platform / मंच : Adi Vaani",
+                        "Main Focus / मुख्य उद्देश्य : Documentation and digital preservation of tribal languages"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which sector is the proposed policy about? / प्रस्तावित नीति किस क्षेत्र से संबंधित है?",
+                            "question": "Which ministry held the first meeting of the Working Group on Tribal Languages? / जनजातीय भाषाओं पर कार्य समूह की पहली बैठक किस मंत्रालय ने आयोजित की?",
                             "options": [
-                                "Data centres",
-                                "Agricultural markets",
-                                "Railway recruitment",
-                                "Textile exports"
+                                "Ministry of Tribal Affairs",
+                                "Ministry of Tourism",
+                                "Ministry of Steel",
+                                "Ministry of Commerce"
                             ],
-                            "answer": "Data centres"
+                            "answer": "Ministry of Tribal Affairs"
                         },
                         {
-                            "question": "What major concern is driving the policy? / नीति के पीछे प्रमुख चिंता क्या है?",
+                            "question": "What was a key focus of the meeting? / बैठक का प्रमुख विषय क्या था?",
                             "options": [
-                                "Rising electricity consumption",
-                                "Falling rainfall only",
-                                "Declining tourism",
-                                "Reduced road traffic"
+                                "Digital preservation of tribal languages",
+                                "International aviation",
+                                "Marine transport",
+                                "Banking regulation"
                             ],
-                            "answer": "Rising electricity consumption"
+                            "answer": "Digital preservation of tribal languages"
                         },
                         {
-                            "question": "What does the policy aim to manage? / नीति किसका प्रबंधन करना चाहती है?",
+                            "question": "Which platform was discussed as a language resource repository? / भाषा संसाधन भंडार के रूप में किस मंच पर चर्चा हुई?",
                             "options": [
-                                "Power demand",
-                                "School admissions",
-                                "Marine tourism",
-                                "Sports rankings"
+                                "Adi Vaani",
+                                "DigiYatra",
+                                "FASTag",
+                                "GeM"
                             ],
-                            "answer": "Power demand"
+                            "answer": "Adi Vaani"
                         },
                         {
-                            "question": "Which news agency reported the planned policy? / प्रस्तावित नीति की खबर किस समाचार एजेंसी ने दी?",
+                            "question": "On which date was the meeting held? / बैठक किस तारीख को हुई?",
                             "options": [
-                                "Reuters",
-                                "FAO",
-                                "UNESCO",
-                                "WHO"
+                                "12 October 2026",
+                                "14 October 2026",
+                                "15 October 2026",
+                                "17 October 2026"
                             ],
-                            "answer": "Reuters"
+                            "answer": "15 October 2026"
                         },
                         {
-                            "question": "Data centres are a part of which broad sector? / डेटा सेंटर किस व्यापक क्षेत्र का हिस्सा हैं?",
+                            "question": "Why is tribal language documentation important? / जनजातीय भाषाओं का दस्तावेजीकरण क्यों महत्वपूर्ण है?",
                             "options": [
-                                "Digital infrastructure",
-                                "Traditional handicrafts only",
-                                "Forestry",
-                                "Food processing only"
+                                "To preserve linguistic and cultural heritage",
+                                "To eliminate all regional languages",
+                                "To stop multilingual education",
+                                "To replace all local communities"
                             ],
-                            "answer": "Digital infrastructure"
+                            "answer": "To preserve linguistic and cultural heritage"
+                        }
+                    ]
+                },
+                {
+                    "category": "Transport & Infrastructure",
+                    "title": "NHAI Introduces Independent Design Checks for Major Bridges / NHAI ने प्रमुख पुलों के डिजाइन की स्वतंत्र जाँच शुरू की",
+                    "summary": "The National Highways Authority of India announced a uniform system for independent checking of designs and drawings for major bridges and other critical structures on National Highways. The checks will be conducted by eligible IITs, government technical institutions and experienced technical firms. The policy is scheduled to take effect on 1 December 2026. / भारतीय राष्ट्रीय राजमार्ग प्राधिकरण ने राष्ट्रीय राजमार्गों पर प्रमुख पुलों और अन्य महत्वपूर्ण संरचनाओं के डिजाइन तथा ड्रॉइंग की स्वतंत्र जाँच के लिए एक समान व्यवस्था की घोषणा की। जाँच योग्य IITs, सरकारी तकनीकी संस्थानों और अनुभवी तकनीकी कंपनियों द्वारा की जाएगी। यह नीति 1 दिसंबर 2026 से लागू होने वाली है।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Road Transport and Highways",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323906&lang=1&reg=3",
+                    "staticGK": [
+                        "Authority / प्राधिकरण : National Highways Authority of India",
+                        "Policy / नीति : Independent design checking",
+                        "Structures / संरचनाएँ : Major bridges and critical highway structures",
+                        "Effective Date / लागू होने की तिथि : 1 December 2026",
+                        "Main Objective / मुख्य उद्देश्य : Safety, quality and durability"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which authority introduced independent design checking? / स्वतंत्र डिजाइन जाँच किस प्राधिकरण ने शुरू की?",
+                            "options": [
+                                "NHAI",
+                                "RBI",
+                                "SEBI",
+                                "UGC"
+                            ],
+                            "answer": "NHAI"
+                        },
+                        {
+                            "question": "Which structures are covered by the policy? / नीति के अंतर्गत कौन-सी संरचनाएँ आती हैं?",
+                            "options": [
+                                "Major bridges and critical highway structures",
+                                "School furniture only",
+                                "Airport uniforms",
+                                "Private residential interiors only"
+                            ],
+                            "answer": "Major bridges and critical highway structures"
+                        },
+                        {
+                            "question": "When is the policy scheduled to take effect? / नीति कब लागू होने वाली है?",
+                            "options": [
+                                "1 November 2026",
+                                "1 December 2026",
+                                "1 January 2027",
+                                "1 March 2027"
+                            ],
+                            "answer": "1 December 2026"
+                        },
+                        {
+                            "question": "Which institutions may check the designs? / डिजाइन की जाँच कौन कर सकता है?",
+                            "options": [
+                                "Eligible IITs and technical institutions",
+                                "Only private schools",
+                                "Only sports clubs",
+                                "Only tourism offices"
+                            ],
+                            "answer": "Eligible IITs and technical institutions"
+                        },
+                        {
+                            "question": "What is a key objective of independent checking? / स्वतंत्र जाँच का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "Improving structural safety and quality",
+                                "Increasing design errors",
+                                "Reducing bridge inspections",
+                                "Stopping highway construction"
+                            ],
+                            "answer": "Improving structural safety and quality"
+                        }
+                    ]
+                },
+                {
+                    "category": "Ayush & Healthcare Research",
+                    "title": "KAUMARACON-2026 Focuses on Ayurveda Paediatrics and Research / KAUMARACON-2026 में आयुर्वेद बाल चिकित्सा और अनुसंधान पर जोर",
+                    "summary": "The Vice-President of India inaugurated KAUMARACON-2026 at the All India Institute of Ayurveda in New Delhi on 15 October 2026. The international conference on Kaumarabhritya, the Ayurveda branch associated with paediatrics, runs from 15 to 17 October and focuses on child health, research innovation and clinical practice. / भारत के उपराष्ट्रपति ने 15 अक्टूबर 2026 को नई दिल्ली स्थित अखिल भारतीय आयुर्वेद संस्थान में KAUMARACON-2026 का उद्घाटन किया। कौमारभृत्य यानी आयुर्वेद की बाल चिकित्सा शाखा पर केंद्रित यह अंतरराष्ट्रीय सम्मेलन 15 से 17 अक्टूबर तक आयोजित हो रहा है और बाल स्वास्थ्य, अनुसंधान नवाचार तथा चिकित्सकीय अभ्यास पर ध्यान देता है।",
+                    "sourceName": "Press Information Bureau (PIB), Vice-President's Secretariat",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323761&lang=1&reg=3",
+                    "staticGK": [
+                        "Conference / सम्मेलन : KAUMARACON-2026",
+                        "Venue / स्थान : All India Institute of Ayurveda, New Delhi",
+                        "Dates / तिथियाँ : 15–17 October 2026",
+                        "Field / क्षेत्र : Kaumarabhritya (Ayurveda paediatrics)",
+                        "Focus / मुख्य विषय : Child health and scientific research"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was KAUMARACON-2026 inaugurated? / KAUMARACON-2026 का उद्घाटन कहाँ हुआ?",
+                            "options": [
+                                "All India Institute of Ayurveda, New Delhi",
+                                "AIIMS Bhopal",
+                                "IIT Bombay",
+                                "National Law University Delhi"
+                            ],
+                            "answer": "All India Institute of Ayurveda, New Delhi"
+                        },
+                        {
+                            "question": "Which field is associated with Kaumarabhritya? / कौमारभृत्य किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "Ayurveda paediatrics",
+                                "Marine engineering",
+                                "Space science",
+                                "Agricultural economics"
+                            ],
+                            "answer": "Ayurveda paediatrics"
+                        },
+                        {
+                            "question": "When is the conference scheduled? / सम्मेलन कब निर्धारित है?",
+                            "options": [
+                                "10–12 October",
+                                "13–15 October",
+                                "15–17 October",
+                                "18–20 October"
+                            ],
+                            "answer": "15–17 October"
+                        },
+                        {
+                            "question": "Which official inaugurated the conference? / सम्मेलन का उद्घाटन किस पदाधिकारी ने किया?",
+                            "options": [
+                                "Vice-President of India",
+                                "Chief Election Commissioner",
+                                "Governor of RBI",
+                                "Chief Justice of India"
+                            ],
+                            "answer": "Vice-President of India"
+                        },
+                        {
+                            "question": "What is a major theme of the conference? / सम्मेलन का प्रमुख विषय क्या है?",
+                            "options": [
+                                "Child health and research",
+                                "International shipping",
+                                "Railway ticketing",
+                                "Ocean mining"
+                            ],
+                            "answer": "Child health and research"
                         }
                     ]
                 },
                 {
                     "category": "International Affairs & Important Days",
                     "title": "World Food Day Observed on 16 October / 16 अक्टूबर को विश्व खाद्य दिवस मनाया गया",
-                    "summary": "World Food Day is observed annually on 16 October to raise awareness of hunger, food security and sustainable food systems. The date marks the founding of the Food and Agriculture Organization of the United Nations in 1945. / विश्व खाद्य दिवस हर वर्ष 16 अक्टूबर को भूख, खाद्य सुरक्षा और टिकाऊ खाद्य प्रणालियों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। यह तिथि 1945 में संयुक्त राष्ट्र के खाद्य और कृषि संगठन की स्थापना की स्मृति में मनाई जाती है।",
-                    "sourceName": "Food and Agriculture Organization of the United Nations",
+                    "summary": "World Food Day is observed annually on 16 October. The Food and Agriculture Organization of the United Nations highlights food security, nutrition, innovation and sustainable agrifood systems. The official 2026 theme is 'Innovate today. Nourish tomorrow.' / विश्व खाद्य दिवस हर वर्ष 16 अक्टूबर को मनाया जाता है। संयुक्त राष्ट्र का खाद्य और कृषि संगठन खाद्य सुरक्षा, पोषण, नवाचार और टिकाऊ कृषि-खाद्य प्रणालियों पर जागरूकता बढ़ाता है। वर्ष 2026 की आधिकारिक थीम 'Innovate today. Nourish tomorrow.' है, जिसका अर्थ है 'आज नवाचार करें, कल का पोषण करें।'",
+                    "sourceName": "Food and Agriculture Organization of the United Nations (FAO)",
                     "sourceUrl": "https://www.fao.org/world-food-day/en",
                     "staticGK": [
                         "Day / दिवस : World Food Day",
                         "Date / तिथि : 16 October",
                         "Organisation / संगठन : Food and Agriculture Organization",
                         "Abbreviation / संक्षिप्त नाम : FAO",
-                        "FAO Founded / FAO की स्थापना : 1945"
+                        "2026 Theme / 2026 की थीम : Innovate today. Nourish tomorrow."
                     ],
                     "mcqs": [
                         {
@@ -10854,166 +10920,100 @@
                             "answer": "Food and Agriculture Organization"
                         },
                         {
-                            "question": "In which year was FAO founded? / FAO की स्थापना किस वर्ष हुई?",
+                            "question": "What is the official World Food Day 2026 theme? / विश्व खाद्य दिवस 2026 की आधिकारिक थीम क्या है?",
                             "options": [
-                                "1919",
-                                "1945",
-                                "1948",
-                                "1965"
+                                "Innovate today. Nourish tomorrow.",
+                                "Water for every city",
+                                "Forests for all",
+                                "Energy for tomorrow"
                             ],
-                            "answer": "1945"
+                            "answer": "Innovate today. Nourish tomorrow."
                         },
                         {
-                            "question": "What is a key focus of World Food Day? / विश्व खाद्य दिवस का प्रमुख विषय क्या है?",
+                            "question": "Which issue is central to World Food Day? / विश्व खाद्य दिवस का प्रमुख मुद्दा क्या है?",
                             "options": [
                                 "Food security",
-                                "Space exploration",
+                                "Space tourism",
                                 "Stock trading",
                                 "Road construction"
                             ],
                             "answer": "Food security"
                         },
                         {
-                            "question": "Which international organisation observes World Food Day? / विश्व खाद्य दिवस किस अंतरराष्ट्रीय संगठन से संबंधित है?",
+                            "question": "FAO is a specialised agency of which organisation? / FAO किस संगठन की विशेषीकृत एजेंसी है?",
                             "options": [
-                                "FAO",
-                                "WTO",
+                                "United Nations",
+                                "World Trade Organization",
                                 "FIFA",
-                                "ILO"
+                                "International Olympic Committee"
                             ],
-                            "answer": "FAO"
+                            "answer": "United Nations"
                         }
                     ]
                 },
                 {
-                    "category": "National Affairs & Youth",
-                    "title": "Youth-Led Protests Highlight Employment and Education Concerns in India / भारत में युवा प्रदर्शनों में रोजगार और शिक्षा संबंधी चिंताएँ प्रमुख",
-                    "summary": "Reuters reported on 16 October 2026 that youth-led protests in India were being driven by concerns over unemployment, examination paper leaks, education opportunities and electoral issues. The report cited analysis suggesting that protest activity could be unusually high in 2026, while noting that political allegations remain disputed. / Reuters ने 16 अक्टूबर 2026 को रिपोर्ट किया कि भारत में युवाओं के नेतृत्व वाले प्रदर्शनों के पीछे बेरोजगारी, परीक्षा प्रश्नपत्र लीक, शिक्षा के अवसरों और चुनाव संबंधी मुद्दों को लेकर चिंताएँ थीं। रिपोर्ट में विश्लेषण का हवाला देते हुए कहा गया कि 2026 में विरोध प्रदर्शनों की गतिविधि असामान्य रूप से अधिक हो सकती है, जबकि राजनीतिक आरोपों पर विवाद बना हुआ है।",
-                    "sourceName": "Reuters",
-                    "sourceUrl": "https://www.reuters.com/world/asia-pacific/modis-predicament-gen-z-pours-out-indias-streets-dissent-surges-2026-10-16/",
+                    "category": "Trade & International Economy",
+                    "title": "India's Cumulative Exports Estimated at US$476.20 Billion for April–September 2026–27 / अप्रैल–सितंबर 2026–27 में भारत का संचयी निर्यात US$476.20 अरब अनुमानित",
+                    "summary": "The Ministry of Commerce and Industry reported on 15 October 2026 that India's cumulative merchandise and services exports for April–September 2026–27 were estimated at US$476.20 billion, compared with US$418.31 billion in the corresponding period of 2025–26. The reported estimate represents growth of 13.84%. / वाणिज्य और उद्योग मंत्रालय ने 15 अक्टूबर 2026 को बताया कि अप्रैल–सितंबर 2026–27 के दौरान भारत का वस्तु एवं सेवा निर्यात अनुमानित US$476.20 अरब रहा, जबकि 2025–26 की समान अवधि में यह US$418.31 अरब था। यह अनुमान 13.84% की वृद्धि दर्शाता है।",
+                    "sourceName": "Press Information Bureau (PIB), Ministry of Commerce and Industry",
+                    "sourceUrl": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=22",
                     "staticGK": [
-                        "Main Participants / प्रमुख भागीदार : Young people and Gen Z activists",
-                        "Reported Issues / बताई गई समस्याएँ : Employment and education",
-                        "Education Concern / शिक्षा संबंधी चिंता : Examination paper leaks",
-                        "Report Date / रिपोर्ट की तिथि : 16 October 2026",
-                        "Source / स्रोत : Reuters"
+                        "Reporting Period / रिपोर्टिंग अवधि : April–September 2026–27",
+                        "Cumulative Exports / संचयी निर्यात : US$476.20 billion",
+                        "Previous-Year Comparison / पिछले वर्ष की समान अवधि : US$418.31 billion",
+                        "Reported Growth / बताई गई वृद्धि : 13.84%",
+                        "Ministry / मंत्रालय : Ministry of Commerce and Industry"
                     ],
                     "mcqs": [
                         {
-                            "question": "Which group was reported to be leading the protests? / प्रदर्शनों का नेतृत्व किस समूह द्वारा किया जा रहा था?",
+                            "question": "What was the estimated cumulative value of exports for April–September 2026–27? / अप्रैल–सितंबर 2026–27 में संचयी निर्यात का अनुमानित मूल्य कितना था?",
                             "options": [
-                                "Young people and Gen Z activists",
-                                "Retired diplomats only",
-                                "Foreign tourists",
-                                "International athletes"
+                                "US$376.20 billion",
+                                "US$418.31 billion",
+                                "US$476.20 billion",
+                                "US$576.20 billion"
                             ],
-                            "answer": "Young people and Gen Z activists"
+                            "answer": "US$476.20 billion"
                         },
                         {
-                            "question": "Which employment-related concern was highlighted? / रोजगार से संबंधित कौन-सी चिंता प्रमुख थी?",
+                            "question": "Which period was covered by the export estimate? / निर्यात अनुमान किस अवधि से संबंधित था?",
                             "options": [
-                                "Unemployment",
-                                "Excessive tourism",
-                                "Declining exports of books",
-                                "Lack of international flights"
+                                "April–June 2026",
+                                "April–September 2026–27",
+                                "January–March 2026",
+                                "October–December 2026"
                             ],
-                            "answer": "Unemployment"
+                            "answer": "April–September 2026–27"
                         },
                         {
-                            "question": "Which education-related issue was mentioned? / शिक्षा से संबंधित कौन-सा मुद्दा बताया गया?",
+                            "question": "What growth rate was reported? / कितनी वृद्धि बताई गई?",
                             "options": [
-                                "Examination paper leaks",
-                                "School sports uniforms",
-                                "University building colours",
-                                "Library opening hours only"
+                                "8.14%",
+                                "10.84%",
+                                "13.84%",
+                                "18.34%"
                             ],
-                            "answer": "Examination paper leaks"
+                            "answer": "13.84%"
                         },
                         {
-                            "question": "Which news agency published the report? / यह रिपोर्ट किस समाचार एजेंसी ने प्रकाशित की?",
+                            "question": "Which ministry reported the export estimate? / निर्यात अनुमान किस मंत्रालय ने बताया?",
                             "options": [
-                                "Reuters",
-                                "FAO",
-                                "UNESCO",
-                                "WHO"
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Education",
+                                "Ministry of Culture",
+                                "Ministry of Home Affairs"
                             ],
-                            "answer": "Reuters"
+                            "answer": "Ministry of Commerce and Industry"
                         },
                         {
-                            "question": "What was a major theme of the reported protests? / रिपोर्ट किए गए प्रदर्शनों का प्रमुख विषय क्या था?",
+                            "question": "Which two broad categories were included in the estimate? / अनुमान में कौन-सी दो प्रमुख श्रेणियाँ शामिल थीं?",
                             "options": [
-                                "Employment and education opportunities",
-                                "Space tourism fares",
-                                "International cricket schedules",
-                                "Marine wildlife photography"
+                                "Merchandise and services",
+                                "Tourism and sports only",
+                                "Agriculture and rainfall only",
+                                "Imports and tax refunds only"
                             ],
-                            "answer": "Employment and education opportunities"
-                        }
-                    ]
-                },
-                {
-                    "category": "International Affairs & Economy",
-                    "title": "India's Government Policy Focuses on Balancing Data Centre Growth and Electricity Costs / भारत की नीति में डेटा सेंटर विकास और बिजली लागत के बीच संतुलन पर जोर",
-                    "summary": "India's planned data centre policy, reported by Reuters on 14 October 2026, reflects the challenge of expanding digital infrastructure while managing its electricity requirements. The government has indicated that power demand should be managed so that rising data centre consumption does not place additional cost pressure on consumers. / Reuters की 14 अक्टूबर 2026 की रिपोर्ट के अनुसार, भारत की प्रस्तावित डेटा सेंटर नीति डिजिटल बुनियादी ढाँचे का विस्तार करते हुए बिजली की जरूरतों का प्रबंधन करने की चुनौती को दर्शाती है। सरकार ने संकेत दिया है कि बिजली की माँग का ऐसा प्रबंधन होना चाहिए जिससे डेटा सेंटरों की बढ़ती खपत उपभोक्ताओं पर अतिरिक्त लागत का दबाव न डाले।",
-                    "sourceName": "Reuters",
-                    "sourceUrl": "https://www.reuters.com/world/india/india-roll-out-data-centre-policy-concerns-grow-over-power-use-2026-10-14/",
-                    "staticGK": [
-                        "Policy Context / नीति का संदर्भ : Data centre expansion",
-                        "Infrastructure Type / बुनियादी ढाँचे का प्रकार : Digital infrastructure",
-                        "Resource Concern / संसाधन संबंधी चिंता : Electricity demand",
-                        "Consumer Issue / उपभोक्ता संबंधी मुद्दा : Power costs",
-                        "Policy Goal / नीति का लक्ष्य : Manage growth and energy requirements"
-                    ],
-                    "mcqs": [
-                        {
-                            "question": "Which infrastructure is central to this policy discussion? / इस नीति चर्चा के केंद्र में कौन-सा बुनियादी ढाँचा है?",
-                            "options": [
-                                "Data centres",
-                                "Irrigation canals only",
-                                "Railway stations only",
-                                "Sports stadiums"
-                            ],
-                            "answer": "Data centres"
-                        },
-                        {
-                            "question": "Which resource requirement is a major concern? / किस संसाधन की आवश्यकता प्रमुख चिंता है?",
-                            "options": [
-                                "Electricity",
-                                "Timber only",
-                                "Fresh flowers",
-                                "Textile fibres"
-                            ],
-                            "answer": "Electricity"
-                        },
-                        {
-                            "question": "What consumer impact does the government seek to avoid? / सरकार उपभोक्ताओं पर किस प्रभाव से बचना चाहती है?",
-                            "options": [
-                                "Higher electricity costs",
-                                "More library books",
-                                "Improved public transport",
-                                "Better digital services"
-                            ],
-                            "answer": "Higher electricity costs"
-                        },
-                        {
-                            "question": "When did Reuters report on the planned data centre policy? / Reuters ने प्रस्तावित डेटा सेंटर नीति पर कब रिपोर्ट की?",
-                            "options": [
-                                "10 October 2026",
-                                "12 October 2026",
-                                "14 October 2026",
-                                "16 October 2026"
-                            ],
-                            "answer": "14 October 2026"
-                        },
-                        {
-                            "question": "Which two objectives need to be balanced? / किन दो उद्देश्यों के बीच संतुलन आवश्यक है?",
-                            "options": [
-                                "Digital infrastructure growth and electricity demand",
-                                "Tourism and cricket",
-                                "Fisheries and cinema",
-                                "School uniforms and road signs"
-                            ],
-                            "answer": "Digital infrastructure growth and electricity demand"
+                            "answer": "Merchandise and services"
                         }
                     ]
                 }
