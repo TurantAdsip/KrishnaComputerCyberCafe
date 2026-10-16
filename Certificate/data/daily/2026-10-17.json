@@ -1,0 +1,130 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-17",
+  "title": "Class 10 NCERT Geography Quiz - Part 5",
+  "date": "17 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में लाल और पीली मिट्टी का रंग मुख्य रूप से किस कारण होता है? / What is the main reason for the red and yellow colour of red and yellow soil in India?",
+      "options": [
+        "लौह तत्वों की उपस्थिति / Presence of iron compounds",
+        "अधिक मात्रा में ह्यूमस / High amount of humus",
+        "नमक की अधिकता / Excessive salt content",
+        "चूने की अधिकता / Excessive lime content"
+      ],
+      "answer": 0,
+      "explanation": "लाल और पीली मिट्टी का रंग मुख्य रूप से लौह यौगिकों की उपस्थिति के कारण होता है। / The red and yellow colour of this soil is mainly due to the presence of iron compounds."
+    },
+    {
+      "id": 2,
+      "question": "भारत में भूमि निम्नीकरण का एक प्रमुख कारण कौन-सा है? / Which is a major cause of land degradation in India?",
+      "options": [
+        "वृक्षारोपण / Afforestation",
+        "अत्यधिक चराई / Overgrazing",
+        "वर्षा जल संचयन / Rainwater harvesting",
+        "फसल चक्र अपनाना / Practising crop rotation"
+      ],
+      "answer": 1,
+      "explanation": "अत्यधिक चराई वनस्पति आवरण को कम करती है और मिट्टी के कटाव तथा भूमि निम्नीकरण को बढ़ा सकती है। / Overgrazing reduces vegetation cover and can increase soil erosion and land degradation."
+    },
+    {
+      "id": 3,
+      "question": "भारत में खरीफ फसलों की बुवाई सामान्यतः कब की जाती है? / When are Kharif crops generally sown in India?",
+      "options": [
+        "मानसून के आगमन के साथ / With the arrival of the monsoon",
+        "केवल दिसंबर में / Only in December",
+        "वसंत ऋतु के अंत में / At the end of spring",
+        "शीत ऋतु के मध्य में / In the middle of winter"
+      ],
+      "answer": 0,
+      "explanation": "खरीफ फसलों की बुवाई सामान्यतः मानसून के आगमन के साथ जून-जुलाई में की जाती है और उनकी कटाई सितंबर-अक्टूबर के आसपास होती है। / Kharif crops are generally sown in June-July with the arrival of the monsoon and harvested around September-October."
+    },
+    {
+      "id": 4,
+      "question": "भारत में गन्ने की खेती के लिए कौन-सी स्थिति अनुकूल है? / Which condition is favourable for sugarcane cultivation in India?",
+      "options": [
+        "गर्म जलवायु और पर्याप्त नमी / Warm climate and adequate moisture",
+        "अत्यधिक ठंड और पाला / Extreme cold and frost",
+        "पूरी तरह शुष्क जलवायु / Completely dry climate",
+        "स्थायी हिमावरण / Permanent snow cover"
+      ],
+      "answer": 0,
+      "explanation": "गन्ना एक उष्णकटिबंधीय और उपोष्णकटिबंधीय फसल है, जिसे गर्म जलवायु, पर्याप्त नमी और लंबी वृद्धि अवधि की आवश्यकता होती है। / Sugarcane is a tropical and subtropical crop that requires a warm climate, adequate moisture and a long growing season."
+    },
+    {
+      "id": 5,
+      "question": "भारत में अभ्रक का प्रमुख उपयोग किस उद्योग में होता है? / In which industry is mica mainly used in India?",
+      "options": [
+        "विद्युत और इलेक्ट्रॉनिक उद्योग / Electrical and electronic industries",
+        "खाद्य प्रसंस्करण उद्योग / Food processing industry",
+        "कागज निर्माण में ही / Paper manufacturing only",
+        "चीनी उत्पादन में / Sugar production"
+      ],
+      "answer": 0,
+      "explanation": "अभ्रक में अच्छे विद्युतरोधी गुण होते हैं, इसलिए इसका उपयोग विद्युत और इलेक्ट्रॉनिक उपकरणों में किया जाता है। / Mica has good insulating properties, so it is used in electrical and electronic equipment."
+    },
+    {
+      "id": 6,
+      "question": "परंपरागत ऊर्जा संसाधन का उदाहरण कौन-सा है? / Which of the following is an example of a conventional energy resource?",
+      "options": [
+        "सौर ऊर्जा / Solar energy",
+        "पवन ऊर्जा / Wind energy",
+        "कोयला / Coal",
+        "ज्वारीय ऊर्जा / Tidal energy"
+      ],
+      "answer": 2,
+      "explanation": "कोयला एक परंपरागत ऊर्जा संसाधन है, जिसका उपयोग लंबे समय से बिजली उत्पादन और उद्योगों में किया जाता रहा है। / Coal is a conventional energy resource that has long been used for electricity generation and industrial purposes."
+    },
+    {
+      "id": 7,
+      "question": "भारत में सूती वस्त्र उद्योग के विकास में कौन-सा कारक महत्वपूर्ण है? / Which factor is important for the development of the cotton textile industry in India?",
+      "options": [
+        "कपास की उपलब्धता / Availability of cotton",
+        "कच्चे माल का पूर्ण अभाव / Complete absence of raw materials",
+        "परिवहन सुविधाओं का अभाव / Lack of transport facilities",
+        "बाजारों से दूरी ही / Distance from markets only"
+      ],
+      "answer": 0,
+      "explanation": "कपास की उपलब्धता, श्रम, बिजली, परिवहन और बाजार सूती वस्त्र उद्योग के विकास में महत्वपूर्ण भूमिका निभाते हैं। / Cotton availability, labour, power, transport and markets play important roles in the development of the cotton textile industry."
+    },
+    {
+      "id": 8,
+      "question": "भारत में राष्ट्रीय जलमार्गों का एक प्रमुख लाभ क्या है? / What is a major advantage of national waterways in India?",
+      "options": [
+        "भारी माल का अपेक्षाकृत कम लागत पर परिवहन / Transporting bulky goods at relatively low cost",
+        "केवल हवाई यात्रा को बढ़ावा देना / Promoting air travel only",
+        "रेलवे परिवहन को पूरी तरह समाप्त करना / Completely eliminating railway transport",
+        "सड़क यातायात को अनिवार्य रूप से रोकना / Necessarily stopping road traffic"
+      ],
+      "answer": 0,
+      "explanation": "अंतर्देशीय जलमार्ग भारी और बड़े आकार के माल के परिवहन का किफायती साधन हो सकते हैं। / Inland waterways can provide an economical means of transporting bulky and heavy goods."
+    },
+    {
+      "id": 9,
+      "question": "अंतरराष्ट्रीय व्यापार में आयात का क्या अर्थ है? / What does import mean in international trade?",
+      "options": [
+        "दूसरे देशों को वस्तुएँ बेचना / Selling goods to other countries",
+        "दूसरे देशों से वस्तुएँ और सेवाएँ खरीदना / Buying goods and services from other countries",
+        "केवल देश के भीतर व्यापार करना / Trading only within the country",
+        "वस्तुओं का उत्पादन बंद करना / Stopping the production of goods"
+      ],
+      "answer": 1,
+      "explanation": "आयात का अर्थ दूसरे देशों से वस्तुओं और सेवाओं को खरीदकर अपने देश में लाना है। / Import means purchasing goods and services from other countries and bringing them into one's own country."
+    },
+    {
+      "id": 10,
+      "question": "सतत विकास का मुख्य उद्देश्य क्या है? / What is the main objective of sustainable development?",
+      "options": [
+        "केवल वर्तमान पीढ़ी की आवश्यकताओं को पूरा करना / Meeting only the needs of the present generation",
+        "प्राकृतिक संसाधनों का शीघ्रतम दोहन करना / Exploiting natural resources as quickly as possible",
+        "वर्तमान आवश्यकताओं को पूरा करते हुए भविष्य की पीढ़ियों की जरूरतों की रक्षा करना / Meeting present needs while protecting the needs of future generations",
+        "सभी औद्योगिक गतिविधियों को समाप्त करना / Eliminating all industrial activities"
+      ],
+      "answer": 2,
+      "explanation": "सतत विकास वर्तमान पीढ़ी की आवश्यकताओं को पूरा करता है, बिना भविष्य की पीढ़ियों की अपनी आवश्यकताओं को पूरा करने की क्षमता से समझौता किए। / Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs."
+    }
+  ]
+}

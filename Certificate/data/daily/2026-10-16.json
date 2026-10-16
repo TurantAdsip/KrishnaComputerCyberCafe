@@ -1,0 +1,130 @@
+{
+  "quizType": "daily",
+  "quizId": "2026-10-16",
+  "title": "Class 10 NCERT Geography Quiz - Part 4",
+  "date": "16 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में काली मिट्टी मुख्य रूप से किस फसल की खेती के लिए उपयुक्त है? / Black soil in India is mainly suitable for which crop?",
+      "options": [
+        "चाय / Tea",
+        "कपास / Cotton",
+        "जूट / Jute",
+        "गेहूँ / Wheat"
+      ],
+      "answer": 1,
+      "explanation": "काली मिट्टी में नमी बनाए रखने की अच्छी क्षमता होती है, इसलिए यह कपास की खेती के लिए विशेष रूप से उपयुक्त है। / Black soil has a good moisture-retention capacity, making it particularly suitable for cotton cultivation."
+    },
+    {
+      "id": 2,
+      "question": "भारत में संसाधनों के संरक्षण के लिए कौन-सा कदम सबसे उपयुक्त है? / Which step is most appropriate for resource conservation in India?",
+      "options": [
+        "संसाधनों का अंधाधुंध उपयोग / Uncontrolled use of resources",
+        "संसाधनों की बर्बादी / Wastage of resources",
+        "संसाधनों का नियोजित और सतत उपयोग / Planned and sustainable use of resources",
+        "प्राकृतिक संसाधनों का अत्यधिक दोहन / Excessive exploitation of natural resources"
+      ],
+      "answer": 2,
+      "explanation": "संसाधनों का नियोजित और सतत उपयोग वर्तमान आवश्यकताओं को पूरा करने के साथ भविष्य की पीढ़ियों के लिए भी संसाधन सुरक्षित रखने में मदद करता है। / Planned and sustainable use of resources meets present needs while helping preserve resources for future generations."
+    },
+    {
+      "id": 3,
+      "question": "भारत में रबी फसलें सामान्यतः किस मौसम में बोई जाती हैं? / In which season are Rabi crops generally sown in India?",
+      "options": [
+        "वर्षा ऋतु / Rainy season",
+        "शीत ऋतु / Winter season",
+        "ग्रीष्म ऋतु / Summer season",
+        "मानसून के अंत में ही / Only at the end of the monsoon"
+      ],
+      "answer": 1,
+      "explanation": "रबी फसलें सामान्यतः अक्टूबर से दिसंबर के बीच बोई जाती हैं और वसंत ऋतु में काटी जाती हैं। / Rabi crops are generally sown between October and December and harvested in spring."
+    },
+    {
+      "id": 4,
+      "question": "भारत में चावल की खेती के लिए सामान्यतः किस प्रकार की जलवायु अनुकूल होती है? / Which type of climate is generally suitable for rice cultivation in India?",
+      "options": [
+        "गर्म और आर्द्र जलवायु / Warm and humid climate",
+        "अत्यधिक ठंडी और शुष्क जलवायु / Extremely cold and dry climate",
+        "ध्रुवीय जलवायु / Polar climate",
+        "वर्षा रहित मरुस्थलीय जलवायु / Rainless desert climate"
+      ],
+      "answer": 0,
+      "explanation": "चावल की खेती के लिए सामान्यतः उच्च तापमान, पर्याप्त पानी और पर्याप्त वर्षा अनुकूल होती है। / Rice cultivation generally requires high temperatures, sufficient water and adequate rainfall."
+    },
+    {
+      "id": 5,
+      "question": "भारत में बॉक्साइट किस धातु के उत्पादन का प्रमुख अयस्क है? / Bauxite is the principal ore of which metal in India?",
+      "options": [
+        "लोहा / Iron",
+        "ताँबा / Copper",
+        "एल्युमिनियम / Aluminium",
+        "मैंगनीज / Manganese"
+      ],
+      "answer": 2,
+      "explanation": "बॉक्साइट एल्युमिनियम का प्रमुख अयस्क है। इससे प्राप्त एल्युमिनियम का उपयोग परिवहन, विद्युत उपकरणों और अनेक उद्योगों में किया जाता है। / Bauxite is the principal ore of aluminium, which is used in transportation, electrical equipment and various industries."
+    },
+    {
+      "id": 6,
+      "question": "भारत में सौर ऊर्जा के विकास के लिए कौन-सी स्थिति विशेष रूप से अनुकूल है? / Which condition is particularly favourable for the development of solar energy in India?",
+      "options": [
+        "वर्ष भर घना कोहरा / Dense fog throughout the year",
+        "अधिकांश क्षेत्रों में पर्याप्त धूप / Abundant sunshine in many regions",
+        "लगातार हिमपात / Continuous snowfall",
+        "सूर्य के प्रकाश की अनुपस्थिति / Absence of sunlight"
+      ],
+      "answer": 1,
+      "explanation": "भारत के अनेक क्षेत्रों में वर्ष के बड़े हिस्से में पर्याप्त धूप मिलती है, जिससे सौर ऊर्जा उत्पादन की अच्छी संभावनाएँ बनती हैं। / Many regions of India receive abundant sunshine for much of the year, creating good potential for solar power generation."
+    },
+    {
+      "id": 7,
+      "question": "भारत में लौह एवं इस्पात उद्योग का प्रमुख आधार क्या है? / What is the major basis of the iron and steel industry in India?",
+      "options": [
+        "कच्चा लोहा और कोयला जैसे खनिज संसाधन / Mineral resources such as iron ore and coal",
+        "केवल वन संसाधन / Forest resources only",
+        "केवल समुद्री मछली / Marine fish only",
+        "केवल कपास उत्पादन / Cotton production only"
+      ],
+      "answer": 0,
+      "explanation": "लौह एवं इस्पात उद्योग में लौह अयस्क, कोयला और चूना पत्थर जैसे कच्चे माल महत्वपूर्ण भूमिका निभाते हैं। / Iron ore, coal and limestone play important roles as raw materials in the iron and steel industry."
+    },
+    {
+      "id": 8,
+      "question": "वर्षा जल संचयन का प्रमुख उद्देश्य क्या है? / What is the main purpose of rainwater harvesting?",
+      "options": [
+        "भूमिगत जल को समाप्त करना / Depleting groundwater",
+        "जल का संरक्षण और भूजल पुनर्भरण / Water conservation and groundwater recharge",
+        "मृदा अपरदन को बढ़ाना / Increasing soil erosion",
+        "नदियों को प्रदूषित करना / Polluting rivers"
+      ],
+      "answer": 1,
+      "explanation": "वर्षा जल संचयन से पानी को एकत्रित करके उपयोग किया जा सकता है और भूजल स्तर को बढ़ाने में सहायता मिलती है। / Rainwater harvesting collects water for use and helps replenish groundwater levels."
+    },
+    {
+      "id": 9,
+      "question": "भारत में परिवहन और संचार के विकास से किस क्षेत्र को विशेष लाभ मिलता है? / Which area particularly benefits from the development of transport and communication in India?",
+      "options": [
+        "व्यापार और आर्थिक गतिविधियाँ / Trade and economic activities",
+        "व्यापार का पूर्ण बंद होना / Complete shutdown of trade",
+        "वस्तुओं की आवाजाही में कमी / Reduction in the movement of goods",
+        "क्षेत्रों के बीच संपर्क समाप्त होना / Ending connectivity between regions"
+      ],
+      "answer": 0,
+      "explanation": "परिवहन और संचार वस्तुओं, सेवाओं तथा सूचनाओं की आवाजाही को आसान बनाते हैं और व्यापार एवं आर्थिक विकास को बढ़ावा देते हैं। / Transport and communication facilitate the movement of goods, services and information, supporting trade and economic development."
+    },
+    {
+      "id": 10,
+      "question": "औद्योगिक प्रदूषण को कम करने के लिए कौन-सा उपाय प्रभावी है? / Which measure is effective in reducing industrial pollution?",
+      "options": [
+        "बिना उपचार के अपशिष्ट जल छोड़ना / Releasing untreated wastewater",
+        "धुएँ और अपशिष्ट का उपचार करना / Treating emissions and waste",
+        "औद्योगिक कचरे को नदियों में डालना / Dumping industrial waste into rivers",
+        "प्रदूषण नियंत्रण उपकरणों का उपयोग बंद करना / Discontinuing pollution-control equipment"
+      ],
+      "answer": 1,
+      "explanation": "उद्योगों में प्रदूषण नियंत्रण उपकरणों और अपशिष्ट उपचार प्रणालियों का उपयोग वायु तथा जल प्रदूषण को कम करने में मदद करता है। / Pollution-control equipment and waste-treatment systems help reduce air and water pollution in industries."
+    }
+  ]
+}
