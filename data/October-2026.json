@@ -11018,6 +11018,746 @@
                     ]
                 }
             ]
+        },
+             {
+            "id": "2026-10-17",
+            "date": "17 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 17 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Examinations.",
+            "news": [
+                {
+                    "category": "Defence",
+                    "title": "Indian Navy Commissions INS Samarthak, Its First Indigenous Multi-Purpose Vessel / भारतीय नौसेना ने अपना पहला स्वदेशी Multi-Purpose Vessel INS Samarthak कमीशन किया",
+                    "summary": "The Indian Navy commissioned INS Samarthak at Karwar, Karnataka, on 16 October 2026. The vessel was designed and constructed by Larsen & Toubro (L&T) Shipyard and has over 75% indigenous content. It will support trials of next-generation weapons, sensors and unmanned systems. / भारतीय नौसेना ने 16 अक्टूबर 2026 को कर्नाटक के कारवार में INS Samarthak को कमीशन किया। इसे Larsen & Toubro (L&T) Shipyard ने बनाया है और इसमें 75% से अधिक स्वदेशी सामग्री है। यह आधुनिक हथियारों, सेंसर और मानवरहित प्रणालियों के परीक्षण में सहायता करेगा।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324581&lang=1&reg=3",
+                    "staticGK": [
+                        "Vessel / पोत : INS Samarthak",
+                        "Navy / नौसेना : Indian Navy",
+                        "Location / स्थान : Karwar, Karnataka",
+                        "Builder / निर्माता : Larsen & Toubro Shipyard",
+                        "Indigenous Content / स्वदेशी सामग्री : More than 75%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which vessel was commissioned into the Indian Navy on 16 October 2026? / 16 अक्टूबर 2026 को भारतीय नौसेना में किस पोत को कमीशन किया गया?",
+                            "options": [
+                                "INS Samarthak",
+                                "INS Vikrant",
+                                "INS Arihant",
+                                "INS Chennai"
+                            ],
+                            "answer": "INS Samarthak"
+                        },
+                        {
+                            "question": "Where was INS Samarthak commissioned? / INS Samarthak को कहाँ कमीशन किया गया?",
+                            "options": [
+                                "Karwar, Karnataka",
+                                "Mumbai, Maharashtra",
+                                "Kochi, Kerala",
+                                "Visakhapatnam, Andhra Pradesh"
+                            ],
+                            "answer": "Karwar, Karnataka"
+                        },
+                        {
+                            "question": "Which company constructed INS Samarthak? / INS Samarthak का निर्माण किस कंपनी ने किया?",
+                            "options": [
+                                "Larsen & Toubro",
+                                "Hindustan Aeronautics Limited",
+                                "Bharat Electronics Limited",
+                                "Mazagon Dock Shipbuilders"
+                            ],
+                            "answer": "Larsen & Toubro"
+                        },
+                        {
+                            "question": "What is the indigenous content of INS Samarthak? / INS Samarthak में कितनी स्वदेशी सामग्री है?",
+                            "options": [
+                                "More than 75%",
+                                "50%",
+                                "25%",
+                                "40%"
+                            ],
+                            "answer": "More than 75%"
+                        },
+                        {
+                            "question": "INS Samarthak belongs to which category? / INS Samarthak किस श्रेणी का पोत है?",
+                            "options": [
+                                "Multi-Purpose Vessel",
+                                "Aircraft Carrier",
+                                "Submarine",
+                                "Hospital Ship"
+                            ],
+                            "answer": "Multi-Purpose Vessel"
+                        }
+                    ]
+                },
+                {
+                    "category": "Government Schemes & Housing",
+                    "title": "PMAY-U 2.0 Approves More Than 1.93 Lakh Additional Houses / PMAY-U 2.0 के तहत 1.93 लाख से अधिक अतिरिक्त घर स्वीकृत",
+                    "summary": "At the 10th meeting of the Central Sanctioning and Monitoring Committee held on 16 October 2026, more than 1.93 lakh additional houses were approved under Pradhan Mantri Awas Yojana-Urban 2.0. The cumulative number of sanctioned houses reached 20.80 lakh. Around 97% of the houses have been allotted in women's names or joint ownership. / 16 अक्टूबर 2026 को आयोजित Central Sanctioning and Monitoring Committee की 10वीं बैठक में प्रधानमंत्री आवास योजना-शहरी 2.0 के तहत 1.93 लाख से अधिक अतिरिक्त घर स्वीकृत किए गए। इसके साथ कुल स्वीकृत घरों की संख्या 20.80 लाख हो गई। लगभग 97% घर महिलाओं के नाम या संयुक्त स्वामित्व में आवंटित किए गए हैं।",
+                    "sourceName": "Ministry of Housing and Urban Affairs / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324593&lang=1&reg=3",
+                    "staticGK": [
+                        "Scheme / योजना : Pradhan Mantri Awas Yojana-Urban 2.0",
+                        "Abbreviation / संक्षिप्त नाम : PMAY-U 2.0",
+                        "Additional Houses / अतिरिक्त घर : More than 1.93 lakh",
+                        "Total Sanctioned Houses / कुल स्वीकृत घर : 20.80 lakh",
+                        "Women's Ownership / महिलाओं के नाम या संयुक्त स्वामित्व : Approximately 97%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which scheme approved more than 1.93 lakh additional houses? / किस योजना के तहत 1.93 लाख से अधिक अतिरिक्त घर स्वीकृत किए गए?",
+                            "options": [
+                                "PMAY-U 2.0",
+                                "PM-KISAN",
+                                "PMGSY",
+                                "PMAY-G only"
+                            ],
+                            "answer": "PMAY-U 2.0"
+                        },
+                        {
+                            "question": "What is the total number of sanctioned houses under PMAY-U 2.0 after the approval? / मंजूरी के बाद PMAY-U 2.0 के तहत कुल कितने घर स्वीकृत हुए?",
+                            "options": [
+                                "20.80 lakh",
+                                "10.80 lakh",
+                                "15.50 lakh",
+                                "25.80 lakh"
+                            ],
+                            "answer": "20.80 lakh"
+                        },
+                        {
+                            "question": "Which committee held the 10th meeting? / 10वीं बैठक किस समिति ने आयोजित की?",
+                            "options": [
+                                "Central Sanctioning and Monitoring Committee",
+                                "Finance Commission",
+                                "Election Commission",
+                                "National Development Council"
+                            ],
+                            "answer": "Central Sanctioning and Monitoring Committee"
+                        },
+                        {
+                            "question": "Approximately what percentage of houses were allotted in women's names or joint ownership? / लगभग कितने प्रतिशत घर महिलाओं के नाम या संयुक्त स्वामित्व में आवंटित हुए?",
+                            "options": [
+                                "97%",
+                                "70%",
+                                "50%",
+                                "35%"
+                            ],
+                            "answer": "97%"
+                        },
+                        {
+                            "question": "PMAY-U primarily focuses on which area? / PMAY-U मुख्य रूप से किस क्षेत्र पर केंद्रित है?",
+                            "options": [
+                                "Urban housing",
+                                "Crop insurance",
+                                "Rural roads",
+                                "Higher education"
+                            ],
+                            "answer": "Urban housing"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture & International Trade",
+                    "title": "India Exports Organic Palmyra Jaggery Powder to Bulgaria for the First Time / भारत ने पहली बार Bulgaria को Organic Palmyra Jaggery Powder का निर्यात किया",
+                    "summary": "APEDA facilitated the first export consignment of 1.755 metric tonnes of certified organic Palmyra Jaggery Powder from Gobichettipalayam in Tamil Nadu to Varna, Bulgaria. The consignment was flagged off on 15 October 2026 and was produced by Wellbeing Foods in collaboration with Chetty Exports. The shipment aims to expand international markets for India's traditional Palmyra-based products. / APEDA ने तमिलनाडु के गोबिचेट्टिपालयम से Bulgaria के Varna तक 1.755 मीट्रिक टन प्रमाणित जैविक Palmyra Jaggery Powder की पहली खेप के निर्यात में सहायता की। यह खेप 15 अक्टूबर 2026 को रवाना की गई। इसका उद्देश्य भारत के पारंपरिक Palmyra उत्पादों के लिए अंतरराष्ट्रीय बाजार बढ़ाना है।",
+                    "sourceName": "Agricultural and Processed Food Products Export Development Authority / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324228&lang=1&reg=3",
+                    "staticGK": [
+                        "Organisation / संगठन : APEDA",
+                        "Full Form / पूरा नाम : Agricultural and Processed Food Products Export Development Authority",
+                        "Product / उत्पाद : Organic Palmyra Jaggery Powder",
+                        "Origin / प्रारंभिक स्थान : Gobichettipalayam, Tamil Nadu",
+                        "Destination / गंतव्य : Varna, Bulgaria",
+                        "Quantity / मात्रा : 1.755 metric tonnes"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation facilitated the export of organic Palmyra Jaggery Powder? / जैविक Palmyra Jaggery Powder के निर्यात में किस संगठन ने सहायता की?",
+                            "options": [
+                                "APEDA",
+                                "NABARD",
+                                "SEBI",
+                                "IRDAI"
+                            ],
+                            "answer": "APEDA"
+                        },
+                        {
+                            "question": "Which country received the first export consignment? / पहली निर्यात खेप किस देश को भेजी गई?",
+                            "options": [
+                                "Bulgaria",
+                                "Japan",
+                                "Nepal",
+                                "Australia"
+                            ],
+                            "answer": "Bulgaria"
+                        },
+                        {
+                            "question": "From which Indian state was the product exported? / इस उत्पाद का निर्यात भारत के किस राज्य से हुआ?",
+                            "options": [
+                                "Tamil Nadu",
+                                "Kerala",
+                                "Gujarat",
+                                "Punjab"
+                            ],
+                            "answer": "Tamil Nadu"
+                        },
+                        {
+                            "question": "What was the quantity of the export consignment? / निर्यात खेप की मात्रा कितनी थी?",
+                            "options": [
+                                "1.755 metric tonnes",
+                                "5.755 metric tonnes",
+                                "10 metric tonnes",
+                                "0.755 metric tonnes"
+                            ],
+                            "answer": "1.755 metric tonnes"
+                        },
+                        {
+                            "question": "What does APEDA stand for? / APEDA का पूरा नाम क्या है?",
+                            "options": [
+                                "Agricultural and Processed Food Products Export Development Authority",
+                                "Agricultural Products and Economic Development Association",
+                                "Asian Processed Export Development Agency",
+                                "Agriculture and Public Export Department Authority"
+                            ],
+                            "answer": "Agricultural and Processed Food Products Export Development Authority"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & International Trade",
+                    "title": "India's Total Exports Grow 13.84% During April–September 2026 / अप्रैल–सितंबर 2026 के दौरान भारत के कुल निर्यात में 13.84% की वृद्धि",
+                    "summary": "According to the Government of India's trade estimates released in October 2026, India's cumulative merchandise and services exports during April–September 2026-27 reached an estimated US$476.20 billion, compared with US$418.31 billion in the corresponding period of 2025-26. This represented growth of 13.84%. Merchandise exports increased by 18.51% to US$259.89 billion. / अक्टूबर 2026 में जारी भारत सरकार के व्यापार अनुमानों के अनुसार, अप्रैल–सितंबर 2026-27 के दौरान भारत का वस्तु एवं सेवा निर्यात अनुमानित 476.20 अरब अमेरिकी डॉलर रहा, जबकि पिछले वर्ष इसी अवधि में यह 418.31 अरब डॉलर था। इस प्रकार 13.84% की वृद्धि दर्ज की गई। वस्तु निर्यात 18.51% बढ़कर 259.89 अरब डॉलर हुआ।",
+                    "sourceName": "Ministry of Commerce and Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323944&lang=1&reg=3",
+                    "staticGK": [
+                        "Period / अवधि : April–September 2026-27",
+                        "Total Exports / कुल निर्यात : US$476.20 billion",
+                        "Previous-Year Comparison / पिछले वर्ष का आंकड़ा : US$418.31 billion",
+                        "Total Export Growth / कुल निर्यात वृद्धि : 13.84%",
+                        "Merchandise Exports / वस्तु निर्यात : US$259.89 billion",
+                        "Merchandise Export Growth / वस्तु निर्यात वृद्धि : 18.51%"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's estimated total exports during April–September 2026-27? / अप्रैल–सितंबर 2026-27 के दौरान भारत का अनुमानित कुल निर्यात कितना था?",
+                            "options": [
+                                "US$476.20 billion",
+                                "US$418.31 billion",
+                                "US$259.89 billion",
+                                "US$551.13 billion"
+                            ],
+                            "answer": "US$476.20 billion"
+                        },
+                        {
+                            "question": "What was the growth rate of total exports? / कुल निर्यात की वृद्धि दर कितनी रही?",
+                            "options": [
+                                "13.84%",
+                                "8.51%",
+                                "18.51%",
+                                "10.25%"
+                            ],
+                            "answer": "13.84%"
+                        },
+                        {
+                            "question": "Which ministry released the trade estimates? / व्यापार अनुमान किस मंत्रालय ने जारी किए?",
+                            "options": [
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Education",
+                                "Ministry of Defence",
+                                "Ministry of Tourism"
+                            ],
+                            "answer": "Ministry of Commerce and Industry"
+                        },
+                        {
+                            "question": "What were the estimated merchandise exports during the period? / इस अवधि में अनुमानित वस्तु निर्यात कितना था?",
+                            "options": [
+                                "US$259.89 billion",
+                                "US$476.20 billion",
+                                "US$418.31 billion",
+                                "US$551.13 billion"
+                            ],
+                            "answer": "US$259.89 billion"
+                        },
+                        {
+                            "question": "Which two components are included in the total export estimate? / कुल निर्यात के अनुमान में कौन-से दो घटक शामिल हैं?",
+                            "options": [
+                                "Merchandise and services",
+                                "Agriculture and tourism only",
+                                "Gold and silver only",
+                                "Imports and taxes"
+                            ],
+                            "answer": "Merchandise and services"
+                        }
+                    ]
+                },
+                {
+                    "category": "Governance & Trade Technology",
+                    "title": "Piyush Goyal Launches National Strategic Trade Command Centre / पीयूष गोयल ने National Strategic Trade Command Centre का उद्घाटन किया",
+                    "summary": "Union Minister of Commerce and Industry Piyush Goyal launched the National Strategic Trade Command Centre at Vanijya Bhawan in New Delhi on 15 October 2026. The centre aims to strengthen trade intelligence, product-wise and market-wise analysis, export opportunity identification and evidence-based policy decisions. It also supports monitoring of the SCOMET export-control framework. / केंद्रीय वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने 15 अक्टूबर 2026 को नई दिल्ली के वाणिज्य भवन में National Strategic Trade Command Centre का शुभारंभ किया। इसका उद्देश्य व्यापार संबंधी जानकारी, उत्पाद और बाजार के अनुसार विश्लेषण, निर्यात अवसरों की पहचान तथा साक्ष्य-आधारित निर्णयों को मजबूत करना है। यह SCOMET निर्यात नियंत्रण व्यवस्था की निगरानी में भी सहायता करेगा।",
+                    "sourceName": "Ministry of Commerce and Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324013&lang=1&reg=3",
+                    "staticGK": [
+                        "Centre / केंद्र : National Strategic Trade Command Centre",
+                        "Abbreviation / संक्षिप्त नाम : NSTCC",
+                        "Launched By / शुभारंभकर्ता : Piyush Goyal",
+                        "Location / स्थान : Vanijya Bhawan, New Delhi",
+                        "Launch Date / शुभारंभ तिथि : 15 October 2026",
+                        "Key Focus / मुख्य उद्देश्य : Trade intelligence and export opportunities"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who launched the National Strategic Trade Command Centre? / National Strategic Trade Command Centre का शुभारंभ किसने किया?",
+                            "options": [
+                                "Piyush Goyal",
+                                "Nitin Gadkari",
+                                "Rajnath Singh",
+                                "Ashwini Vaishnaw"
+                            ],
+                            "answer": "Piyush Goyal"
+                        },
+                        {
+                            "question": "Where is the NSTCC located? / NSTCC कहाँ स्थित है?",
+                            "options": [
+                                "Vanijya Bhawan, New Delhi",
+                                "Mumbai Port",
+                                "Chennai",
+                                "Bengaluru"
+                            ],
+                            "answer": "Vanijya Bhawan, New Delhi"
+                        },
+                        {
+                            "question": "What is a major objective of NSTCC? / NSTCC का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "Trade intelligence and export analysis",
+                                "Conducting elections",
+                                "Managing railway recruitment",
+                                "Regulating school examinations"
+                            ],
+                            "answer": "Trade intelligence and export analysis"
+                        },
+                        {
+                            "question": "NSTCC was launched under which ministry? / NSTCC किस मंत्रालय के अंतर्गत शुरू किया गया?",
+                            "options": [
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Home Affairs",
+                                "Ministry of Agriculture",
+                                "Ministry of Culture"
+                            ],
+                            "answer": "Ministry of Commerce and Industry"
+                        },
+                        {
+                            "question": "Which export-control framework is specifically mentioned in connection with the centre? / केंद्र के संदर्भ में किस निर्यात नियंत्रण व्यवस्था का उल्लेख किया गया?",
+                            "options": [
+                                "SCOMET",
+                                "GST",
+                                "FASTag",
+                                "NEFT"
+                            ],
+                            "answer": "SCOMET"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations & Defence",
+                    "title": "India and Mongolia Hold 14th Joint Working Group Meeting on Defence / भारत और मंगोलिया के बीच रक्षा संबंधों पर 14वीं Joint Working Group बैठक आयोजित",
+                    "summary": "India and Mongolia held the 14th Joint Working Group meeting between their defence ministries in Ulaanbaatar on 16 October 2026. Both sides reviewed ongoing defence cooperation, assessed existing initiatives and discussed ways to expand collaboration. They also acknowledged the successful conclusion of the Nomadic Elephant military exercise. / भारत और मंगोलिया के रक्षा मंत्रालयों के बीच 14वीं Joint Working Group बैठक 16 अक्टूबर 2026 को उलानबटार में आयोजित हुई। दोनों पक्षों ने जारी रक्षा सहयोग की समीक्षा की और सहयोग बढ़ाने के उपायों पर चर्चा की। उन्होंने Nomadic Elephant सैन्य अभ्यास के सफल समापन का भी उल्लेख किया।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324373&lang=1&reg=3",
+                    "staticGK": [
+                        "Countries / देश : India and Mongolia",
+                        "Meeting / बैठक : 14th Joint Working Group",
+                        "Date / तिथि : 16 October 2026",
+                        "Venue / स्थान : Ulaanbaatar, Mongolia",
+                        "Exercise / सैन्य अभ्यास : Nomadic Elephant",
+                        "Focus / मुख्य उद्देश्य : Bilateral defence cooperation"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which countries held the 14th Defence Joint Working Group meeting? / 14वीं रक्षा Joint Working Group बैठक किन देशों के बीच हुई?",
+                            "options": [
+                                "India and Mongolia",
+                                "India and Japan",
+                                "India and France",
+                                "India and Australia"
+                            ],
+                            "answer": "India and Mongolia"
+                        },
+                        {
+                            "question": "Where was the meeting held? / बैठक कहाँ आयोजित हुई?",
+                            "options": [
+                                "Ulaanbaatar",
+                                "New Delhi",
+                                "Tokyo",
+                                "Kathmandu"
+                            ],
+                            "answer": "Ulaanbaatar"
+                        },
+                        {
+                            "question": "Which area was the main focus of the meeting? / बैठक का मुख्य विषय क्या था?",
+                            "options": [
+                                "Defence cooperation",
+                                "Space tourism",
+                                "Agricultural exports",
+                                "Banking reforms"
+                            ],
+                            "answer": "Defence cooperation"
+                        },
+                        {
+                            "question": "Which military exercise was mentioned at the meeting? / बैठक में किस सैन्य अभ्यास का उल्लेख हुआ?",
+                            "options": [
+                                "Nomadic Elephant",
+                                "Malabar",
+                                "Yudh Abhyas",
+                                "Varuna"
+                            ],
+                            "answer": "Nomadic Elephant"
+                        },
+                        {
+                            "question": "On which date was the meeting held? / बैठक किस तारीख को आयोजित हुई?",
+                            "options": [
+                                "16 October 2026",
+                                "10 October 2026",
+                                "20 October 2026",
+                                "26 October 2026"
+                            ],
+                            "answer": "16 October 2026"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Space Technology",
+                    "title": "Defence Ministry Signs ₹4,106 Crore Contracts for GSAT-7C and Varunastra Torpedoes / रक्षा मंत्रालय ने GSAT-7C और Varunastra Torpedoes के लिए ₹4,106 करोड़ के अनुबंध किए",
+                    "summary": "The Ministry of Defence signed contracts worth approximately ₹4,106 crore on 15 October 2026 for the GSAT-7C communication satellite for the Indian Air Force and Varunastra Heavy Weight Torpedoes for the Indian Navy. The GSAT-7C contract is worth ₹2,563 crore, while the Varunastra contract is worth ₹1,543 crore. Both projects support indigenous defence capabilities. / रक्षा मंत्रालय ने 15 अक्टूबर 2026 को भारतीय वायु सेना के GSAT-7C communication satellite और भारतीय नौसेना के Varunastra Heavy Weight Torpedoes के लिए लगभग ₹4,106 करोड़ के अनुबंध किए। GSAT-7C अनुबंध ₹2,563 करोड़ और Varunastra अनुबंध ₹1,543 करोड़ का है। दोनों परियोजनाएँ स्वदेशी रक्षा क्षमताओं को मजबूत करती हैं।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323814&lang=2&reg=48",
+                    "staticGK": [
+                        "Total Contract Value / कुल अनुबंध मूल्य : Approximately ₹4,106 crore",
+                        "Satellite / उपग्रह : GSAT-7C",
+                        "Satellite Contract / उपग्रह अनुबंध : ₹2,563 crore",
+                        "Torpedo / टॉरपीडो : Varunastra Heavy Weight Torpedo",
+                        "Torpedo Contract / टॉरपीडो अनुबंध : ₹1,543 crore",
+                        "Beneficiaries / संबंधित सेनाएँ : Indian Air Force and Indian Navy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was the approximate total value of the defence contracts? / रक्षा अनुबंधों का कुल अनुमानित मूल्य कितना था?",
+                            "options": [
+                                "₹4,106 crore",
+                                "₹2,563 crore",
+                                "₹1,543 crore",
+                                "₹5,106 crore"
+                            ],
+                            "answer": "₹4,106 crore"
+                        },
+                        {
+                            "question": "GSAT-7C is intended to strengthen communication for which service? / GSAT-7C किस सेना की संचार क्षमता मजबूत करेगा?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Army",
+                                "Indian Coast Guard",
+                                "Border Security Force"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Varunastra is what type of weapon? / Varunastra किस प्रकार का हथियार है?",
+                            "options": [
+                                "Heavy Weight Torpedo",
+                                "Surface-to-air missile",
+                                "Main battle tank",
+                                "Fighter aircraft"
+                            ],
+                            "answer": "Heavy Weight Torpedo"
+                        },
+                        {
+                            "question": "What is the contract value for GSAT-7C? / GSAT-7C अनुबंध का मूल्य कितना है?",
+                            "options": [
+                                "₹2,563 crore",
+                                "₹1,543 crore",
+                                "₹4,106 crore",
+                                "₹3,000 crore"
+                            ],
+                            "answer": "₹2,563 crore"
+                        },
+                        {
+                            "question": "Which organisation signed these contracts? / इन अनुबंधों पर किस संगठन ने हस्ताक्षर किए?",
+                            "options": [
+                                "Ministry of Defence",
+                                "Ministry of Education",
+                                "Ministry of Tourism",
+                                "Ministry of Agriculture"
+                            ],
+                            "answer": "Ministry of Defence"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science & Technology",
+                    "title": "ITRA Jamnagar Hosts Ayu-Tech Navonmesh 2026 on Ayurveda and Artificial Intelligence / ITRA जामनगर में Ayurveda और Artificial Intelligence पर Ayu-Tech Navonmesh 2026 आयोजित",
+                    "summary": "The Institute of Teaching and Research in Ayurveda (ITRA), Jamnagar, hosted the national conference Ayu-Tech Navonmesh 2026 on the integration of Ayurveda and Artificial Intelligence. The conference discussed the use of AI in research, digital innovation and healthcare, along with the responsible use of emerging technologies. / Institute of Teaching and Research in Ayurveda (ITRA), जामनगर ने Ayurveda और Artificial Intelligence के एकीकरण पर राष्ट्रीय सम्मेलन Ayu-Tech Navonmesh 2026 आयोजित किया। इसमें अनुसंधान, डिजिटल नवाचार और स्वास्थ्य सेवाओं में AI के उपयोग तथा उभरती तकनीकों के जिम्मेदार इस्तेमाल पर चर्चा हुई।",
+                    "sourceName": "Ministry of AYUSH / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324601&lang=1&reg=3",
+                    "staticGK": [
+                        "Event / कार्यक्रम : Ayu-Tech Navonmesh 2026",
+                        "Institution / संस्थान : Institute of Teaching and Research in Ayurveda",
+                        "Abbreviation / संक्षिप्त नाम : ITRA",
+                        "Location / स्थान : Jamnagar, Gujarat",
+                        "Technology / तकनीक : Artificial Intelligence",
+                        "Theme / विषय : Integration of Ayurveda and AI"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was Ayu-Tech Navonmesh 2026 organised? / Ayu-Tech Navonmesh 2026 कहाँ आयोजित हुआ?",
+                            "options": [
+                                "Jamnagar, Gujarat",
+                                "Jaipur, Rajasthan",
+                                "Pune, Maharashtra",
+                                "Lucknow, Uttar Pradesh"
+                            ],
+                            "answer": "Jamnagar, Gujarat"
+                        },
+                        {
+                            "question": "Which two fields were the main focus of the conference? / सम्मेलन का मुख्य फोकस किन दो क्षेत्रों पर था?",
+                            "options": [
+                                "Ayurveda and Artificial Intelligence",
+                                "Banking and Insurance",
+                                "Railways and Aviation",
+                                "Agriculture and Mining"
+                            ],
+                            "answer": "Ayurveda and Artificial Intelligence"
+                        },
+                        {
+                            "question": "What does ITRA stand for? / ITRA का पूरा नाम क्या है?",
+                            "options": [
+                                "Institute of Teaching and Research in Ayurveda",
+                                "Indian Technology Research Association",
+                                "Institute of Traditional Rural Agriculture",
+                                "International Training and Research Academy"
+                            ],
+                            "answer": "Institute of Teaching and Research in Ayurveda"
+                        },
+                        {
+                            "question": "Which technology was discussed for research and healthcare? / अनुसंधान और स्वास्थ्य सेवाओं के लिए किस तकनीक पर चर्चा हुई?",
+                            "options": [
+                                "Artificial Intelligence",
+                                "Blockchain mining only",
+                                "Nuclear propulsion",
+                                "Deep-sea drilling"
+                            ],
+                            "answer": "Artificial Intelligence"
+                        },
+                        {
+                            "question": "Which ministry is associated with Ayurveda at the Union Government level? / केंद्र सरकार में Ayurveda किस मंत्रालय से संबंधित है?",
+                            "options": [
+                                "Ministry of AYUSH",
+                                "Ministry of Railways",
+                                "Ministry of Civil Aviation",
+                                "Ministry of Coal"
+                            ],
+                            "answer": "Ministry of AYUSH"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture & Food Processing",
+                    "title": "India's Traditional Palmyra Products Enter a New European Market / भारत के पारंपरिक Palmyra उत्पाद नए यूरोपीय बाजार में पहुँचे",
+                    "summary": "The first export of certified organic Palmyra Jaggery Powder to Bulgaria highlighted efforts to diversify India's agricultural and processed-food export basket. APEDA supported the shipment, which originated in Tamil Nadu and was destined for Varna. The initiative can help increase international awareness of traditional Indian products and expand market access for exporters. / प्रमाणित जैविक Palmyra Jaggery Powder का Bulgaria को पहला निर्यात भारत के कृषि और प्रसंस्कृत खाद्य उत्पादों के निर्यात में विविधता लाने के प्रयासों को दर्शाता है। APEDA ने तमिलनाडु से Varna भेजी गई इस खेप में सहायता की। इससे पारंपरिक भारतीय उत्पादों की अंतरराष्ट्रीय पहचान और निर्यातकों की बाजार तक पहुँच बढ़ सकती है।",
+                    "sourceName": "APEDA / Ministry of Commerce and Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324228&lang=1&reg=3",
+                    "staticGK": [
+                        "Export Product / निर्यात उत्पाद : Organic Palmyra Jaggery Powder",
+                        "Export Country / निर्यात देश : Bulgaria",
+                        "Indian State / भारतीय राज्य : Tamil Nadu",
+                        "Port of Shipment / प्रेषण बंदरगाह : Chennai Port",
+                        "Export Support Agency / निर्यात सहायता संस्था : APEDA"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which traditional product was exported to Bulgaria? / Bulgaria को कौन-सा पारंपरिक उत्पाद निर्यात किया गया?",
+                            "options": [
+                                "Organic Palmyra Jaggery Powder",
+                                "Basmati Rice",
+                                "Darjeeling Tea",
+                                "Black Pepper"
+                            ],
+                            "answer": "Organic Palmyra Jaggery Powder"
+                        },
+                        {
+                            "question": "Which Indian state was the origin of the consignment? / निर्यात खेप भारत के किस राज्य से भेजी गई?",
+                            "options": [
+                                "Tamil Nadu",
+                                "Assam",
+                                "Haryana",
+                                "Bihar"
+                            ],
+                            "answer": "Tamil Nadu"
+                        },
+                        {
+                            "question": "Which port was to be used for shipping the consignment? / खेप भेजने के लिए किस बंदरगाह का उपयोग होना था?",
+                            "options": [
+                                "Chennai Port",
+                                "Kandla Port",
+                                "Paradip Port",
+                                "Mormugao Port"
+                            ],
+                            "answer": "Chennai Port"
+                        },
+                        {
+                            "question": "What is one benefit of diversifying agricultural exports? / कृषि निर्यात में विविधता लाने का एक लाभ क्या है?",
+                            "options": [
+                                "Access to new international markets",
+                                "Ending all domestic production",
+                                "Reducing product variety",
+                                "Stopping food processing"
+                            ],
+                            "answer": "Access to new international markets"
+                        },
+                        {
+                            "question": "Which authority supports the export of agricultural and processed food products? / कृषि एवं प्रसंस्कृत खाद्य उत्पादों के निर्यात में कौन-सी संस्था सहायता करती है?",
+                            "options": [
+                                "APEDA",
+                                "SEBI",
+                                "UPSC",
+                                "NITI Aayog only"
+                            ],
+                            "answer": "APEDA"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy & Export Promotion",
+                    "title": "India Strengthens Export Promotion Through Trade Intelligence and Market Analysis / व्यापार संबंधी जानकारी और बाजार विश्लेषण से भारत के निर्यात को बढ़ावा",
+                    "summary": "The National Strategic Trade Command Centre, launched by the Ministry of Commerce and Industry, is intended to help officials analyse trade data by product and destination market. The centre aims to identify new export opportunities, strengthen trade intelligence and improve evidence-based decision-making. These measures form part of India's broader effort to enhance its position in global trade. / वाणिज्य एवं उद्योग मंत्रालय द्वारा शुरू किया गया National Strategic Trade Command Centre अधिकारियों को उत्पाद और गंतव्य बाजार के अनुसार व्यापार डेटा का विश्लेषण करने में मदद करेगा। इसका उद्देश्य नए निर्यात अवसरों की पहचान, व्यापार संबंधी जानकारी को मजबूत करना और साक्ष्य-आधारित निर्णयों को बेहतर बनाना है। ये कदम वैश्विक व्यापार में भारत की स्थिति मजबूत करने के व्यापक प्रयासों का हिस्सा हैं।",
+                    "sourceName": "Ministry of Commerce and Industry / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324013&lang=1&reg=3",
+                    "staticGK": [
+                        "Initiative / पहल : National Strategic Trade Command Centre",
+                        "Sector / क्षेत्र : International Trade",
+                        "Key Activity / मुख्य कार्य : Product-wise and market-wise trade analysis",
+                        "Main Goal / मुख्य लक्ष्य : Identify export opportunities",
+                        "Related Framework / संबंधित व्यवस्था : SCOMET"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What type of analysis will the NSTCC support? / NSTCC किस प्रकार का विश्लेषण करने में सहायता करेगा?",
+                            "options": [
+                                "Product-wise and market-wise trade analysis",
+                                "Only school examination analysis",
+                                "Only rainfall analysis",
+                                "Only railway timetable analysis"
+                            ],
+                            "answer": "Product-wise and market-wise trade analysis"
+                        },
+                        {
+                            "question": "Which sector is the NSTCC designed to strengthen? / NSTCC किस क्षेत्र को मजबूत करने के लिए बनाया गया है?",
+                            "options": [
+                                "International trade",
+                                "School education",
+                                "Public transport only",
+                                "Sports coaching"
+                            ],
+                            "answer": "International trade"
+                        },
+                        {
+                            "question": "What is one expected outcome of the centre? / केंद्र का एक अपेक्षित परिणाम क्या है?",
+                            "options": [
+                                "Identifying export opportunities",
+                                "Conducting population censuses",
+                                "Issuing passports",
+                                "Managing school admissions"
+                            ],
+                            "answer": "Identifying export opportunities"
+                        },
+                        {
+                            "question": "Which ministry launched the NSTCC? / NSTCC किस मंत्रालय ने शुरू किया?",
+                            "options": [
+                                "Ministry of Commerce and Industry",
+                                "Ministry of Health and Family Welfare",
+                                "Ministry of Education",
+                                "Ministry of Home Affairs"
+                            ],
+                            "answer": "Ministry of Commerce and Industry"
+                        },
+                        {
+                            "question": "What kind of decisions does the NSTCC aim to improve? / NSTCC किस प्रकार के निर्णयों को बेहतर बनाना चाहता है?",
+                            "options": [
+                                "Evidence-based decisions",
+                                "Decisions without data",
+                                "Only ceremonial decisions",
+                                "Decisions unrelated to trade"
+                            ],
+                            "answer": "Evidence-based decisions"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence & Self-Reliance",
+                    "title": "India Advances Indigenous Defence Capabilities Through New Naval and Satellite Contracts / नए नौसैनिक और उपग्रह अनुबंधों से भारत की स्वदेशी रक्षा क्षमताओं को बढ़ावा",
+                    "summary": "The Ministry of Defence's contracts for the GSAT-7C communication satellite and Varunastra Heavy Weight Torpedoes are intended to improve secure military communications and anti-submarine warfare capabilities. The projects involve Indian organisations and support domestic defence technology and manufacturing. They align with the broader objective of strengthening self-reliance in critical defence systems. / GSAT-7C communication satellite और Varunastra Heavy Weight Torpedoes के लिए रक्षा मंत्रालय के अनुबंध सैन्य संचार और पनडुब्बी-रोधी युद्ध क्षमता को बेहतर बनाने के उद्देश्य से किए गए हैं। इन परियोजनाओं में भारतीय संगठन शामिल हैं और ये घरेलू रक्षा तकनीक तथा विनिर्माण को बढ़ावा देती हैं। ये महत्वपूर्ण रक्षा प्रणालियों में आत्मनिर्भरता बढ़ाने के व्यापक लक्ष्य के अनुरूप हैं।",
+                    "sourceName": "Ministry of Defence / Press Information Bureau",
+                    "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323814&lang=2&reg=48",
+                    "staticGK": [
+                        "Defence Goal / रक्षा लक्ष्य : Indigenous defence capability",
+                        "Communication Satellite / संचार उपग्रह : GSAT-7C",
+                        "Naval Weapon / नौसैनिक हथियार : Varunastra",
+                        "Air Force Beneficiary / वायु सेना : Indian Air Force",
+                        "Navy Beneficiary / नौसेना : Indian Navy"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which satellite is included in the defence contracts? / रक्षा अनुबंधों में कौन-सा उपग्रह शामिल है?",
+                            "options": [
+                                "GSAT-7C",
+                                "Aryabhata",
+                                "Cartosat-1",
+                                "Chandrayaan-1"
+                            ],
+                            "answer": "GSAT-7C"
+                        },
+                        {
+                            "question": "Which weapon is intended for anti-submarine warfare? / पनडुब्बी-रोधी युद्ध के लिए कौन-सा हथियार है?",
+                            "options": [
+                                "Varunastra Heavy Weight Torpedo",
+                                "Akash missile",
+                                "Arjun tank",
+                                "Pinaka rocket"
+                            ],
+                            "answer": "Varunastra Heavy Weight Torpedo"
+                        },
+                        {
+                            "question": "Which service benefits from the GSAT-7C communication satellite? / GSAT-7C से किस सेना को लाभ होगा?",
+                            "options": [
+                                "Indian Air Force",
+                                "Indian Army only",
+                                "Indian Coast Guard only",
+                                "National Disaster Response Force"
+                            ],
+                            "answer": "Indian Air Force"
+                        },
+                        {
+                            "question": "Which service will use Varunastra torpedoes? / Varunastra टॉरपीडो का उपयोग कौन-सी सेना करेगी?",
+                            "options": [
+                                "Indian Navy",
+                                "Indian Air Force",
+                                "Railway Protection Force",
+                                "Central Industrial Security Force"
+                            ],
+                            "answer": "Indian Navy"
+                        },
+                        {
+                            "question": "Which national objective do these contracts support? / ये अनुबंध किस राष्ट्रीय उद्देश्य को समर्थन देते हैं?",
+                            "options": [
+                                "Self-reliance in defence",
+                                "Dependence on imported systems only",
+                                "Reducing scientific research",
+                                "Ending domestic manufacturing"
+                            ],
+                            "answer": "Self-reliance in defence"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
