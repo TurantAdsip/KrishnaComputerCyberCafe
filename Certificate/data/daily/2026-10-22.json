@@ -1,0 +1,131 @@
+
+{
+  "quizType": "daily",
+  "quizId": "2026-10-22",
+  "title": "Daily Reasoning Quiz - Part 1",
+  "date": "22 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? / Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "answer": 1,
+      "explanation": "संख्याएँ क्रमशः 1×2, 2×3, 3×4, 4×5 और 5×6 हैं। अगली संख्या 6×7 = 42 होगी। / The numbers are 1×2, 2×3, 3×4, 4×5 and 5×6. The next number is 6×7 = 42."
+    },
+    {
+      "id": 2,
+      "question": "यदि CAT को DBU लिखा जाता है, तो DOG को कैसे लिखा जाएगा? / If CAT is coded as DBU, how will DOG be coded?",
+      "options": [
+        "EPH",
+        "EOG",
+        "FPH",
+        "DPI"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक अक्षर को अंग्रेज़ी वर्णमाला में एक स्थान आगे बढ़ाया गया है: C→D, A→B, T→U। इसलिए D→E, O→P, G→H = EPH। / Each letter is shifted one position forward: D→E, O→P, G→H. Therefore, DOG becomes EPH."
+    },
+    {
+      "id": 3,
+      "question": "निम्नलिखित में से कौन-सा अलग है? / Which one is the odd one out?",
+      "options": [
+        "त्रिभुज / Triangle",
+        "वर्ग / Square",
+        "वृत्त / Circle",
+        "आयत / Rectangle"
+      ],
+      "answer": 2,
+      "explanation": "वृत्त में कोई सीधी भुजा या कोना नहीं होता, जबकि अन्य आकृतियों में सीधी भुजाएँ होती हैं। / A circle has no straight sides or corners, whereas the other shapes have straight sides."
+    },
+    {
+      "id": 4,
+      "question": "राहुल उत्तर दिशा में 5 मीटर चलता है, फिर दाएँ मुड़कर 3 मीटर चलता है। अब वह किस दिशा की ओर मुख किए है? / Rahul walks 5 metres north and then turns right and walks 3 metres. Which direction is he facing now?",
+      "options": [
+        "उत्तर / North",
+        "दक्षिण / South",
+        "पूर्व / East",
+        "पश्चिम / West"
+      ],
+      "answer": 2,
+      "explanation": "उत्तर दिशा की ओर मुख करके दाएँ मुड़ने पर दिशा पूर्व होती है। / When facing north, turning right means facing east."
+    },
+    {
+      "id": 5,
+      "question": "A, B का भाई है। B, C की बहन है। A का C से क्या संबंध है? / A is the brother of B. B is the sister of C. How is A related to C?",
+      "options": [
+        "पिता / Father",
+        "भाई / Brother",
+        "चाचा / Uncle",
+        "पुत्र / Son"
+      ],
+      "answer": 1,
+      "explanation": "A, B का भाई है और B, C की बहन है। इसलिए A और C भाई-बहन हैं; A, C का भाई है। / A is B's brother, and B is C's sister. Therefore, A is C's brother."
+    },
+    {
+      "id": 6,
+      "question": "यदि आज सोमवार है, तो 45 दिन बाद कौन-सा दिन होगा? / If today is Monday, which day will it be after 45 days?",
+      "options": [
+        "मंगलवार / Tuesday",
+        "बुधवार / Wednesday",
+        "गुरुवार / Thursday",
+        "शुक्रवार / Friday"
+      ],
+      "answer": 2,
+      "explanation": "45 को 7 से भाग देने पर शेष 3 आता है। सोमवार से 3 दिन आगे गुरुवार होगा। / Dividing 45 by 7 leaves a remainder of 3. Three days after Monday is Thursday."
+    },
+    {
+      "id": 7,
+      "question": "अक्षर श्रृंखला पूरी कीजिए: A, C, F, J, O, ? / Complete the letter series: A, C, F, J, O, ?",
+      "options": [
+        "T",
+        "U",
+        "V",
+        "W"
+      ],
+      "answer": 1,
+      "explanation": "अक्षरों के बीच क्रमशः +2, +3, +4 और +5 का अंतर है। अगला अंतर +6 होगा: O के बाद U। / The gaps are +2, +3, +4 and +5. The next gap is +6, so the next letter is U."
+    },
+    {
+      "id": 8,
+      "question": "कथन: सभी गुलाब फूल हैं। कुछ फूल लाल हैं। निष्कर्ष: सभी गुलाब लाल हैं। / Statements: All roses are flowers. Some flowers are red. Conclusion: All roses are red.",
+      "options": [
+        "निष्कर्ष निश्चित रूप से सही है / The conclusion definitely follows",
+        "निष्कर्ष निश्चित रूप से गलत है / The conclusion is definitely false",
+        "निष्कर्ष नहीं निकलता / The conclusion does not follow",
+        "दोनों कथन गलत हैं / Both statements are false"
+      ],
+      "answer": 2,
+      "explanation": "कथनों से यह सिद्ध नहीं होता कि सभी गुलाब लाल हैं। केवल इतना पता है कि कुछ फूल लाल हैं। / The statements do not establish that all roses are red. We only know that some flowers are red."
+    },
+    {
+      "id": 9,
+      "question": "यदि 5 : 25 :: 7 : ? है, तो प्रश्नचिह्न के स्थान पर क्या आएगा? / If 5 : 25 :: 7 : ?, what should replace the question mark?",
+      "options": [
+        "35",
+        "42",
+        "49",
+        "56"
+      ],
+      "answer": 2,
+      "explanation": "पहली संख्या का वर्ग किया गया है: 5² = 25। इसी प्रकार 7² = 49। / The first number is squared: 5² = 25. Similarly, 7² = 49."
+    },
+    {
+      "id": 10,
+      "question": "एक कक्षा में अमित ऊपर से 12वें और नीचे से 18वें स्थान पर है। कक्षा में कुल कितने विद्यार्थी हैं? / In a class, Amit ranks 12th from the top and 18th from the bottom. How many students are there in total?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "answer": 1,
+      "explanation": "कुल विद्यार्थी = ऊपर से स्थान + नीचे से स्थान − 1 = 12 + 18 − 1 = 29। / Total students = Rank from top + Rank from bottom − 1 = 12 + 18 − 1 = 29."
+    }
+  ]
+}

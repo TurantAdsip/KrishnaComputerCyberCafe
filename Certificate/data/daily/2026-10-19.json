@@ -1,0 +1,131 @@
+
+{
+  "quizType": "daily",
+  "quizId": "2026-10-19",
+  "title": "Class 10 NCERT Geography Quiz - Part 6",
+  "date": "19 October 2026",
+  "totalQuestions": 10,
+  "timeLimit": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "भारत में काली मिट्टी को किस अन्य नाम से जाना जाता है? / By what other name is black soil in India known?",
+      "options": [
+        "खादर मिट्टी / Khadar soil",
+        "रेगुर मिट्टी / Regur soil",
+        "लाल मिट्टी / Red soil",
+        "लैटेराइट मिट्टी / Laterite soil"
+      ],
+      "answer": 1,
+      "explanation": "काली मिट्टी को रेगुर मिट्टी भी कहा जाता है। यह कपास की खेती के लिए विशेष रूप से उपयुक्त है। / Black soil is also known as regur soil. It is particularly suitable for cotton cultivation."
+    },
+    {
+      "id": 2,
+      "question": "उत्तरी भारत के विशाल मैदानों में मुख्य रूप से कौन-सी मिट्टी पाई जाती है? / Which type of soil is mainly found in the extensive northern plains of India?",
+      "options": [
+        "जलोढ़ मिट्टी / Alluvial soil",
+        "काली मिट्टी / Black soil",
+        "लैटेराइट मिट्टी / Laterite soil",
+        "मरुस्थलीय मिट्टी / Arid soil"
+      ],
+      "answer": 0,
+      "explanation": "उत्तरी भारत के विशाल मैदानों में नदियों द्वारा जमा किए गए अवसादों से बनी जलोढ़ मिट्टी प्रमुख रूप से पाई जाती है। / Alluvial soil, formed from sediments deposited by rivers, is predominant in the extensive northern plains of India."
+    },
+    {
+      "id": 3,
+      "question": "सीढ़ीदार खेती का मुख्य उद्देश्य क्या है? / What is the main purpose of terrace farming?",
+      "options": [
+        "मिट्टी के कटाव को कम करना / To reduce soil erosion",
+        "वर्षा को पूरी तरह रोकना / To stop rainfall completely",
+        "भूमि की लवणता बढ़ाना / To increase soil salinity",
+        "वनों की कटाई बढ़ाना / To increase deforestation"
+      ],
+      "answer": 0,
+      "explanation": "पहाड़ी ढलानों पर सीढ़ीनुमा खेत बनाने से पानी का बहाव धीमा होता है और मिट्टी के कटाव को कम करने में मदद मिलती है। / Creating step-like fields on hill slopes slows water runoff and helps reduce soil erosion."
+    },
+    {
+      "id": 4,
+      "question": "भारत में रबी फसलों की बुवाई सामान्यतः किस मौसम में की जाती है? / In which season are Rabi crops generally sown in India?",
+      "options": [
+        "मानसून के प्रारंभ में / At the beginning of the monsoon",
+        "शीत ऋतु के प्रारंभ में / At the beginning of winter",
+        "केवल गर्मियों के अंत में / Only at the end of summer",
+        "वर्षा ऋतु के मध्य में / In the middle of the rainy season"
+      ],
+      "answer": 1,
+      "explanation": "रबी फसलों की बुवाई सामान्यतः अक्टूबर से दिसंबर के बीच की जाती है और कटाई वसंत ऋतु में होती है। गेहूँ और चना प्रमुख रबी फसलें हैं। / Rabi crops are generally sown between October and December and harvested in spring. Wheat and gram are major Rabi crops."
+    },
+    {
+      "id": 5,
+      "question": "भारत में चाय की खेती के लिए कौन-सी परिस्थिति सबसे अधिक अनुकूल है? / Which condition is most favourable for tea cultivation in India?",
+      "options": [
+        "गर्म और आर्द्र जलवायु तथा अच्छी जल निकासी वाली मिट्टी / Warm, humid climate and well-drained soil",
+        "अत्यधिक ठंडी और शुष्क जलवायु / Extremely cold and dry climate",
+        "स्थायी हिमावरण / Permanent snow cover",
+        "जलभराव वाली भूमि / Waterlogged land"
+      ],
+      "answer": 0,
+      "explanation": "चाय के पौधों को गर्म और आर्द्र जलवायु, नियमित वर्षा तथा अच्छी जल निकासी वाली गहरी मिट्टी की आवश्यकता होती है। / Tea plants require a warm, humid climate, regular rainfall and deep, well-drained soil."
+    },
+    {
+      "id": 6,
+      "question": "बॉक्साइट किस धातु का प्रमुख अयस्क है? / Bauxite is the principal ore of which metal?",
+      "options": [
+        "ताँबा / Copper",
+        "लोहा / Iron",
+        "एल्युमिनियम / Aluminium",
+        "मैंगनीज / Manganese"
+      ],
+      "answer": 2,
+      "explanation": "बॉक्साइट एल्युमिनियम का प्रमुख अयस्क है। एल्युमिनियम का उपयोग परिवहन, विद्युत उपकरणों और पैकेजिंग सहित कई उद्योगों में होता है। / Bauxite is the principal ore of aluminium, which is used in transport, electrical equipment and packaging."
+    },
+    {
+      "id": 7,
+      "question": "भाखड़ा नांगल बाँध किस नदी पर बनाया गया है? / On which river has the Bhakra Nangal Dam been built?",
+      "options": [
+        "गंगा / Ganga",
+        "सतलुज / Sutlej",
+        "गोदावरी / Godavari",
+        "नर्मदा / Narmada"
+      ],
+      "answer": 1,
+      "explanation": "भाखड़ा नांगल बाँध सतलुज नदी पर बनाया गया है। यह सिंचाई और जलविद्युत उत्पादन के लिए महत्वपूर्ण है। / The Bhakra Nangal Dam is built on the Sutlej River. It is important for irrigation and hydroelectric power generation."
+    },
+    {
+      "id": 8,
+      "question": "भारत में पाइपलाइन परिवहन का एक प्रमुख लाभ क्या है? / What is a major advantage of pipeline transportation in India?",
+      "options": [
+        "तरल और गैसीय पदार्थों का निरंतर परिवहन / Continuous transportation of liquids and gases",
+        "केवल यात्रियों का परिवहन / Transporting passengers only",
+        "केवल पर्वतीय पर्यटन / Mountain tourism only",
+        "विमानों का परिवहन / Transporting aircraft"
+      ],
+      "answer": 0,
+      "explanation": "पाइपलाइन से पेट्रोलियम, प्राकृतिक गैस और कुछ अन्य तरल पदार्थों का अपेक्षाकृत निरंतर और सुविधाजनक परिवहन किया जा सकता है। / Pipelines enable relatively continuous and convenient transportation of petroleum, natural gas and certain other fluids."
+    },
+    {
+      "id": 9,
+      "question": "भारत में स्वर्णिम चतुर्भुज परियोजना किन चार महानगरों को जोड़ती है? / Which four major cities are connected by India's Golden Quadrilateral project?",
+      "options": [
+        "दिल्ली, मुंबई, चेन्नई और कोलकाता / Delhi, Mumbai, Chennai and Kolkata",
+        "दिल्ली, जयपुर, लखनऊ और पटना / Delhi, Jaipur, Lucknow and Patna",
+        "मुंबई, पुणे, भोपाल और हैदराबाद / Mumbai, Pune, Bhopal and Hyderabad",
+        "चेन्नई, कोच्चि, गोवा और मैसूर / Chennai, Kochi, Goa and Mysuru"
+      ],
+      "answer": 0,
+      "explanation": "स्वर्णिम चतुर्भुज राष्ट्रीय राजमार्ग परियोजना दिल्ली, मुंबई, चेन्नई और कोलकाता को जोड़ती है। इसका उद्देश्य प्रमुख आर्थिक केंद्रों के बीच सड़क संपर्क बेहतर करना है। / The Golden Quadrilateral highway project connects Delhi, Mumbai, Chennai and Kolkata to improve road connectivity between major economic centres."
+    },
+    {
+      "id": 10,
+      "question": "संसाधनों के नियोजन का पहला चरण कौन-सा है? / What is the first stage of resource planning?",
+      "options": [
+        "संसाधनों की पहचान और सूची तैयार करना / Identification and inventory of resources",
+        "सभी संसाधनों का निर्यात करना / Exporting all resources",
+        "संसाधनों का बिना योजना दोहन करना / Exploiting resources without planning",
+        "संसाधनों का उपयोग बंद करना / Stopping the use of resources"
+      ],
+      "answer": 0,
+      "explanation": "संसाधन नियोजन के पहले चरण में संसाधनों की पहचान, उनका सर्वेक्षण और सूची तैयार करना शामिल है। इससे संसाधनों के उचित उपयोग की योजना बनाई जा सकती है। / The first stage of resource planning involves identifying, surveying and preparing an inventory of resources. This helps plan their appropriate use."
+    }
+  ]
+}
