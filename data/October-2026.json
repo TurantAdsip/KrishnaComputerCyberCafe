@@ -11758,6 +11758,912 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-10-18",
+            "date": "18 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 18 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams.",
+            "news": [
+                {
+                    "category": "National News / राष्ट्रीय समाचार",
+                    "title": "Government Caps Trade Margins on 137 Anti-Cancer Drugs / सरकार ने 137 कैंसर-रोधी दवाओं के व्यापारिक मार्जिन पर सीमा लगाई",
+                    "summary": "The Indian government capped trade margins on 137 anti-cancer medicines at 30% to improve affordability. The revised prices are scheduled to take effect from 9 November 2026. / भारत सरकार ने कैंसर की 137 दवाओं पर व्यापारिक मार्जिन 30% तक सीमित किया है। नई कीमतें 9 नवंबर 2026 से लागू होनी निर्धारित हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/government-caps-trade-margins-anti-cancer-drugs-10926290/",
+                    "staticGK": [
+                        "NPPA stands for National Pharmaceutical Pricing Authority.",
+                        "The NPPA functions under the Department of Pharmaceuticals.",
+                        "The Department of Pharmaceuticals comes under the Ministry of Chemicals and Fertilizers."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What trade margin cap was announced for 137 anti-cancer drugs? / 137 कैंसर-रोधी दवाओं के लिए कितनी व्यापारिक मार्जिन सीमा घोषित की गई?",
+                            "options": [
+                                "20%",
+                                "30%",
+                                "40%",
+                                "50%"
+                            ],
+                            "answer": "30%"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence / रक्षा",
+                    "title": "CRPF Plans to Reintroduce Lance Naik and Naik Ranks / CRPF में लांस नायक और नायक रैंक फिर शुरू करने की योजना",
+                    "summary": "The Central Reserve Police Force is considering bringing back the Lance Naik and Naik ranks to provide more promotion opportunities to constables and improve morale. These ranks were abolished in the force in 1997. / केंद्रीय रिजर्व पुलिस बल कांस्टेबलों को पदोन्नति के अधिक अवसर देने और मनोबल बढ़ाने के लिए लांस नायक और नायक रैंक फिर शुरू करने पर विचार कर रहा है। बल में ये रैंक 1997 में समाप्त किए गए थे।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/crpf-plans-to-reintroduce-lance-naik-10926280/",
+                    "staticGK": [
+                        "CRPF stands for Central Reserve Police Force.",
+                        "CRPF is one of India's Central Armed Police Forces.",
+                        "The Ministry of Home Affairs oversees the CRPF."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which year were the Lance Naik and Naik ranks abolished in the CRPF? / CRPF में लांस नायक और नायक रैंक किस वर्ष समाप्त किए गए थे?",
+                            "options": [
+                                "1995",
+                                "1997",
+                                "2000",
+                                "2005"
+                            ],
+                            "answer": "1997"
+                        }
+                    ]
+                },
+                {
+                    "category": "Polity and Governance / राजव्यवस्था एवं शासन",
+                    "title": "Supreme Court Says Internet Access Is a Fundamental Right / सुप्रीम कोर्ट ने इंटरनेट तक पहुंच को मौलिक अधिकार बताया",
+                    "summary": "The Supreme Court stated that access to and use of the internet fall within fundamental rights under Articles 21 and 19(1)(a). It said blanket restrictions on children's internet access are not the solution to online safety concerns. / सुप्रीम कोर्ट ने कहा कि इंटरनेट तक पहुंच और उसका उपयोग संविधान के अनुच्छेद 21 तथा 19(1)(a) के तहत मौलिक अधिकारों से जुड़े हैं। अदालत ने कहा कि बच्चों के इंटरनेट उपयोग पर पूरी तरह प्रतिबंध लगाना ऑनलाइन सुरक्षा समस्याओं का उचित समाधान नहीं है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/legal-news/children-fundamental-right-internet-supreme-court-blanket-ban-10925649/",
+                    "staticGK": [
+                        "Article 21 protects life and personal liberty.",
+                        "Article 19(1)(a) guarantees freedom of speech and expression, subject to constitutional restrictions.",
+                        "The Supreme Court of India is the country's highest judicial court."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which constitutional article protects life and personal liberty? / जीवन और व्यक्तिगत स्वतंत्रता की रक्षा कौन-सा संवैधानिक अनुच्छेद करता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 21",
+                                "Article 32"
+                            ],
+                            "answer": "Article 21"
+                        }
+                    ]
+                },
+                {
+                    "category": "Disaster Management / आपदा प्रबंधन",
+                    "title": "Stampede at Kolkata Durga Puja Pandal Kills 18 / कोलकाता के दुर्गा पूजा पंडाल में भगदड़ से 18 लोगों की मौत",
+                    "summary": "A stampede at a Durga Puja pandal in Kolkata on 17 October killed 18 people and injured at least 25, according to reports published the following day. The incident highlighted the importance of crowd management and emergency preparedness at large gatherings. / 17 अक्टूबर को कोलकाता के एक दुर्गा पूजा पंडाल में भगदड़ से 18 लोगों की मौत हुई और कम-से-कम 25 लोग घायल हुए। इस घटना ने बड़े आयोजनों में भीड़ प्रबंधन और आपातकालीन तैयारी के महत्व को उजागर किया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/cities/kolkata/dead-kolkata-durga-pandal-stampede-10926246/",
+                    "staticGK": [
+                        "NDMA stands for National Disaster Management Authority.",
+                        "The Disaster Management Act was enacted in India in 2005.",
+                        "Crowd management, clear exits and emergency response plans help reduce stampede risks."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which year was India's Disaster Management Act enacted? / भारत में आपदा प्रबंधन अधिनियम किस वर्ष बनाया गया था?",
+                            "options": [
+                                "2001",
+                                "2003",
+                                "2005",
+                                "2008"
+                            ],
+                            "answer": "2005"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations / अंतरराष्ट्रीय संबंध",
+                    "title": "Trump's Russia Sanctions Waiver Offers Relief to India / ट्रंप की रूस प्रतिबंधों में छूट से भारत को राहत",
+                    "summary": "US President Donald Trump paused key provisions that could have imposed tariffs of up to 100% on major buyers of Russian energy, including India. The decision reduces the immediate tariff threat but does not guarantee permanent exemption. / अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने उन प्रमुख प्रावधानों को रोक दिया जिनके तहत भारत सहित रूसी ऊर्जा के बड़े खरीदारों पर 100% तक टैरिफ लगाया जा सकता था। इससे तत्काल खतरा कम हुआ है, लेकिन स्थायी छूट की गारंटी नहीं मिली है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/explained/explained-economics/russian-oil-tariff-waiver-india-energy-security-trump-10925795/",
+                    "staticGK": [
+                        "Crude oil is an important component of India's energy imports.",
+                        "Tariffs are taxes imposed on imported or exported goods.",
+                        "Energy security includes reliable access to affordable energy supplies."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is a tariff? / टैरिफ क्या है?",
+                            "options": [
+                                "A tax on goods traded internationally",
+                                "A type of election",
+                                "A judicial appointment",
+                                "A banking deposit"
+                            ],
+                            "answer": "A tax on goods traded internationally"
+                        }
+                    ]
+                },
+                {
+                    "category": "Governance / शासन",
+                    "title": "Maharashtra Seeks Changes to Voter Registration Form 6 / महाराष्ट्र ने मतदाता पंजीकरण फॉर्म 6 में बदलाव मांगे",
+                    "summary": "Maharashtra's election authorities asked the Election Commission to revise Form 6 so that people whose names were removed during electoral-roll revision can more easily apply to be included again. The proposal addresses confusion faced by voters during the process. / महाराष्ट्र के चुनाव अधिकारियों ने निर्वाचन आयोग से फॉर्म 6 में बदलाव करने का अनुरोध किया, ताकि मतदाता सूची के संशोधन के दौरान नाम हटने वाले लोग दोबारा नाम जुड़वाने के लिए आसानी से आवेदन कर सकें।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/gyanesh-kumar-maharashtra-ceo-form-6-change-first-time-voter-deleted-names-sir-10926293/",
+                    "staticGK": [
+                        "The Election Commission of India is a constitutional body.",
+                        "Article 324 provides for the superintendence, direction and control of elections.",
+                        "Form 6 is used to apply for inclusion of a name in the electoral roll."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which constitutional article deals with the Election Commission's powers? / निर्वाचन आयोग की शक्तियों से संबंधित संवैधानिक अनुच्छेद कौन-सा है?",
+                            "options": [
+                                "Article 280",
+                                "Article 315",
+                                "Article 324",
+                                "Article 356"
+                            ],
+                            "answer": "Article 324"
+                        }
+                    ]
+                },
+                {
+                    "category": "Infrastructure and Transport / बुनियादी ढांचा एवं परिवहन",
+                    "title": "Direct Train Service Connects Gujarat with Vaishno Devi Katra / गुजरात से वैष्णो देवी कटरा के लिए सीधी ट्रेन सेवा शुरू",
+                    "summary": "Indian Railways introduced a direct train service between Sabarmati in Gujarat and Shri Mata Vaishno Devi Katra in Jammu and Kashmir. The service is intended to make pilgrimage travel more convenient by removing the need to change trains at Jammu Tawi. / भारतीय रेलवे ने गुजरात के साबरमती और जम्मू-कश्मीर के श्री माता वैष्णो देवी कटरा के बीच सीधी ट्रेन सेवा शुरू की। इससे यात्रियों को जम्मू तवी में ट्रेन बदलने की आवश्यकता नहीं होगी।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/gujarat-katra-direct-train-flagged-off-move-to-benefit-lakhs-of-vaishno-devi-pilgrims-10926666/",
+                    "staticGK": [
+                        "Indian Railways operates under the Ministry of Railways.",
+                        "Katra is the base town for pilgrims visiting the Vaishno Devi shrine.",
+                        "Rail connectivity can support tourism and regional economic activity."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Katra is associated with which famous pilgrimage shrine? / कटरा किस प्रसिद्ध तीर्थस्थल से जुड़ा है?",
+                            "options": [
+                                "Kedarnath Temple",
+                                "Shri Mata Vaishno Devi Shrine",
+                                "Golden Temple",
+                                "Somnath Temple"
+                            ],
+                            "answer": "Shri Mata Vaishno Devi Shrine"
+                        }
+                    ]
+                },
+                {
+                    "category": "Regional Affairs / क्षेत्रीय समाचार",
+                    "title": "Ladakh Talks Stall Over Proposed Name for Constitutional Safeguards / संवैधानिक सुरक्षा के प्रस्तावित नाम पर लद्दाख वार्ता रुकी",
+                    "summary": "Talks between the Union Ministry of Home Affairs and Ladakh representatives reportedly stalled over the name proposed for constitutional safeguards. The discussions concern protections for the region's identity, land and local interests. / केंद्रीय गृह मंत्रालय और लद्दाख के प्रतिनिधियों के बीच संवैधानिक सुरक्षा के प्रस्तावित नाम को लेकर बातचीत रुकने की खबर है। चर्चा में क्षेत्र की पहचान, भूमि और स्थानीय हितों की सुरक्षा से जुड़े मुद्दे शामिल हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/ladakh-article-371k-proposal-talks-stall-10926156/",
+                    "staticGK": [
+                        "Ladakh became a Union Territory on 31 October 2019.",
+                        "Article 371 contains special provisions for certain Indian states.",
+                        "The Ministry of Home Affairs handles several matters relating to Union Territories and internal administration."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Ladakh became a Union Territory in which year? / लद्दाख किस वर्ष केंद्र शासित प्रदेश बना?",
+                            "options": [
+                                "2014",
+                                "2016",
+                                "2019",
+                                "2021"
+                            ],
+                            "answer": "2019"
+                        }
+                    ]
+                },
+                {
+                    "category": "Weather and Environment / मौसम एवं पर्यावरण",
+                    "title": "Northeast Monsoon Arrives Early in Southern India / दक्षिण भारत में उत्तर-पूर्व मानसून का जल्दी आगमन",
+                    "summary": "The India Meteorological Department reported an early onset of the northeast monsoon over southern peninsular India. The seasonal rains are particularly important for Tamil Nadu and adjoining regions, where they contribute significantly to annual rainfall. / भारत मौसम विज्ञान विभाग ने दक्षिणी प्रायद्वीपीय भारत में उत्तर-पूर्व मानसून के जल्दी पहुंचने की जानकारी दी। यह मौसमी बारिश तमिलनाडु और आसपास के क्षेत्रों के लिए विशेष रूप से महत्वपूर्ण है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/northeast-monsoon-2026-early-onset-imd-rain-alert-south-india-10923094/",
+                    "staticGK": [
+                        "IMD stands for India Meteorological Department.",
+                        "The northeast monsoon generally contributes substantially to Tamil Nadu's rainfall.",
+                        "Monsoon forecasts help authorities prepare for heavy rain and flooding."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation issues India's official weather forecasts? / भारत में आधिकारिक मौसम पूर्वानुमान कौन-सी संस्था जारी करती है?",
+                            "options": [
+                                "ISRO",
+                                "IMD",
+                                "NITI Aayog",
+                                "NHAI"
+                            ],
+                            "answer": "IMD"
+                        }
+                    ]
+                },
+                {
+                    "category": "Public Safety / जन सुरक्षा",
+                    "title": "Truck Accident Near Gwalior Temple Kills Pilgrims / ग्वालियर के मंदिर के पास ट्रक हादसे में श्रद्धालुओं की मौत",
+                    "summary": "A truck reportedly ran into pilgrims near Sheetla Mata Temple in Gwalior, Madhya Pradesh, on 18 October. The incident raised concerns about traffic restrictions, barricades and crowd safety near religious sites during large gatherings. / 18 अक्टूबर को मध्य प्रदेश के ग्वालियर में शीतला माता मंदिर के पास एक ट्रक श्रद्धालुओं से टकरा गया। इस घटना ने धार्मिक स्थलों के आसपास यातायात नियंत्रण, बैरिकेडिंग और भीड़ की सुरक्षा पर सवाल उठाए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-18-october-2026-gwalior-temple-truck-accident-cjp-abhijeet-dipke-rahul-gandhi-gyanesh-kumar-10926414/",
+                    "staticGK": [
+                        "Gwalior is a city in Madhya Pradesh.",
+                        "Crowd safety at religious gatherings requires coordinated traffic and emergency planning.",
+                        "Local administration and police coordinate emergency response during public-safety incidents."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Gwalior is located in which Indian state? / ग्वालियर किस भारतीय राज्य में स्थित है?",
+                            "options": [
+                                "Rajasthan",
+                                "Madhya Pradesh",
+                                "Uttar Pradesh",
+                                "Gujarat"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-10-19",
+            "date": "19 October 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 19 October 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams.",
+            "news": [
+                {
+                    "category": "Polity and Judiciary / राजव्यवस्था एवं न्यायपालिका",
+                    "title": "CJI Inaugurates High Court Bench in Leh / CJI ने लेह में हाई कोर्ट बेंच का उद्घाटन किया",
+                    "summary": "Chief Justice of India Surya Kant inaugurated the Ladakh Bench of the Jammu and Kashmir and Ladakh High Court in Leh. The bench is expected to reduce travel time and expenses for litigants from Ladakh. It is located at an altitude of about 3,500 metres and is scheduled to begin functioning on October 21, 2026. / भारत के मुख्य न्यायाधीश सूर्यकांत ने लेह में जम्मू-कश्मीर और लद्दाख हाई कोर्ट की लद्दाख बेंच का उद्घाटन किया। इससे स्थानीय लोगों को न्याय पाने के लिए दूर यात्रा करने और खर्च उठाने की आवश्यकता कम होगी। यह बेंच लगभग 3,500 मीटर की ऊँचाई पर स्थित है और 21 अक्टूबर 2026 से कार्य शुरू करने वाली है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/cji-surya-kant-inaugurates-india-highest-high-court-bench-in-leh-10927303/",
+                    "staticGK": [
+                        "CJI stands for Chief Justice of India.",
+                        "The Supreme Court of India is the highest judicial court in the country.",
+                        "Ladakh became a Union Territory on 31 October 2019.",
+                        "The High Court bench aims to improve access to justice."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who inaugurated the Ladakh High Court bench? / लद्दाख हाई कोर्ट बेंच का उद्घाटन किसने किया?",
+                            "options": [
+                                "Justice Surya Kant",
+                                "Justice D.Y. Chandrachud",
+                                "Justice Sanjiv Khanna",
+                                "Justice B.R. Gavai"
+                            ],
+                            "answer": "Justice Surya Kant"
+                        },
+                        {
+                            "question": "Where is the new High Court bench located? / नई हाई कोर्ट बेंच कहाँ स्थित है?",
+                            "options": [
+                                "Kargil",
+                                "Leh",
+                                "Srinagar",
+                                "Jammu"
+                            ],
+                            "answer": "Leh"
+                        },
+                        {
+                            "question": "What does CJI stand for? / CJI का पूर्ण रूप क्या है?",
+                            "options": [
+                                "Chief Judicial Inspector",
+                                "Chief Justice of India",
+                                "Central Judicial Institution",
+                                "Council of Judicial India"
+                            ],
+                            "answer": "Chief Justice of India"
+                        },
+                        {
+                            "question": "In which year did Ladakh become a Union Territory? / लद्दाख किस वर्ष केंद्र शासित प्रदेश बना?",
+                            "options": [
+                                "2014",
+                                "2017",
+                                "2019",
+                                "2021"
+                            ],
+                            "answer": "2019"
+                        },
+                        {
+                            "question": "What is the main purpose of establishing a High Court bench in Leh? / लेह में हाई कोर्ट बेंच स्थापित करने का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Improve access to justice",
+                                "Increase tourism taxes",
+                                "Build a new Parliament",
+                                "Conduct elections"
+                            ],
+                            "answer": "Improve access to justice"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment / पर्यावरण",
+                    "title": "NGT Flags Possible Collusion in Illegal Sand Mining / NGT ने अवैध रेत खनन में संभावित मिलीभगत पर चिंता जताई",
+                    "summary": "A committee appointed by the National Green Tribunal raised concerns about possible collusion between local officials and illegal sand-mining operators in Madhya Pradesh. The committee identified enforcement gaps along the Sindh River and recommended regular surveillance, monthly reports and accountability for officials where negligence is established. / राष्ट्रीय हरित अधिकरण द्वारा नियुक्त समिति ने मध्य प्रदेश में स्थानीय अधिकारियों और अवैध रेत खनन करने वालों के बीच संभावित मिलीभगत पर चिंता जताई। समिति ने सिंध नदी के आसपास निगरानी की कमियाँ पाईं और नियमित निगरानी, मासिक रिपोर्ट तथा लापरवाही पाए जाने पर जवाबदेही तय करने की सिफारिश की।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/mp-illegal-sand-mining-ngt-flags-task-force-failures-10927308/",
+                    "staticGK": [
+                        "NGT stands for National Green Tribunal.",
+                        "The NGT was established in 2010.",
+                        "The NGT deals with environmental protection and related legal disputes.",
+                        "Illegal sand mining can damage river ecosystems and increase erosion."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of NGT? / NGT का पूर्ण रूप क्या है?",
+                            "options": [
+                                "National Green Tribunal",
+                                "National Growth Tribunal",
+                                "National Governance Team",
+                                "National Geological Trust"
+                            ],
+                            "answer": "National Green Tribunal"
+                        },
+                        {
+                            "question": "In which year was the NGT established? / NGT की स्थापना किस वर्ष हुई?",
+                            "options": [
+                                "2005",
+                                "2008",
+                                "2010",
+                                "2014"
+                            ],
+                            "answer": "2010"
+                        },
+                        {
+                            "question": "Which state was mentioned in the report on illegal sand mining? / अवैध रेत खनन की रिपोर्ट में किस राज्य का उल्लेख था?",
+                            "options": [
+                                "Gujarat",
+                                "Madhya Pradesh",
+                                "Kerala",
+                                "Punjab"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "Which river was mentioned in the report? / रिपोर्ट में किस नदी का उल्लेख किया गया?",
+                            "options": [
+                                "Sindh River",
+                                "Godavari River",
+                                "Kaveri River",
+                                "Teesta River"
+                            ],
+                            "answer": "Sindh River"
+                        },
+                        {
+                            "question": "Which is a major environmental risk of illegal sand mining? / अवैध रेत खनन का एक प्रमुख पर्यावरणीय खतरा क्या है?",
+                            "options": [
+                                "Riverbank erosion",
+                                "Reduced sunlight everywhere",
+                                "Ozone creation",
+                                "Lower ocean salinity everywhere"
+                            ],
+                            "answer": "Riverbank erosion"
+                        }
+                    ]
+                },
+                {
+                    "category": "Agriculture and Economy / कृषि एवं अर्थव्यवस्था",
+                    "title": "Agriculture Ministry Speeds Up Pulse Research Scheme / कृषि मंत्रालय ने दलहन अनुसंधान योजना में तेजी लाने की बात कही",
+                    "summary": "The Cabinet Secretariat flagged delays in a proposed pulse research scheme, while the Agriculture Ministry said it was expediting the process. The initiative is linked to strengthening agricultural research in pulses, oilseeds and cotton and supporting India's agricultural self-reliance. / कैबिनेट सचिवालय ने प्रस्तावित दलहन अनुसंधान योजना में देरी का मुद्दा उठाया, जबकि कृषि मंत्रालय ने प्रक्रिया तेज करने की बात कही। यह पहल दलहन, तिलहन और कपास में कृषि अनुसंधान को मजबूत करने तथा कृषि क्षेत्र में आत्मनिर्भरता बढ़ाने से जुड़ी है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/aatmanirbharta-in-pulses-mission-research-cabinet-secretariat-flags-delay-10927323/",
+                    "staticGK": [
+                        "Pulses are important sources of protein in many Indian diets.",
+                        "The Ministry of Agriculture and Farmers Welfare oversees central agricultural programmes.",
+                        "Oilseeds are used to produce edible oils.",
+                        "Agricultural research can improve crop productivity and resilience."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which ministry said it was expediting the pulse research scheme? / किस मंत्रालय ने दलहन अनुसंधान योजना में तेजी लाने की बात कही?",
+                            "options": [
+                                "Agriculture Ministry",
+                                "Home Ministry",
+                                "Education Ministry",
+                                "Tourism Ministry"
+                            ],
+                            "answer": "Agriculture Ministry"
+                        },
+                        {
+                            "question": "Which crop group was central to the research scheme? / अनुसंधान योजना का मुख्य फसल समूह कौन-सा था?",
+                            "options": [
+                                "Pulses",
+                                "Tea only",
+                                "Coffee only",
+                                "Rubber only"
+                            ],
+                            "answer": "Pulses"
+                        },
+                        {
+                            "question": "Pulses are an important dietary source of which nutrient? / दालें किस पोषक तत्व का महत्वपूर्ण स्रोत हैं?",
+                            "options": [
+                                "Protein",
+                                "Vitamin D only",
+                                "Iodine only",
+                                "Vitamin B12 only"
+                            ],
+                            "answer": "Protein"
+                        },
+                        {
+                            "question": "Which of these is an oilseed crop? / इनमें से कौन-सी तिलहन फसल है?",
+                            "options": [
+                                "Mustard",
+                                "Wheat",
+                                "Rice",
+                                "Jute"
+                            ],
+                            "answer": "Mustard"
+                        },
+                        {
+                            "question": "What is one benefit of agricultural research? / कृषि अनुसंधान का एक लाभ क्या है?",
+                            "options": [
+                                "Improved crop productivity",
+                                "Elimination of all rainfall",
+                                "Ending all soil formation",
+                                "Stopping photosynthesis"
+                            ],
+                            "answer": "Improved crop productivity"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science and Technology / विज्ञान एवं प्रौद्योगिकी",
+                    "title": "Microsoft Reportedly Pulls Out of UK Data Centre Deal / Microsoft ने कथित तौर पर ब्रिटेन के डेटा सेंटर सौदे से कदम पीछे खींचे",
+                    "summary": "A report published by The Indian Express said Microsoft had pulled out of a UK data-centre deal with Nscale. Data centres provide computing infrastructure for digital services, cloud platforms and artificial intelligence. Such investment decisions can affect technology infrastructure and capacity planning. / द इंडियन एक्सप्रेस की रिपोर्ट के अनुसार Microsoft ने Nscale के साथ ब्रिटेन के डेटा सेंटर सौदे से कदम पीछे खींचे। डेटा सेंटर डिजिटल सेवाओं, क्लाउड प्लेटफॉर्म और कृत्रिम बुद्धिमत्ता के लिए कंप्यूटिंग ढाँचा उपलब्ध कराते हैं। ऐसे निवेश निर्णय तकनीकी बुनियादी ढाँचे और क्षमता नियोजन को प्रभावित कर सकते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-report-10927536/",
+                    "staticGK": [
+                        "Microsoft is a US-based technology company.",
+                        "A data centre houses computing, storage and networking infrastructure.",
+                        "Cloud computing provides computing resources over a network.",
+                        "AI stands for Artificial Intelligence."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which company was reported to have pulled out of the UK data-centre deal? / ब्रिटेन के डेटा सेंटर सौदे से किस कंपनी के पीछे हटने की खबर थी?",
+                            "options": [
+                                "Microsoft",
+                                "Samsung",
+                                "Nvidia",
+                                "Sony"
+                            ],
+                            "answer": "Microsoft"
+                        },
+                        {
+                            "question": "Which organisation was named as Microsoft's deal partner? / Microsoft के सौदे में किस संगठन का नाम था?",
+                            "options": [
+                                "Nscale",
+                                "NASA",
+                                "UNESCO",
+                                "NABARD"
+                            ],
+                            "answer": "Nscale"
+                        },
+                        {
+                            "question": "What does AI stand for? / AI का पूर्ण रूप क्या है?",
+                            "options": [
+                                "Artificial Intelligence",
+                                "Automated Internet",
+                                "Advanced Integration",
+                                "Applied Information"
+                            ],
+                            "answer": "Artificial Intelligence"
+                        },
+                        {
+                            "question": "What is a key function of a data centre? / डेटा सेंटर का प्रमुख कार्य क्या है?",
+                            "options": [
+                                "Computing and storing data",
+                                "Producing drinking water",
+                                "Printing currency",
+                                "Generating rainfall"
+                            ],
+                            "answer": "Computing and storing data"
+                        },
+                        {
+                            "question": "Microsoft is headquartered in which country? / Microsoft का मुख्यालय किस देश में है?",
+                            "options": [
+                                "United States",
+                                "United Kingdom",
+                                "Japan",
+                                "Germany"
+                            ],
+                            "answer": "United States"
+                        }
+                    ]
+                },
+                {
+                    "category": "Medical Education / चिकित्सा शिक्षा",
+                    "title": "CBI Chargesheets Pune Tea Stall Owner in NEET-UG Paper Leak Case / NEET-UG पेपर लीक मामले में CBI ने पुणे के चाय विक्रेता के खिलाफ आरोपपत्र दाखिल किया",
+                    "summary": "The Central Bureau of Investigation chargesheeted a Pune tea stall owner in the NEET-UG 2026 paper-leak investigation. The Indian Express reported that investigators alleged students were shown leaked questions before the examination. The case highlights concerns about examination integrity and the investigation of alleged organised cheating. / केंद्रीय अन्वेषण ब्यूरो ने NEET-UG 2026 पेपर लीक जाँच में पुणे के एक चाय विक्रेता के खिलाफ आरोपपत्र दाखिल किया। द इंडियन एक्सप्रेस के अनुसार, जाँचकर्ताओं ने आरोप लगाया कि परीक्षा से पहले विद्यार्थियों को लीक हुए प्रश्न दिखाए गए थे। यह मामला परीक्षा की निष्पक्षता और कथित संगठित नकल की जाँच से जुड़ी चिंताओं को उजागर करता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/neet-ug-paper-leak-cbi-chargesheets-pune-tea-stall-owner-10927326/",
+                    "staticGK": [
+                        "CBI stands for Central Bureau of Investigation.",
+                        "NEET-UG is used for admission to undergraduate medical courses in India.",
+                        "The National Testing Agency conducts several national-level entrance examinations.",
+                        "A chargesheet is a formal document submitted by an investigating agency to a court."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of CBI? / CBI का पूर्ण रूप क्या है?",
+                            "options": [
+                                "Central Bureau of Investigation",
+                                "Central Board of Intelligence",
+                                "Criminal Bureau of India",
+                                "Council of Banking Investigation"
+                            ],
+                            "answer": "Central Bureau of Investigation"
+                        },
+                        {
+                            "question": "NEET-UG is primarily associated with admission to which courses? / NEET-UG मुख्य रूप से किन पाठ्यक्रमों में प्रवेश से जुड़ा है?",
+                            "options": [
+                                "Undergraduate medical courses",
+                                "Engineering diplomas only",
+                                "Law courses only",
+                                "Hotel management only"
+                            ],
+                            "answer": "Undergraduate medical courses"
+                        },
+                        {
+                            "question": "Which city was associated with the tea stall owner in the report? / रिपोर्ट में चाय विक्रेता किस शहर से जुड़ा था?",
+                            "options": [
+                                "Pune",
+                                "Jaipur",
+                                "Bhopal",
+                                "Patna"
+                            ],
+                            "answer": "Pune"
+                        },
+                        {
+                            "question": "What is the purpose of a chargesheet? / आरोपपत्र का उद्देश्य क्या है?",
+                            "options": [
+                                "Present the investigation findings to a court",
+                                "Issue a passport",
+                                "Conduct a census",
+                                "Publish a school timetable"
+                            ],
+                            "answer": "Present the investigation findings to a court"
+                        },
+                        {
+                            "question": "Which principle is threatened by a question-paper leak? / प्रश्नपत्र लीक होने से किस सिद्धांत को खतरा होता है?",
+                            "options": [
+                                "Fairness in examinations",
+                                "Universal timekeeping",
+                                "Weather forecasting",
+                                "Road construction"
+                            ],
+                            "answer": "Fairness in examinations"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations / अंतरराष्ट्रीय संबंध",
+                    "title": "Czech Deputy PM Says India's Ukraine Truce Proposals Are Helpful / चेक उपप्रधानमंत्री ने भारत के यूक्रेन युद्धविराम प्रस्तावों को उपयोगी बताया",
+                    "summary": "Czech Republic's Deputy Prime Minister Karel Havlicek said India's proposals for a Russia-Ukraine truce were helpful. He also said tariff barriers create uncertainty. The comments highlight India's diplomatic engagement and the economic implications of trade restrictions amid an ongoing conflict. / चेक गणराज्य के उपप्रधानमंत्री कारेल हावलीचेक ने रूस-यूक्रेन युद्धविराम के लिए भारत के प्रस्तावों को उपयोगी बताया। उन्होंने यह भी कहा कि टैरिफ बाधाएँ अनिश्चितता पैदा करती हैं। ये टिप्पणियाँ जारी संघर्ष के बीच भारत की कूटनीतिक भूमिका और व्यापार प्रतिबंधों के आर्थिक प्रभाव को रेखांकित करती हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/india-ceasefire-proposals-russia-ukraine-war-czech-deputy-pm-karel-havlicek-10927340/",
+                    "staticGK": [
+                        "The Czech Republic is a country in Central Europe.",
+                        "Prague is the capital of the Czech Republic.",
+                        "A ceasefire is an agreement or arrangement to stop fighting.",
+                        "Tariffs are taxes imposed on traded goods."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country's Deputy Prime Minister commented on India's truce proposals? / किस देश के उपप्रधानमंत्री ने भारत के युद्धविराम प्रस्तावों पर टिप्पणी की?",
+                            "options": [
+                                "Czech Republic",
+                                "Canada",
+                                "Australia",
+                                "Brazil"
+                            ],
+                            "answer": "Czech Republic"
+                        },
+                        {
+                            "question": "Which conflict was discussed in the report? / रिपोर्ट में किस संघर्ष की चर्चा की गई?",
+                            "options": [
+                                "Russia-Ukraine war",
+                                "Korean War",
+                                "Vietnam War",
+                                "Gulf War of 1991"
+                            ],
+                            "answer": "Russia-Ukraine war"
+                        },
+                        {
+                            "question": "What is a ceasefire? / युद्धविराम क्या है?",
+                            "options": [
+                                "An arrangement to stop fighting",
+                                "A trade tax",
+                                "A currency exchange",
+                                "A type of election"
+                            ],
+                            "answer": "An arrangement to stop fighting"
+                        },
+                        {
+                            "question": "What is the capital of the Czech Republic? / चेक गणराज्य की राजधानी क्या है?",
+                            "options": [
+                                "Prague",
+                                "Vienna",
+                                "Warsaw",
+                                "Budapest"
+                            ],
+                            "answer": "Prague"
+                        },
+                        {
+                            "question": "What is a tariff? / टैरिफ क्या है?",
+                            "options": [
+                                "A tax on traded goods",
+                                "A peace treaty",
+                                "A weather report",
+                                "A judicial order"
+                            ],
+                            "answer": "A tax on traded goods"
+                        }
+                    ]
+                },
+                {
+                    "category": "Arts and Culture / कला एवं संस्कृति",
+                    "title": "Tamil Music Composer Deva Dies at 75 / तमिल संगीतकार देवा का 75 वर्ष की आयु में निधन",
+                    "summary": "Tamil film music composer Deva died at the age of 75. He was known for his contribution to Tamil cinema and for creating memorable songs across his career. His work formed part of the musical landscape of Tamil films and influenced popular film music. / तमिल फिल्मों के संगीतकार देवा का 75 वर्ष की आयु में निधन हो गया। वे तमिल सिनेमा में अपने योगदान और लोकप्रिय गीतों के लिए जाने जाते थे। उनके संगीत ने तमिल फिल्मों के लोकप्रिय संगीत को आकार देने में भूमिका निभाई।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/deva-tamil-cinema-hero-sound-dies-10926616/",
+                    "staticGK": [
+                        "Tamil is a classical language of India.",
+                        "Tamil cinema is often referred to as Kollywood.",
+                        "Film composers create music for movies.",
+                        "Chennai is the capital of Tamil Nadu."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Deva was associated with which film industry? / देवा किस फिल्म उद्योग से जुड़े थे?",
+                            "options": [
+                                "Tamil cinema",
+                                "Bengali cinema",
+                                "Punjabi cinema",
+                                "Marathi cinema"
+                            ],
+                            "answer": "Tamil cinema"
+                        },
+                        {
+                            "question": "At what age did Deva die, according to the report? / रिपोर्ट के अनुसार देवा का निधन कितनी आयु में हुआ?",
+                            "options": [
+                                "65",
+                                "70",
+                                "75",
+                                "80"
+                            ],
+                            "answer": "75"
+                        },
+                        {
+                            "question": "What is Tamil cinema commonly called? / तमिल सिनेमा को आमतौर पर क्या कहा जाता है?",
+                            "options": [
+                                "Kollywood",
+                                "Tollywood",
+                                "Bollywood",
+                                "Pollywood"
+                            ],
+                            "answer": "Kollywood"
+                        },
+                        {
+                            "question": "What is the capital of Tamil Nadu? / तमिलनाडु की राजधानी क्या है?",
+                            "options": [
+                                "Chennai",
+                                "Madurai",
+                                "Coimbatore",
+                                "Salem"
+                            ],
+                            "answer": "Chennai"
+                        },
+                        {
+                            "question": "What is the main role of a film music composer? / फिल्म संगीतकार का मुख्य कार्य क्या है?",
+                            "options": [
+                                "Create music for films",
+                                "Direct elections",
+                                "Manage courts",
+                                "Issue currency"
+                            ],
+                            "answer": "Create music for films"
+                        }
+                    ]
+                },
+                {
+                    "category": "Road Safety and Disaster Management / सड़क सुरक्षा एवं आपदा प्रबंधन",
+                    "title": "Truck Accident in Gwalior Kills 15 Devotees / ग्वालियर में ट्रक दुर्घटना से 15 श्रद्धालुओं की मौत",
+                    "summary": "A truck ran into devotees walking towards Sheetla Mata Temple in Gwalior, Madhya Pradesh, killing 15 people and injuring 29, according to The Indian Express. The incident raised questions about traffic restrictions and safety arrangements near religious sites during large gatherings. / द इंडियन एक्सप्रेस के अनुसार, मध्य प्रदेश के ग्वालियर में शीतला माता मंदिर की ओर पैदल जा रहे श्रद्धालुओं को एक ट्रक ने टक्कर मार दी। इस दुर्घटना में 15 लोगों की मौत हुई और 29 घायल हुए। इस घटना ने धार्मिक स्थलों के आसपास यातायात नियंत्रण और भीड़ सुरक्षा पर सवाल उठाए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/india/gwalior-road-accident-truck-hits-devotees-sheetlamata-mandir-10926443/",
+                    "staticGK": [
+                        "Gwalior is located in Madhya Pradesh.",
+                        "The Disaster Management Act was enacted in India in 2005.",
+                        "Crowd management and traffic control are important at religious gatherings.",
+                        "Emergency access routes should remain clear during large public events."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which state is Gwalior located? / ग्वालियर किस राज्य में स्थित है?",
+                            "options": [
+                                "Madhya Pradesh",
+                                "Rajasthan",
+                                "Uttar Pradesh",
+                                "Maharashtra"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "Which temple was mentioned in the report? / रिपोर्ट में किस मंदिर का उल्लेख था?",
+                            "options": [
+                                "Sheetla Mata Temple",
+                                "Somnath Temple",
+                                "Golden Temple",
+                                "Kedarnath Temple"
+                            ],
+                            "answer": "Sheetla Mata Temple"
+                        },
+                        {
+                            "question": "How many deaths were reported in the article? / लेख में कितनी मौतों की खबर दी गई?",
+                            "options": [
+                                "10",
+                                "12",
+                                "15",
+                                "20"
+                            ],
+                            "answer": "15"
+                        },
+                        {
+                            "question": "In which year was India's Disaster Management Act enacted? / भारत का आपदा प्रबंधन अधिनियम किस वर्ष बना?",
+                            "options": [
+                                "2001",
+                                "2005",
+                                "2010",
+                                "2015"
+                            ],
+                            "answer": "2005"
+                        },
+                        {
+                            "question": "Which measure can help improve safety at large gatherings? / बड़े आयोजनों में सुरक्षा सुधारने के लिए कौन-सा उपाय मददगार है?",
+                            "options": [
+                                "Traffic control and clear emergency routes",
+                                "Blocking all exits",
+                                "Removing all signs",
+                                "Allowing unrestricted vehicle access"
+                            ],
+                            "answer": "Traffic control and clear emergency routes"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports / खेल",
+                    "title": "Eugenio Chacarra Wins DP World India Championship / यूजेनियो चाकार्रा ने DP World India Championship जीती",
+                    "summary": "Spanish golfer Eugenio Chacarra claimed the DP World India Championship title. The tournament brought international golf attention to India and formed part of the professional golf calendar. / स्पेन के गोल्फ खिलाड़ी यूजेनियो चाकार्रा ने DP World India Championship का खिताब जीता। इस प्रतियोगिता ने भारत में अंतरराष्ट्रीय गोल्फ को ध्यान आकर्षित किया और पेशेवर गोल्फ कैलेंडर का हिस्सा रही।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/sports/golf/eugenio-chacarra-claims-dp-world-india-championship-title-10927231/",
+                    "staticGK": [
+                        "Golf is a precision sport played using clubs and balls.",
+                        "Spain is a country in southwestern Europe.",
+                        "The Ryder Cup is a major team golf competition between Europe and the United States.",
+                        "Professional golf tournaments are played over multiple rounds."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the DP World India Championship? / DP World India Championship किसने जीती?",
+                            "options": [
+                                "Eugenio Chacarra",
+                                "Rory McIlroy",
+                                "Jon Rahm",
+                                "Scottie Scheffler"
+                            ],
+                            "answer": "Eugenio Chacarra"
+                        },
+                        {
+                            "question": "Eugenio Chacarra represents which country? / यूजेनियो चाकार्रा किस देश से हैं?",
+                            "options": [
+                                "Spain",
+                                "Italy",
+                                "France",
+                                "Germany"
+                            ],
+                            "answer": "Spain"
+                        },
+                        {
+                            "question": "Golf is played using which equipment? / गोल्फ किस उपकरण से खेला जाता है?",
+                            "options": [
+                                "Clubs and balls",
+                                "Bat and stumps",
+                                "Racket and shuttlecock",
+                                "Bow and arrow"
+                            ],
+                            "answer": "Clubs and balls"
+                        },
+                        {
+                            "question": "The Ryder Cup is associated with which sport? / राइडर कप किस खेल से संबंधित है?",
+                            "options": [
+                                "Golf",
+                                "Tennis",
+                                "Football",
+                                "Hockey"
+                            ],
+                            "answer": "Golf"
+                        },
+                        {
+                            "question": "Spain is located in which part of Europe? / स्पेन यूरोप के किस भाग में स्थित है?",
+                            "options": [
+                                "Southwestern Europe",
+                                "Northern Europe",
+                                "Eastern Europe",
+                                "Southeastern Europe"
+                            ],
+                            "answer": "Southwestern Europe"
+                        }
+                    ]
+                },
+                {
+                    "category": "Law and Public Safety / कानून एवं जन सुरक्षा",
+                    "title": "Police Register FIR Against Three Unidentified Persons in Tiger Shroff Firing Case / टाइगर श्रॉफ फायरिंग मामले में तीन अज्ञात लोगों के खिलाफ FIR दर्ज",
+                    "summary": "Mumbai Police registered a case against three unidentified persons in connection with firing at actor Tiger Shroff's residence. The investigation includes identifying the suspected shooters and examining available evidence. The incident renewed attention on public safety and police investigations involving threats against public figures. / मुंबई पुलिस ने अभिनेता टाइगर श्रॉफ के आवास पर हुई फायरिंग के मामले में तीन अज्ञात लोगों के खिलाफ मामला दर्ज किया। जाँच में संदिग्धों की पहचान और उपलब्ध साक्ष्यों की जाँच शामिल है। इस घटना ने सार्वजनिक हस्तियों की सुरक्षा और पुलिस जाँच पर ध्यान केंद्रित किया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "https://indianexpress.com/article/cities/mumbai/mumbai-police-book-unidentified-shooters-in-firing-at-tiger-shroff-residence-10927530/",
+                    "staticGK": [
+                        "Mumbai is the capital of Maharashtra.",
+                        "An FIR stands for First Information Report.",
+                        "Police investigate reported criminal offences and collect evidence.",
+                        "CCTV footage can help investigators establish the sequence of events."
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which city was the firing case reported? / फायरिंग का मामला किस शहर में दर्ज हुआ?",
+                            "options": [
+                                "Mumbai",
+                                "Pune",
+                                "Delhi",
+                                "Chennai"
+                            ],
+                            "answer": "Mumbai"
+                        },
+                        {
+                            "question": "What is the full form of FIR? / FIR का पूर्ण रूप क्या है?",
+                            "options": [
+                                "First Information Report",
+                                "Final Investigation Record",
+                                "Formal Incident Register",
+                                "First Inquiry Result"
+                            ],
+                            "answer": "First Information Report"
+                        },
+                        {
+                            "question": "Which actor was named in the report? / रिपोर्ट में किस अभिनेता का नाम था?",
+                            "options": [
+                                "Tiger Shroff",
+                                "Ayushmann Khurrana",
+                                "Rajkummar Rao",
+                                "Vicky Kaushal"
+                            ],
+                            "answer": "Tiger Shroff"
+                        },
+                        {
+                            "question": "Which evidence may help identify suspects? / संदिग्धों की पहचान में कौन-सा साक्ष्य मदद कर सकता है?",
+                            "options": [
+                                "CCTV footage",
+                                "A weather forecast",
+                                "A school timetable",
+                                "A tourist brochure"
+                            ],
+                            "answer": "CCTV footage"
+                        },
+                        {
+                            "question": "Mumbai is the capital of which state? / मुंबई किस राज्य की राजधानी है?",
+                            "options": [
+                                "Maharashtra",
+                                "Gujarat",
+                                "Goa",
+                                "Karnataka"
+                            ],
+                            "answer": "Maharashtra"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
