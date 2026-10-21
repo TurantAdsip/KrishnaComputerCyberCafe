@@ -1,0 +1,600 @@
+/* =========================================================
+   GOVERNMENT DOCUMENTS
+   KrishnaPrep.in
+========================================================= */
+
+/* -------------------------
+   ROOT VARIABLES
+------------------------- */
+
+:root {
+    --primary: #3157d5;
+    --primary-dark: #2445b8;
+
+    --text: #172033;
+    --muted: #687386;
+
+    --background: #f7f9fc;
+    --card-bg: #ffffff;
+
+    --border: #e1e6ef;
+
+    --icon-bg: #eef3ff;
+    --icon-color: #3157d5;
+
+    --hover-bg: #f4f7ff;
+
+    --shadow: 0 8px 25px rgba(30, 50, 100, 0.06);
+    --shadow-hover: 0 14px 35px rgba(30, 50, 100, 0.12);
+}
+
+
+/* -------------------------
+   RESET
+------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Poppins", Arial, sans-serif;
+    background: var(--background);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+
+/* -------------------------
+   MAIN SECTION
+------------------------- */
+
+.govt-documents {
+    width: 100%;
+    max-width: 1180px;
+
+    margin: 0 auto;
+
+    padding: 55px 20px 70px;
+
+
+    /* display: flex;
+    justify-content: center; */
+}
+
+
+/* -------------------------
+   SECTION HEADING
+------------------------- */
+
+.section-heading {
+    display: flex;
+
+    align-items: flex-end;
+    /* justify-content: space-between; */
+    justify-content: center;
+  
+
+    gap: 25px;
+
+    margin-bottom: 30px;
+}
+
+
+/* Number */
+
+.section-heading span {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 38px;
+    height: 38px;
+
+    margin-bottom: 12px;
+
+    border-radius: 10px;
+
+    background: var(--icon-bg);
+
+    color: var(--primary);
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+/* Heading */
+
+.section-heading h2 {
+    margin: 0 0 8px;
+
+    font-size: 32px;
+    font-weight: 700;
+
+    color: var(--text);
+
+    letter-spacing: -0.5px;
+}
+
+
+/* Description */
+
+.section-heading p {
+    max-width: 650px;
+
+    margin: 0;
+
+    color: var(--muted);
+
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+
+/* -------------------------
+   VIEW ALL BUTTON
+------------------------- */
+
+.view-all {
+    display: inline-flex;
+
+    align-items: center;
+    gap: 8px;
+
+    padding: 11px 17px;
+
+    border: 1px solid var(--border);
+    border-radius: 10px;
+
+    background: var(--card-bg);
+
+    color: var(--primary);
+
+    font-size: 14px;
+    font-weight: 600;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+    transition: all 0.25s ease;
+}
+
+.view-all i {
+    font-size: 12px;
+
+    transition: transform 0.25s ease;
+}
+
+.view-all:hover {
+    background: var(--primary);
+
+    border-color: var(--primary);
+
+    color: #ffffff;
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 8px 20px rgba(49, 87, 213, 0.18);
+}
+
+.view-all:hover i {
+    transform: translateX(4px);
+}
+
+
+/* -------------------------
+   DOCUMENT LIST
+------------------------- */
+
+.document-list {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    gap: 14px;
+}
+
+
+/* -------------------------
+   DOCUMENT ROW
+------------------------- */
+
+.document-row {
+    display: flex;
+
+    align-items: center;
+
+    gap: 18px;
+
+    width: 60%;
+    /* width: 100%; */
+
+    padding: 18px 20px;
+
+    background: var(--card-bg);
+
+    border: 1px solid var(--border);
+
+    border-radius: 15px;
+
+    box-shadow: var(--shadow);
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease,
+        background 0.25s ease;
+}
+
+
+/* Hover */
+
+.document-row:hover {
+    transform: translateY(-3px);
+
+    border-color: #cbd5f5;
+
+    background: var(--hover-bg);
+
+    box-shadow: var(--shadow-hover);
+}
+
+
+/* -------------------------
+   DOCUMENT ICON
+------------------------- */
+
+.document-icon {
+    flex-shrink: 0;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 52px;
+    height: 52px;
+
+    border-radius: 13px;
+
+    background: var(--icon-bg);
+
+    color: var(--icon-color);
+
+    font-size: 21px;
+
+    transition: all 0.25s ease;
+}
+
+
+/* Icon hover */
+
+.document-row:hover .document-icon {
+    background: var(--primary);
+
+    color: #ffffff;
+
+    transform: scale(1.05);
+}
+
+
+/* -------------------------
+   DOCUMENT CONTENT
+------------------------- */
+
+.document-content {
+    flex: 1;
+
+    min-width: 0;
+}
+
+
+/* Title */
+
+.document-content h3 {
+    margin: 0 0 4px;
+
+    color: var(--text);
+
+    font-size: 17px;
+    font-weight: 650;
+
+    line-height: 1.4;
+}
+
+
+/* Description */
+
+.document-content p {
+    margin: 0;
+
+    color: var(--muted);
+
+    font-size: 13px;
+
+    line-height: 1.6;
+}
+
+
+/* -------------------------
+   ACTION BUTTON
+------------------------- */
+
+.document-action {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 7px;
+
+    flex-shrink: 0;
+
+    min-width: 82px;
+
+    padding: 10px 14px;
+
+    border: 1px solid var(--border);
+
+    border-radius: 9px;
+
+    background: #ffffff;
+
+    color: var(--primary);
+
+    font-size: 13px;
+    font-weight: 600;
+
+    text-decoration: none;
+
+    transition: all 0.25s ease;
+}
+
+
+/* Arrow */
+
+.document-action i {
+    font-size: 11px;
+
+    transition: transform 0.25s ease;
+}
+
+
+/* Hover */
+
+.document-action:hover {
+    background: var(--primary);
+
+    border-color: var(--primary);
+
+    color: #ffffff;
+
+    box-shadow: 0 6px 16px rgba(49, 87, 213, 0.18);
+}
+
+.document-action:hover i {
+    transform: translateX(3px);
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .govt-documents {
+        padding: 45px 18px 55px;
+    }
+
+    .section-heading {
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        gap: 18px;
+
+        margin-bottom: 25px;
+    }
+
+    .section-heading h2 {
+        font-size: 27px;
+    }
+
+    .section-heading p {
+        font-size: 14px;
+    }
+
+    .view-all {
+        align-self: flex-start;
+    }
+
+    .document-row {
+        padding: 16px;
+
+        gap: 15px;
+    }
+
+    .document-icon {
+        width: 48px;
+        height: 48px;
+
+        font-size: 19px;
+    }
+
+    .document-content h3 {
+        font-size: 16px;
+    }
+
+    .document-content p {
+        font-size: 12.5px;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 520px) {
+
+    .govt-documents {
+        padding: 35px 14px 45px;
+    }
+
+
+    /* Heading */
+
+    .section-heading {
+        margin-bottom: 22px;
+    }
+
+    .section-heading span {
+        width: 34px;
+        height: 34px;
+
+        margin-bottom: 9px;
+
+        font-size: 12px;
+    }
+
+    .section-heading h2 {
+        font-size: 23px;
+
+        letter-spacing: -0.3px;
+    }
+
+    .section-heading p {
+        font-size: 13px;
+
+        line-height: 1.6;
+    }
+
+
+    /* View All */
+
+    .view-all {
+        width: 100%;
+
+        justify-content: center;
+
+        padding: 10px 14px;
+    }
+
+
+    /* List */
+
+    .document-list {
+        gap: 11px;
+    }
+
+
+    /* Document */
+
+    .document-row {
+        display: grid;
+
+        grid-template-columns: 48px 1fr auto;
+
+        align-items: center;
+
+        gap: 12px;
+
+        padding: 14px;
+
+        border-radius: 13px;
+    }
+
+
+    /* Icon */
+
+    .document-icon {
+        width: 45px;
+        height: 45px;
+
+        border-radius: 11px;
+
+        font-size: 17px;
+    }
+
+
+    /* Content */
+
+    .document-content h3 {
+        margin-bottom: 3px;
+
+        font-size: 14px;
+    }
+
+    .document-content p {
+        font-size: 11.5px;
+
+        line-height: 1.5;
+    }
+
+
+    /* Action */
+
+    .document-action {
+        min-width: auto;
+
+        padding: 8px 10px;
+
+        border-radius: 8px;
+
+        font-size: 11px;
+    }
+
+    .document-action i {
+        font-size: 9px;
+    }
+
+}
+
+
+/* =========================================================
+   VERY SMALL MOBILE
+========================================================= */
+
+@media (max-width: 380px) {
+
+    .govt-documents {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .document-row {
+        grid-template-columns: 42px 1fr;
+
+        position: relative;
+
+        padding: 13px;
+    }
+
+    .document-icon {
+        width: 42px;
+        height: 42px;
+    }
+
+    .document-action {
+        grid-column: 2;
+
+        justify-self: start;
+
+        margin-top: 4px;
+    }
+
+}
