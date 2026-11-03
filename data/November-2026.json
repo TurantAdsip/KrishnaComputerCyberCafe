@@ -1,0 +1,2168 @@
+{
+    "month": "October 2026",
+    "days": [
+        {
+            "id": "2026-11-01",
+            "date": "01 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 1 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Environment and Transport",
+                    "title": "Delhi Begins Restrictions on Non-BS-VI Vehicles | दिल्ली में गैर-BS-VI वाहनों पर प्रतिबंध शुरू",
+                    "summary": "EN: Delhi began enforcing restrictions on the entry of non-BS-VI vehicles as part of its winter air pollution control measures. On the first day, enforcement teams checked 7,249 vehicles, turned back 714 vehicles and impounded 38 end-of-life vehicles. The drive was conducted by the Delhi Transport Department and Delhi Police to reduce vehicular pollution.\nHI: दिल्ली में सर्दियों के वायु प्रदूषण को नियंत्रित करने के लिए गैर-BS-VI वाहनों के प्रवेश पर प्रतिबंध लागू किया गया। पहले दिन प्रवर्तन टीमों ने 7,249 वाहनों की जांच की, 714 वाहनों को वापस भेजा और 38 पुराने तथा अनुपयोगी वाहनों को जब्त किया। यह अभियान दिल्ली परिवहन विभाग और दिल्ली पुलिस द्वारा वाहन प्रदूषण कम करने के लिए चलाया गया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "BS-VI stands for Bharat Stage VI, India's vehicle emission standard.",
+                        "BS-VI का पूरा नाम भारत स्टेज VI है, जो भारत का वाहन उत्सर्जन मानक है।",
+                        "Bharat Stage emission standards regulate pollutants emitted by motor vehicles.",
+                        "भारत स्टेज उत्सर्जन मानक मोटर वाहनों से निकलने वाले प्रदूषकों को नियंत्रित करते हैं।",
+                        "PUC stands for Pollution Under Control.",
+                        "PUC का पूरा नाम पॉल्यूशन अंडर कंट्रोल है।",
+                        "The Central Pollution Control Board was established in 1974.",
+                        "केंद्रीय प्रदूषण नियंत्रण बोर्ड की स्थापना 1974 में हुई थी।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What does BS-VI stand for? | BS-VI का पूरा नाम क्या है?",
+                            "options": [
+                                "Bharat Stage VI | भारत स्टेज VI",
+                                "Basic Standard VI | बेसिक स्टैंडर्ड VI",
+                                "Bharat Safety VI | भारत सेफ्टी VI",
+                                "Business Standard VI | बिजनेस स्टैंडर्ड VI"
+                            ],
+                            "answer": "Bharat Stage VI | भारत स्टेज VI"
+                        },
+                        {
+                            "question": "How many vehicles were checked on the first day of the Delhi restrictions? | दिल्ली में प्रतिबंध के पहले दिन कितने वाहनों की जांच हुई?",
+                            "options": [
+                                "5,249",
+                                "6,249",
+                                "7,249",
+                                "8,249"
+                            ],
+                            "answer": "7,249"
+                        },
+                        {
+                            "question": "How many vehicles were turned back? | कितने वाहनों को वापस भेजा गया?",
+                            "options": [
+                                "314",
+                                "514",
+                                "714",
+                                "914"
+                            ],
+                            "answer": "714"
+                        },
+                        {
+                            "question": "What is the full form of PUC? | PUC का पूरा नाम क्या है?",
+                            "options": [
+                                "Pollution Under Control",
+                                "Public Utility Certificate",
+                                "Personal User Code",
+                                "Pollution Utility Council"
+                            ],
+                            "answer": "Pollution Under Control"
+                        },
+                        {
+                            "question": "In which year was the CPCB established? | CPCB की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1969",
+                                "1974",
+                                "1981",
+                                "1986"
+                            ],
+                            "answer": "1974"
+                        }
+                    ]
+                },
+                {
+                    "category": "Social Security and Governance",
+                    "title": "EPFO Launches WhatsApp Service for PF Subscribers | EPFO ने PF खाताधारकों के लिए WhatsApp सेवा शुरू की",
+                    "summary": "EN: Union Labour and Employment Minister Mansukh Mandaviya launched a verified WhatsApp service for EPFO subscribers. Members can use the service to check their PF balance, passbook and latest transactions. EPFO also introduced automatic settlement of Aadhaar-verified inoperative EPF accounts with balances of up to Rs 1,000, after identity and bank-account verification. The announcement was made on EPFO's 74th Foundation Day.\nHI: केंद्रीय श्रम एवं रोजगार मंत्री मनसुख मांडविया ने EPFO खाताधारकों के लिए सत्यापित WhatsApp सेवा शुरू की। सदस्य इस सेवा के माध्यम से अपना PF बैलेंस, पासबुक और हाल के लेन-देन देख सकेंगे। EPFO ने पहचान और बैंक खाते के सत्यापन के बाद 1,000 रुपये तक की राशि वाले आधार-सत्यापित निष्क्रिय EPF खातों के स्वतः निपटान की सुविधा भी शुरू की। यह घोषणा EPFO के 74वें स्थापना दिवस पर की गई।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EPFO stands for Employees' Provident Fund Organisation.",
+                        "EPFO का पूरा नाम कर्मचारी भविष्य निधि संगठन है।",
+                        "EPFO functions under the Ministry of Labour and Employment.",
+                        "EPFO श्रम एवं रोजगार मंत्रालय के अंतर्गत कार्य करता है।",
+                        "The Employees' Provident Funds and Miscellaneous Provisions Act was enacted in 1952.",
+                        "कर्मचारी भविष्य निधि एवं विविध प्रावधान अधिनियम 1952 में लागू हुआ था।",
+                        "A Universal Account Number is used to identify an EPF member.",
+                        "यूनिवर्सल अकाउंट नंबर का उपयोग EPF सदस्य की पहचान के लिए किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of EPFO? | EPFO का पूरा नाम क्या है?",
+                            "options": [
+                                "Employees' Provident Fund Organisation | कर्मचारी भविष्य निधि संगठन",
+                                "Employee Pension Finance Office",
+                                "Economic Provident Fund Organisation",
+                                "Employees' Public Finance Office"
+                            ],
+                            "answer": "Employees' Provident Fund Organisation | कर्मचारी भविष्य निधि संगठन"
+                        },
+                        {
+                            "question": "Who launched the EPFO WhatsApp service? | EPFO WhatsApp सेवा किसने शुरू की?",
+                            "options": [
+                                "Amit Shah | अमित शाह",
+                                "Mansukh Mandaviya | मनसुख मांडविया",
+                                "Piyush Goyal | पीयूष गोयल",
+                                "Ashwini Vaishnaw | अश्विनी वैष्णव"
+                            ],
+                            "answer": "Mansukh Mandaviya | मनसुख मांडविया"
+                        },
+                        {
+                            "question": "Under which ministry does EPFO function? | EPFO किस मंत्रालय के अंतर्गत कार्य करता है?",
+                            "options": [
+                                "Ministry of Finance | वित्त मंत्रालय",
+                                "Ministry of Labour and Employment | श्रम एवं रोजगार मंत्रालय",
+                                "Ministry of Home Affairs | गृह मंत्रालय",
+                                "Ministry of Corporate Affairs | कॉर्पोरेट कार्य मंत्रालय"
+                            ],
+                            "answer": "Ministry of Labour and Employment | श्रम एवं रोजगार मंत्रालय"
+                        },
+                        {
+                            "question": "What was the maximum balance for the newly announced automatic settlement facility? | नई स्वतः निपटान सुविधा के लिए अधिकतम बैलेंस कितना निर्धारित किया गया?",
+                            "options": [
+                                "Rs 500",
+                                "Rs 1,000",
+                                "Rs 2,000",
+                                "Rs 5,000"
+                            ],
+                            "answer": "Rs 1,000"
+                        },
+                        {
+                            "question": "On which foundation day was the service announced? | यह सेवा किस स्थापना दिवस पर घोषित की गई?",
+                            "options": [
+                                "70th",
+                                "72nd",
+                                "74th",
+                                "75th"
+                            ],
+                            "answer": "74th"
+                        }
+                    ]
+                },
+                {
+                    "category": "Polity and Inter-State Relations",
+                    "title": "Punjab Revives Decades-Old River Water Sharing Disputes | पंजाब ने दशकों पुराने नदी जल बंटवारे के विवाद फिर उठाए",
+                    "summary": "EN: On Punjab Day, the debate over river-water sharing returned to the centre of state politics. The Punjab Assembly had passed five resolutions seeking a review of existing arrangements. The demands included an equitable share in Yamuna waters, royalty from Rajasthan for the use of Sutlej, Ravi and Beas waters, and greater control over key headworks. The dispute became more complex after the reorganisation of Punjab in 1966 and the creation of Haryana.\nHI: पंजाब दिवस पर नदी जल बंटवारे का विवाद राज्य की राजनीति के केंद्र में फिर आ गया। पंजाब विधानसभा ने मौजूदा व्यवस्थाओं की समीक्षा की मांग करते हुए पांच प्रस्ताव पारित किए थे। इनमें यमुना के पानी में उचित हिस्सा, सतलुज, रावी और ब्यास के पानी के उपयोग के लिए राजस्थान से रॉयल्टी तथा प्रमुख हेडवर्क्स पर अधिक नियंत्रण की मांग शामिल थी। 1966 में पंजाब के पुनर्गठन और हरियाणा के गठन के बाद यह विवाद और जटिल हो गया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Punjab was reorganised on 1 November 1966.",
+                        "पंजाब का पुनर्गठन 1 नवंबर 1966 को हुआ था।",
+                        "Haryana was formed as a separate state on 1 November 1966.",
+                        "हरियाणा का गठन 1 नवंबर 1966 को एक अलग राज्य के रूप में हुआ था।",
+                        "The Sutlej, Ravi and Beas are important rivers associated with Punjab.",
+                        "सतलुज, रावी और ब्यास पंजाब से जुड़ी महत्वपूर्ण नदियां हैं।",
+                        "The Punjab Reorganisation Act was passed in 1966.",
+                        "पंजाब पुनर्गठन अधिनियम 1966 में पारित हुआ था।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "On which date was Punjab reorganised in 1966? | 1966 में पंजाब का पुनर्गठन किस तारीख को हुआ था?",
+                            "options": [
+                                "1 January",
+                                "1 April",
+                                "1 November",
+                                "15 August"
+                            ],
+                            "answer": "1 November"
+                        },
+                        {
+                            "question": "Which state was formed separately from Punjab in 1966? | 1966 में पंजाब से अलग होकर किस राज्य का गठन हुआ?",
+                            "options": [
+                                "Haryana | हरियाणा",
+                                "Himachal Pradesh | हिमाचल प्रदेश",
+                                "Rajasthan | राजस्थान",
+                                "Uttarakhand | उत्तराखंड"
+                            ],
+                            "answer": "Haryana | हरियाणा"
+                        },
+                        {
+                            "question": "Which river was included in Punjab's demand for an equitable water share? | पंजाब की उचित जल हिस्सेदारी की मांग में कौन-सी नदी शामिल थी?",
+                            "options": [
+                                "Yamuna | यमुना",
+                                "Godavari | गोदावरी",
+                                "Kaveri | कावेरी",
+                                "Narmada | नर्मदा"
+                            ],
+                            "answer": "Yamuna | यमुना"
+                        },
+                        {
+                            "question": "Which three rivers were mentioned in the royalty demand from Rajasthan? | राजस्थान से रॉयल्टी की मांग में किन तीन नदियों का उल्लेख किया गया?",
+                            "options": [
+                                "Ganga, Yamuna, Ghaghara",
+                                "Sutlej, Ravi, Beas",
+                                "Krishna, Kaveri, Godavari",
+                                "Narmada, Tapi, Mahi"
+                            ],
+                            "answer": "Sutlej, Ravi, Beas"
+                        },
+                        {
+                            "question": "Which Act is associated with the reorganisation of Punjab? | पंजाब के पुनर्गठन से कौन-सा अधिनियम संबंधित है?",
+                            "options": [
+                                "Punjab Reorganisation Act, 1966",
+                                "States Reorganisation Act, 1950",
+                                "River Boards Act, 1956",
+                                "Inter-State Water Act, 1970"
+                            ],
+                            "answer": "Punjab Reorganisation Act, 1966"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and Banking",
+                    "title": "LRS Remittances Cross $20 Billion in First Eight Months of 2026 | 2026 के पहले आठ महीनों में LRS के तहत विदेश भेजी गई राशि 20 अरब डॉलर के पार",
+                    "summary": "EN: Outward remittances under the Reserve Bank of India's Liberalised Remittance Scheme crossed $20 billion during January-August 2026. Resident Indians remitted approximately $20.09 billion, compared with $19.08 billion during the corresponding period in 2025, registering growth of 5.26 per cent. Overseas travel was the largest component of these remittances. The LRS allows resident individuals to remit up to $250,000 in a financial year for permitted transactions.\nHI: भारतीय रिजर्व बैंक की Liberalised Remittance Scheme के तहत जनवरी-अगस्त 2026 के दौरान विदेश भेजी गई राशि 20 अरब डॉलर से अधिक हो गई। भारतीय निवासियों ने लगभग 20.09 अरब डॉलर विदेश भेजे, जबकि 2025 की इसी अवधि में यह राशि 19.08 अरब डॉलर थी। इसमें 5.26 प्रतिशत की वृद्धि दर्ज की गई। विदेश यात्रा इस राशि का सबसे बड़ा हिस्सा रही। LRS के तहत निवासी व्यक्ति एक वित्त वर्ष में अनुमत लेन-देन के लिए अधिकतम 250,000 डॉलर भेज सकते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "LRS stands for Liberalised Remittance Scheme.",
+                        "LRS का पूरा नाम लिबरलाइज्ड रेमिटेंस स्कीम है।",
+                        "The Liberalised Remittance Scheme was introduced by RBI in 2004.",
+                        "लिबरलाइज्ड रेमिटेंस स्कीम RBI द्वारा 2004 में शुरू की गई थी।",
+                        "The scheme permits resident individuals to remit up to USD 250,000 per financial year for permitted transactions.",
+                        "यह योजना निवासी व्यक्तियों को अनुमत लेन-देन के लिए प्रति वित्त वर्ष 250,000 अमेरिकी डॉलर तक भेजने की अनुमति देती है।",
+                        "The Reserve Bank of India is India's central bank.",
+                        "भारतीय रिजर्व बैंक भारत का केंद्रीय बैंक है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of LRS? | LRS का पूरा नाम क्या है?",
+                            "options": [
+                                "Liberalised Remittance Scheme",
+                                "Limited Revenue System",
+                                "Local Remittance Service",
+                                "Long-term Reserve Scheme"
+                            ],
+                            "answer": "Liberalised Remittance Scheme"
+                        },
+                        {
+                            "question": "Which institution introduced the LRS? | LRS किस संस्था ने शुरू की?",
+                            "options": [
+                                "SEBI | सेबी",
+                                "RBI | आरबीआई",
+                                "NABARD | नाबार्ड",
+                                "SBI | एसबीआई"
+                            ],
+                            "answer": "RBI | आरबीआई"
+                        },
+                        {
+                            "question": "In which year was the LRS introduced? | LRS किस वर्ष शुरू की गई थी?",
+                            "options": [
+                                "1999",
+                                "2001",
+                                "2004",
+                                "2010"
+                            ],
+                            "answer": "2004"
+                        },
+                        {
+                            "question": "What is the annual remittance limit under LRS for permitted transactions? | अनुमत लेन-देन के लिए LRS के तहत वार्षिक राशि सीमा कितनी है?",
+                            "options": [
+                                "USD 50,000",
+                                "USD 100,000",
+                                "USD 200,000",
+                                "USD 250,000"
+                            ],
+                            "answer": "USD 250,000"
+                        },
+                        {
+                            "question": "What was the approximate LRS remittance amount during January-August 2026? | जनवरी-अगस्त 2026 के दौरान LRS के तहत लगभग कितनी राशि भेजी गई?",
+                            "options": [
+                                "USD 10.09 billion",
+                                "USD 15.09 billion",
+                                "USD 20.09 billion",
+                                "USD 25.09 billion"
+                            ],
+                            "answer": "USD 20.09 billion"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports and Awards",
+                    "title": "PV Sindhu Wins Hylo Open 2026 Title | पीवी सिंधु ने 2026 हाइलो ओपन का खिताब जीता",
+                    "summary": "EN: Indian badminton star PV Sindhu won the women's singles title at the Hylo Open 2026 in Germany. She defeated Denmark's Line Kjaersfeldt 21-12, 21-14 in the final. It was Sindhu's second title of 2026 and another important achievement in her badminton career. The tournament is part of the BWF World Tour Super 500 circuit.\nHI: भारतीय बैडमिंटन खिलाड़ी पीवी सिंधु ने जर्मनी में आयोजित हाइलो ओपन 2026 का महिला एकल खिताब जीता। उन्होंने फाइनल में डेनमार्क की लाइन क्याएर्सफेल्ट को 21-12, 21-14 से हराया। यह 2026 में सिंधु का दूसरा खिताब था और उनके बैडमिंटन करियर की एक महत्वपूर्ण उपलब्धि रही। यह टूर्नामेंट BWF वर्ल्ड टूर सुपर 500 सर्किट का हिस्सा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "PV Sindhu is an Indian badminton player.",
+                        "पीवी सिंधु एक भारतीय बैडमिंटन खिलाड़ी हैं।",
+                        "She won the World Badminton Championship gold medal in 2019.",
+                        "उन्होंने 2019 में विश्व बैडमिंटन चैंपियनशिप का स्वर्ण पदक जीता था।",
+                        "The Badminton World Federation is abbreviated as BWF.",
+                        "बैडमिंटन वर्ल्ड फेडरेशन का संक्षिप्त नाम BWF है।",
+                        "Badminton is played with a shuttlecock and racquets.",
+                        "बैडमिंटन में शटलकॉक और रैकेट का उपयोग किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Indian player won the Hylo Open 2026 women's singles title? | हाइलो ओपन 2026 महिला एकल खिताब किस भारतीय खिलाड़ी ने जीता?",
+                            "options": [
+                                "Saina Nehwal | साइना नेहवाल",
+                                "PV Sindhu | पीवी सिंधु",
+                                "Ankita Raina | अंकिता रैना",
+                                "Jwala Gutta | ज्वाला गुट्टा"
+                            ],
+                            "answer": "PV Sindhu | पीवी सिंधु"
+                        },
+                        {
+                            "question": "Which country hosted the Hylo Open? | हाइलो ओपन किस देश में आयोजित हुआ?",
+                            "options": [
+                                "France | फ्रांस",
+                                "Germany | जर्मनी",
+                                "Denmark | डेनमार्क",
+                                "Japan | जापान"
+                            ],
+                            "answer": "Germany | जर्मनी"
+                        },
+                        {
+                            "question": "Whom did PV Sindhu defeat in the final? | फाइनल में पीवी सिंधु ने किसे हराया?",
+                            "options": [
+                                "Line Kjaersfeldt | लाइन क्याएर्सफेल्ट",
+                                "An Se-young | आन से-यंग",
+                                "Carolina Marin | कैरोलिना मारिन",
+                                "Tai Tzu-ying | ताई त्ज़ु-यिंग"
+                            ],
+                            "answer": "Line Kjaersfeldt | लाइन क्याएर्सफेल्ट"
+                        },
+                        {
+                            "question": "What was the final score? | फाइनल का स्कोर क्या था?",
+                            "options": [
+                                "21-12, 21-14",
+                                "21-18, 21-19",
+                                "19-21, 21-15",
+                                "21-10, 21-10"
+                            ],
+                            "answer": "21-12, 21-14"
+                        },
+                        {
+                            "question": "Which international body governs world badminton? | विश्व बैडमिंटन का संचालन कौन-सी अंतरराष्ट्रीय संस्था करती है?",
+                            "options": [
+                                "FIFA",
+                                "BWF",
+                                "ICC",
+                                "FIDE"
+                            ],
+                            "answer": "BWF"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports and Badminton",
+                    "title": "Lakshya Sen Wins Hylo Open 2026 Men's Singles Title | लक्ष्य सेन ने हाइलो ओपन 2026 पुरुष एकल खिताब जीता",
+                    "summary": "EN: Indian shuttler Lakshya Sen won the men's singles title at the Hylo Open 2026. He defeated Indonesia's Jonatan Christie in the final to end his title drought. The victory added another international title to his career and strengthened India's presence in international badminton.\nHI: भारतीय बैडमिंटन खिलाड़ी लक्ष्य सेन ने हाइलो ओपन 2026 का पुरुष एकल खिताब जीता। उन्होंने फाइनल में इंडोनेशिया के जोनाथन क्रिस्टी को हराकर खिताब जीतने का इंतजार समाप्त किया। इस जीत से उनके करियर में एक और अंतरराष्ट्रीय खिताब जुड़ा और विश्व बैडमिंटन में भारत की उपस्थिति मजबूत हुई।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Lakshya Sen is an Indian men's singles badminton player.",
+                        "लक्ष्य सेन भारत के पुरुष एकल बैडमिंटन खिलाड़ी हैं।",
+                        "He won a bronze medal at the 2021 World Championships.",
+                        "उन्होंने 2021 विश्व चैंपियनशिप में कांस्य पदक जीता था।",
+                        "Jonatan Christie is a badminton player from Indonesia.",
+                        "जोनाथन क्रिस्टी इंडोनेशिया के बैडमिंटन खिलाड़ी हैं।",
+                        "The Hylo Open is an international badminton tournament held in Germany.",
+                        "हाइलो ओपन जर्मनी में आयोजित होने वाला अंतरराष्ट्रीय बैडमिंटन टूर्नामेंट है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who won the men's singles title at Hylo Open 2026? | हाइलो ओपन 2026 का पुरुष एकल खिताब किसने जीता?",
+                            "options": [
+                                "Kidambi Srikanth | किदांबी श्रीकांत",
+                                "Lakshya Sen | लक्ष्य सेन",
+                                "HS Prannoy | एचएस प्रणय",
+                                "Satwiksairaj Rankireddy | सात्विकसाईराज रंकीरेड्डी"
+                            ],
+                            "answer": "Lakshya Sen | लक्ष्य सेन"
+                        },
+                        {
+                            "question": "Which country does Jonatan Christie represent? | जोनाथन क्रिस्टी किस देश का प्रतिनिधित्व करते हैं?",
+                            "options": [
+                                "Malaysia | मलेशिया",
+                                "Indonesia | इंडोनेशिया",
+                                "Japan | जापान",
+                                "China | चीन"
+                            ],
+                            "answer": "Indonesia | इंडोनेशिया"
+                        },
+                        {
+                            "question": "Which sport is associated with Lakshya Sen? | लक्ष्य सेन किस खेल से संबंधित हैं?",
+                            "options": [
+                                "Tennis | टेनिस",
+                                "Badminton | बैडमिंटन",
+                                "Table Tennis | टेबल टेनिस",
+                                "Squash | स्क्वैश"
+                            ],
+                            "answer": "Badminton | बैडमिंटन"
+                        },
+                        {
+                            "question": "In which year did Lakshya Sen win a World Championships bronze medal? | लक्ष्य सेन ने विश्व चैंपियनशिप में कांस्य पदक किस वर्ष जीता?",
+                            "options": [
+                                "2018",
+                                "2019",
+                                "2021",
+                                "2023"
+                            ],
+                            "answer": "2021"
+                        },
+                        {
+                            "question": "Hylo Open is held in which country? | हाइलो ओपन किस देश में आयोजित होता है?",
+                            "options": [
+                                "Germany | जर्मनी",
+                                "India | भारत",
+                                "China | चीन",
+                                "Thailand | थाईलैंड"
+                            ],
+                            "answer": "Germany | जर्मनी"
+                        }
+                    ]
+                },
+                {
+                    "category": "Aviation and Disaster Safety",
+                    "title": "Char Dham Helicopter Operators Oppose Mandatory Two-Pilot Rule | चारधाम हेलीकॉप्टर ऑपरेटरों ने दो पायलट अनिवार्य करने के नियम का विरोध किया",
+                    "summary": "EN: Helicopter operators in Uttarakhand threatened to suspend Char Dham charter services from November 2 in response to a new requirement making two pilots mandatory on every flight. The Directorate General of Civil Aviation introduced the measure after a helicopter crash near Joshimath that killed six people. The new safety measures also included destination and route clearance and pilot reports after landing.\nHI: उत्तराखंड के हेलीकॉप्टर ऑपरेटरों ने हर उड़ान में दो पायलट अनिवार्य करने के नए नियम के विरोध में 2 नवंबर से चारधाम चार्टर सेवाएं बंद करने की चेतावनी दी। नागरिक उड्डयन महानिदेशालय ने जोशीमठ के पास हुए हेलीकॉप्टर हादसे के बाद यह कदम उठाया, जिसमें छह लोगों की मौत हुई थी। नए सुरक्षा उपायों में उड़ान से पहले गंतव्य और मार्ग की मंजूरी तथा लैंडिंग के बाद पायलट रिपोर्ट देना भी शामिल था।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "DGCA stands for Directorate General of Civil Aviation.",
+                        "DGCA का पूरा नाम नागरिक उड्डयन महानिदेशालय है।",
+                        "DGCA is the regulatory body for civil aviation safety in India.",
+                        "DGCA भारत में नागरिक उड्डयन सुरक्षा के लिए नियामक संस्था है।",
+                        "Char Dham refers to four major pilgrimage sites in Uttarakhand.",
+                        "चारधाम उत्तराखंड के चार प्रमुख तीर्थस्थलों को कहा जाता है।",
+                        "Joshimath is located in Chamoli district of Uttarakhand.",
+                        "जोशीमठ उत्तराखंड के चमोली जिले में स्थित है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the full form of DGCA? | DGCA का पूरा नाम क्या है?",
+                            "options": [
+                                "Directorate General of Civil Aviation | नागरिक उड्डयन महानिदेशालय",
+                                "Department of General Civil Administration",
+                                "Directorate of Global Commercial Aviation",
+                                "Department of Government Civil Affairs"
+                            ],
+                            "answer": "Directorate General of Civil Aviation | नागरिक उड्डयन महानिदेशालय"
+                        },
+                        {
+                            "question": "How many pilots were proposed to be mandatory on each Char Dham charter flight? | प्रत्येक चारधाम चार्टर उड़ान में कितने पायलट अनिवार्य करने का प्रस्ताव था?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Three",
+                                "Four"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "question": "Where did the helicopter crash take place? | हेलीकॉप्टर हादसा कहाँ हुआ था?",
+                            "options": [
+                                "Joshimath | जोशीमठ",
+                                "Dehradun | देहरादून",
+                                "Haridwar | हरिद्वार",
+                                "Rishikesh | ऋषिकेश"
+                            ],
+                            "answer": "Joshimath | जोशीमठ"
+                        },
+                        {
+                            "question": "In which state are the Char Dham pilgrimage sites located? | चारधाम तीर्थस्थल किस राज्य में स्थित हैं?",
+                            "options": [
+                                "Himachal Pradesh | हिमाचल प्रदेश",
+                                "Uttarakhand | उत्तराखंड",
+                                "Uttar Pradesh | उत्तर प्रदेश",
+                                "Sikkim | सिक्किम"
+                            ],
+                            "answer": "Uttarakhand | उत्तराखंड"
+                        },
+                        {
+                            "question": "Which authority regulates civil aviation safety in India? | भारत में नागरिक उड्डयन सुरक्षा का नियमन कौन करता है?",
+                            "options": [
+                                "DGCA",
+                                "NHAI",
+                                "CPCB",
+                                "SEBI"
+                            ],
+                            "answer": "DGCA"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways and Infrastructure",
+                    "title": "Second Vande Bharat Sleeper Train to Connect Bengaluru and Mumbai | दूसरी वंदे भारत स्लीपर ट्रेन बेंगलुरु और मुंबई को जोड़ेगी",
+                    "summary": "EN: India's second Vande Bharat Sleeper train was scheduled to connect Bengaluru and Mumbai from November 1. The service was planned to cover the distance in approximately 16 hours, reducing travel time by up to eight hours compared with existing trains. The train was designed with 16 fully air-conditioned coaches and a capacity of 823 passengers. It was developed by BEML using technology from the Integral Coach Factory.\nHI: भारत की दूसरी वंदे भारत स्लीपर ट्रेन को 1 नवंबर से बेंगलुरु और मुंबई के बीच चलाने की योजना थी। इस सेवा के लगभग 16 घंटे में दूरी तय करने की उम्मीद थी, जिससे मौजूदा ट्रेनों की तुलना में यात्रा समय आठ घंटे तक कम हो सकता था। ट्रेन में 16 पूरी तरह वातानुकूलित कोच और 823 यात्रियों की क्षमता निर्धारित की गई थी। इसे इंटीग्रल कोच फैक्ट्री की तकनीक का उपयोग करके BEML ने विकसित किया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Vande Bharat is an indigenously developed semi-high-speed train service.",
+                        "वंदे भारत स्वदेशी रूप से विकसित सेमी-हाई-स्पीड ट्रेन सेवा है।",
+                        "The first Vande Bharat Express service was launched in 2019.",
+                        "पहली वंदे भारत एक्सप्रेस सेवा 2019 में शुरू हुई थी।",
+                        "BEML stands for Bharat Earth Movers Limited.",
+                        "BEML का पूरा नाम भारत अर्थ मूवर्स लिमिटेड है।",
+                        "Integral Coach Factory is located in Chennai.",
+                        "इंटीग्रल कोच फैक्ट्री चेन्नई में स्थित है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two cities were to be connected by the second Vande Bharat Sleeper train? | दूसरी वंदे भारत स्लीपर ट्रेन किन दो शहरों को जोड़ेगी?",
+                            "options": [
+                                "Delhi and Jaipur | दिल्ली और जयपुर",
+                                "Bengaluru and Mumbai | बेंगलुरु और मुंबई",
+                                "Chennai and Hyderabad | चेन्नई और हैदराबाद",
+                                "Lucknow and Patna | लखनऊ और पटना"
+                            ],
+                            "answer": "Bengaluru and Mumbai | बेंगलुरु और मुंबई"
+                        },
+                        {
+                            "question": "How many passengers is the train designed to accommodate? | ट्रेन में कितने यात्रियों के बैठने की क्षमता निर्धारित की गई?",
+                            "options": [
+                                "623",
+                                "723",
+                                "823",
+                                "923"
+                            ],
+                            "answer": "823"
+                        },
+                        {
+                            "question": "How many fully air-conditioned coaches were planned? | कितने पूरी तरह वातानुकूलित कोच निर्धारित किए गए?",
+                            "options": [
+                                "12",
+                                "14",
+                                "16",
+                                "18"
+                            ],
+                            "answer": "16"
+                        },
+                        {
+                            "question": "Which company developed the train using ICF technology? | ICF तकनीक का उपयोग करके ट्रेन किस कंपनी ने विकसित की?",
+                            "options": [
+                                "BEML",
+                                "HAL",
+                                "BEL",
+                                "BHEL"
+                            ],
+                            "answer": "BEML"
+                        },
+                        {
+                            "question": "Where is the Integral Coach Factory located? | इंटीग्रल कोच फैक्ट्री कहाँ स्थित है?",
+                            "options": [
+                                "Mumbai | मुंबई",
+                                "Chennai | चेन्नई",
+                                "Kolkata | कोलकाता",
+                                "Bengaluru | बेंगलुरु"
+                            ],
+                            "answer": "Chennai | चेन्नई"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports and Cricket",
+                    "title": "New Zealand Wins Fifth T20I Against India | न्यूजीलैंड ने भारत के खिलाफ पांचवां T20I जीता",
+                    "summary": "EN: New Zealand defeated India in the fifth T20 International, denying the Indian team a perfect finish to the series. Tim Seifert played an important role in the New Zealand innings. The match was part of the bilateral T20I series between India and New Zealand and highlighted the importance of batting and fielding consistency in the shortest international format.\nHI: न्यूजीलैंड ने पांचवें T20 अंतरराष्ट्रीय मुकाबले में भारत को हराकर भारतीय टीम को श्रृंखला का पूर्ण जीत के साथ समापन करने से रोक दिया। न्यूजीलैंड की पारी में टिम सीफर्ट ने महत्वपूर्ण भूमिका निभाई। यह मुकाबला भारत और न्यूजीलैंड के बीच द्विपक्षीय T20I श्रृंखला का हिस्सा था और इसने क्रिकेट के सबसे छोटे अंतरराष्ट्रीय प्रारूप में बल्लेबाजी तथा क्षेत्ररक्षण की निरंतरता का महत्व दिखाया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "T20 International cricket is played with 20 overs per side.",
+                        "T20 अंतरराष्ट्रीय क्रिकेट में प्रत्येक टीम 20 ओवर खेलती है।",
+                        "The International Cricket Council is abbreviated as ICC.",
+                        "अंतरराष्ट्रीय क्रिकेट परिषद का संक्षिप्त नाम ICC है।",
+                        "New Zealand's national cricket team is commonly known as the Black Caps.",
+                        "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम को सामान्यतः ब्लैक कैप्स कहा जाता है।",
+                        "Tim Seifert is a cricketer from New Zealand.",
+                        "टिम सीफर्ट न्यूजीलैंड के क्रिकेट खिलाड़ी हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team won the fifth T20I against India? | भारत के खिलाफ पांचवां T20I किस टीम ने जीता?",
+                            "options": [
+                                "India | भारत",
+                                "New Zealand | न्यूजीलैंड",
+                                "Australia | ऑस्ट्रेलिया",
+                                "England | इंग्लैंड"
+                            ],
+                            "answer": "New Zealand | न्यूजीलैंड"
+                        },
+                        {
+                            "question": "Who played an important role for New Zealand in the match? | मैच में न्यूजीलैंड के लिए किस खिलाड़ी ने महत्वपूर्ण भूमिका निभाई?",
+                            "options": [
+                                "Kane Williamson | केन विलियमसन",
+                                "Tim Seifert | टिम सीफर्ट",
+                                "Trent Boult | ट्रेंट बोल्ट",
+                                "Devon Conway | डेवोन कॉनवे"
+                            ],
+                            "answer": "Tim Seifert | टिम सीफर्ट"
+                        },
+                        {
+                            "question": "How many overs does each team get in a T20 International? | T20 अंतरराष्ट्रीय मैच में प्रत्येक टीम को कितने ओवर मिलते हैं?",
+                            "options": [
+                                "10",
+                                "20",
+                                "40",
+                                "50"
+                            ],
+                            "answer": "20"
+                        },
+                        {
+                            "question": "What is the common nickname of New Zealand's cricket team? | न्यूजीलैंड की क्रिकेट टीम का लोकप्रिय उपनाम क्या है?",
+                            "options": [
+                                "Black Caps | ब्लैक कैप्स",
+                                "Baggy Greens | बैगी ग्रीन्स",
+                                "Proteas | प्रोटियाज",
+                                "Windies | विंडीज"
+                            ],
+                            "answer": "Black Caps | ब्लैक कैप्स"
+                        },
+                        {
+                            "question": "What is the full form of ICC? | ICC का पूरा नाम क्या है?",
+                            "options": [
+                                "International Cricket Council | अंतरराष्ट्रीय क्रिकेट परिषद",
+                                "Indian Cricket Committee",
+                                "International Coaching Council",
+                                "Indian Championship Council"
+                            ],
+                            "answer": "International Cricket Council | अंतरराष्ट्रीय क्रिकेट परिषद"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports and Athletics",
+                    "title": "Kajal's World Championship Success After Asian Games Disappointment | एशियाई खेलों की निराशा के बाद काजल की विश्व चैंपियनशिप में सफलता",
+                    "summary": "EN: The Indian Express highlighted how an earlier disappointment at the Asian Games motivated Indian athlete Kajal to achieve success at the World Championships. Her journey reflected the importance of persistence, preparation and mental strength in competitive sports. The report also focused on the role of international competitions in helping Indian athletes improve their performance and gain experience.\nHI: The Indian Express ने बताया कि एशियाई खेलों में मिली निराशा ने भारतीय खिलाड़ी काजल को विश्व चैंपियनशिप में सफलता हासिल करने के लिए प्रेरित किया। उनकी यात्रा ने प्रतिस्पर्धी खेलों में निरंतर प्रयास, तैयारी और मानसिक मजबूती के महत्व को दर्शाया। रिपोर्ट में अंतरराष्ट्रीय प्रतियोगिताओं की भूमिका पर भी प्रकाश डाला गया, जो भारतीय खिलाड़ियों को प्रदर्शन सुधारने और अनुभव प्राप्त करने में मदद करती हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Asian Games are a multi-sport event held among athletes from Asia.",
+                        "एशियाई खेल एशिया के खिलाड़ियों के बीच आयोजित होने वाला बहु-खेल आयोजन है।",
+                        "The Olympic Council of Asia oversees the Asian Games.",
+                        "ओलंपिक काउंसिल ऑफ एशिया एशियाई खेलों का संचालन करता है।",
+                        "World Championships are international competitions organised by sport-specific governing bodies.",
+                        "विश्व चैंपियनशिप संबंधित खेलों की अंतरराष्ट्रीय संचालन संस्थाओं द्वारा आयोजित प्रतियोगिताएं होती हैं।",
+                        "Sports performance depends on training, physical fitness and mental preparation.",
+                        "खेल प्रदर्शन प्रशिक्षण, शारीरिक फिटनेस और मानसिक तैयारी पर निर्भर करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which event had earlier disappointed Kajal before her World Championship success? | विश्व चैंपियनशिप की सफलता से पहले काजल को किस प्रतियोगिता में निराशा मिली थी?",
+                            "options": [
+                                "Asian Games | एशियाई खेल",
+                                "Commonwealth Games | राष्ट्रमंडल खेल",
+                                "Olympic Games | ओलंपिक खेल",
+                                "National Games | राष्ट्रीय खेल"
+                            ],
+                            "answer": "Asian Games | एशियाई खेल"
+                        },
+                        {
+                            "question": "Which continent's athletes participate in the Asian Games? | एशियाई खेलों में किस महाद्वीप के खिलाड़ी भाग लेते हैं?",
+                            "options": [
+                                "Europe | यूरोप",
+                                "Asia | एशिया",
+                                "Africa | अफ्रीका",
+                                "South America | दक्षिण अमेरिका"
+                            ],
+                            "answer": "Asia | एशिया"
+                        },
+                        {
+                            "question": "Which organisation oversees the Asian Games? | एशियाई खेलों का संचालन कौन-सी संस्था करती है?",
+                            "options": [
+                                "IOC",
+                                "OCA",
+                                "FIFA",
+                                "ICC"
+                            ],
+                            "answer": "OCA"
+                        },
+                        {
+                            "question": "Which quality was highlighted as important in an athlete's success? | खिलाड़ी की सफलता में किस गुण को महत्वपूर्ण बताया गया?",
+                            "options": [
+                                "Persistence | निरंतर प्रयास",
+                                "Carelessness | लापरवाही",
+                                "Lack of preparation | तैयारी की कमी",
+                                "Avoiding competition | प्रतियोगिता से बचना"
+                            ],
+                            "answer": "Persistence | निरंतर प्रयास"
+                        },
+                        {
+                            "question": "What does OCA stand for? | OCA का पूरा नाम क्या है?",
+                            "options": [
+                                "Olympic Council of Asia | ओलंपिक काउंसिल ऑफ एशिया",
+                                "Organisation of Cricket Associations",
+                                "Official Committee of Athletics",
+                                "Olympic Club of America"
+                            ],
+                            "answer": "Olympic Council of Asia | ओलंपिक काउंसिल ऑफ एशिया"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-11-02",
+            "date": "02 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 2 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Defence and Appointments",
+                    "title": "Ashutosh Dixit Takes Charge as 29th Chief of Air Staff | अशुतोष दीक्षित ने 29वें वायुसेना प्रमुख के रूप में पदभार संभाला",
+                    "summary": "EN: Air Chief Marshal Ashutosh Dixit took charge as the 29th Chief of the Air Staff of the Indian Air Force. He outlined the VAYU vision to strengthen the force, restore combat capability, promote indigenisation and improve coordination among the three armed services. His priorities include modernisation and strengthening India's air power.\nHI: एयर चीफ मार्शल अशुतोष दीक्षित ने भारतीय वायुसेना के 29वें प्रमुख के रूप में पदभार संभाला। उन्होंने वायुसेना को मजबूत करने, युद्ध क्षमता बहाल करने, स्वदेशीकरण को बढ़ावा देने और तीनों सेनाओं के बीच बेहतर समन्वय के लिए VAYU विजन प्रस्तुत किया। उनकी प्राथमिकताओं में आधुनिकीकरण और भारत की हवाई शक्ति को मजबूत करना शामिल है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Indian Air Force was established on 8 October 1932.",
+                        "भारतीय वायुसेना की स्थापना 8 अक्टूबर 1932 को हुई थी।",
+                        "The Chief of the Air Staff is the professional head of the Indian Air Force.",
+                        "वायुसेना प्रमुख भारतीय वायुसेना के पेशेवर प्रमुख होते हैं।",
+                        "The Indian Armed Forces consist of the Army, Navy and Air Force.",
+                        "भारतीय सशस्त्र बलों में थल सेना, नौसेना और वायुसेना शामिल हैं।",
+                        "The headquarters of the Indian Air Force is located in New Delhi.",
+                        "भारतीय वायुसेना का मुख्यालय नई दिल्ली में स्थित है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who took charge as the 29th Chief of Air Staff? | 29वें वायुसेना प्रमुख के रूप में किसने पदभार संभाला?",
+                            "options": [
+                                "Air Chief Marshal A P Singh",
+                                "Air Chief Marshal Ashutosh Dixit",
+                                "Air Chief Marshal V R Chaudhari",
+                                "Air Marshal Narmdeshwar Tiwari"
+                            ],
+                            "answer": "Air Chief Marshal Ashutosh Dixit"
+                        },
+                        {
+                            "question": "Which vision did Ashutosh Dixit outline? | अशुतोष दीक्षित ने कौन-सा विजन प्रस्तुत किया?",
+                            "options": [
+                                "VIKAS",
+                                "VAYU",
+                                "AGNI",
+                                "SHAKTI"
+                            ],
+                            "answer": "VAYU"
+                        },
+                        {
+                            "question": "When was the Indian Air Force established? | भारतीय वायुसेना की स्थापना कब हुई थी?",
+                            "options": [
+                                "8 October 1932",
+                                "15 August 1947",
+                                "26 January 1950",
+                                "1 April 1935"
+                            ],
+                            "answer": "8 October 1932"
+                        },
+                        {
+                            "question": "Which of the following is a priority mentioned in the VAYU vision? | VAYU विजन में निम्नलिखित में से किसे प्राथमिकता बताया गया?",
+                            "options": [
+                                "Indigenisation | स्वदेशीकरण",
+                                "Privatisation of the Army | सेना का निजीकरण",
+                                "Ending air operations | हवाई अभियान बंद करना",
+                                "Reducing defence training | रक्षा प्रशिक्षण कम करना"
+                            ],
+                            "answer": "Indigenisation | स्वदेशीकरण"
+                        },
+                        {
+                            "question": "The Indian Air Force is part of which organisation? | भारतीय वायुसेना किसका हिस्सा है?",
+                            "options": [
+                                "Indian Armed Forces | भारतीय सशस्त्र बल",
+                                "Central Armed Police Forces",
+                                "Indian Civil Services",
+                                "Border Roads Organisation"
+                            ],
+                            "answer": "Indian Armed Forces | भारतीय सशस्त्र बल"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment and Disaster Management",
+                    "title": "Cyclone Murasu Intensifies into a Severe Cyclonic Storm | चक्रवात मुरासु गंभीर चक्रवाती तूफान में बदला",
+                    "summary": "EN: Cyclone Murasu intensified into a severe cyclonic storm over the Bay of Bengal and was forecast to cross the south Andhra Pradesh coast near Ongole between the night of November 2 and the early hours of November 3. The India Meteorological Department warned of strong winds and heavy rainfall in coastal Andhra Pradesh and neighbouring states. The name Murasu was suggested by India and means drum in Tamil.\nHI: बंगाल की खाड़ी में चक्रवात मुरासु एक गंभीर चक्रवाती तूफान में बदल गया। इसके 2 नवंबर की रात और 3 नवंबर की सुबह के बीच ओंगोल के पास दक्षिण आंध्र प्रदेश तट से टकराने का अनुमान था। भारतीय मौसम विज्ञान विभाग ने तटीय आंध्र प्रदेश और आसपास के राज्यों में तेज हवाओं तथा भारी बारिश की चेतावनी दी। मुरासु नाम भारत ने सुझाया था, जिसका तमिल भाषा में अर्थ ढोल होता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The India Meteorological Department was established in 1875.",
+                        "भारत मौसम विज्ञान विभाग की स्थापना 1875 में हुई थी।",
+                        "The IMD functions under the Ministry of Earth Sciences.",
+                        "IMD पृथ्वी विज्ञान मंत्रालय के अंतर्गत कार्य करता है।",
+                        "Cyclones in the North Indian Ocean are named through a regional naming system.",
+                        "उत्तर हिंद महासागर में चक्रवातों के नामकरण के लिए क्षेत्रीय प्रणाली का उपयोग किया जाता है।",
+                        "The Bay of Bengal is part of the northeastern Indian Ocean.",
+                        "बंगाल की खाड़ी उत्तर-पूर्वी हिंद महासागर का हिस्सा है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where did Cyclone Murasu intensify? | चक्रवात मुरासु कहाँ गंभीर हुआ?",
+                            "options": [
+                                "Arabian Sea | अरब सागर",
+                                "Bay of Bengal | बंगाल की खाड़ी",
+                                "Red Sea | लाल सागर",
+                                "South China Sea | दक्षिण चीन सागर"
+                            ],
+                            "answer": "Bay of Bengal | बंगाल की खाड़ी"
+                        },
+                        {
+                            "question": "Which Indian state was expected to be affected by Murasu's landfall? | मुरासु के तट से टकराने से किस भारतीय राज्य के प्रभावित होने की आशंका थी?",
+                            "options": [
+                                "Andhra Pradesh | आंध्र प्रदेश",
+                                "Punjab | पंजाब",
+                                "Rajasthan | राजस्थान",
+                                "Haryana | हरियाणा"
+                            ],
+                            "answer": "Andhra Pradesh | आंध्र प्रदेश"
+                        },
+                        {
+                            "question": "Which organisation issued the cyclone warning? | चक्रवात की चेतावनी किस संस्था ने जारी की?",
+                            "options": [
+                                "ISRO",
+                                "IMD",
+                                "NITI Aayog",
+                                "CPCB"
+                            ],
+                            "answer": "IMD"
+                        },
+                        {
+                            "question": "What does the name Murasu mean in Tamil? | तमिल भाषा में मुरासु का क्या अर्थ है?",
+                            "options": [
+                                "Rain | बारिश",
+                                "Wind | हवा",
+                                "Drum | ढोल",
+                                "Ocean | समुद्र"
+                            ],
+                            "answer": "Drum | ढोल"
+                        },
+                        {
+                            "question": "In which year was the IMD established? | IMD की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1865",
+                                "1875",
+                                "1885",
+                                "1901"
+                            ],
+                            "answer": "1875"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and GST",
+                    "title": "GST Collection Rises 23% to Rs 2.31 Lakh Crore in October | अक्टूबर में GST संग्रह 23% बढ़कर 2.31 लाख करोड़ रुपये हुआ",
+                    "summary": "EN: India's gross Goods and Services Tax collection increased by around 23 per cent year-on-year to over Rs 2.31 lakh crore in October 2026. The increase was supported by festive-season demand and higher economic activity. It was the second-highest monthly GST collection since the introduction of the tax and the second consecutive month in which collections crossed Rs 2 lakh crore.\nHI: अक्टूबर 2026 में भारत का सकल वस्तु एवं सेवा कर संग्रह सालाना आधार पर लगभग 23 प्रतिशत बढ़कर 2.31 लाख करोड़ रुपये से अधिक हो गया। इस वृद्धि में त्योहारों के दौरान बढ़ी मांग और आर्थिक गतिविधियों का योगदान रहा। GST लागू होने के बाद यह दूसरा सबसे बड़ा मासिक संग्रह था। लगातार दूसरे महीने GST संग्रह 2 लाख करोड़ रुपये से अधिक रहा।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "GST stands for Goods and Services Tax.",
+                        "GST का पूरा नाम वस्तु एवं सेवा कर है।",
+                        "GST was implemented in India on 1 July 2017.",
+                        "भारत में GST 1 जुलाई 2017 को लागू किया गया था।",
+                        "The GST Council is provided for under Article 279A of the Constitution.",
+                        "संविधान के अनुच्छेद 279A में GST परिषद का प्रावधान है।",
+                        "The GST Council is chaired by the Union Finance Minister.",
+                        "GST परिषद की अध्यक्षता केंद्रीय वित्त मंत्री करते हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What was India's gross GST collection in October 2026? | अक्टूबर 2026 में भारत का सकल GST संग्रह कितना था?",
+                            "options": [
+                                "Rs 1.31 lakh crore",
+                                "Rs 1.81 lakh crore",
+                                "Rs 2.31 lakh crore",
+                                "Rs 2.91 lakh crore"
+                            ],
+                            "answer": "Rs 2.31 lakh crore"
+                        },
+                        {
+                            "question": "By approximately what percentage did GST collections increase year-on-year? | GST संग्रह में सालाना आधार पर लगभग कितने प्रतिशत वृद्धि हुई?",
+                            "options": [
+                                "13%",
+                                "18%",
+                                "23%",
+                                "30%"
+                            ],
+                            "answer": "23%"
+                        },
+                        {
+                            "question": "When was GST implemented in India? | भारत में GST कब लागू हुआ?",
+                            "options": [
+                                "1 July 2015",
+                                "1 July 2017",
+                                "1 April 2018",
+                                "1 January 2019"
+                            ],
+                            "answer": "1 July 2017"
+                        },
+                        {
+                            "question": "Which Article of the Constitution provides for the GST Council? | संविधान का कौन-सा अनुच्छेद GST परिषद का प्रावधान करता है?",
+                            "options": [
+                                "Article 263",
+                                "Article 279A",
+                                "Article 280",
+                                "Article 324"
+                            ],
+                            "answer": "Article 279A"
+                        },
+                        {
+                            "question": "Who chairs the GST Council? | GST परिषद की अध्यक्षता कौन करता है?",
+                            "options": [
+                                "Prime Minister",
+                                "Union Finance Minister",
+                                "RBI Governor",
+                                "President of India"
+                            ],
+                            "answer": "Union Finance Minister"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways and Infrastructure",
+                    "title": "Vande Bharat Sleeper Services Begin on Two Routes | दो मार्गों पर वंदे भारत स्लीपर सेवाएं शुरू",
+                    "summary": "EN: Indian Railways began regular services of two Vande Bharat Sleeper trains on the Varanasi-New Delhi and Mumbai-Bengaluru routes on November 2. The trains have 16 coaches and offer three classes: Third AC, Second AC and First AC. The Varanasi-New Delhi service has a passenger capacity of 823 and includes stops at Prayagraj, Kanpur Central, Aligarh and Ghaziabad.\nHI: भारतीय रेलवे ने 2 नवंबर को वाराणसी-नई दिल्ली और मुंबई-बेंगलुरु मार्गों पर दो वंदे भारत स्लीपर ट्रेनों की नियमित सेवाएं शुरू कीं। इन ट्रेनों में 16 कोच हैं और थर्ड AC, सेकंड AC तथा फर्स्ट AC की तीन श्रेणियां उपलब्ध हैं। वाराणसी-नई दिल्ली ट्रेन की यात्री क्षमता 823 है और इसके प्रमुख ठहराव प्रयागराज, कानपुर सेंट्रल, अलीगढ़ तथा गाजियाबाद हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Vande Bharat is an indigenously developed semi-high-speed train service.",
+                        "वंदे भारत स्वदेशी रूप से विकसित सेमी-हाई-स्पीड ट्रेन सेवा है।",
+                        "The first Vande Bharat Express service was launched in 2019.",
+                        "पहली वंदे भारत एक्सप्रेस सेवा 2019 में शुरू हुई थी।",
+                        "BEML stands for Bharat Earth Movers Limited.",
+                        "BEML का पूरा नाम भारत अर्थ मूवर्स लिमिटेड है।",
+                        "IRCTC stands for Indian Railway Catering and Tourism Corporation.",
+                        "IRCTC का पूरा नाम इंडियन रेलवे कैटरिंग एंड टूरिज्म कॉर्पोरेशन है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which two routes received new Vande Bharat Sleeper services? | किन दो मार्गों पर नई वंदे भारत स्लीपर सेवाएं शुरू हुईं?",
+                            "options": [
+                                "Delhi-Jaipur and Mumbai-Pune",
+                                "Varanasi-New Delhi and Mumbai-Bengaluru",
+                                "Delhi-Lucknow and Chennai-Bengaluru",
+                                "Patna-Kolkata and Mumbai-Goa"
+                            ],
+                            "answer": "Varanasi-New Delhi and Mumbai-Bengaluru"
+                        },
+                        {
+                            "question": "How many coaches do the new Vande Bharat Sleeper trains have? | नई वंदे भारत स्लीपर ट्रेनों में कितने कोच हैं?",
+                            "options": [
+                                "12",
+                                "14",
+                                "16",
+                                "18"
+                            ],
+                            "answer": "16"
+                        },
+                        {
+                            "question": "What is the passenger capacity of the Varanasi-New Delhi Vande Bharat Sleeper? | वाराणसी-नई दिल्ली वंदे भारत स्लीपर की यात्री क्षमता कितनी है?",
+                            "options": [
+                                "623",
+                                "723",
+                                "823",
+                                "923"
+                            ],
+                            "answer": "823"
+                        },
+                        {
+                            "question": "Which station is a stoppage on the Varanasi-New Delhi route? | वाराणसी-नई दिल्ली मार्ग पर कौन-सा स्टेशन ठहराव है?",
+                            "options": [
+                                "Prayagraj | प्रयागराज",
+                                "Bhopal | भोपाल",
+                                "Agra Cantt | आगरा कैंट",
+                                "Gorakhpur | गोरखपुर"
+                            ],
+                            "answer": "Prayagraj | प्रयागराज"
+                        },
+                        {
+                            "question": "Which organisation operates online railway ticket booking in India? | भारत में ऑनलाइन रेलवे टिकट बुकिंग के लिए कौन-सी संस्था कार्य करती है?",
+                            "options": [
+                                "IRCTC",
+                                "NHAI",
+                                "SEBI",
+                                "NABARD"
+                            ],
+                            "answer": "IRCTC"
+                        }
+                    ]
+                },
+                {
+                    "category": "Women and Social Justice",
+                    "title": "Kerala High Court Allows Women to Work in Toddy Shops | केरल हाई कोर्ट ने महिलाओं को ताड़ी की दुकानों में काम करने की अनुमति दी",
+                    "summary": "EN: The Kerala High Court struck down a rule that prohibited women from working in toddy shops. The court held that the restriction violated constitutional guarantees of equality and freedom to choose a profession. The judgment emphasised that the State must provide a safe working environment instead of excluding women from an entire category of employment.\nHI: केरल हाई कोर्ट ने उस नियम को असंवैधानिक घोषित कर दिया, जो महिलाओं को ताड़ी की दुकानों में काम करने से रोकता था। अदालत ने कहा कि यह प्रतिबंध समानता और पेशा चुनने की स्वतंत्रता से जुड़े संवैधानिक अधिकारों का उल्लंघन करता है। न्यायालय ने जोर दिया कि महिलाओं को रोजगार से बाहर रखने के बजाय राज्य को सुरक्षित कार्यस्थल उपलब्ध कराना चाहिए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Article 14 guarantees equality before the law and equal protection of the laws.",
+                        "अनुच्छेद 14 कानून के समक्ष समानता और कानूनों के समान संरक्षण की गारंटी देता है।",
+                        "Article 15 prohibits discrimination on specified grounds.",
+                        "अनुच्छेद 15 निर्दिष्ट आधारों पर भेदभाव को प्रतिबंधित करता है।",
+                        "Article 19(1)(g) provides the freedom to practise any profession or carry on an occupation, trade or business.",
+                        "अनुच्छेद 19(1)(g) किसी भी पेशे, व्यवसाय, व्यापार या रोजगार को अपनाने की स्वतंत्रता देता है।",
+                        "Article 21 protects life and personal liberty.",
+                        "अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता की रक्षा करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which High Court struck down the rule prohibiting women from working in toddy shops? | ताड़ी की दुकानों में महिलाओं के काम करने पर रोक लगाने वाला नियम किस हाई कोर्ट ने रद्द किया?",
+                            "options": [
+                                "Madras High Court",
+                                "Kerala High Court",
+                                "Bombay High Court",
+                                "Delhi High Court"
+                            ],
+                            "answer": "Kerala High Court"
+                        },
+                        {
+                            "question": "Which constitutional Article guarantees equality before the law? | कौन-सा संवैधानिक अनुच्छेद कानून के समक्ष समानता की गारंटी देता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 25",
+                                "Article 32"
+                            ],
+                            "answer": "Article 14"
+                        },
+                        {
+                            "question": "Which Article protects the freedom to practise a profession? | कौन-सा अनुच्छेद पेशा अपनाने की स्वतंत्रता प्रदान करता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19(1)(g)",
+                                "Article 21",
+                                "Article 51A"
+                            ],
+                            "answer": "Article 19(1)(g)"
+                        },
+                        {
+                            "question": "Which rule was struck down by the Kerala High Court? | केरल हाई कोर्ट ने किस नियम को रद्द किया?",
+                            "options": [
+                                "Rule 7(37) of Kerala Abkari Shops and Disposal Rules, 2002",
+                                "Rule 10 of Motor Vehicles Rules",
+                                "Rule 5 of Forest Rules",
+                                "Rule 12 of Labour Code"
+                            ],
+                            "answer": "Rule 7(37) of Kerala Abkari Shops and Disposal Rules, 2002"
+                        },
+                        {
+                            "question": "Which constitutional Article protects life and personal liberty? | जीवन और व्यक्तिगत स्वतंत्रता की रक्षा कौन-सा अनुच्छेद करता है?",
+                            "options": [
+                                "Article 17",
+                                "Article 19",
+                                "Article 21",
+                                "Article 24"
+                            ],
+                            "answer": "Article 21"
+                        }
+                    ]
+                },
+                {
+                    "category": "Corporate Governance and Economy",
+                    "title": "53 of Top 100 Listed Companies Fail to Disclose Whistleblower Complaints | शीर्ष 100 सूचीबद्ध कंपनियों में से 53 ने व्हिसलब्लोअर शिकायतों का खुलासा नहीं किया",
+                    "summary": "EN: A corporate governance survey found that 53 of India's top 100 listed companies did not disclose information about whistleblower complaints in their FY26 annual reports. The companies covered by the survey reported 1,129 complaints, of which 13.37 per cent remained unresolved at the end of FY26. The findings raised concerns about transparency, board oversight and the effectiveness of internal complaint mechanisms.\nHI: कॉर्पोरेट गवर्नेंस से जुड़े एक सर्वेक्षण में पाया गया कि भारत की शीर्ष 100 सूचीबद्ध कंपनियों में से 53 ने अपनी FY26 वार्षिक रिपोर्ट में व्हिसलब्लोअर शिकायतों की जानकारी का खुलासा नहीं किया। सर्वेक्षण में शामिल कंपनियों में कुल 1,129 शिकायतें दर्ज हुईं, जिनमें से FY26 के अंत तक 13.37 प्रतिशत शिकायतें अनसुलझी रहीं। इस रिपोर्ट ने पारदर्शिता, बोर्ड की निगरानी और आंतरिक शिकायत व्यवस्था की प्रभावशीलता पर सवाल उठाए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "A whistleblower reports suspected wrongdoing, fraud or misconduct within an organisation.",
+                        "व्हिसलब्लोअर किसी संगठन में संभावित गलत कार्य, धोखाधड़ी या अनियमितता की सूचना देता है।",
+                        "SEBI stands for Securities and Exchange Board of India.",
+                        "SEBI का पूरा नाम भारतीय प्रतिभूति और विनिमय बोर्ड है।",
+                        "The Companies Act, 2013 contains provisions relating to corporate governance and company administration.",
+                        "कंपनी अधिनियम, 2013 में कॉर्पोरेट गवर्नेंस और कंपनी प्रशासन से संबंधित प्रावधान हैं।",
+                        "Independent directors are expected to provide objective oversight in company boards.",
+                        "स्वतंत्र निदेशकों से कंपनी के बोर्ड में निष्पक्ष निगरानी की अपेक्षा की जाती है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many of the top 100 listed companies failed to disclose whistleblower complaint information? | शीर्ष 100 सूचीबद्ध कंपनियों में से कितनी ने व्हिसलब्लोअर शिकायतों की जानकारी का खुलासा नहीं किया?",
+                            "options": [
+                                "23",
+                                "33",
+                                "43",
+                                "53"
+                            ],
+                            "answer": "53"
+                        },
+                        {
+                            "question": "How many complaints were reported in the survey? | सर्वेक्षण में कितनी शिकायतें दर्ज की गईं?",
+                            "options": [
+                                "929",
+                                "1,029",
+                                "1,129",
+                                "1,229"
+                            ],
+                            "answer": "1,129"
+                        },
+                        {
+                            "question": "What percentage of complaints remained unresolved at the end of FY26? | FY26 के अंत तक कितने प्रतिशत शिकायतें अनसुलझी रहीं?",
+                            "options": [
+                                "7.37%",
+                                "10.37%",
+                                "13.37%",
+                                "17.37%"
+                            ],
+                            "answer": "13.37%"
+                        },
+                        {
+                            "question": "What is the primary role of a whistleblower? | व्हिसलब्लोअर की मुख्य भूमिका क्या होती है?",
+                            "options": [
+                                "Reporting wrongdoing | गलत कार्यों की सूचना देना",
+                                "Approving company loans | कंपनी के ऋण मंजूर करना",
+                                "Auditing government budgets | सरकारी बजट का ऑडिट करना",
+                                "Managing stock exchanges | शेयर बाजारों का प्रबंधन करना"
+                            ],
+                            "answer": "Reporting wrongdoing | गलत कार्यों की सूचना देना"
+                        },
+                        {
+                            "question": "What is the full form of SEBI? | SEBI का पूरा नाम क्या है?",
+                            "options": [
+                                "Securities and Exchange Board of India",
+                                "State Economic Bank of India",
+                                "Stock Exchange Bureau of India",
+                                "Securities and Enterprise Bureau of India"
+                            ],
+                            "answer": "Securities and Exchange Board of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Renewable Energy and Climate",
+                    "title": "India Targets 500 GW Additional Non-Fossil Fuel Capacity | भारत ने 500 GW अतिरिक्त गैर-जीवाश्म ईंधन क्षमता का लक्ष्य रखा",
+                    "summary": "EN: Prime Minister Narendra Modi said India plans to add 500 GW of new non-fossil fuel energy capacity over the next 10 to 11 years. He also highlighted India's target of achieving 500 GW of non-fossil fuel capacity by 2030 and said the country had already achieved nearly 300 GW. More than half of India's installed electricity capacity was reported to be based on non-fossil sources.\nHI: प्रधानमंत्री नरेंद्र मोदी ने कहा कि भारत अगले 10 से 11 वर्षों में 500 GW की नई गैर-जीवाश्म ईंधन ऊर्जा क्षमता जोड़ेगा। उन्होंने 2030 तक 500 GW गैर-जीवाश्म ईंधन क्षमता हासिल करने के लक्ष्य पर भी जोर दिया और बताया कि देश लगभग 300 GW क्षमता हासिल कर चुका है। भारत की कुल स्थापित बिजली क्षमता का आधे से अधिक हिस्सा गैर-जीवाश्म स्रोतों पर आधारित बताया गया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "GW stands for Gigawatt, a unit of power equal to one billion watts.",
+                        "GW का पूरा नाम गीगावाट है, जो एक अरब वाट के बराबर शक्ति की इकाई है।",
+                        "Solar and wind energy are renewable sources of energy.",
+                        "सौर और पवन ऊर्जा नवीकरणीय ऊर्जा स्रोत हैं।",
+                        "The Ministry of New and Renewable Energy is responsible for promoting renewable energy in India.",
+                        "भारत में नवीकरणीय ऊर्जा को बढ़ावा देने की जिम्मेदारी नवीन एवं नवीकरणीय ऊर्जा मंत्रालय की है।",
+                        "The Paris Agreement was adopted in 2015.",
+                        "पेरिस समझौता 2015 में अपनाया गया था।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much additional non-fossil fuel capacity does India plan to add over the next 10-11 years? | भारत अगले 10-11 वर्षों में कितनी अतिरिक्त गैर-जीवाश्म ईंधन क्षमता जोड़ने की योजना बना रहा है?",
+                            "options": [
+                                "200 GW",
+                                "300 GW",
+                                "400 GW",
+                                "500 GW"
+                            ],
+                            "answer": "500 GW"
+                        },
+                        {
+                            "question": "By which year has India set a target of 500 GW non-fossil fuel capacity? | भारत ने 500 GW गैर-जीवाश्म ईंधन क्षमता का लक्ष्य किस वर्ष तक रखा है?",
+                            "options": [
+                                "2028",
+                                "2030",
+                                "2035",
+                                "2040"
+                            ],
+                            "answer": "2030"
+                        },
+                        {
+                            "question": "Who announced the additional capacity plan? | अतिरिक्त क्षमता की योजना की घोषणा किसने की?",
+                            "options": [
+                                "President of India",
+                                "Prime Minister Narendra Modi",
+                                "Union Finance Minister",
+                                "RBI Governor"
+                            ],
+                            "answer": "Prime Minister Narendra Modi"
+                        },
+                        {
+                            "question": "Which of the following is a non-fossil energy source? | निम्नलिखित में से कौन-सा गैर-जीवाश्म ऊर्जा स्रोत है?",
+                            "options": [
+                                "Coal | कोयला",
+                                "Petroleum | पेट्रोलियम",
+                                "Solar energy | सौर ऊर्जा",
+                                "Natural gas | प्राकृतिक गैस"
+                            ],
+                            "answer": "Solar energy | सौर ऊर्जा"
+                        },
+                        {
+                            "question": "What is the value of one gigawatt in watts? | एक गीगावाट कितने वाट के बराबर होता है?",
+                            "options": [
+                                "One million watts",
+                                "Ten million watts",
+                                "One hundred million watts",
+                                "One billion watts"
+                            ],
+                            "answer": "One billion watts"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science and Geological Survey",
+                    "title": "Dinesh V. Ganvir Takes Charge as 55th Director General of GSI | दिनेश वी. गनवीर ने GSI के 55वें महानिदेशक का पदभार संभाला",
+                    "summary": "EN: Dinesh Vitthalrao Ganvir assumed charge as the 55th Director General of the Geological Survey of India. He has more than three decades of experience in geological investigations, mineral exploration and engineering geology. The Geological Survey of India works under the Ministry of Mines and plays an important role in geological mapping and mineral resource exploration.\nHI: दिनेश विट्ठलराव गनवीर ने भारतीय भूवैज्ञानिक सर्वेक्षण यानी Geological Survey of India के 55वें महानिदेशक के रूप में पदभार संभाला। उन्हें भूवैज्ञानिक जांच, खनिज अन्वेषण और इंजीनियरिंग भूविज्ञान के क्षेत्र में तीन दशकों से अधिक का अनुभव है। भारतीय भूवैज्ञानिक सर्वेक्षण खान मंत्रालय के अंतर्गत कार्य करता है और भूवैज्ञानिक मानचित्रण तथा खनिज संसाधनों की खोज में महत्वपूर्ण भूमिका निभाता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "GSI stands for Geological Survey of India.",
+                        "GSI का पूरा नाम भारतीय भूवैज्ञानिक सर्वेक्षण है।",
+                        "The Geological Survey of India was established in 1851.",
+                        "भारतीय भूवैज्ञानिक सर्वेक्षण की स्थापना 1851 में हुई थी।",
+                        "The headquarters of GSI is located in Kolkata.",
+                        "GSI का मुख्यालय कोलकाता में स्थित है।",
+                        "GSI functions under the Ministry of Mines.",
+                        "GSI खान मंत्रालय के अंतर्गत कार्य करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who took charge as the 55th Director General of GSI? | GSI के 55वें महानिदेशक के रूप में किसने पदभार संभाला?",
+                            "options": [
+                                "Dinesh V. Ganvir",
+                                "Sanjay Malhotra",
+                                "Vikram Misri",
+                                "Ajay Kumar"
+                            ],
+                            "answer": "Dinesh V. Ganvir"
+                        },
+                        {
+                            "question": "What is the full form of GSI? | GSI का पूरा नाम क्या है?",
+                            "options": [
+                                "Geological Survey of India",
+                                "General Science Institute",
+                                "Geographical Society of India",
+                                "Government Survey Institution"
+                            ],
+                            "answer": "Geological Survey of India"
+                        },
+                        {
+                            "question": "In which year was GSI established? | GSI की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1851",
+                                "1875",
+                                "1901",
+                                "1947"
+                            ],
+                            "answer": "1851"
+                        },
+                        {
+                            "question": "Where is the headquarters of GSI located? | GSI का मुख्यालय कहाँ स्थित है?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Kolkata",
+                                "Hyderabad"
+                            ],
+                            "answer": "Kolkata"
+                        },
+                        {
+                            "question": "Under which ministry does GSI function? | GSI किस मंत्रालय के अंतर्गत कार्य करता है?",
+                            "options": [
+                                "Ministry of Earth Sciences",
+                                "Ministry of Mines",
+                                "Ministry of Environment",
+                                "Ministry of Science and Technology"
+                            ],
+                            "answer": "Ministry of Mines"
+                        }
+                    ]
+                },
+                {
+                    "category": "Sports and Cricket",
+                    "title": "India Wins T20I Series Against New Zealand 3-2 | भारत ने न्यूजीलैंड के खिलाफ T20I सीरीज 3-2 से जीती",
+                    "summary": "EN: India won the five-match T20 International series against New Zealand by 3-2 despite losing the fifth match. New Zealand won the final T20I by seven wickets in Hamilton, with Tim Seifert scoring 93 runs. India had already secured the series through three victories in the five-match contest.\nHI: भारत ने न्यूजीलैंड के खिलाफ पांच मैचों की T20 अंतरराष्ट्रीय श्रृंखला 3-2 से जीती, हालांकि भारत पांचवां मुकाबला हार गया। हैमिल्टन में खेले गए अंतिम T20I में न्यूजीलैंड ने सात विकेट से जीत दर्ज की और टिम सीफर्ट ने 93 रन बनाए। पांच मैचों की श्रृंखला में तीन मुकाबले जीतकर भारत पहले ही श्रृंखला अपने नाम कर चुका था।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "T20 International cricket is played with 20 overs per side.",
+                        "T20 अंतरराष्ट्रीय क्रिकेट में प्रत्येक टीम 20 ओवर खेलती है।",
+                        "The International Cricket Council is abbreviated as ICC.",
+                        "अंतरराष्ट्रीय क्रिकेट परिषद का संक्षिप्त नाम ICC है।",
+                        "New Zealand's national cricket team is commonly known as the Black Caps.",
+                        "न्यूजीलैंड की राष्ट्रीय क्रिकेट टीम को सामान्यतः ब्लैक कैप्स कहा जाता है।",
+                        "Hamilton is a city in New Zealand.",
+                        "हैमिल्टन न्यूजीलैंड का एक शहर है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which team won the five-match T20I series against New Zealand? | न्यूजीलैंड के खिलाफ पांच मैचों की T20I श्रृंखला किस टीम ने जीती?",
+                            "options": [
+                                "New Zealand",
+                                "India",
+                                "Australia",
+                                "England"
+                            ],
+                            "answer": "India"
+                        },
+                        {
+                            "question": "What was the final series score? | श्रृंखला का अंतिम स्कोर क्या रहा?",
+                            "options": [
+                                "5-0",
+                                "4-1",
+                                "3-2",
+                                "2-3"
+                            ],
+                            "answer": "3-2"
+                        },
+                        {
+                            "question": "By how many wickets did New Zealand win the fifth T20I? | न्यूजीलैंड ने पांचवां T20I कितने विकेट से जीता?",
+                            "options": [
+                                "3 wickets",
+                                "5 wickets",
+                                "7 wickets",
+                                "9 wickets"
+                            ],
+                            "answer": "7 wickets"
+                        },
+                        {
+                            "question": "Who scored 93 runs for New Zealand in the final T20I? | अंतिम T20I में न्यूजीलैंड के लिए 93 रन किसने बनाए?",
+                            "options": [
+                                "Kane Williamson",
+                                "Tim Seifert",
+                                "Glenn Phillips",
+                                "Devon Conway"
+                            ],
+                            "answer": "Tim Seifert"
+                        },
+                        {
+                            "question": "How many overs does each team receive in a T20 International? | T20 अंतरराष्ट्रीय मैच में प्रत्येक टीम को कितने ओवर मिलते हैं?",
+                            "options": [
+                                "10",
+                                "20",
+                                "40",
+                                "50"
+                            ],
+                            "answer": "20"
+                        }
+                    ]
+                },
+                {
+                    "category": "Road Safety and Public Safety",
+                    "title": "Eight Labourers Killed in Electrocution Accident in Rajasthan | राजस्थान में करंट लगने से आठ मजदूरों की मौत",
+                    "summary": "EN: Eight labourers were killed and five others injured in an electrocution accident in Chapoli village of Rajasthan's Jhunjhunu district. The accident occurred when a cement mixer machine being shifted by workers came into contact with an overhead high-tension power line. The Rajasthan government ordered an inquiry into the incident and announced financial assistance for the families of the deceased.\nHI: राजस्थान के झुंझुनू जिले के छापोली गांव में करंट लगने की दुर्घटना में आठ मजदूरों की मौत हो गई और पांच अन्य घायल हो गए। यह हादसा उस समय हुआ जब मजदूर सीमेंट मिक्सर मशीन को दूसरी जगह ले जा रहे थे और मशीन का हिस्सा ऊपर से गुजर रही हाई-टेंशन बिजली लाइन के संपर्क में आ गया। राजस्थान सरकार ने घटना की जांच के आदेश दिए और मृतकों के परिवारों के लिए आर्थिक सहायता की घोषणा की।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Jhunjhunu district is located in Rajasthan.",
+                        "झुंझुनू जिला राजस्थान में स्थित है।",
+                        "Electrocution can occur when a person or object comes into contact with a live electrical conductor.",
+                        "किसी व्यक्ति या वस्तु के जीवित विद्युत तार के संपर्क में आने से करंट लग सकता है।",
+                        "High-tension power lines carry electricity at high voltage.",
+                        "हाई-टेंशन बिजली लाइनें उच्च वोल्टेज पर बिजली पहुंचाती हैं।",
+                        "Electrical safety measures are important at construction sites.",
+                        "निर्माण स्थलों पर विद्युत सुरक्षा उपाय महत्वपूर्ण होते हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which Rajasthan district did the electrocution accident take place? | राजस्थान के किस जिले में करंट लगने की दुर्घटना हुई?",
+                            "options": [
+                                "Jaipur",
+                                "Jhunjhunu",
+                                "Jodhpur",
+                                "Kota"
+                            ],
+                            "answer": "Jhunjhunu"
+                        },
+                        {
+                            "question": "How many labourers were killed in the accident? | दुर्घटना में कितने मजदूरों की मौत हुई?",
+                            "options": [
+                                "5",
+                                "6",
+                                "8",
+                                "10"
+                            ],
+                            "answer": "8"
+                        },
+                        {
+                            "question": "What machine came into contact with the overhead power line? | ऊपर से गुजर रही बिजली लाइन के संपर्क में कौन-सी मशीन आई?",
+                            "options": [
+                                "Excavator",
+                                "Cement mixer machine",
+                                "Water tanker",
+                                "Tractor"
+                            ],
+                            "answer": "Cement mixer machine"
+                        },
+                        {
+                            "question": "What type of electrical line caused the accident? | दुर्घटना किस प्रकार की बिजली लाइन के कारण हुई?",
+                            "options": [
+                                "Low-tension line",
+                                "High-tension line",
+                                "Telephone line",
+                                "Optical fibre cable"
+                            ],
+                            "answer": "High-tension line"
+                        },
+                        {
+                            "question": "Which state government ordered an inquiry into the accident? | दुर्घटना की जांच का आदेश किस राज्य सरकार ने दिया?",
+                            "options": [
+                                "Gujarat",
+                                "Rajasthan",
+                                "Madhya Pradesh",
+                                "Haryana"
+                            ],
+                            "answer": "Rajasthan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-11-03",
+            "date": "03 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 3 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Environment and Disaster Management",
+                    "title": "Cyclone Murasu Makes Landfall in Andhra Pradesh | चक्रवात मुरासु ने आंध्र प्रदेश में दस्तक दी",
+                    "summary": "EN: Cyclone Murasu made landfall near Kothapatnam, close to Ongole in Andhra Pradesh, at around 1 AM on November 3. The storm brought extremely heavy rainfall and winds reaching around 150 kmph. Several trees were uprooted in Nellore, Prakasam and Bapatla districts, while low-lying areas experienced waterlogging. The state administration reviewed the situation and directed people to avoid affected roads until obstructions were cleared.\nHI: चक्रवात मुरासु ने 3 नवंबर को रात लगभग 1 बजे आंध्र प्रदेश में ओंगोल के पास कोठापटनम के निकट तट से टकराया। इसके कारण अत्यधिक भारी बारिश और लगभग 150 किमी प्रति घंटे की रफ्तार से हवाएं चलीं। नेल्लोर, प्रकाशम और बापटला जिलों में कई पेड़ उखड़ गए तथा निचले इलाकों में जलभराव हुआ। राज्य प्रशासन ने स्थिति की समीक्षा की और लोगों को रास्ते साफ होने तक प्रभावित सड़कों पर न जाने की सलाह दी।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Cyclones in the North Indian Ocean are named by a regional panel of countries.",
+                        "उत्तर हिंद महासागर में चक्रवातों के नामकरण के लिए देशों का एक क्षेत्रीय पैनल है।",
+                        "The India Meteorological Department was established in 1875.",
+                        "भारत मौसम विज्ञान विभाग की स्थापना 1875 में हुई थी।",
+                        "The Bay of Bengal is part of the northeastern Indian Ocean.",
+                        "बंगाल की खाड़ी उत्तर-पूर्वी हिंद महासागर का हिस्सा है।",
+                        "The National Disaster Response Force was established in 2006.",
+                        "राष्ट्रीय आपदा प्रतिक्रिया बल की स्थापना 2006 में हुई थी।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where did Cyclone Murasu make landfall? | चक्रवात मुरासु ने कहाँ तट से टकराया?",
+                            "options": [
+                                "Kothapatnam, Andhra Pradesh",
+                                "Puri, Odisha",
+                                "Chennai, Tamil Nadu",
+                                "Kochi, Kerala"
+                            ],
+                            "answer": "Kothapatnam, Andhra Pradesh"
+                        },
+                        {
+                            "question": "At approximately what time did Murasu make landfall? | मुरासु लगभग कितने बजे तट से टकराया?",
+                            "options": [
+                                "1 AM",
+                                "5 AM",
+                                "10 AM",
+                                "3 PM"
+                            ],
+                            "answer": "1 AM"
+                        },
+                        {
+                            "question": "Which district was among those affected by uprooted trees? | पेड़ उखड़ने से प्रभावित जिलों में कौन-सा जिला शामिल था?",
+                            "options": [
+                                "Nellore",
+                                "Jaipur",
+                                "Gurugram",
+                                "Lucknow"
+                            ],
+                            "answer": "Nellore"
+                        },
+                        {
+                            "question": "Which organisation provides official weather and cyclone warnings in India? | भारत में आधिकारिक मौसम और चक्रवात चेतावनी कौन जारी करता है?",
+                            "options": [
+                                "ISRO",
+                                "IMD",
+                                "NITI Aayog",
+                                "SEBI"
+                            ],
+                            "answer": "IMD"
+                        },
+                        {
+                            "question": "In which year was the National Disaster Response Force established? | राष्ट्रीय आपदा प्रतिक्रिया बल की स्थापना किस वर्ष हुई?",
+                            "options": [
+                                "2001",
+                                "2004",
+                                "2006",
+                                "2010"
+                            ],
+                            "answer": "2006"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence and Indigenous Manufacturing",
+                    "title": "India Signs Rs 53,866.50 Crore Deal for Eight Next-Generation Corvettes | भारत ने आठ अगली पीढ़ी के कॉर्वेट के लिए 53,866.50 करोड़ रुपये का समझौता किया",
+                    "summary": "EN: The Ministry of Defence signed contracts worth Rs 53,866.50 crore to build eight next-generation corvettes for the Indian Navy. The contracts were awarded to Garden Reach Shipbuilders and Engineers Limited (GRSE) and Goa Shipyard Limited (GSL). GRSE will build five ships, while GSL will build three. The ships will have advanced weapons, missiles and sensor systems and will support maritime surveillance, coastal defence and anti-submarine operations.\nHI: रक्षा मंत्रालय ने भारतीय नौसेना के लिए आठ अगली पीढ़ी के कॉर्वेट बनाने हेतु 53,866.50 करोड़ रुपये के समझौते किए। ये अनुबंध गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड (GRSE) और गोवा शिपयार्ड लिमिटेड (GSL) को दिए गए। GRSE पांच और GSL तीन जहाज बनाएगा। इन जहाजों में आधुनिक हथियार, मिसाइल और सेंसर सिस्टम होंगे तथा ये समुद्री निगरानी, तटीय सुरक्षा और पनडुब्बी रोधी अभियानों में मदद करेंगे।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "GRSE stands for Garden Reach Shipbuilders and Engineers Limited.",
+                        "GRSE का पूरा नाम गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड है।",
+                        "Goa Shipyard Limited is located in Goa.",
+                        "गोवा शिपयार्ड लिमिटेड गोवा में स्थित है।",
+                        "A corvette is a relatively small and agile naval warship.",
+                        "कॉर्वेट अपेक्षाकृत छोटा और तेज गति वाला नौसैनिक युद्धपोत होता है।",
+                        "The Indian Navy was established on 26 January 1950 in its present form.",
+                        "भारतीय नौसेना को वर्तमान स्वरूप 26 जनवरी 1950 को मिला था।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many next-generation corvettes will be built for the Indian Navy? | भारतीय नौसेना के लिए कितने अगली पीढ़ी के कॉर्वेट बनाए जाएंगे?",
+                            "options": [
+                                "4",
+                                "6",
+                                "8",
+                                "10"
+                            ],
+                            "answer": "8"
+                        },
+                        {
+                            "question": "What is the total value of the contracts? | इन अनुबंधों का कुल मूल्य कितना है?",
+                            "options": [
+                                "Rs 23,866.50 crore",
+                                "Rs 43,866.50 crore",
+                                "Rs 53,866.50 crore",
+                                "Rs 63,866.50 crore"
+                            ],
+                            "answer": "Rs 53,866.50 crore"
+                        },
+                        {
+                            "question": "Which company will build five of the corvettes? | पाँच कॉर्वेट कौन-सी कंपनी बनाएगी?",
+                            "options": [
+                                "GRSE",
+                                "GSL",
+                                "HAL",
+                                "BHEL"
+                            ],
+                            "answer": "GRSE"
+                        },
+                        {
+                            "question": "How many corvettes will Goa Shipyard Limited build? | गोवा शिपयार्ड लिमिटेड कितने कॉर्वेट बनाएगा?",
+                            "options": [
+                                "Two",
+                                "Three",
+                                "Five",
+                                "Eight"
+                            ],
+                            "answer": "Three"
+                        },
+                        {
+                            "question": "Which of the following is a role of a corvette? | निम्नलिखित में से कौन-सा कॉर्वेट का एक कार्य है?",
+                            "options": [
+                                "Anti-submarine warfare | पनडुब्बी रोधी युद्ध",
+                                "Space exploration | अंतरिक्ष अन्वेषण",
+                                "Weather forecasting | मौसम पूर्वानुमान",
+                                "Civil aviation | नागरिक विमानन"
+                            ],
+                            "answer": "Anti-submarine warfare | पनडुब्बी रोधी युद्ध"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "Foreign Secretary Vikram Misri to Visit Nepal on November 4-5 | विदेश सचिव विक्रम मिस्री 4-5 नवंबर को नेपाल जाएंगे",
+                    "summary": "EN: Foreign Secretary Vikram Misri is scheduled to visit Nepal on November 4 and 5, 2026. The visit is aimed at discussing bilateral, regional and global issues of mutual interest and preparing the ground for Nepal Prime Minister Balen Shah's likely visit to India later in November. Discussions are expected to focus on cross-border connectivity, including roads, railways, air routes and electricity transmission infrastructure.\nHI: विदेश सचिव विक्रम मिस्री 4 और 5 नवंबर 2026 को नेपाल की यात्रा करने वाले हैं। इस यात्रा का उद्देश्य द्विपक्षीय, क्षेत्रीय और वैश्विक मुद्दों पर चर्चा करना तथा नेपाल के प्रधानमंत्री बालेन शाह की नवंबर में संभावित भारत यात्रा की तैयारी करना है। बातचीत में सड़क, रेल, हवाई मार्ग और बिजली ट्रांसमिशन सहित सीमा पार संपर्क पर विशेष ध्यान दिए जाने की उम्मीद है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Nepal is a landlocked country in South Asia.",
+                        "नेपाल दक्षिण एशिया का एक स्थलरुद्ध देश है।",
+                        "India and Nepal share an open border.",
+                        "भारत और नेपाल के बीच खुली सीमा है।",
+                        "The capital of Nepal is Kathmandu.",
+                        "नेपाल की राजधानी काठमांडू है।",
+                        "The Ministry of External Affairs handles India's foreign relations.",
+                        "विदेश मंत्रालय भारत के विदेशी संबंधों का संचालन करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is scheduled to visit Nepal on November 4-5, 2026? | 4-5 नवंबर 2026 को नेपाल की यात्रा कौन करने वाले हैं?",
+                            "options": [
+                                "S Jaishankar",
+                                "Vikram Misri",
+                                "Ajit Doval",
+                                "Rajnath Singh"
+                            ],
+                            "answer": "Vikram Misri"
+                        },
+                        {
+                            "question": "Who is the Prime Minister of Nepal mentioned in the report? | रिपोर्ट में नेपाल के किस प्रधानमंत्री का उल्लेख है?",
+                            "options": [
+                                "Pushpa Kamal Dahal",
+                                "Sher Bahadur Deuba",
+                                "Balen Shah",
+                                "K P Sharma Oli"
+                            ],
+                            "answer": "Balen Shah"
+                        },
+                        {
+                            "question": "What is the capital of Nepal? | नेपाल की राजधानी क्या है?",
+                            "options": [
+                                "Pokhara",
+                                "Kathmandu",
+                                "Biratnagar",
+                                "Lalitpur"
+                            ],
+                            "answer": "Kathmandu"
+                        },
+                        {
+                            "question": "Which Indian ministry handles foreign relations? | भारत का कौन-सा मंत्रालय विदेशी संबंधों को संभालता है?",
+                            "options": [
+                                "Ministry of Home Affairs",
+                                "Ministry of External Affairs",
+                                "Ministry of Defence",
+                                "Ministry of Finance"
+                            ],
+                            "answer": "Ministry of External Affairs"
+                        },
+                        {
+                            "question": "Which of the following is a focus area of India-Nepal discussions? | भारत-नेपाल बातचीत का प्रमुख विषय कौन-सा है?",
+                            "options": [
+                                "Cross-border connectivity | सीमा पार संपर्क",
+                                "Arctic exploration | आर्कटिक अन्वेषण",
+                                "Space tourism | अंतरिक्ष पर्यटन",
+                                "Atlantic shipping | अटलांटिक समुद्री परिवहन"
+                            ],
+                            "answer": "Cross-border connectivity | सीमा पार संपर्क"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment and Air Pollution",
+                    "title": "Delhi-NCR Invokes GRAP Stage II as AQI Reaches Very Poor Category | AQI बहुत खराब श्रेणी में पहुंचने पर दिल्ली-NCR में GRAP-II लागू",
+                    "summary": "EN: Delhi-NCR implemented Stage II of the Graded Response Action Plan (GRAP) after air quality deteriorated to the Very Poor category. The AQI rose from 117 on October 31 to 261 on Sunday and then to 324 on Monday. Authorities attributed the deterioration to unfavourable weather conditions and farm fires, including those across the border in Pakistan's Punjab. Measures include increased road sweeping, water sprinkling, construction-site inspections and additional public transport services.\nHI: वायु गुणवत्ता बहुत खराब श्रेणी में पहुंचने के बाद दिल्ली-NCR में ग्रेडेड रिस्पॉन्स एक्शन प्लान (GRAP) का दूसरा चरण लागू किया गया। AQI 31 अक्टूबर के 117 से बढ़कर रविवार को 261 और सोमवार को 324 हो गया। अधिकारियों ने इसके लिए प्रतिकूल मौसम और खेतों में पराली जलाने की घटनाओं को जिम्मेदार बताया, जिनमें पाकिस्तान के पंजाब क्षेत्र की घटनाएं भी शामिल हैं। उपायों में सड़कों की सफाई, पानी का छिड़काव, निर्माण स्थलों की जांच और सार्वजनिक परिवहन सेवाओं में वृद्धि शामिल है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "AQI stands for Air Quality Index.",
+                        "AQI का पूरा नाम एयर क्वालिटी इंडेक्स है।",
+                        "The Commission for Air Quality Management was established in 2020.",
+                        "वायु गुणवत्ता प्रबंधन आयोग की स्थापना 2020 में हुई थी।",
+                        "GRAP stands for Graded Response Action Plan.",
+                        "GRAP का पूरा नाम ग्रेडेड रिस्पॉन्स एक्शन प्लान है।",
+                        "PM2.5 refers to particulate matter with a diameter of 2.5 micrometres or less.",
+                        "PM2.5 से आशय 2.5 माइक्रोमीटर या उससे छोटे कणों से है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which stage of GRAP was invoked in Delhi-NCR? | दिल्ली-NCR में GRAP का कौन-सा चरण लागू किया गया?",
+                            "options": [
+                                "Stage I",
+                                "Stage II",
+                                "Stage III",
+                                "Stage IV"
+                            ],
+                            "answer": "Stage II"
+                        },
+                        {
+                            "question": "What was the AQI reported on Monday? | सोमवार को AQI कितना दर्ज किया गया?",
+                            "options": [
+                                "117",
+                                "261",
+                                "324",
+                                "400"
+                            ],
+                            "answer": "324"
+                        },
+                        {
+                            "question": "What does AQI stand for? | AQI का पूरा नाम क्या है?",
+                            "options": [
+                                "Air Quality Index",
+                                "Air Quantity Indicator",
+                                "Atmospheric Quality Inspection",
+                                "Air Quota Index"
+                            ],
+                            "answer": "Air Quality Index"
+                        },
+                        {
+                            "question": "Which organisation implements air-pollution control measures in the NCR under GRAP? | NCR में GRAP के तहत वायु प्रदूषण नियंत्रण उपायों से जुड़ी संस्था कौन-सी है?",
+                            "options": [
+                                "SEBI",
+                                "CAQM",
+                                "NABARD",
+                                "UGC"
+                            ],
+                            "answer": "CAQM"
+                        },
+                        {
+                            "question": "Which pollutant refers to particles 2.5 micrometres or smaller? | 2.5 माइक्रोमीटर या उससे छोटे कणों को क्या कहते हैं?",
+                            "options": [
+                                "PM2.5",
+                                "PM10",
+                                "Ozone",
+                                "Carbon monoxide"
+                            ],
+                            "answer": "PM2.5"
+                        }
+                    ]
+                },
+                {
+                    "category": "Renewable Energy and Climate Change",
+                    "title": "India Plans to Add 500 GW of New Non-Fossil Fuel Capacity | भारत अगले 10-11 वर्षों में 500 GW नई गैर-जीवाश्म ऊर्जा क्षमता जोड़ेगा",
+                    "summary": "EN: Prime Minister Narendra Modi announced that India plans to add 500 GW of new non-fossil fuel energy capacity over the next 10-11 years. He stated that more than 50 per cent of India's installed power capacity was already based on non-fossil sources and that the country had achieved this milestone five years ahead of its earlier target. India is also working towards its 500 GW non-fossil capacity goal for 2030.\nHI: प्रधानमंत्री नरेंद्र मोदी ने घोषणा की कि भारत अगले 10-11 वर्षों में 500 GW की नई गैर-जीवाश्म ईंधन ऊर्जा क्षमता जोड़ेगा। उन्होंने बताया कि भारत की स्थापित बिजली क्षमता का 50 प्रतिशत से अधिक हिस्सा पहले ही गैर-जीवाश्म स्रोतों पर आधारित हो चुका है और देश ने यह उपलब्धि अपने पहले के लक्ष्य से पांच वर्ष पहले हासिल की। भारत 2030 तक 500 GW गैर-जीवाश्म क्षमता के लक्ष्य की दिशा में भी काम कर रहा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "GW stands for Gigawatt, equal to one billion watts.",
+                        "GW का अर्थ गीगावाट है, जो एक अरब वाट के बराबर होता है।",
+                        "Solar and wind power are renewable energy sources.",
+                        "सौर और पवन ऊर्जा नवीकरणीय ऊर्जा स्रोत हैं।",
+                        "The Paris Agreement was adopted in 2015.",
+                        "पेरिस समझौता 2015 में अपनाया गया था।",
+                        "India's net-zero target year is 2070.",
+                        "भारत ने 2070 तक नेट-जीरो उत्सर्जन का लक्ष्य रखा है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How much new non-fossil fuel capacity does India plan to add over the next 10-11 years? | भारत अगले 10-11 वर्षों में कितनी नई गैर-जीवाश्म ऊर्जा क्षमता जोड़ेगा?",
+                            "options": [
+                                "200 GW",
+                                "300 GW",
+                                "400 GW",
+                                "500 GW"
+                            ],
+                            "answer": "500 GW"
+                        },
+                        {
+                            "question": "Who announced India's new non-fossil capacity plan? | भारत की नई गैर-जीवाश्म क्षमता योजना की घोषणा किसने की?",
+                            "options": [
+                                "President of India",
+                                "Prime Minister Narendra Modi",
+                                "Union Finance Minister",
+                                "RBI Governor"
+                            ],
+                            "answer": "Prime Minister Narendra Modi"
+                        },
+                        {
+                            "question": "By which year is India's 500 GW non-fossil capacity goal set? | भारत का 500 GW गैर-जीवाश्म क्षमता लक्ष्य किस वर्ष तक है?",
+                            "options": [
+                                "2028",
+                                "2030",
+                                "2040",
+                                "2070"
+                            ],
+                            "answer": "2030"
+                        },
+                        {
+                            "question": "Which of the following is a renewable energy source? | निम्नलिखित में से कौन-सा नवीकरणीय ऊर्जा स्रोत है?",
+                            "options": [
+                                "Coal",
+                                "Petroleum",
+                                "Solar energy",
+                                "Natural gas"
+                            ],
+                            "answer": "Solar energy"
+                        },
+                        {
+                            "question": "What is India's net-zero target year? | भारत का नेट-जीरो लक्ष्य वर्ष कौन-सा है?",
+                            "options": [
+                                "2030",
+                                "2047",
+                                "2060",
+                                "2070"
+                            ],
+                            "answer": "2070"
+                        }
+                    ]
+                },
+                {
+                    "category": "Wildlife and Conservation",
+                    "title": "Why Satellite-Collared Cheetahs Cannot Be Live-Tracked | सैटेलाइट कॉलर लगे चीतों की लाइव ट्रैकिंग क्यों संभव नहीं है",
+                    "summary": "EN: Kuno National Park Director Uttam Kumar Sharma explained that satellite collars fitted on cheetahs do not provide continuous live tracking. The collars generally transmit location information at six-hour intervals to balance location updates and battery life. Cheetahs can travel several kilometres between transmissions, making it difficult for monitoring teams to reach their exact location. Officials also use VHF radio equipment for more precise tracking on the ground.\nHI: कूनो राष्ट्रीय उद्यान के निदेशक उत्तम कुमार शर्मा ने बताया कि चीतों पर लगाए गए सैटेलाइट कॉलर लगातार लाइव लोकेशन उपलब्ध नहीं कराते। बैटरी की अवधि और लोकेशन अपडेट के बीच संतुलन बनाए रखने के लिए ये कॉलर सामान्यतः छह घंटे के अंतराल पर जानकारी भेजते हैं। इस दौरान चीते कई किलोमीटर आगे जा सकते हैं, जिससे निगरानी दलों के लिए उनकी सटीक स्थिति तक पहुंचना कठिन हो जाता है। जमीन पर अधिक सटीक निगरानी के लिए VHF रेडियो उपकरणों का भी उपयोग किया जाता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Project Cheetah was launched in India on 17 September 2022.",
+                        "भारत में प्रोजेक्ट चीता 17 सितंबर 2022 को शुरू किया गया था।",
+                        "Kuno National Park is located in Madhya Pradesh.",
+                        "कूनो राष्ट्रीय उद्यान मध्य प्रदेश में स्थित है।",
+                        "Cheetahs were declared extinct in India in 1952.",
+                        "भारत में चीतों को 1952 में विलुप्त घोषित किया गया था।",
+                        "VHF stands for Very High Frequency.",
+                        "VHF का पूरा नाम वेरी हाई फ्रीक्वेंसी है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is Kuno National Park located? | कूनो राष्ट्रीय उद्यान कहाँ स्थित है?",
+                            "options": [
+                                "Rajasthan",
+                                "Madhya Pradesh",
+                                "Gujarat",
+                                "Maharashtra"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "At what general interval do satellite collars transmit location information? | सैटेलाइट कॉलर सामान्यतः कितने अंतराल पर लोकेशन जानकारी भेजते हैं?",
+                            "options": [
+                                "Every hour",
+                                "Every three hours",
+                                "Every six hours",
+                                "Every 24 hours"
+                            ],
+                            "answer": "Every six hours"
+                        },
+                        {
+                            "question": "When was Project Cheetah launched in India? | भारत में प्रोजेक्ट चीता कब शुरू किया गया था?",
+                            "options": [
+                                "2018",
+                                "2020",
+                                "2022",
+                                "2024"
+                            ],
+                            "answer": "17 September 2022"
+                        },
+                        {
+                            "question": "What is the full form of VHF? | VHF का पूरा नाम क्या है?",
+                            "options": [
+                                "Very High Frequency",
+                                "Variable High Function",
+                                "Visual Hunting Format",
+                                "Very Heavy Frequency"
+                            ],
+                            "answer": "Very High Frequency"
+                        },
+                        {
+                            "question": "In which year were cheetahs declared extinct in India? | भारत में चीतों को किस वर्ष विलुप्त घोषित किया गया था?",
+                            "options": [
+                                "1947",
+                                "1952",
+                                "1962",
+                                "1972"
+                            ],
+                            "answer": "1952"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and Investment",
+                    "title": "Finance Minister Says Government Will Sustain Capital Expenditure to Support Growth | वित्त मंत्री ने विकास के लिए सरकारी पूंजीगत व्यय जारी रखने की बात कही",
+                    "summary": "EN: Finance Minister Nirmala Sitharaman said the government would continue supporting economic growth through capital expenditure until private investment picks up. She emphasised the importance of maintaining growth of 7 per cent or above and acknowledged concerns raised by retail investors and market participants about stock valuations and capital gains taxation. She said the government would listen to stakeholders before deciding on possible measures.\nHI: वित्त मंत्री निर्मला सीतारमण ने कहा कि निजी निवेश में तेजी आने तक सरकार पूंजीगत व्यय के माध्यम से आर्थिक विकास को समर्थन देती रहेगी। उन्होंने 7 प्रतिशत या उससे अधिक आर्थिक विकास बनाए रखने के महत्व पर जोर दिया और शेयरों के मूल्यांकन तथा कैपिटल गेन टैक्स को लेकर खुदरा निवेशकों और बाजार से जुड़े लोगों की चिंताओं को स्वीकार किया। उन्होंने कहा कि किसी भी संभावित कदम से पहले संबंधित पक्षों की बात सुनी जाएगी।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Capital expenditure creates or improves long-term assets such as roads and infrastructure.",
+                        "पूंजीगत व्यय से सड़क और बुनियादी ढांचे जैसी दीर्घकालिक संपत्तियां बनती या बेहतर होती हैं।",
+                        "The Union Budget is presented by the Union Finance Minister.",
+                        "केंद्रीय बजट केंद्रीय वित्त मंत्री द्वारा प्रस्तुत किया जाता है।",
+                        "The Reserve Bank of India was established in 1935.",
+                        "भारतीय रिजर्व बैंक की स्थापना 1935 में हुई थी।",
+                        "FPI stands for Foreign Portfolio Investment.",
+                        "FPI का पूरा नाम फॉरेन पोर्टफोलियो इन्वेस्टमेंट है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is India's Union Finance Minister? | भारत की केंद्रीय वित्त मंत्री कौन हैं?",
+                            "options": [
+                                "Nirmala Sitharaman",
+                                "Smriti Irani",
+                                "Annapurna Devi",
+                                "Piyush Goyal"
+                            ],
+                            "answer": "Nirmala Sitharaman"
+                        },
+                        {
+                            "question": "What will the government continue to use to support growth until private investment picks up? | निजी निवेश बढ़ने तक सरकार विकास को समर्थन देने के लिए किसका उपयोग जारी रखेगी?",
+                            "options": [
+                                "Capital expenditure",
+                                "Import restrictions only",
+                                "Higher customs duties only",
+                                "Currency printing"
+                            ],
+                            "answer": "Capital expenditure"
+                        },
+                        {
+                            "question": "What annual economic growth level did the Finance Minister emphasise as important? | वित्त मंत्री ने किस वार्षिक आर्थिक विकास दर को महत्वपूर्ण बताया?",
+                            "options": [
+                                "4% or above",
+                                "5% or above",
+                                "7% or above",
+                                "10% or above"
+                            ],
+                            "answer": "7% or above"
+                        },
+                        {
+                            "question": "What does FPI stand for? | FPI का पूरा नाम क्या है?",
+                            "options": [
+                                "Foreign Portfolio Investment",
+                                "Federal Public Income",
+                                "Financial Payment Index",
+                                "Foreign Private Insurance"
+                            ],
+                            "answer": "Foreign Portfolio Investment"
+                        },
+                        {
+                            "question": "In which year was the Reserve Bank of India established? | भारतीय रिजर्व बैंक की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1925",
+                                "1935",
+                                "1947",
+                                "1950"
+                            ],
+                            "answer": "1935"
+                        }
+                    ]
+                },
+                {
+                    "category": "Indian Polity and Governance",
+                    "title": "Bombay High Court Hears Case Involving OCI Cardholder's Participation in Protest | बॉम्बे हाई कोर्ट में OCI कार्डधारक के विरोध प्रदर्शन में भाग लेने से जुड़ा मामला",
+                    "summary": "EN: The Bombay High Court heard a petition involving actor Imran Khan, a US citizen and Overseas Citizen of India (OCI) cardholder, after a Leave India Notice was issued by the Foreigners Regional Registration Office. The court asked him to submit an unconditional apology and an undertaking regarding participation in future protests. After the undertaking was submitted, the court kept the notice in abeyance until the next hearing scheduled for December 7. The case raised questions about the rights and legal status of OCI cardholders.\nHI: बॉम्बे हाई कोर्ट ने अभिनेता इमरान खान से जुड़े मामले की सुनवाई की, जो अमेरिकी नागरिक और ओवरसीज सिटिजन ऑफ इंडिया (OCI) कार्डधारक हैं। उनके खिलाफ विदेशी क्षेत्रीय पंजीकरण कार्यालय द्वारा भारत छोड़ने का नोटिस जारी किया गया था। अदालत ने उनसे बिना शर्त माफी और भविष्य में विरोध प्रदर्शनों में भाग न लेने से संबंधित लिखित आश्वासन मांगा। आश्वासन दिए जाने के बाद अदालत ने नोटिस को 7 दिसंबर को अगली सुनवाई तक स्थगित रखा। इस मामले ने OCI कार्डधारकों के अधिकारों और कानूनी स्थिति पर चर्चा शुरू की।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The OCI scheme was introduced in 2005.",
+                        "OCI योजना 2005 में शुरू की गई थी।",
+                        "OCI is not the same as full Indian citizenship.",
+                        "OCI पूर्ण भारतीय नागरिकता के समान नहीं है।",
+                        "Article 19 of the Constitution provides certain freedoms to Indian citizens.",
+                        "संविधान का अनुच्छेद 19 भारतीय नागरिकों को कुछ स्वतंत्रताएं प्रदान करता है।",
+                        "The Foreigners Regional Registration Office deals with registration-related matters concerning foreign nationals.",
+                        "विदेशी क्षेत्रीय पंजीकरण कार्यालय विदेशी नागरिकों के पंजीकरण से जुड़े मामलों को देखता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which High Court heard the case involving the OCI cardholder? | OCI कार्डधारक से जुड़े मामले की सुनवाई किस हाई कोर्ट ने की?",
+                            "options": [
+                                "Delhi High Court",
+                                "Bombay High Court",
+                                "Madras High Court",
+                                "Kerala High Court"
+                            ],
+                            "answer": "Bombay High Court"
+                        },
+                        {
+                            "question": "What is the full form of OCI? | OCI का पूरा नाम क्या है?",
+                            "options": [
+                                "Overseas Citizen of India",
+                                "Official Citizen Identity",
+                                "Overseas Council of India",
+                                "Organisation of Citizens in India"
+                            ],
+                            "answer": "Overseas Citizen of India"
+                        },
+                        {
+                            "question": "In which year was the OCI scheme introduced? | OCI योजना किस वर्ष शुरू की गई थी?",
+                            "options": [
+                                "1999",
+                                "2002",
+                                "2005",
+                                "2010"
+                            ],
+                            "answer": "2005"
+                        },
+                        {
+                            "question": "Which office issued the Leave India Notice? | भारत छोड़ने का नोटिस किस कार्यालय ने जारी किया था?",
+                            "options": [
+                                "FRRO",
+                                "SEBI",
+                                "NIA",
+                                "UPSC"
+                            ],
+                            "answer": "FRRO"
+                        },
+                        {
+                            "question": "Which Article of the Constitution provides certain freedoms to Indian citizens? | संविधान का कौन-सा अनुच्छेद भारतीय नागरिकों को कुछ स्वतंत्रताएं देता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 25",
+                                "Article 32"
+                            ],
+                            "answer": "Article 19"
+                        }
+                    ]
+                },
+                {
+                    "category": "Indian Railways and Transport",
+                    "title": "Bengaluru-Mumbai Vande Bharat Sleeper Service Set to Begin Commercial Run | बेंगलुरु-मुंबई वंदे भारत स्लीपर सेवा का व्यावसायिक संचालन शुरू",
+                    "summary": "EN: The Bengaluru-Mumbai Vande Bharat Sleeper train was scheduled to begin its commercial run on November 3, 2026. The service is intended to improve overnight rail connectivity between the two major cities. The train offers AC 3-Tier, AC 2-Tier and First AC accommodation. It is part of Indian Railways' effort to expand modern sleeper services on important long-distance routes.\nHI: बेंगलुरु-मुंबई वंदे भारत स्लीपर ट्रेन का व्यावसायिक संचालन 3 नवंबर 2026 से शुरू होना निर्धारित था। इस सेवा का उद्देश्य दोनों बड़े शहरों के बीच रात के समय रेल संपर्क को बेहतर बनाना है। ट्रेन में AC 3-Tier, AC 2-Tier और First AC की सुविधाएं उपलब्ध हैं। यह महत्वपूर्ण लंबी दूरी के मार्गों पर आधुनिक स्लीपर सेवाओं का विस्तार करने की भारतीय रेलवे की पहल का हिस्सा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Vande Bharat trains are indigenously developed semi-high-speed trains.",
+                        "वंदे भारत ट्रेनें स्वदेशी रूप से विकसित सेमी-हाई-स्पीड ट्रेनें हैं।",
+                        "The first Vande Bharat Express was launched in 2019.",
+                        "पहली वंदे भारत एक्सप्रेस 2019 में शुरू हुई थी।",
+                        "Indian Railways operates under the Ministry of Railways.",
+                        "भारतीय रेलवे रेल मंत्रालय के अंतर्गत कार्य करता है।",
+                        "IRCTC manages online railway ticketing services.",
+                        "IRCTC ऑनलाइन रेलवे टिकट सेवाओं का प्रबंधन करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which route was scheduled to receive the Vande Bharat Sleeper commercial service on November 3? | 3 नवंबर को किस मार्ग पर वंदे भारत स्लीपर की व्यावसायिक सेवा शुरू होनी थी?",
+                            "options": [
+                                "Delhi-Jaipur",
+                                "Bengaluru-Mumbai",
+                                "Chennai-Hyderabad",
+                                "Patna-Kolkata"
+                            ],
+                            "answer": "Bengaluru-Mumbai"
+                        },
+                        {
+                            "question": "Which type of train is Vande Bharat? | वंदे भारत किस प्रकार की ट्रेन है?",
+                            "options": [
+                                "Metro train",
+                                "Semi-high-speed train",
+                                "Goods train",
+                                "Narrow-gauge train"
+                            ],
+                            "answer": "Semi-high-speed train"
+                        },
+                        {
+                            "question": "Which accommodation class is available on the sleeper service? | स्लीपर सेवा में कौन-सी श्रेणी उपलब्ध है?",
+                            "options": [
+                                "AC 3-Tier",
+                                "General only",
+                                "Unreserved only",
+                                "Chair Car only"
+                            ],
+                            "answer": "AC 3-Tier"
+                        },
+                        {
+                            "question": "In which year was the first Vande Bharat Express launched? | पहली वंदे भारत एक्सप्रेस किस वर्ष शुरू हुई थी?",
+                            "options": [
+                                "2017",
+                                "2018",
+                                "2019",
+                                "2021"
+                            ],
+                            "answer": "2019"
+                        },
+                        {
+                            "question": "Under which ministry does Indian Railways operate? | भारतीय रेलवे किस मंत्रालय के अंतर्गत कार्य करता है?",
+                            "options": [
+                                "Ministry of Transport",
+                                "Ministry of Railways",
+                                "Ministry of Commerce",
+                                "Ministry of Home Affairs"
+                            ],
+                            "answer": "Ministry of Railways"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and Foreign Investment",
+                    "title": "Finance Minister Open to Investor Concerns on Capital Gains Tax and Market Valuations | वित्त मंत्री ने कैपिटल गेन टैक्स और बाजार मूल्यांकन पर निवेशकों की चिंताओं पर विचार करने की बात कही",
+                    "summary": "EN: Union Finance Minister Nirmala Sitharaman acknowledged concerns among retail investors about high stock valuations and the capital gains tax regime. She said the government would hear different stakeholders before considering any action. She also stressed that economic growth depends on strong fundamentals and capital availability, rather than tax concessions alone. Sustaining economic growth of 7 per cent or above remains an important priority.\nHI: केंद्रीय वित्त मंत्री निर्मला सीतारमण ने शेयर बाजार के ऊंचे मूल्यांकन और कैपिटल गेन टैक्स व्यवस्था को लेकर खुदरा निवेशकों की चिंताओं को स्वीकार किया। उन्होंने कहा कि सरकार कोई कदम उठाने से पहले विभिन्न संबंधित पक्षों की बात सुनेगी। उन्होंने यह भी कहा कि आर्थिक विकास केवल टैक्स छूट पर नहीं, बल्कि मजबूत आर्थिक आधार और पूंजी की उपलब्धता पर निर्भर करता है। 7 प्रतिशत या उससे अधिक विकास दर बनाए रखना महत्वपूर्ण प्राथमिकता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Capital gains tax is levied on profits earned from the sale of capital assets.",
+                        "कैपिटल गेन टैक्स पूंजीगत संपत्तियों की बिक्री से होने वाले लाभ पर लगाया जाता है।",
+                        "The Union Finance Ministry is responsible for the country's financial policy.",
+                        "केंद्रीय वित्त मंत्रालय देश की वित्तीय नीति के लिए जिम्मेदार है।",
+                        "FPI means Foreign Portfolio Investor or Foreign Portfolio Investment, depending on context.",
+                        "FPI का अर्थ संदर्भ के अनुसार विदेशी पोर्टफोलियो निवेशक या विदेशी पोर्टफोलियो निवेश होता है।",
+                        "The Union Budget is generally presented once a year.",
+                        "केंद्रीय बजट सामान्यतः वर्ष में एक बार प्रस्तुत किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who acknowledged investor concerns about capital gains tax? | कैपिटल गेन टैक्स को लेकर निवेशकों की चिंताओं को किसने स्वीकार किया?",
+                            "options": [
+                                "Nirmala Sitharaman",
+                                "Rajnath Singh",
+                                "Piyush Goyal",
+                                "Amit Shah"
+                            ],
+                            "answer": "Nirmala Sitharaman"
+                        },
+                        {
+                            "question": "Which tax regime was a concern for retail investors? | खुदरा निवेशकों की चिंता किस कर व्यवस्था को लेकर थी?",
+                            "options": [
+                                "GST",
+                                "Capital gains tax",
+                                "Property tax",
+                                "Road tax"
+                            ],
+                            "answer": "Capital gains tax"
+                        },
+                        {
+                            "question": "What did the Finance Minister say the government would do before considering action? | वित्त मंत्री के अनुसार कदम उठाने से पहले सरकार क्या करेगी?",
+                            "options": [
+                                "Hear stakeholders",
+                                "Close stock exchanges",
+                                "Ban private investment",
+                                "Stop all trading"
+                            ],
+                            "answer": "Hear stakeholders"
+                        },
+                        {
+                            "question": "What annual growth rate did the Finance Minister highlight as important? | वित्त मंत्री ने किस वार्षिक विकास दर को महत्वपूर्ण बताया?",
+                            "options": [
+                                "3%",
+                                "5%",
+                                "7%",
+                                "12%"
+                            ],
+                            "answer": "7%"
+                        },
+                        {
+                            "question": "Capital gains tax is generally levied on what? | कैपिटल गेन टैक्स सामान्यतः किस पर लगाया जाता है?",
+                            "options": [
+                                "Profit from sale of capital assets",
+                                "Monthly salary only",
+                                "Bank deposits only",
+                                "Agricultural rainfall"
+                            ],
+                            "answer": "Profit from sale of capital assets"
+                        }
+                    ]
+                },
+                {
+                    "category": "Science and Astronomy",
+                    "title": "Milky Way Grew by Merging with Other Galaxies, Leaving Ancient Ghost Stars | अन्य आकाशगंगाओं के विलय से मिल्की वे का विस्तार हुआ, प्राचीन तारों के अवशेष मिले",
+                    "summary": "EN: Research on the Milky Way's formation highlights how our galaxy grew over billions of years by merging with smaller galaxies. Such mergers left behind ancient stars and stellar streams that preserve evidence of the Milky Way's history. Astronomers use data from space-based observatories, including the European Space Agency's Gaia mission, to study the movement and origins of stars.\nHI: मिल्की वे के निर्माण पर हुए शोध से पता चलता है कि हमारी आकाशगंगा ने अरबों वर्षों में छोटी आकाशगंगाओं के साथ विलय करके अपना विस्तार किया। इन विलयों के कारण प्राचीन तारे और तारों की धाराएं पीछे रह गईं, जो मिल्की वे के इतिहास के प्रमाण देती हैं। खगोलविद तारों की गति और उत्पत्ति का अध्ययन करने के लिए यूरोपीय अंतरिक्ष एजेंसी के Gaia मिशन सहित अंतरिक्ष आधारित वेधशालाओं के आंकड़ों का उपयोग करते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Milky Way is the galaxy that contains our Solar System.",
+                        "मिल्की वे वह आकाशगंगा है जिसमें हमारा सौरमंडल स्थित है।",
+                        "The Solar System is located in the Milky Way.",
+                        "हमारा सौरमंडल मिल्की वे आकाशगंगा में स्थित है।",
+                        "The European Space Agency is abbreviated as ESA.",
+                        "यूरोपीय अंतरिक्ष एजेंसी का संक्षिप्त नाम ESA है।",
+                        "Gaia is a space mission designed to map stars in the Milky Way.",
+                        "Gaia मिल्की वे के तारों का मानचित्रण करने वाला अंतरिक्ष मिशन है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which galaxy contains our Solar System? | हमारे सौरमंडल की स्थिति किस आकाशगंगा में है?",
+                            "options": [
+                                "Andromeda",
+                                "Milky Way",
+                                "Triangulum",
+                                "Whirlpool"
+                            ],
+                            "answer": "Milky Way"
+                        },
+                        {
+                            "question": "How did the Milky Way grow over billions of years? | अरबों वर्षों में मिल्की वे का विस्तार किस प्रकार हुआ?",
+                            "options": [
+                                "By merging with smaller galaxies",
+                                "By losing all its stars",
+                                "By stopping star formation",
+                                "By moving outside the universe"
+                            ],
+                            "answer": "By merging with smaller galaxies"
+                        },
+                        {
+                            "question": "Which mission is used to study the positions and movements of stars? | तारों की स्थिति और गति का अध्ययन करने के लिए किस मिशन का उपयोग किया जाता है?",
+                            "options": [
+                                "Chandrayaan",
+                                "Gaia",
+                                "Mangalyaan",
+                                "Aditya-L1"
+                            ],
+                            "answer": "Gaia"
+                        },
+                        {
+                            "question": "Which agency operates the Gaia mission? | Gaia मिशन किस एजेंसी का है?",
+                            "options": [
+                                "NASA",
+                                "ISRO",
+                                "European Space Agency",
+                                "JAXA"
+                            ],
+                            "answer": "European Space Agency"
+                        },
+                        {
+                            "question": "What is the Milky Way? | मिल्की वे क्या है?",
+                            "options": [
+                                "A galaxy",
+                                "A planet",
+                                "A comet",
+                                "A satellite"
+                            ],
+                            "answer": "A galaxy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
