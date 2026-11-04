@@ -2163,6 +2163,704 @@
                     ]
                 }
             ]
+        },
+         {
+            "id": "2026-11-04",
+            "date": "04 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 4 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Indian Polity and Electoral Reforms",
+                    "title": "Election Commission Removes SIR Declaration from Online Form 6 | चुनाव आयोग ने ऑनलाइन फॉर्म 6 से SIR घोषणा हटाई",
+                    "summary": "EN: The Election Commission of India (ECI) removed the Special Intensive Revision (SIR) declaration from the online version of Form 6, used for new voter registration. The declaration has now been separated from Form 6 and made available as a separate document on the ECINet portal. The decision followed objections raised by Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi regarding the inclusion of the declaration without a formal amendment to the prescribed form. The change is aimed at making the voter enrolment process more consistent with the applicable rules.\nHI: भारतीय निर्वाचन आयोग (ECI) ने नए मतदाताओं के पंजीकरण के लिए इस्तेमाल होने वाले ऑनलाइन फॉर्म 6 से विशेष गहन पुनरीक्षण (SIR) संबंधी घोषणा को हटा दिया है। अब इस घोषणा को फॉर्म 6 से अलग करके ECINet पोर्टल पर एक स्वतंत्र दस्तावेज बनाया गया है। यह निर्णय चुनाव आयुक्त सुखबीर सिंह संधू और विवेक जोशी द्वारा निर्धारित फॉर्म में औपचारिक संशोधन के बिना घोषणा जोड़ने पर आपत्ति जताने के बाद लिया गया। इस बदलाव का उद्देश्य मतदाता पंजीकरण प्रक्रिया को संबंधित नियमों के अनुरूप बनाना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Election Commission of India is a constitutional body under Article 324.",
+                        "भारतीय निर्वाचन आयोग संविधान के अनुच्छेद 324 के अंतर्गत एक संवैधानिक संस्था है।",
+                        "Form 6 is used for the inclusion of a name in the electoral roll.",
+                        "मतदाता सूची में नाम शामिल कराने के लिए फॉर्म 6 का उपयोग किया जाता है।",
+                        "The Representation of the People Act, 1950 deals with electoral rolls and voter registration.",
+                        "जनप्रतिनिधित्व अधिनियम, 1950 मतदाता सूची और मतदाता पंजीकरण से संबंधित है।",
+                        "ECI stands for Election Commission of India.",
+                        "ECI का पूरा नाम इलेक्शन कमीशन ऑफ इंडिया है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which form is used for new voter registration? | नए मतदाता पंजीकरण के लिए किस फॉर्म का उपयोग किया जाता है?",
+                            "options": [
+                                "Form 6",
+                                "Form 8",
+                                "Form 10",
+                                "Form 12"
+                            ],
+                            "answer": "Form 6"
+                        },
+                        {
+                            "question": "What does SIR stand for? | SIR का पूरा नाम क्या है?",
+                            "options": [
+                                "Special Intensive Revision",
+                                "State Internal Review",
+                                "Special Indian Registration",
+                                "Systematic Identity Record"
+                            ],
+                            "answer": "Special Intensive Revision"
+                        },
+                        {
+                            "question": "Which portal is associated with the online voter enrolment system mentioned in the report? | रिपोर्ट में ऑनलाइन मतदाता पंजीकरण के लिए किस पोर्टल का उल्लेख है?",
+                            "options": [
+                                "DigiLocker",
+                                "ECINet",
+                                "UMANG",
+                                "e-Shram"
+                            ],
+                            "answer": "ECINet"
+                        },
+                        {
+                            "question": "Under which Article of the Indian Constitution is the Election Commission established? | भारतीय संविधान के किस अनुच्छेद के अंतर्गत निर्वाचन आयोग की स्थापना की गई है?",
+                            "options": [
+                                "Article 280",
+                                "Article 324",
+                                "Article 356",
+                                "Article 368"
+                            ],
+                            "answer": "Article 324"
+                        },
+                        {
+                            "question": "Which organisation is responsible for conducting elections in India? | भारत में चुनाव कराने की जिम्मेदारी किस संस्था की है?",
+                            "options": [
+                                "UPSC",
+                                "Election Commission of India",
+                                "NITI Aayog",
+                                "Finance Commission"
+                            ],
+                            "answer": "Election Commission of India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and Critical Minerals",
+                    "title": "Government Plans Rs 2,800 Crore Scheme for Critical Mineral Processing | महत्वपूर्ण खनिजों के प्रसंस्करण के लिए 2,800 करोड़ रुपये की योजना",
+                    "summary": "EN: The Union Government is considering a new scheme with a proposed outlay of approximately Rs 2,800 crore to strengthen India's domestic critical mineral processing industry. The scheme focuses on lithium and nickel processing, while cobalt is expected to be recovered as a by-product of nickel production. It may provide a capital subsidy of 30 per cent of eligible investment for four processing plants, including two lithium plants and two nickel plants. The initiative aims to reduce India's dependence on imports and strengthen the supply chain for electric vehicle batteries and other advanced technologies.\nHI: केंद्र सरकार भारत में महत्वपूर्ण खनिजों के प्रसंस्करण उद्योग को मजबूत करने के लिए लगभग 2,800 करोड़ रुपये की नई योजना पर विचार कर रही है। इस योजना में लिथियम और निकल के प्रसंस्करण पर ध्यान दिया जाएगा, जबकि निकल उत्पादन के दौरान कोबाल्ट भी उप-उत्पाद के रूप में प्राप्त किया जाएगा। इसके अंतर्गत चार प्रसंस्करण संयंत्रों के लिए पात्र निवेश पर 30 प्रतिशत पूंजीगत सब्सिडी देने का प्रस्ताव है। इस पहल का उद्देश्य आयात पर निर्भरता कम करना और इलेक्ट्रिक वाहन बैटरियों तथा आधुनिक तकनीकों की आपूर्ति श्रृंखला को मजबूत करना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Lithium is an important mineral used in rechargeable batteries.",
+                        "लिथियम रिचार्जेबल बैटरियों में उपयोग होने वाला महत्वपूर्ण खनिज है।",
+                        "Cobalt is widely used in lithium-ion battery manufacturing.",
+                        "कोबाल्ट का उपयोग लिथियम-आयन बैटरी निर्माण में किया जाता है।",
+                        "Capital expenditure creates long-term assets and productive infrastructure.",
+                        "पूंजीगत व्यय से दीर्घकालिक संपत्तियां और उपयोगी बुनियादी ढांचा तैयार होता है।",
+                        "India established the National Critical Mineral Mission in 2025.",
+                        "भारत ने 2025 में राष्ट्रीय महत्वपूर्ण खनिज मिशन की शुरुआत की।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the proposed financial outlay of the critical minerals scheme? | महत्वपूर्ण खनिज योजना का प्रस्तावित बजट कितना है?",
+                            "options": [
+                                "Rs 1,800 crore",
+                                "Rs 2,000 crore",
+                                "Rs 2,800 crore",
+                                "Rs 3,800 crore"
+                            ],
+                            "answer": "Rs 2,800 crore"
+                        },
+                        {
+                            "question": "Which minerals are the main focus of the proposed processing scheme? | प्रस्तावित प्रसंस्करण योजना का मुख्य ध्यान किन खनिजों पर है?",
+                            "options": [
+                                "Gold and Silver",
+                                "Lithium and Nickel",
+                                "Iron and Copper",
+                                "Coal and Uranium"
+                            ],
+                            "answer": "Lithium and Nickel"
+                        },
+                        {
+                            "question": "What percentage of eligible investment may be provided as capital subsidy? | पात्र निवेश पर कितने प्रतिशत पूंजीगत सब्सिडी देने का प्रस्ताव है?",
+                            "options": [
+                                "10%",
+                                "20%",
+                                "30%",
+                                "50%"
+                            ],
+                            "answer": "30%"
+                        },
+                        {
+                            "question": "How many processing plants are proposed under the scheme? | इस योजना के अंतर्गत कितने प्रसंस्करण संयंत्र प्रस्तावित हैं?",
+                            "options": [
+                                "Two",
+                                "Three",
+                                "Four",
+                                "Six"
+                            ],
+                            "answer": "Four"
+                        },
+                        {
+                            "question": "Which industry is an important beneficiary of lithium-ion batteries? | लिथियम-आयन बैटरियों से किस उद्योग को महत्वपूर्ण लाभ मिलता है?",
+                            "options": [
+                                "Electric Vehicle Industry",
+                                "Textile Industry",
+                                "Paper Industry",
+                                "Tourism Industry"
+                            ],
+                            "answer": "Electric Vehicle Industry"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence and Maritime Security",
+                    "title": "Indian Navy Rescues 20 Crew Members from Hijacked Vessel off Somalia | भारतीय नौसेना ने सोमालिया के पास अपहृत जहाज से 20 लोगों को बचाया",
+                    "summary": "EN: The Indian Navy successfully rescued 20 crew members from an Iranian fishing vessel named Azini, which had been hijacked by armed pirates off the coast of Somalia. The approximately 48-hour operation involved an Indian Navy warship, maritime surveillance aircraft and Marine Commandos. The commandos were deployed through a precision airdrop from an Indian Air Force C-17 transport aircraft. All 20 crew members were rescued without any casualties or injuries. The operation demonstrated India's maritime security capabilities and coordination between the Navy and Air Force.\nHI: भारतीय नौसेना ने सोमालिया के तट के पास सशस्त्र समुद्री डाकुओं द्वारा अपहृत ईरानी मछली पकड़ने वाले जहाज अज़ीनी से 20 चालक दल के सदस्यों को सफलतापूर्वक बचाया। लगभग 48 घंटे चले इस अभियान में भारतीय नौसेना का युद्धपोत, समुद्री निगरानी विमान और मरीन कमांडो शामिल थे। कमांडो को भारतीय वायु सेना के C-17 परिवहन विमान से विशेष एयरड्रॉप के माध्यम से तैनात किया गया। सभी 20 लोगों को बिना किसी हताहत या चोट के सुरक्षित बचा लिया गया। इस अभियान ने भारत की समुद्री सुरक्षा क्षमता और नौसेना-वायु सेना के बीच समन्वय को प्रदर्शित किया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Indian Navy operates under the Ministry of Defence.",
+                        "भारतीय नौसेना रक्षा मंत्रालय के अंतर्गत कार्य करती है।",
+                        "The Indian Air Force was established on 8 October 1932.",
+                        "भारतीय वायु सेना की स्थापना 8 अक्टूबर 1932 को हुई थी।",
+                        "C-17 Globemaster III is a strategic military transport aircraft.",
+                        "C-17 ग्लोबमास्टर III एक रणनीतिक सैन्य परिवहन विमान है।",
+                        "Somalia is located in the Horn of Africa.",
+                        "सोमालिया हॉर्न ऑफ अफ्रीका क्षेत्र में स्थित है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many crew members were rescued by the Indian Navy? | भारतीय नौसेना ने कितने चालक दल के सदस्यों को बचाया?",
+                            "options": [
+                                "10",
+                                "15",
+                                "20",
+                                "25"
+                            ],
+                            "answer": "20"
+                        },
+                        {
+                            "question": "What was the name of the hijacked vessel? | अपहृत जहाज का नाम क्या था?",
+                            "options": [
+                                "Azini",
+                                "Al Jusufi",
+                                "Vikrant",
+                                "Sindhu"
+                            ],
+                            "answer": "Azini"
+                        },
+                        {
+                            "question": "Off the coast of which country was the vessel hijacked? | किस देश के तट के पास जहाज का अपहरण किया गया था?",
+                            "options": [
+                                "Kenya",
+                                "Somalia",
+                                "Oman",
+                                "Yemen"
+                            ],
+                            "answer": "Somalia"
+                        },
+                        {
+                            "question": "Which aircraft was used to deploy the Marine Commandos? | मरीन कमांडो को तैनात करने के लिए किस विमान का उपयोग किया गया?",
+                            "options": [
+                                "C-17 Globemaster",
+                                "Rafale",
+                                "Tejas",
+                                "MiG-29"
+                            ],
+                            "answer": "C-17 Globemaster"
+                        },
+                        {
+                            "question": "Which force carried out the rescue operation? | बचाव अभियान किस बल ने चलाया?",
+                            "options": [
+                                "Indian Army",
+                                "Indian Navy",
+                                "BSF",
+                                "CRPF"
+                            ],
+                            "answer": "Indian Navy"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment and Climate Change",
+                    "title": "India Says Global Climate Targets Must Respect National Circumstances | भारत ने कहा कि वैश्विक जलवायु लक्ष्यों में राष्ट्रीय परिस्थितियों का ध्यान रखा जाना चाहिए",
+                    "summary": "EN: Ahead of the 31st United Nations Climate Conference (COP31), Environment Minister Bhupender Yadav stated that global climate targets must respect the national circumstances, sovereignty and development priorities of individual countries. India has not yet decided whether to support the proposed global 35 by 2035 electrification target. India emphasised the principles of equity and Common But Differentiated Responsibilities (CBDR). The conference is scheduled to be held in Antalya, Türkiye, from November 9 to 21, 2026.\nHI: संयुक्त राष्ट्र के 31वें जलवायु सम्मेलन (COP31) से पहले पर्यावरण मंत्री भूपेंद्र यादव ने कहा कि वैश्विक जलवायु लक्ष्यों में प्रत्येक देश की राष्ट्रीय परिस्थितियों, संप्रभुता और विकास प्राथमिकताओं का सम्मान होना चाहिए। भारत ने प्रस्तावित 2035 तक 35 प्रतिशत विद्युतीकरण लक्ष्य का समर्थन करने पर अभी निर्णय नहीं लिया है। भारत ने समानता और साझा लेकिन विभेदित जिम्मेदारियों (CBDR) के सिद्धांतों पर जोर दिया। यह सम्मेलन 9 से 21 नवंबर 2026 तक तुर्किये के अंताल्या में आयोजित होना निर्धारित है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "COP stands for Conference of the Parties.",
+                        "COP का पूरा नाम कॉन्फ्रेंस ऑफ द पार्टीज है।",
+                        "The Paris Agreement was adopted in 2015.",
+                        "पेरिस समझौता 2015 में अपनाया गया था।",
+                        "The United Nations Framework Convention on Climate Change was adopted in 1992.",
+                        "संयुक्त राष्ट्र जलवायु परिवर्तन रूपरेखा अभिसमय 1992 में अपनाया गया था।",
+                        "CBDR stands for Common But Differentiated Responsibilities.",
+                        "CBDR का पूरा नाम कॉमन बट डिफरेंशिएटेड रिस्पॉन्सिबिलिटीज है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which COP conference was discussed in the report? | रिपोर्ट में किस COP सम्मेलन की चर्चा की गई?",
+                            "options": [
+                                "COP28",
+                                "COP29",
+                                "COP30",
+                                "COP31"
+                            ],
+                            "answer": "COP31"
+                        },
+                        {
+                            "question": "Which Indian minister expressed India's position on global climate targets? | वैश्विक जलवायु लक्ष्यों पर भारत का पक्ष किस मंत्री ने रखा?",
+                            "options": [
+                                "Bhupender Yadav",
+                                "Amit Shah",
+                                "Piyush Goyal",
+                                "Nitin Gadkari"
+                            ],
+                            "answer": "Bhupender Yadav"
+                        },
+                        {
+                            "question": "Where is COP31 scheduled to be held? | COP31 का आयोजन कहाँ निर्धारित है?",
+                            "options": [
+                                "Paris, France",
+                                "Antalya, Türkiye",
+                                "New Delhi, India",
+                                "Tokyo, Japan"
+                            ],
+                            "answer": "Antalya, Türkiye"
+                        },
+                        {
+                            "question": "What does CBDR stand for? | CBDR का पूरा नाम क्या है?",
+                            "options": [
+                                "Common But Differentiated Responsibilities",
+                                "Climate Based Development Rules",
+                                "Carbon Budget Development Report",
+                                "Common Biodiversity Data Register"
+                            ],
+                            "answer": "Common But Differentiated Responsibilities"
+                        },
+                        {
+                            "question": "In which year was the Paris Agreement adopted? | पेरिस समझौता किस वर्ष अपनाया गया था?",
+                            "options": [
+                                "2012",
+                                "2015",
+                                "2018",
+                                "2020"
+                            ],
+                            "answer": "2015"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking and Financial Regulations",
+                    "title": "RBI Simplifies Export-Import Reporting and Sets Rs 10 Lakh Threshold | RBI ने निर्यात-आयात रिपोर्टिंग आसान की और 10 लाख रुपये की सीमा तय की",
+                    "summary": "EN: The Reserve Bank of India amended its Foreign Exchange Management regulations relating to the export and import of goods and services. The changes simplify reporting requirements for resident individuals and introduce a Rs 10 lakh threshold for certain service-related transactions. Under the amended provisions, resident individuals exporting services will be treated as having submitted the Export Declaration Form (EDF) after providing the required information to their Authorised Dealer. The amendments were notified on November 2, 2026, and came into force retrospectively from October 1, 2026.\nHI: भारतीय रिजर्व बैंक ने वस्तुओं और सेवाओं के निर्यात एवं आयात से जुड़े विदेशी मुद्रा प्रबंधन नियमों में संशोधन किया है। इन बदलावों से भारत में रहने वाले व्यक्तियों के लिए रिपोर्टिंग प्रक्रिया आसान होगी और कुछ सेवा संबंधी लेनदेन के लिए 10 लाख रुपये की सीमा निर्धारित की गई है। नए प्रावधानों के अनुसार, सेवाओं का निर्यात करने वाले निवासी व्यक्तियों द्वारा अधिकृत डीलर को आवश्यक जानकारी देने पर निर्यात घोषणा फॉर्म (EDF) जमा माना जाएगा। ये संशोधन 2 नवंबर 2026 को अधिसूचित किए गए और 1 अक्टूबर 2026 से प्रभावी माने गए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Reserve Bank of India was established on 1 April 1935.",
+                        "भारतीय रिजर्व बैंक की स्थापना 1 अप्रैल 1935 को हुई थी।",
+                        "The RBI was nationalised on 1 January 1949.",
+                        "RBI का राष्ट्रीयकरण 1 जनवरी 1949 को हुआ था।",
+                        "FEMA stands for Foreign Exchange Management Act, 1999.",
+                        "FEMA का पूरा नाम फॉरेन एक्सचेंज मैनेजमेंट एक्ट, 1999 है।",
+                        "The RBI is India's central banking institution.",
+                        "RBI भारत की केंद्रीय बैंकिंग संस्था है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution amended the export-import reporting regulations? | निर्यात-आयात रिपोर्टिंग नियमों में किस संस्था ने संशोधन किया?",
+                            "options": [
+                                "SEBI",
+                                "RBI",
+                                "NABARD",
+                                "IRDAI"
+                            ],
+                            "answer": "RBI"
+                        },
+                        {
+                            "question": "What threshold was introduced for certain service-related transactions? | कुछ सेवा संबंधी लेनदेन के लिए कितनी सीमा निर्धारित की गई?",
+                            "options": [
+                                "Rs 5 lakh",
+                                "Rs 10 lakh",
+                                "Rs 15 lakh",
+                                "Rs 20 lakh"
+                            ],
+                            "answer": "Rs 10 lakh"
+                        },
+                        {
+                            "question": "What is the full form of FEMA? | FEMA का पूरा नाम क्या है?",
+                            "options": [
+                                "Foreign Exchange Management Act",
+                                "Financial Export Management Authority",
+                                "Foreign Economic Monitoring Act",
+                                "Federal Exchange Market Act"
+                            ],
+                            "answer": "Foreign Exchange Management Act"
+                        },
+                        {
+                            "question": "In which year was the RBI established? | RBI की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1925",
+                                "1935",
+                                "1947",
+                                "1949"
+                            ],
+                            "answer": "1935"
+                        },
+                        {
+                            "question": "What does EDF stand for? | EDF का पूरा नाम क्या है?",
+                            "options": [
+                                "Export Declaration Form",
+                                "Electronic Deposit Fund",
+                                "External Debt Finance",
+                                "Export Development Facility"
+                            ],
+                            "answer": "Export Declaration Form"
+                        }
+                    ]
+                },
+                {
+                    "category": "Renewable Energy and Power Grid",
+                    "title": "Sri Lanka Blackout Highlights Challenges of Rooftop Solar Integration | श्रीलंका की बिजली कटौती ने रूफटॉप सोलर की चुनौतियों को उजागर किया",
+                    "summary": "EN: Sri Lanka experienced a major national power grid collapse on October 17, 2026, leaving millions of people without electricity for more than five hours. Following the incident, the National System Operator asked rooftop solar operators to switch off their systems temporarily. The event highlighted the challenges of integrating large amounts of decentralised solar electricity into the power grid. India faces similar challenges as its rooftop solar capacity has reached approximately 33.41 GW. Proper grid management, balancing and storage are important for maintaining electricity supply stability.\nHI: श्रीलंका में 17 अक्टूबर 2026 को राष्ट्रीय बिजली ग्रिड ठप हो गया, जिसके कारण लाखों लोगों को पांच घंटे से अधिक समय तक बिजली नहीं मिली। इस घटना के बाद राष्ट्रीय सिस्टम ऑपरेटर ने रूफटॉप सोलर संचालकों से अस्थायी रूप से अपने सिस्टम बंद करने को कहा। इस घटना ने बिजली ग्रिड में बड़ी मात्रा में विकेन्द्रीकृत सौर ऊर्जा को जोड़ने की चुनौतियों को उजागर किया। भारत में भी रूफटॉप सोलर क्षमता लगभग 33.41 GW तक पहुंच चुकी है। बिजली आपूर्ति को स्थिर रखने के लिए उचित ग्रिड प्रबंधन, संतुलन और ऊर्जा भंडारण महत्वपूर्ण हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Solar energy is a renewable source of energy.",
+                        "सौर ऊर्जा एक नवीकरणीय ऊर्जा स्रोत है।",
+                        "A power grid connects electricity generation, transmission and distribution systems.",
+                        "पावर ग्रिड बिजली उत्पादन, पारेषण और वितरण प्रणालियों को जोड़ता है।",
+                        "The International Solar Alliance was launched in 2015.",
+                        "अंतरराष्ट्रीय सौर गठबंधन की शुरुआत 2015 में हुई थी।",
+                        "GW stands for Gigawatt and one GW equals one billion watts.",
+                        "GW का अर्थ गीगावाट है और एक गीगावाट एक अरब वाट के बराबर होता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which country experienced the major power grid collapse discussed in the report? | रिपोर्ट में किस देश के बिजली ग्रिड ठप होने की चर्चा की गई?",
+                            "options": [
+                                "India",
+                                "Sri Lanka",
+                                "Nepal",
+                                "Bangladesh"
+                            ],
+                            "answer": "Sri Lanka"
+                        },
+                        {
+                            "question": "On which date did the reported blackout occur? | रिपोर्ट के अनुसार बिजली कटौती किस तारीख को हुई?",
+                            "options": [
+                                "5 October 2026",
+                                "17 October 2026",
+                                "25 October 2026",
+                                "1 November 2026"
+                            ],
+                            "answer": "17 October 2026"
+                        },
+                        {
+                            "question": "What is India's rooftop solar capacity mentioned in the report? | रिपोर्ट में भारत की रूफटॉप सोलर क्षमता कितनी बताई गई?",
+                            "options": [
+                                "13.41 GW",
+                                "23.41 GW",
+                                "33.41 GW",
+                                "43.41 GW"
+                            ],
+                            "answer": "33.41 GW"
+                        },
+                        {
+                            "question": "Which of the following is a renewable energy source? | निम्नलिखित में से कौन-सा नवीकरणीय ऊर्जा स्रोत है?",
+                            "options": [
+                                "Coal",
+                                "Petroleum",
+                                "Solar Energy",
+                                "Natural Gas"
+                            ],
+                            "answer": "Solar Energy"
+                        },
+                        {
+                            "question": "What is the main purpose of a power grid? | पावर ग्रिड का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Electricity transmission and distribution",
+                                "Water purification",
+                                "Internet broadcasting",
+                                "Fuel production"
+                            ],
+                            "answer": "Electricity transmission and distribution"
+                        }
+                    ]
+                },
+                {
+                    "category": "Medical Education and Reforms",
+                    "title": "NMC Proposes Rank-Based System for NEET PG and Super-Speciality Admissions | NMC ने NEET PG और सुपर-स्पेशियलिटी प्रवेश के लिए रैंक आधारित प्रणाली का प्रस्ताव रखा",
+                    "summary": "EN: The National Medical Commission (NMC) has proposed replacing the percentile-based admission process with a rank-based system for postgraduate and super-speciality medical courses. Under the proposed system, candidates would receive ranks instead of percentile marks in the results. The proposal aims to reduce delays in counselling and improve the admission process. The recommendation was included in a report prepared by a 12-member expert committee and submitted to the Supreme Court. The proposed regulations have received in-principle approval but are yet to be finalised.\nHI: राष्ट्रीय चिकित्सा आयोग (NMC) ने स्नातकोत्तर और सुपर-स्पेशियलिटी चिकित्सा पाठ्यक्रमों में प्रवेश के लिए पर्सेंटाइल आधारित प्रक्रिया की जगह रैंक आधारित प्रणाली लागू करने का प्रस्ताव दिया है। प्रस्तावित व्यवस्था में परिणामों में पर्सेंटाइल अंकों के स्थान पर उम्मीदवारों को रैंक दी जाएगी। इसका उद्देश्य काउंसलिंग में होने वाली देरी को कम करना और प्रवेश प्रक्रिया को बेहतर बनाना है। यह सुझाव 12 सदस्यीय विशेषज्ञ समिति की रिपोर्ट में शामिल था, जिसे सुप्रीम कोर्ट में प्रस्तुत किया गया। प्रस्ताव को सैद्धांतिक मंजूरी मिली है, लेकिन नियम अभी अंतिम रूप से जारी नहीं हुए हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The National Medical Commission replaced the Medical Council of India in 2020.",
+                        "राष्ट्रीय चिकित्सा आयोग ने 2020 में मेडिकल काउंसिल ऑफ इंडिया का स्थान लिया।",
+                        "NEET PG is an entrance examination for postgraduate medical courses in India.",
+                        "NEET PG भारत में स्नातकोत्तर चिकित्सा पाठ्यक्रमों के लिए प्रवेश परीक्षा है।",
+                        "The Medical Counselling Committee conducts counselling for central medical seats.",
+                        "मेडिकल काउंसलिंग कमेटी केंद्रीय चिकित्सा सीटों के लिए काउंसलिंग आयोजित करती है।",
+                        "The National Medical Commission Act was passed in 2019.",
+                        "राष्ट्रीय चिकित्सा आयोग अधिनियम 2019 में पारित किया गया था।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation proposed the rank-based admission system? | रैंक आधारित प्रवेश प्रणाली का प्रस्ताव किस संस्था ने दिया?",
+                            "options": [
+                                "UGC",
+                                "NMC",
+                                "AICTE",
+                                "NCERT"
+                            ],
+                            "answer": "NMC"
+                        },
+                        {
+                            "question": "For which courses is the proposed rank-based system intended? | प्रस्तावित रैंक आधारित प्रणाली किन पाठ्यक्रमों के लिए है?",
+                            "options": [
+                                "Undergraduate engineering",
+                                "Postgraduate and super-speciality medical courses",
+                                "School education",
+                                "Diploma in commerce"
+                            ],
+                            "answer": "Postgraduate and super-speciality medical courses"
+                        },
+                        {
+                            "question": "How many members were included in the expert committee? | विशेषज्ञ समिति में कितने सदस्य थे?",
+                            "options": [
+                                "8",
+                                "10",
+                                "12",
+                                "15"
+                            ],
+                            "answer": "12"
+                        },
+                        {
+                            "question": "What does NEET PG relate to? | NEET PG किससे संबंधित है?",
+                            "options": [
+                                "Postgraduate medical admission",
+                                "Engineering admission",
+                                "Banking recruitment",
+                                "School admission"
+                            ],
+                            "answer": "Postgraduate medical admission"
+                        },
+                        {
+                            "question": "In which year did NMC replace the Medical Council of India? | NMC ने किस वर्ष मेडिकल काउंसिल ऑफ इंडिया का स्थान लिया?",
+                            "options": [
+                                "2018",
+                                "2019",
+                                "2020",
+                                "2022"
+                            ],
+                            "answer": "2020"
+                        }
+                    ]
+                },
+                {
+                    "category": "Judiciary and Fundamental Rights",
+                    "title": "J&K High Court Says Encrypted App Use Alone Is Not Ground for Preventive Detention | जम्मू-कश्मीर हाई कोर्ट ने कहा कि केवल एन्क्रिप्टेड ऐप का उपयोग हिरासत का आधार नहीं",
+                    "summary": "EN: The Jammu and Kashmir and Ladakh High Court set aside the preventive detention of a 26-year-old man from Pulwama under the Public Safety Act (PSA). The court observed that merely using an encrypted application or VPN, or communicating with people allegedly linked to terrorist organisations, cannot independently justify preventive detention without specific supporting evidence. The court also questioned whether the District Magistrate had independently examined the allegations. It emphasised that preventive detention must follow legal and constitutional safeguards and cannot replace ordinary criminal proceedings.\nHI: जम्मू-कश्मीर और लद्दाख हाई कोर्ट ने पुलवामा के 26 वर्षीय व्यक्ति की पब्लिक सेफ्टी एक्ट (PSA) के तहत की गई निवारक हिरासत को रद्द कर दिया। अदालत ने कहा कि केवल एन्क्रिप्टेड ऐप या VPN का उपयोग करना अथवा कथित रूप से आतंकवादी संगठनों से जुड़े लोगों से संपर्क रखना, पर्याप्त प्रमाण के बिना निवारक हिरासत का स्वतंत्र आधार नहीं हो सकता। अदालत ने जिला मजिस्ट्रेट द्वारा आरोपों की स्वतंत्र जांच पर भी सवाल उठाया। न्यायालय ने स्पष्ट किया कि निवारक हिरासत में कानूनी और संवैधानिक सुरक्षा उपायों का पालन जरूरी है तथा इसका उपयोग सामान्य आपराधिक प्रक्रिया के स्थान पर नहीं किया जा सकता।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Supreme Court of India is established under Article 124 of the Constitution.",
+                        "भारत का सर्वोच्च न्यायालय संविधान के अनुच्छेद 124 के अंतर्गत स्थापित है।",
+                        "Article 21 protects life and personal liberty.",
+                        "अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता की रक्षा करता है।",
+                        "Preventive detention is governed by constitutional safeguards, including Article 22.",
+                        "निवारक हिरासत संविधान के अनुच्छेद 22 सहित विभिन्न संवैधानिक सुरक्षा उपायों के अधीन है।",
+                        "VPN stands for Virtual Private Network.",
+                        "VPN का पूरा नाम वर्चुअल प्राइवेट नेटवर्क है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which High Court delivered the judgment discussed in the report? | रिपोर्ट में चर्चा किया गया फैसला किस हाई कोर्ट ने दिया?",
+                            "options": [
+                                "Delhi High Court",
+                                "Bombay High Court",
+                                "J&K and Ladakh High Court",
+                                "Madras High Court"
+                            ],
+                            "answer": "J&K and Ladakh High Court"
+                        },
+                        {
+                            "question": "Which law was involved in the preventive detention case? | निवारक हिरासत के मामले में किस कानून का उल्लेख था?",
+                            "options": [
+                                "RTI Act",
+                                "Public Safety Act",
+                                "Companies Act",
+                                "Consumer Protection Act"
+                            ],
+                            "answer": "Public Safety Act"
+                        },
+                        {
+                            "question": "What does VPN stand for? | VPN का पूरा नाम क्या है?",
+                            "options": [
+                                "Virtual Private Network",
+                                "Verified Public Number",
+                                "Virtual Payment Network",
+                                "Variable Protection Node"
+                            ],
+                            "answer": "Virtual Private Network"
+                        },
+                        {
+                            "question": "Which constitutional Article protects life and personal liberty? | जीवन और व्यक्तिगत स्वतंत्रता की रक्षा कौन-सा संवैधानिक अनुच्छेद करता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 21",
+                                "Article 32"
+                            ],
+                            "answer": "Article 21"
+                        },
+                        {
+                            "question": "Which constitutional Article deals with safeguards against arrest and detention? | गिरफ्तारी और हिरासत के विरुद्ध सुरक्षा उपाय किस अनुच्छेद में दिए गए हैं?",
+                            "options": [
+                                "Article 16",
+                                "Article 20",
+                                "Article 22",
+                                "Article 25"
+                            ],
+                            "answer": "Article 22"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment and Disaster Management",
+                    "title": "Cyclone Murasu Weakens in Andhra Pradesh; Two People Die | आंध्र प्रदेश में चक्रवात मुरासु कमजोर पड़ा, दो लोगों की मौत",
+                    "summary": "EN: Cyclone Murasu weakened into a cyclonic storm over South Coastal Andhra Pradesh on November 3, according to the India Meteorological Department. It moved north-northwestwards at approximately 7 kmph. At least two people died in cyclone-related incidents, while more than 12,000 people were moved to rehabilitation centres. Heavy rainfall damaged standing crops across approximately 52,459 hectares, and several houses and trees were damaged. Odisha also kept its disaster response teams on alert because of the possibility of heavy rainfall and landslides.\nHI: भारत मौसम विज्ञान विभाग के अनुसार चक्रवात मुरासु 3 नवंबर को दक्षिणी तटीय आंध्र प्रदेश के ऊपर कमजोर होकर चक्रवाती तूफान में बदल गया। यह लगभग 7 किलोमीटर प्रति घंटे की रफ्तार से उत्तर-उत्तर-पश्चिम दिशा में आगे बढ़ा। चक्रवात से जुड़ी घटनाओं में कम से कम दो लोगों की मौत हुई और 12,000 से अधिक लोगों को राहत केंद्रों में पहुंचाया गया। भारी बारिश से लगभग 52,459 हेक्टेयर क्षेत्र में खड़ी फसलें प्रभावित हुईं तथा कई मकानों और पेड़ों को नुकसान पहुंचा। ओडिशा ने भी भारी बारिश और भूस्खलन की आशंका को देखते हुए आपदा प्रतिक्रिया दलों को सतर्क रखा।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The India Meteorological Department was established in 1875.",
+                        "भारत मौसम विज्ञान विभाग की स्थापना 1875 में हुई थी।",
+                        "The National Disaster Response Force was established in 2006.",
+                        "राष्ट्रीय आपदा प्रतिक्रिया बल की स्थापना 2006 में हुई थी।",
+                        "Cyclones are powerful rotating storm systems that develop over warm ocean waters.",
+                        "चक्रवात गर्म समुद्री जल के ऊपर बनने वाले शक्तिशाली घूर्णनशील तूफान होते हैं।",
+                        "The Bay of Bengal is part of the northeastern Indian Ocean.",
+                        "बंगाल की खाड़ी उत्तर-पूर्वी हिंद महासागर का हिस्सा है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which state was severely affected by Cyclone Murasu? | चक्रवात मुरासु से कौन-सा राज्य गंभीर रूप से प्रभावित हुआ?",
+                            "options": [
+                                "Gujarat",
+                                "Andhra Pradesh",
+                                "Kerala",
+                                "Punjab"
+                            ],
+                            "answer": "Andhra Pradesh"
+                        },
+                        {
+                            "question": "Which organisation reported the weakening of Cyclone Murasu? | चक्रवात मुरासु के कमजोर होने की जानकारी किस संस्था ने दी?",
+                            "options": [
+                                "ISRO",
+                                "IMD",
+                                "NITI Aayog",
+                                "SEBI"
+                            ],
+                            "answer": "IMD"
+                        },
+                        {
+                            "question": "How many people were reported dead in cyclone-related incidents? | चक्रवात से जुड़ी घटनाओं में कितने लोगों की मौत हुई?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Four",
+                                "Six"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "question": "Approximately how much agricultural land was affected? | लगभग कितने हेक्टेयर कृषि भूमि प्रभावित हुई?",
+                            "options": [
+                                "12,459 hectares",
+                                "32,459 hectares",
+                                "52,459 hectares",
+                                "72,459 hectares"
+                            ],
+                            "answer": "52,459 hectares"
+                        },
+                        {
+                            "question": "In which year was the National Disaster Response Force established? | राष्ट्रीय आपदा प्रतिक्रिया बल की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "2001",
+                                "2004",
+                                "2006",
+                                "2010"
+                            ],
+                            "answer": "2006"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations and Maritime Economy",
+                    "title": "Indian Sailor Killed After Projectile Hits Cargo Vessel off Oman Coast | ओमान के तट के पास मालवाहक जहाज पर हमले में भारतीय नाविक की मौत",
+                    "summary": "EN: An Indian sailor named Nahim Ajij Gandhar from Porbandar, Gujarat, was killed after an unidentified explosive projectile struck the Indian-flagged cargo vessel Al Jusufi in Omani waters near the Strait of Hormuz. The vessel was carrying approximately 950 metric tonnes of dates and had 14 Indian crew members onboard. It had departed from Hamriyah port in the United Arab Emirates for Porbandar on October 31. The incident highlighted the security risks faced by Indian seafarers and commercial shipping in the strategically important Persian Gulf region.\nHI: गुजरात के पोरबंदर के भारतीय नाविक नाहिम अजीज गांधार की ओमान के समुद्री क्षेत्र में एक अज्ञात विस्फोटक प्रक्षेप्य से मालवाहक जहाज अल जुसेफी पर हमला होने के बाद मौत हो गई। यह जहाज भारतीय ध्वज के अंतर्गत पंजीकृत था और इसमें लगभग 950 मीट्रिक टन खजूर तथा 14 भारतीय चालक दल के सदस्य सवार थे। यह जहाज 31 अक्टूबर को संयुक्त अरब अमीरात के हमरिया बंदरगाह से पोरबंदर के लिए रवाना हुआ था। इस घटना ने फारस की खाड़ी क्षेत्र में भारतीय नाविकों और व्यापारिक जहाजों के सामने मौजूद सुरक्षा जोखिमों को उजागर किया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman.",
+                        "होर्मुज जलडमरूमध्य फारस की खाड़ी को ओमान की खाड़ी से जोड़ता है।",
+                        "Oman is located on the southeastern coast of the Arabian Peninsula.",
+                        "ओमान अरब प्रायद्वीप के दक्षिण-पूर्वी तट पर स्थित है।",
+                        "Porbandar is a coastal city in Gujarat.",
+                        "पोरबंदर गुजरात का एक तटीय शहर है।",
+                        "The United Arab Emirates consists of seven emirates.",
+                        "संयुक्त अरब अमीरात सात अमीरातों से मिलकर बना है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where was the Indian sailor Nahim Ajij Gandhar from? | भारतीय नाविक नाहिम अजीज गांधार कहाँ के रहने वाले थे?",
+                            "options": [
+                                "Mumbai",
+                                "Porbandar",
+                                "Kochi",
+                                "Chennai"
+                            ],
+                            "answer": "Porbandar"
+                        },
+                        {
+                            "question": "What was the name of the Indian-flagged cargo vessel? | भारतीय ध्वज वाले मालवाहक जहाज का नाम क्या था?",
+                            "options": [
+                                "Azini",
+                                "Al Jusufi",
+                                "INS Vikrant",
+                                "Samudra"
+                            ],
+                            "answer": "Al Jusufi"
+                        },
+                        {
+                            "question": "Near which strategically important waterway did the incident occur? | यह घटना किस महत्वपूर्ण जलमार्ग के पास हुई?",
+                            "options": [
+                                "Malacca Strait",
+                                "Strait of Hormuz",
+                                "Bering Strait",
+                                "Palk Strait"
+                            ],
+                            "answer": "Strait of Hormuz"
+                        },
+                        {
+                            "question": "How much cargo was the ship reportedly carrying? | जहाज में लगभग कितना माल लदा हुआ था?",
+                            "options": [
+                                "450 metric tonnes",
+                                "650 metric tonnes",
+                                "950 metric tonnes",
+                                "1,500 metric tonnes"
+                            ],
+                            "answer": "950 metric tonnes"
+                        },
+                        {
+                            "question": "From which country had the vessel departed? | जहाज किस देश से रवाना हुआ था?",
+                            "options": [
+                                "Oman",
+                                "United Arab Emirates",
+                                "Iran",
+                                "Qatar"
+                            ],
+                            "answer": "United Arab Emirates"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
