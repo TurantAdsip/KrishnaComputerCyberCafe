@@ -2861,6 +2861,1402 @@
                     ]
                 }
             ]
+        },
+           {
+            "id": "2026-11-05",
+            "date": "05 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 5 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Defence and Military Reforms",
+                    "title": "Agnipath Scheme Revised: 75% Agniveers Get Two-Year Extension Option | अग्निपथ योजना में बदलाव: 75% अग्निवीरों को दो साल का सेवा विस्तार",
+                    "summary": "EN: The Union Cabinet approved a change to the Agnipath scheme under which the 75 per cent of Agniveers who are not selected for regular service after their initial four-year tenure will be offered an additional two-year engagement. After completing this period, they may also get an opportunity to join the Armed Forces as regular soldiers, subject to willingness and objective selection criteria. The extended engagement will carry enhanced salary and Seva Nidhi benefits. The change is intended to retain trained personnel and provide a wider career pathway while maintaining the scheme’s short-service structure.\nHI: केंद्रीय मंत्रिमंडल ने अग्निपथ योजना में बदलाव को मंजूरी दी है। इसके तहत शुरुआती चार वर्ष की सेवा के बाद नियमित सेवा के लिए चयनित न होने वाले 75 प्रतिशत अग्निवीरों को दो वर्ष का अतिरिक्त सेवा अवसर दिया जाएगा। यह अवधि पूरी करने के बाद वे अपनी इच्छा और निर्धारित चयन मानदंडों के आधार पर सशस्त्र बलों में नियमित सैनिक बनने का अवसर भी पा सकते हैं। अतिरिक्त सेवा के दौरान बेहतर वेतन और सेवा निधि लाभ दिए जाएंगे। इस बदलाव का उद्देश्य प्रशिक्षित कर्मियों को बनाए रखना और युवाओं के लिए करियर के अधिक अवसर उपलब्ध कराना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Agnipath scheme was launched in 2022 for recruitment into the Armed Forces.",
+                        "अग्निपथ योजना 2022 में सशस्त्र बलों में भर्ती के लिए शुरू की गई थी।",
+                        "Agniveers are recruited into the Army, Navy and Air Force.",
+                        "अग्निवीरों की भर्ती थल सेना, नौसेना और वायु सेना में होती है।",
+                        "The Chief of Defence Staff is the senior-most professional military adviser to the government.",
+                        "चीफ ऑफ डिफेंस स्टाफ सरकार के वरिष्ठतम पेशेवर सैन्य सलाहकार होते हैं।",
+                        "Seva Nidhi is a financial package associated with Agniveer service.",
+                        "सेवा निधि अग्निवीर सेवा से जुड़ा वित्तीय पैकेज है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Under the revised Agnipath scheme, which group is offered an additional two-year engagement? | संशोधित अग्निपथ योजना के तहत किस समूह को दो वर्ष की अतिरिक्त सेवा का अवसर मिलेगा?",
+                            "options": [
+                                "All Agniveers",
+                                "The 75% not initially selected for regular service",
+                                "Only officers",
+                                "Only Navy personnel"
+                            ],
+                            "answer": "The 75% not initially selected for regular service"
+                        },
+                        {
+                            "question": "What was the original tenure of an Agniveer? | अग्निवीर की मूल सेवा अवधि कितनी थी?",
+                            "options": [
+                                "Two years",
+                                "Three years",
+                                "Four years",
+                                "Five years"
+                            ],
+                            "answer": "Four years"
+                        },
+                        {
+                            "question": "In which year was the Agnipath scheme launched? | अग्निपथ योजना किस वर्ष शुरू हुई?",
+                            "options": [
+                                "2019",
+                                "2020",
+                                "2022",
+                                "2024"
+                            ],
+                            "answer": "2022"
+                        },
+                        {
+                            "question": "Which three services recruit Agniveers? | किन तीनों सेनाओं में अग्निवीरों की भर्ती होती है?",
+                            "options": [
+                                "Army, Navy and Air Force",
+                                "Army, BSF and CRPF",
+                                "Navy, Coast Guard and Police",
+                                "Air Force, ITBP and CISF"
+                            ],
+                            "answer": "Army, Navy and Air Force"
+                        },
+                        {
+                            "question": "The additional engagement is intended mainly to retain what? | अतिरिक्त सेवा अवसर का मुख्य उद्देश्य किसे बनाए रखना है?",
+                            "options": [
+                                "Tourists",
+                                "Trained personnel",
+                                "Private contractors",
+                                "Civil servants"
+                            ],
+                            "answer": "Trained personnel"
+                        }
+                    ]
+                },
+                {
+                    "category": "Digital Governance and Information Technology",
+                    "title": "Government Considers Scrapping Safe-Harbour Protection for Social Media Platforms | सोशल मीडिया प्लेटफॉर्म के लिए सेफ हार्बर सुरक्षा खत्म करने पर विचार",
+                    "summary": "EN: The Ministry of Electronics and Information Technology has begun discussions on changing the legal framework governing social media platforms. A key proposal is to restrict or withdraw the safe-harbour protection that shields online intermediaries from liability for user-posted content. Section 79 of the Information Technology Act, 2000 provides this protection subject to due-diligence requirements. The government is examining whether platforms that use algorithms to rank, recommend and amplify content should be treated differently from services that merely transmit information. The discussions are exploratory and no final decision has been taken.\nHI: इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय ने सोशल मीडिया प्लेटफॉर्म के नियमन से जुड़े कानूनी ढांचे में बदलाव पर चर्चा शुरू की है। प्रमुख प्रस्ताव यह है कि उपयोगकर्ताओं द्वारा पोस्ट की गई सामग्री के लिए ऑनलाइन मध्यस्थों को मिलने वाली सेफ हार्बर सुरक्षा को सीमित या समाप्त किया जाए। सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 79 निर्धारित सावधानी संबंधी शर्तों के अधीन यह सुरक्षा प्रदान करती है। सरकार यह जांच रही है कि सामग्री को एल्गोरिदम से चुनने, सुझाने और अधिक लोगों तक पहुंचाने वाले प्लेटफॉर्म को केवल संदेश पहुंचाने वाली सेवाओं से अलग माना जाना चाहिए या नहीं। चर्चा अभी प्रारंभिक चरण में है और कोई अंतिम निर्णय नहीं हुआ है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Section 79 of the Information Technology Act, 2000 deals with intermediary safe-harbour protection.",
+                        "सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 79 मध्यस्थों की सेफ हार्बर सुरक्षा से संबंधित है।",
+                        "The Information Technology Act was enacted in 2000.",
+                        "सूचना प्रौद्योगिकी अधिनियम 2000 में बनाया गया था।",
+                        "An intermediary may include a platform that receives, stores or transmits electronic records on behalf of others.",
+                        "मध्यस्थ में दूसरों की ओर से इलेक्ट्रॉनिक रिकॉर्ड प्राप्त, संग्रहीत या प्रसारित करने वाला प्लेटफॉर्म शामिल हो सकता है।",
+                        "Due diligence means taking prescribed steps to comply with legal obligations.",
+                        "ड्यू डिलिजेंस का अर्थ कानूनी दायित्वों के पालन के लिए निर्धारित कदम उठाना है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which section of the IT Act provides safe-harbour protection? | IT अधिनियम की कौन-सी धारा सेफ हार्बर सुरक्षा देती है?",
+                            "options": [
+                                "Section  ಸೆ 66",
+                                "Section 69",
+                                "Section 79",
+                                "Section 85"
+                            ],
+                            "answer": "Section 79"
+                        },
+                        {
+                            "question": "Safe harbour broadly protects intermediaries from liability for what? | सेफ हार्बर मुख्य रूप से मध्यस्थों को किसके लिए दायित्व से सुरक्षा देता है?",
+                            "options": [
+                                "User-posted third-party content",
+                                "Their tax payments",
+                                "Employee salaries",
+                                "Hardware failures"
+                            ],
+                            "answer": "User-posted third-party content"
+                        },
+                        {
+                            "question": "Which ministry is discussing the proposed changes? | प्रस्तावित बदलावों पर कौन-सा मंत्रालय चर्चा कर रहा है?",
+                            "options": [
+                                "Ministry of Finance",
+                                "Ministry of Electronics and Information Technology",
+                                "Ministry of Defence",
+                                "Ministry of Education"
+                            ],
+                            "answer": "Ministry of Electronics and Information Technology"
+                        },
+                        {
+                            "question": "In which year was the Information Technology Act enacted? | सूचना प्रौद्योगिकी अधिनियम किस वर्ष लागू किया गया?",
+                            "options": [
+                                "1995",
+                                "2000",
+                                "2005",
+                                "2010"
+                            ],
+                            "answer": "2000"
+                        },
+                        {
+                            "question": "What is the status of the proposal described in the report? | रिपोर्ट में वर्णित प्रस्ताव की स्थिति क्या है?",
+                            "options": [
+                                "Already implemented",
+                                "Exploratory discussions; no final decision",
+                                "Rejected by Parliament",
+                                "Implemented by Supreme Court"
+                            ],
+                            "answer": "Exploratory discussions; no final decision"
+                        }
+                    ]
+                },
+                {
+                    "category": "Indian Polity and Judiciary",
+                    "title": "Supreme Court Refers Two-Child Norm Case to Larger Bench | सुप्रीम कोर्ट ने दो-बच्चे के नियम का मामला बड़ी पीठ को भेजा",
+                    "summary": "EN: The Supreme Court referred to a larger bench the question of whether laws disqualifying people with more than two children from contesting local-body elections remain constitutionally valid. The Court asked the larger bench to reconsider its 2003 judgment in Javed vs State of Haryana. It observed that India’s total fertility rate has declined from around 3 in 2003 to about 1.9, below the replacement fertility level of 2.1. The case also raises questions about political representation and reproductive autonomy under Article 21. The reference does not itself strike down the existing laws.\nHI: सुप्रीम कोर्ट ने दो से अधिक बच्चों वाले व्यक्तियों को स्थानीय निकाय चुनाव लड़ने से अयोग्य ठहराने वाले कानूनों की संवैधानिक वैधता का प्रश्न बड़ी पीठ को भेज दिया है। अदालत ने 2003 के जावेद बनाम हरियाणा राज्य फैसले पर पुनर्विचार करने को कहा है। न्यायालय ने बताया कि भारत की कुल प्रजनन दर 2003 में लगभग 3 से घटकर वर्तमान में करीब 1.9 हो गई है, जो 2.1 के प्रतिस्थापन स्तर से कम है। इस मामले में राजनीतिक प्रतिनिधित्व और अनुच्छेद 21 के तहत प्रजनन स्वायत्तता के प्रश्न भी शामिल हैं। बड़ी पीठ को मामला भेजने का अर्थ यह नहीं है कि मौजूदा कानून तुरंत रद्द हो गए हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Article 21 of the Constitution protects life and personal liberty.",
+                        "संविधान का अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता की रक्षा करता है।",
+                        "The Supreme Court is the highest judicial court in India.",
+                        "भारत में सर्वोच्च न्यायालय सर्वोच्च न्यायिक अदालत है।",
+                        "Total Fertility Rate is the average number of children a woman is expected to have during her lifetime.",
+                        "कुल प्रजनन दर वह औसत संख्या है जितने बच्चों को एक महिला अपने जीवनकाल में जन्म देने की अपेक्षा रखती है।",
+                        "Replacement-level fertility is commonly estimated at about 2.1 births per woman.",
+                        "प्रतिस्थापन स्तर की प्रजनन दर सामान्यतः प्रति महिला लगभग 2.1 जन्म मानी जाती है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which court referred the two-child norm issue to a larger bench? | दो-बच्चे के नियम का मामला बड़ी पीठ को किस अदालत ने भेजा?",
+                            "options": [
+                                "High Court",
+                                "Supreme Court",
+                                "District Court",
+                                "Election Tribunal"
+                            ],
+                            "answer": "Supreme Court"
+                        },
+                        {
+                            "question": "Which 2003 judgment is to be reconsidered? | 2003 के किस फैसले पर पुनर्विचार किया जाना है?",
+                            "options": [
+                                "Kesavananda Bharati",
+                                "Javed vs State of Haryana",
+                                "Maneka Gandhi",
+                                "Minerva Mills"
+                            ],
+                            "answer": "Javed vs State of Haryana"
+                        },
+                        {
+                            "question": "What is the replacement fertility level mentioned in the report? | रिपोर्ट में प्रतिस्थापन प्रजनन दर कितनी बताई गई है?",
+                            "options": [
+                                "1.0",
+                                "1.5",
+                                "2.1",
+                                "3.5"
+                            ],
+                            "answer": "2.1"
+                        },
+                        {
+                            "question": "Which Article protects life and personal liberty? | जीवन और व्यक्तिगत स्वतंत्रता की रक्षा कौन-सा अनुच्छेद करता है?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 21",
+                                "Article 32"
+                            ],
+                            "answer": "Article 21"
+                        },
+                        {
+                            "question": "Does referring the matter to a larger bench automatically cancel the existing laws? | क्या मामला बड़ी पीठ को भेजने से मौजूदा कानून अपने-आप रद्द हो जाते हैं?",
+                            "options": [
+                                "Yes",
+                                "No",
+                                "Only in Maharashtra",
+                                "Only during elections"
+                            ],
+                            "answer": "No"
+                        }
+                    ]
+                },
+                {
+                    "category": "Rural Development and Sanitation",
+                    "title": "Swachh Bharat Mission (Grameen) Phase-II Extended Till March 2028 | स्वच्छ भारत मिशन (ग्रामीण) चरण-II मार्च 2028 तक बढ़ाया गया",
+                    "summary": "EN: The Centre has extended the Swachh Bharat Mission (Grameen) Phase-II until March 2028. The continuation will support the government’s rural sanitation programme and enable an allocation of around Rs 7,000 crore in the Union Budget 2027-28. The programme focuses on sustaining sanitation outcomes and supporting villages in maintaining open-defecation-free status, along with solid and liquid waste management. The extension is intended to maintain progress in rural cleanliness and sanitation infrastructure.\nHI: केंद्र सरकार ने स्वच्छ भारत मिशन (ग्रामीण) के दूसरे चरण को मार्च 2028 तक बढ़ा दिया है। इस विस्तार से ग्रामीण स्वच्छता कार्यक्रम को जारी रखने और केंद्रीय बजट 2027-28 में लगभग 7,000 करोड़ रुपये का आवंटन करने में मदद मिलेगी। कार्यक्रम का उद्देश्य स्वच्छता उपलब्धियों को बनाए रखना, गांवों को खुले में शौच से मुक्त स्थिति बनाए रखने में सहायता देना तथा ठोस और तरल कचरा प्रबंधन को बढ़ावा देना है। इस विस्तार का लक्ष्य ग्रामीण क्षेत्रों में स्वच्छता और बुनियादी ढांचे की प्रगति जारी रखना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Swachh Bharat Mission was launched on 2 October 2014.",
+                        "स्वच्छ भारत मिशन 2 अक्टूबर 2014 को शुरू किया गया था।",
+                        "The Grameen component focuses on sanitation in rural areas.",
+                        "ग्रामीण घटक ग्रामीण क्षेत्रों में स्वच्छता पर केंद्रित है।",
+                        "ODF stands for Open Defecation Free.",
+                        "ODF का पूरा नाम ओपन डेफिकेशन फ्री है।",
+                        "Solid and liquid waste management are important parts of sustainable sanitation.",
+                        "ठोस और तरल कचरा प्रबंधन टिकाऊ स्वच्छता के महत्वपूर्ण भाग हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Until when has Swachh Bharat Mission (Grameen) Phase-II been extended? | स्वच्छ भारत मिशन (ग्रामीण) चरण-II को कब तक बढ़ाया गया है?",
+                            "options": [
+                                "March 2027",
+                                "March 2028",
+                                "March 2029",
+                                "March 2030"
+                            ],
+                            "answer": "March 2028"
+                        },
+                        {
+                            "question": "What allocation is expected in Union Budget 2027-28 for the scheme? | केंद्रीय बजट 2027-28 में योजना के लिए कितना आवंटन प्रस्तावित है?",
+                            "options": [
+                                "Rs 2,000 crore",
+                                "Rs 5,000 crore",
+                                "Rs 7,000 crore",
+                                "Rs 10,000 crore"
+                            ],
+                            "answer": "Rs 7,000 crore"
+                        },
+                        {
+                            "question": "When was Swachh Bharat Mission launched? | स्वच्छ भारत मिशन कब शुरू हुआ?",
+                            "options": [
+                                "2 October 2014",
+                                "15 August 2015",
+                                "26 January 2016",
+                                "2 October 2019"
+                            ],
+                            "answer": "2 October 2014"
+                        },
+                        {
+                            "question": "What does ODF stand for? | ODF का पूरा नाम क्या है?",
+                            "options": [
+                                "Open Development Fund",
+                                "Open Defecation Free",
+                                "Official District Facility",
+                                "Organised Drainage Framework"
+                            ],
+                            "answer": "Open Defecation Free"
+                        },
+                        {
+                            "question": "Which area is the Grameen component primarily focused on? | ग्रामीण घटक मुख्य रूप से किस क्षेत्र पर केंद्रित है?",
+                            "options": [
+                                "Urban transport",
+                                "Rural sanitation",
+                                "Space research",
+                                "Industrial exports"
+                            ],
+                            "answer": "Rural sanitation"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations and Neighbourhood",
+                    "title": "India and Nepal Step Up Engagement Ahead of Balendra Shah’s Visit | बालेन्द्र शाह की यात्रा से पहले भारत-नेपाल ने संपर्क बढ़ाया",
+                    "summary": "EN: India and Nepal intensified diplomatic engagement ahead of Nepal Prime Minister Balendra Shah’s proposed maiden visit to India. Foreign Secretary Vikram Misri met Nepal’s Foreign Affairs Minister Shisir Khanal and Foreign Secretary Amrit Bahadur Rai. The discussions form part of preparations to strengthen bilateral ties and review cooperation between the neighbouring countries. India-Nepal relations cover trade, connectivity, energy, development cooperation and people-to-people links. The engagement comes ahead of the expected visit later in November.\nHI: नेपाल के प्रधानमंत्री बालेन्द्र शाह की प्रस्तावित पहली भारत यात्रा से पहले भारत और नेपाल ने कूटनीतिक संपर्क तेज कर दिया है। भारत के विदेश सचिव विक्रम मिस्री ने नेपाल के विदेश मंत्री शिशिर खनाल और विदेश सचिव अमृत बहादुर राय से मुलाकात की। इन चर्चाओं का उद्देश्य दोनों पड़ोसी देशों के बीच द्विपक्षीय संबंधों को मजबूत करना और सहयोग की समीक्षा करना है। भारत-नेपाल संबंधों में व्यापार, संपर्क, ऊर्जा, विकास सहयोग और जन-स्तर के संबंध शामिल हैं। यह बातचीत नवंबर के उत्तरार्ध में प्रस्तावित यात्रा से पहले हुई।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "India and Nepal share an open border under longstanding bilateral arrangements.",
+                        "भारत और नेपाल के बीच लंबे समय से चली आ रही व्यवस्थाओं के तहत खुली सीमा है।",
+                        "The 1950 India-Nepal Treaty of Peace and Friendship is an important framework in bilateral relations.",
+                        "1950 की भारत-नेपाल शांति और मैत्री संधि द्विपक्षीय संबंधों का महत्वपूर्ण आधार है।",
+                        "Nepal is a landlocked country in the Himalayan region.",
+                        "नेपाल हिमालयी क्षेत्र में स्थित एक स्थलरुद्ध देश है।",
+                        "The capital of Nepal is Kathmandu.",
+                        "नेपाल की राजधानी काठमांडू है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who was identified as Nepal’s Prime Minister ahead of the proposed visit? | प्रस्तावित यात्रा से पहले नेपाल के प्रधानमंत्री के रूप में किसका उल्लेख किया गया?",
+                            "options": [
+                                "K P Sharma Oli",
+                                "Balendra Shah",
+                                "Pushpa Kamal Dahal",
+                                "Sher Bahadur Deuba"
+                            ],
+                            "answer": "Balendra Shah"
+                        },
+                        {
+                            "question": "Which Indian official met Nepal’s senior foreign affairs officials? | नेपाल के वरिष्ठ विदेश अधिकारियों से किस भारतीय अधिकारी ने मुलाकात की?",
+                            "options": [
+                                "National Security Adviser",
+                                "Foreign Secretary Vikram Misri",
+                                "RBI Governor",
+                                "Defence Secretary"
+                            ],
+                            "answer": "Foreign Secretary Vikram Misri"
+                        },
+                        {
+                            "question": "Who is Nepal’s capital? | नेपाल की राजधानी क्या है?",
+                            "options": [
+                                "Pokhara",
+                                "Lalitpur",
+                                "Kathmandu",
+                                "Biratnagar"
+                            ],
+                            "answer": "Kathmandu"
+                        },
+                        {
+                            "question": "Which 1950 agreement is important in India-Nepal relations? | भारत-नेपाल संबंधों में 1950 का कौन-सा समझौता महत्वपूर्ण है?",
+                            "options": [
+                                "Treaty of Peace and Friendship",
+                                "Indus Waters Treaty",
+                                "Panchsheel Agreement",
+                                "Simla Agreement"
+                            ],
+                            "answer": "Treaty of Peace and Friendship"
+                        },
+                        {
+                            "question": "Nepal is geographically described as which type of country? | नेपाल भौगोलिक रूप से किस प्रकार का देश है?",
+                            "options": [
+                                "Island country",
+                                "Landlocked country",
+                                "Peninsula",
+                                "Archipelago"
+                            ],
+                            "answer": "Landlocked country"
+                        }
+                    ]
+                },
+                {
+                    "category": "Economy and Critical Minerals",
+                    "title": "Cabinet Approves Rs 2,814 Crore Scheme for Critical Mineral Processing | महत्वपूर्ण खनिज प्रसंस्करण के लिए 2,814 करोड़ रुपये की योजना को मंजूरी",
+                    "summary": "EN: The Union Cabinet approved a Rs 2,814 crore capital-support scheme to strengthen domestic processing of critical minerals, particularly lithium and nickel. The initiative is intended to build processing capacity and support sectors such as electric vehicles, batteries, electronics, defence and speciality steel. Cobalt may also be recovered as a by-product of nickel processing. The scheme aims to reduce import dependence and strengthen supply chains for minerals that are important to clean-energy technologies and advanced manufacturing.\nHI: केंद्रीय मंत्रिमंडल ने महत्वपूर्ण खनिजों, विशेषकर लिथियम और निकल के घरेलू प्रसंस्करण को मजबूत करने के लिए 2,814 करोड़ रुपये की पूंजीगत सहायता योजना को मंजूरी दी है। इस पहल का उद्देश्य प्रसंस्करण क्षमता विकसित करना और इलेक्ट्रिक वाहन, बैटरी, इलेक्ट्रॉनिक्स, रक्षा तथा विशेष इस्पात जैसे क्षेत्रों को सहायता देना है। निकल के प्रसंस्करण के दौरान कोबाल्ट भी उप-उत्पाद के रूप में प्राप्त किया जा सकता है। इस योजना का लक्ष्य आयात पर निर्भरता कम करना और स्वच्छ ऊर्जा तथा आधुनिक विनिर्माण के लिए आवश्यक खनिजों की आपूर्ति श्रृंखला मजबूत करना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Lithium is widely used in rechargeable batteries.",
+                        "लिथियम का उपयोग रिचार्जेबल बैटरियों में व्यापक रूप से होता है।",
+                        "Nickel is used in stainless steel and several battery chemistries.",
+                        "निकल का उपयोग स्टेनलेस स्टील और कई बैटरी तकनीकों में होता है।",
+                        "Cobalt is an important mineral used in some lithium-ion batteries.",
+                        "कोबाल्ट कुछ लिथियम-आयन बैटरियों में उपयोग होने वाला महत्वपूर्ण खनिज है।",
+                        "Critical minerals are important for clean energy, electronics and strategic industries.",
+                        "महत्वपूर्ण खनिज स्वच्छ ऊर्जा, इलेक्ट्रॉनिक्स और रणनीतिक उद्योगों के लिए आवश्यक हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the approved outlay of the critical mineral processing scheme? | महत्वपूर्ण खनिज प्रसंस्करण योजना का स्वीकृत बजट कितना है?",
+                            "options": [
+                                "Rs 1,814 crore",
+                                "Rs 2,814 crore",
+                                "Rs 3,814 crore",
+                                "Rs 4,814 crore"
+                            ],
+                            "answer": "Rs 2,814 crore"
+                        },
+                        {
+                            "question": "Which two minerals are the main focus of the scheme? | योजना का मुख्य ध्यान किन दो खनिजों पर है?",
+                            "options": [
+                                "Gold and silver",
+                                "Lithium and nickel",
+                                "Iron and coal",
+                                "Copper and zinc"
+                            ],
+                            "answer": "Lithium and nickel"
+                        },
+                        {
+                            "question": "Which mineral can be recovered as a by-product of nickel processing? | निकल प्रसंस्करण के उप-उत्पाद के रूप में कौन-सा खनिज प्राप्त हो सकता है?",
+                            "options": [
+                                "Cobalt",
+                                "Bauxite",
+                                "Mica",
+                                "Limestone"
+                            ],
+                            "answer": "Cobalt"
+                        },
+                        {
+                            "question": "Which sector is an important beneficiary of lithium processing? | लिथियम प्रसंस्करण से किस क्षेत्र को महत्वपूर्ण लाभ मिलता है?",
+                            "options": [
+                                "Electric vehicles",
+                                "Textiles",
+                                "Tourism",
+                                "Paper"
+                            ],
+                            "answer": "Electric vehicles"
+                        },
+                        {
+                            "question": "What is a key objective of the scheme? | योजना का प्रमुख उद्देश्य क्या है?",
+                            "options": [
+                                "Increase import dependence",
+                                "Reduce import dependence",
+                                "Stop battery production",
+                                "Replace all steel imports"
+                            ],
+                            "answer": "Reduce import dependence"
+                        }
+                    ]
+                },
+                {
+                    "category": "Renewable Energy and Infrastructure",
+                    "title": "Government Clears Rs 17,500 Crore Scheme to Promote Energy Storage | ऊर्जा भंडारण को बढ़ावा देने के लिए 17,500 करोड़ रुपये की योजना मंजूर",
+                    "summary": "EN: The Union Cabinet approved a viability gap funding (VGF) scheme with an outlay of Rs 17,500 crore for grid-scale energy storage systems during 2026-27 to 2030-31. The plan is designed to support 92 GWh of storage capacity, including battery energy storage systems, pumped hydro storage and emerging technologies. Energy storage can help balance electricity supply when renewable sources such as solar and wind are intermittent. The scheme is intended to improve grid stability and support the integration of renewable power.\nHI: केंद्रीय मंत्रिमंडल ने 2026-27 से 2030-31 के दौरान बड़े स्तर की बिजली भंडारण प्रणालियों को बढ़ावा देने के लिए 17,500 करोड़ रुपये की व्यवहार्यता अंतर वित्तपोषण (VGF) योजना को मंजूरी दी है। इस योजना के तहत 92 GWh भंडारण क्षमता विकसित करने में सहायता दी जाएगी, जिसमें बैटरी ऊर्जा भंडारण प्रणाली, पंप्ड हाइड्रो स्टोरेज और उभरती तकनीकें शामिल हैं। सौर और पवन ऊर्जा जैसे स्रोतों से बिजली उत्पादन में उतार-चढ़ाव होने पर ऊर्जा भंडारण आपूर्ति को संतुलित करने में मदद करता है। योजना का उद्देश्य बिजली ग्रिड की स्थिरता और नवीकरणीय ऊर्जा के एकीकरण को बेहतर बनाना है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "VGF stands for Viability Gap Funding.",
+                        "VGF का पूरा नाम वायबिलिटी गैप फंडिंग है।",
+                        "Battery Energy Storage Systems store electricity for use when required.",
+                        "बैटरी ऊर्जा भंडारण प्रणालियां आवश्यकता के समय उपयोग के लिए बिजली संग्रहित करती हैं।",
+                        "Pumped hydro storage stores energy by moving water between reservoirs at different elevations.",
+                        "पंप्ड हाइड्रो स्टोरेज अलग-अलग ऊंचाई वाले जलाशयों के बीच पानी पहुंचाकर ऊर्जा संग्रहित करता है।",
+                        "Solar and wind power are variable renewable energy sources.",
+                        "सौर और पवन ऊर्जा परिवर्तनशील नवीकरणीय ऊर्जा स्रोत हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "What is the financial outlay of the energy storage scheme? | ऊर्जा भंडारण योजना का वित्तीय बजट कितना है?",
+                            "options": [
+                                "Rs 7,500 crore",
+                                "Rs 12,500 crore",
+                                "Rs 17,500 crore",
+                                "Rs 27,500 crore"
+                            ],
+                            "answer": "Rs 17,500 crore"
+                        },
+                        {
+                            "question": "How much storage capacity is the scheme designed to support? | योजना के तहत कितनी भंडारण क्षमता विकसित करने का लक्ष्य है?",
+                            "options": [
+                                "42 GWh",
+                                "62 GWh",
+                                "92 GWh",
+                                "120 GWh"
+                            ],
+                            "answer": "92 GWh"
+                        },
+                        {
+                            "question": "What does VGF stand for? | VGF का पूरा नाम क्या है?",
+                            "options": [
+                                "Variable Grid Facility",
+                                "Viability Gap Funding",
+                                "Value Generation Fund",
+                                "Verified Green Finance"
+                            ],
+                            "answer": "Viability Gap Funding"
+                        },
+                        {
+                            "question": "Which technology stores energy by moving water between reservoirs? | कौन-सी तकनीक जलाशयों के बीच पानी पहुंचाकर ऊर्जा संग्रहित करती है?",
+                            "options": [
+                                "Solar PV",
+                                "Pumped hydro storage",
+                                "Wind turbine",
+                                "Biomass gasification"
+                            ],
+                            "answer": "Pumped hydro storage"
+                        },
+                        {
+                            "question": "Why is grid-scale storage important for renewable energy? | नवीकरणीय ऊर्जा के लिए बड़े स्तर का भंडारण क्यों महत्वपूर्ण है?",
+                            "options": [
+                                "It balances variable supply",
+                                "It stops electricity transmission",
+                                "It increases coal use only",
+                                "It replaces all power lines"
+                            ],
+                            "answer": "It balances variable supply"
+                        }
+                    ]
+                },
+                {
+                    "category": "Banking and Financial Markets",
+                    "title": "RBI Sets Up Technical Consultative Committee for Financial Markets | RBI ने वित्तीय बाजारों के लिए तकनीकी परामर्श समिति बनाई",
+                    "summary": "EN: The Reserve Bank of India constituted a Technical Consultative Committee for Financial Markets to create a structured channel for engagement with market participants. The committee will be chaired by the RBI Deputy Governor in charge of the Financial Markets Regulation Department. It will advise on the functioning, efficiency, liquidity and resilience of money markets, government securities markets, foreign exchange markets and related derivatives. The panel will also examine market infrastructure and emerging risks, and is expected to meet at least once every quarter.\nHI: भारतीय रिजर्व बैंक ने बाजार के प्रतिभागियों के साथ नियमित और व्यवस्थित संवाद के लिए वित्तीय बाजारों की तकनीकी परामर्श समिति गठित की है। इस समिति की अध्यक्षता वित्तीय बाजार विनियमन विभाग के प्रभारी RBI उप-गवर्नर करेंगे। समिति मुद्रा बाजार, सरकारी प्रतिभूति बाजार, विदेशी मुद्रा बाजार और उनसे जुड़े डेरिवेटिव बाजारों के कामकाज, दक्षता, तरलता और मजबूती पर सलाह देगी। यह बाजार के बुनियादी ढांचे और उभरते जोखिमों की भी समीक्षा करेगी तथा इसकी बैठक कम-से-कम प्रत्येक तिमाही में होने की अपेक्षा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Reserve Bank of India was established on 1 April 1935.",
+                        "भारतीय रिजर्व बैंक की स्थापना 1 अप्रैल 1935 को हुई थी।",
+                        "The RBI was nationalised in 1949.",
+                        "RBI का राष्ट्रीयकरण 1949 में हुआ था।",
+                        "Government securities are debt instruments issued by the government.",
+                        "सरकारी प्रतिभूतियां सरकार द्वारा जारी ऋण साधन हैं।",
+                        "Foreign exchange markets facilitate the exchange of one currency for another.",
+                        "विदेशी मुद्रा बाजार एक मुद्रा को दूसरी मुद्रा में बदलने की सुविधा देता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which institution constituted the Technical Consultative Committee for Financial Markets? | वित्तीय बाजारों की तकनीकी परामर्श समिति किस संस्था ने बनाई?",
+                            "options": [
+                                "SEBI",
+                                "RBI",
+                                "NABARD",
+                                "IRDAI"
+                            ],
+                            "answer": "RBI"
+                        },
+                        {
+                            "question": "Who will chair the committee? | समिति की अध्यक्षता कौन करेगा?",
+                            "options": [
+                                "Finance Minister",
+                                "RBI Deputy Governor in charge of FMRD",
+                                "SEBI Chairperson",
+                                "Cabinet Secretary"
+                            ],
+                            "answer": "RBI Deputy Governor in charge of FMRD"
+                        },
+                        {
+                            "question": "Which market is included in the committee’s remit? | समिति के कार्यक्षेत्र में कौन-सा बाजार शामिल है?",
+                            "options": [
+                                "Foreign exchange market",
+                                "Agricultural land market only",
+                                "Real estate market only",
+                                "Consumer goods market"
+                            ],
+                            "answer": "Foreign exchange market"
+                        },
+                        {
+                            "question": "When was RBI established? | RBI की स्थापना कब हुई थी?",
+                            "options": [
+                                "1 April 1935",
+                                "1 January 1949",
+                                "15 August 1947",
+                                "1 April 1950"
+                            ],
+                            "answer": "1 April 1935"
+                        },
+                        {
+                            "question": "How frequently is the committee expected to meet at minimum? | समिति की न्यूनतम कितनी बार बैठक होने की अपेक्षा है?",
+                            "options": [
+                                "Every month",
+                                "Every quarter",
+                                "Every two years",
+                                "Once in five years"
+                            ],
+                            "answer": "Every quarter"
+                        }
+                    ]
+                },
+                {
+                    "category": "Education and Global Rankings",
+                    "title": "Indian Universities Slip in QS Asia Rankings; No Institution in Top 50 | QS एशिया रैंकिंग में भारतीय विश्वविद्यालय फिसले, शीर्ष 50 में कोई संस्थान नहीं",
+                    "summary": "EN: The Indian Express reported that Indian universities slipped in the QS Asia rankings, with no Indian institution featuring among the top 50 in the edition discussed. The rankings compare higher-education institutions across Asia using indicators related to academic reputation, employer reputation, research and international engagement. The result has renewed attention on the global competitiveness of Indian universities, research output, faculty strength and internationalisation. Rankings are one comparative measure and should be read alongside other indicators of educational quality.\nHI: द इंडियन एक्सप्रेस की रिपोर्ट के अनुसार QS एशिया रैंकिंग में भारतीय विश्वविद्यालयों की स्थिति कमजोर हुई और संबंधित संस्करण में कोई भी भारतीय संस्थान शीर्ष 50 में स्थान नहीं बना सका। यह रैंकिंग एशिया के उच्च शिक्षा संस्थानों की तुलना शैक्षणिक प्रतिष्ठा, नियोक्ता प्रतिष्ठा, शोध और अंतरराष्ट्रीय सहभागिता जैसे संकेतकों के आधार पर करती है। इस परिणाम ने भारतीय विश्वविद्यालयों की वैश्विक प्रतिस्पर्धा, शोध उत्पादन, शिक्षकों की क्षमता और अंतरराष्ट्रीयकरण पर फिर से ध्यान केंद्रित किया है। रैंकिंग शिक्षा की गुणवत्ता मापने का एक तुलनात्मक तरीका है, इसे अन्य संकेतकों के साथ देखना चाहिए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "QS stands for Quacquarelli Symonds, an organisation known for university rankings.",
+                        "QS का अर्थ क्वाक्वेरेली साइमंड्स है, जो विश्वविद्यालय रैंकिंग के लिए प्रसिद्ध संस्था है।",
+                        "Higher-education institutions include universities and colleges offering post-school education.",
+                        "उच्च शिक्षा संस्थानों में स्कूल के बाद की शिक्षा देने वाले विश्वविद्यालय और कॉलेज शामिल हैं।",
+                        "Academic reputation is one indicator used in global university rankings.",
+                        "शैक्षणिक प्रतिष्ठा वैश्विक विश्वविद्यालय रैंकिंग में उपयोग किया जाने वाला एक संकेतक है।",
+                        "Research output is commonly assessed through publications and citations.",
+                        "शोध उत्पादन का आकलन सामान्यतः प्रकाशनों और उद्धरणों के आधार पर किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which ranking was discussed in the report? | रिपोर्ट में किस रैंकिंग की चर्चा की गई?",
+                            "options": [
+                                "QS Asia Rankings",
+                                "World Bank Ease of Doing Business",
+                                "Global Hunger Index",
+                                "Human Development Index"
+                            ],
+                            "answer": "QS Asia Rankings"
+                        },
+                        {
+                            "question": "How many Indian institutions featured in the top 50, according to the report? | रिपोर्ट के अनुसार शीर्ष 50 में कितने भारतीय संस्थान शामिल थे?",
+                            "options": [
+                                "None",
+                                "One",
+                                "Five",
+                                "Ten"
+                            ],
+                            "answer": "None"
+                        },
+                        {
+                            "question": "QS is associated with which field? | QS किस क्षेत्र से संबंधित है?",
+                            "options": [
+                                "University rankings",
+                                "Weather forecasting",
+                                "Space exploration",
+                                "Bank regulation"
+                            ],
+                            "answer": "University rankings"
+                        },
+                        {
+                            "question": "Which is an indicator used in university rankings? | विश्वविद्यालय रैंकिंग में कौन-सा संकेतक उपयोग होता है?",
+                            "options": [
+                                "Academic reputation",
+                                "Annual rainfall",
+                                "Road length",
+                                "Forest cover"
+                            ],
+                            "answer": "Academic reputation"
+                        },
+                        {
+                            "question": "Research output is often assessed using publications and what else? | शोध उत्पादन का आकलन प्रकाशनों के साथ किस आधार पर भी होता है?",
+                            "options": [
+                                "Citations",
+                                "Tourist arrivals",
+                                "Tax rates",
+                                "Birth rates"
+                            ],
+                            "answer": "Citations"
+                        }
+                    ]
+                },
+                {
+                    "category": "Railways and Public Transport",
+                    "title": "Vande Bharat Trains Record High Occupancy in FY 2025-26 | वित्त वर्ष 2025-26 में वंदे भारत ट्रेनों की उच्च यात्री क्षमता दर्ज",
+                    "summary": "EN: Vande Bharat trains recorded high passenger occupancy during financial year 2025-26. The Thiruvananthapuram-Mangaluru service topped the reported list with occupancy of 189.35 per cent. Occupancy above 100 per cent can reflect passenger journeys over different sections of a route and does not necessarily mean that every seat is occupied by more than one passenger at the same time. The figures highlight demand for semi-high-speed rail services and the importance of capacity planning on busy routes.\nHI: वित्त वर्ष 2025-26 के दौरान वंदे भारत ट्रेनों में उच्च यात्री अधिभोग दर्ज किया गया। रिपोर्ट की गई सूची में तिरुवनंतपुरम-मंगलुरु सेवा 189.35 प्रतिशत अधिभोग के साथ शीर्ष पर रही। 100 प्रतिशत से अधिक अधिभोग का अर्थ यह हो सकता है कि मार्ग के अलग-अलग हिस्सों में अलग-अलग यात्री यात्रा कर रहे हैं; इसका यह अर्थ जरूरी नहीं कि एक ही समय में प्रत्येक सीट पर एक से अधिक यात्री बैठे हों। ये आंकड़े अर्ध-उच्च गति रेल सेवाओं की मांग और व्यस्त मार्गों पर क्षमता नियोजन के महत्व को दर्शाते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Vande Bharat Express is an indigenously developed semi-high-speed train service in India.",
+                        "वंदे भारत एक्सप्रेस भारत में विकसित स्वदेशी अर्ध-उच्च गति रेल सेवा है।",
+                        "Indian Railways functions under the Ministry of Railways.",
+                        "भारतीय रेलवे रेल मंत्रालय के अंतर्गत कार्य करता है।",
+                        "A financial year in India runs from 1 April to 31 March.",
+                        "भारत में वित्त वर्ष 1 अप्रैल से 31 मार्च तक चलता है।",
+                        "Passenger occupancy is a measure of the use of available passenger capacity.",
+                        "यात्री अधिभोग उपलब्ध यात्री क्षमता के उपयोग का माप है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which Vande Bharat route recorded the highest occupancy in the report? | रिपोर्ट में किस वंदे भारत मार्ग का अधिभोग सबसे अधिक था?",
+                            "options": [
+                                "Delhi-Varanasi",
+                                "Thiruvananthapuram-Mangaluru",
+                                "Mumbai-Ahmedabad",
+                                "Chennai-Mysuru"
+                            ],
+                            "answer": "Thiruvananthapuram-Mangaluru"
+                        },
+                        {
+                            "question": "What occupancy was reported for this service? | इस सेवा का अधिभोग कितना बताया गया?",
+                            "options": [
+                                "129.35%",
+                                "149.35%",
+                                "169.35%",
+                                "189.35%"
+                            ],
+                            "answer": "189.35%"
+                        },
+                        {
+                            "question": "The figures relate to which financial year? | ये आंकड़े किस वित्त वर्ष से संबंधित हैं?",
+                            "options": [
+                                "2023-24",
+                                "2024-25",
+                                "2025-26",
+                                "2026-27"
+                            ],
+                            "answer": "2025-26"
+                        },
+                        {
+                            "question": "Vande Bharat is described as what type of train service? | वंदे भारत को किस प्रकार की रेल सेवा कहा जाता है?",
+                            "options": [
+                                "Metro rail",
+                                "Semi-high-speed train",
+                                "Heritage steam train",
+                                "Freight-only train"
+                            ],
+                            "answer": "Semi-high-speed train"
+                        },
+                        {
+                            "question": "Which ministry oversees Indian Railways? | भारतीय रेलवे किस मंत्रालय के अंतर्गत आता है?",
+                            "options": [
+                                "Ministry of Home Affairs",
+                                "Ministry of Railways",
+                                "Ministry of Commerce",
+                                "Ministry of Road Transport"
+                            ],
+                            "answer": "Ministry of Railways"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2026-11-06",
+            "date": "06 November 2026",
+            "totalNews": 10,
+            "description": "Top 10 Current Affairs of 6 November 2026 for UPSC, SSC, Banking, Railway, Defence and Competitive Exams. Source: The Indian Express.",
+            "news": [
+                {
+                    "category": "Health and Medical Regulation",
+                    "title": "Nearly Three-Fold Rise in Serious Adverse Events Caused by Medical Devices | चिकित्सा उपकरणों से होने वाली गंभीर प्रतिकूल घटनाओं में लगभग तीन गुना वृद्धि",
+                    "summary": "EN: The Indian Pharmacopoeia Commission (IPC) disclosed six years of data on serious adverse events (SAEs) linked to medical devices after an order of the Central Information Commission. The data recorded 9,373 such events since 2020. The annual number rose from 808 in 2020 to 2,176 in 2025, showing a nearly three-fold increase. Serious adverse events may involve life-threatening conditions or prolonged hospitalisation. The disclosure highlights the importance of medical-device safety monitoring, reporting and regulatory oversight in India.\nHI: केंद्रीय सूचना आयोग के आदेश के बाद भारतीय फार्माकोपिया आयोग (IPC) ने चिकित्सा उपकरणों से जुड़ी गंभीर प्रतिकूल घटनाओं (SAEs) के छह वर्षों के आंकड़े सार्वजनिक किए। वर्ष 2020 से अब तक ऐसी 9,373 घटनाएं दर्ज की गईं। इनकी वार्षिक संख्या 2020 में 808 से बढ़कर 2025 में 2,176 हो गई, जो लगभग तीन गुना वृद्धि दर्शाती है। गंभीर प्रतिकूल घटनाओं में जीवन के लिए खतरा पैदा करने वाली स्थिति या लंबे समय तक अस्पताल में भर्ती होना शामिल हो सकता है। यह जानकारी भारत में चिकित्सा उपकरणों की सुरक्षा निगरानी, रिपोर्टिंग और नियामकीय देखरेख के महत्व को रेखांकित करती है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Indian Pharmacopoeia Commission works under the Ministry of Health and Family Welfare.",
+                        "भारतीय फार्माकोपिया आयोग स्वास्थ्य एवं परिवार कल्याण मंत्रालय के अंतर्गत कार्य करता है।",
+                        "Pharmacovigilance is the monitoring of medicine-related safety problems.",
+                        "फार्माकोविजिलेंस दवाओं से जुड़ी सुरक्षा समस्याओं की निगरानी की प्रक्रिया है।",
+                        "The Central Information Commission is constituted under the Right to Information Act, 2005.",
+                        "केंद्रीय सूचना आयोग का गठन सूचना का अधिकार अधिनियम, 2005 के तहत किया गया है।",
+                        "Medical devices include equipment used for diagnosis, monitoring and treatment.",
+                        "चिकित्सा उपकरणों में जांच, निगरानी और उपचार के लिए उपयोग किए जाने वाले उपकरण शामिल हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which commission disclosed the six-year data on medical-device adverse events? | चिकित्सा उपकरणों की प्रतिकूल घटनाओं के छह वर्षों के आंकड़े किस आयोग ने जारी किए?",
+                            "options": [
+                                "Indian Pharmacopoeia Commission",
+                                "NITI Aayog",
+                                "UGC",
+                                "Election Commission of India"
+                            ],
+                            "answer": "Indian Pharmacopoeia Commission"
+                        },
+                        {
+                            "question": "How many serious adverse events were recorded since 2020? | 2020 से अब तक कितनी गंभीर प्रतिकूल घटनाएं दर्ज की गईं?",
+                            "options": [
+                                "4,373",
+                                "7,393",
+                                "9,373",
+                                "12,973"
+                            ],
+                            "answer": "9,373"
+                        },
+                        {
+                            "question": "How many events were recorded in 2025? | 2025 में कितनी घटनाएं दर्ज की गईं?",
+                            "options": [
+                                "808",
+                                "1,441",
+                                "2,021",
+                                "2,176"
+                            ],
+                            "answer": "2,176"
+                        },
+                        {
+                            "question": "Which body ordered disclosure of the data? | आंकड़े सार्वजनिक करने का आदेश किस संस्था ने दिया?",
+                            "options": [
+                                "CAG",
+                                "Central Information Commission",
+                                "RBI",
+                                "UPSC"
+                            ],
+                            "answer": "Central Information Commission"
+                        },
+                        {
+                            "question": "SAE in the report stands for what? | रिपोर्ट में SAE का पूरा नाम क्या है?",
+                            "options": [
+                                "Serious Adverse Event",
+                                "Standard Audit Estimate",
+                                "Special Access Entry",
+                                "Safety Assessment Exercise"
+                            ],
+                            "answer": "Serious Adverse Event"
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations",
+                    "title": "Nepal PM Balendra Shah to Visit India from November 22 | नेपाल के प्रधानमंत्री बालेन्द्र शाह 22 नवंबर से भारत यात्रा पर आएंगे",
+                    "summary": "EN: Nepal Prime Minister Balendra Shah is scheduled to undertake his first bilateral visit to India from November 22. The visit is expected to provide an opportunity to review India-Nepal relations and discuss cooperation on matters of mutual interest. Shah expressed appreciation for India's assistance after destructive flash floods hit Nepal in August. The visit comes amid renewed diplomatic engagement between the two neighbouring countries and follows meetings between senior officials from both sides.\nHI: नेपाल के प्रधानमंत्री बालेन्द्र शाह 22 नवंबर से भारत की अपनी पहली द्विपक्षीय यात्रा पर आने वाले हैं। इस यात्रा के दौरान भारत-नेपाल संबंधों की समीक्षा और आपसी हित के मुद्दों पर सहयोग पर चर्चा होने की उम्मीद है। शाह ने अगस्त में नेपाल में विनाशकारी आकस्मिक बाढ़ आने के बाद भारत द्वारा दी गई सहायता के लिए आभार व्यक्त किया। यह यात्रा दोनों पड़ोसी देशों के बीच नए कूटनीतिक संपर्क के बीच हो रही है और दोनों पक्षों के वरिष्ठ अधिकारियों की बैठकों के बाद आयोजित होगी।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "India and Nepal share an open border under long-standing bilateral arrangements.",
+                        "भारत और नेपाल के बीच लंबे समय से चली आ रही व्यवस्थाओं के तहत खुली सीमा है।",
+                        "The Treaty of Peace and Friendship between India and Nepal was signed in 1950.",
+                        "भारत और नेपाल के बीच शांति एवं मैत्री संधि 1950 में हुई थी।",
+                        "The capital of Nepal is Kathmandu.",
+                        "नेपाल की राजधानी काठमांडू है।",
+                        "The Koshi, Gandak and Mahakali are important river systems shared by India and Nepal.",
+                        "कोशी, गंडक और महाकाली भारत और नेपाल की महत्वपूर्ण साझा नदी प्रणालियां हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "When is Nepal PM Balendra Shah scheduled to visit India? | नेपाल के प्रधानमंत्री बालेन्द्र शाह भारत की यात्रा पर कब आने वाले हैं?",
+                            "options": [
+                                "November 12",
+                                "November 18",
+                                "November 22",
+                                "December 2"
+                            ],
+                            "answer": "November 22"
+                        },
+                        {
+                            "question": "This is Shah's which bilateral visit to India? | यह शाह की भारत की कौन-सी द्विपक्षीय यात्रा होगी?",
+                            "options": [
+                                "First",
+                                "Second",
+                                "Third",
+                                "Fourth"
+                            ],
+                            "answer": "First"
+                        },
+                        {
+                            "question": "Which natural disaster in Nepal was mentioned in the report? | रिपोर्ट में नेपाल की किस प्राकृतिक आपदा का उल्लेख किया गया?",
+                            "options": [
+                                "Earthquake",
+                                "Flash floods",
+                                "Drought",
+                                "Volcanic eruption"
+                            ],
+                            "answer": "Flash floods"
+                        },
+                        {
+                            "question": "What is the capital of Nepal? | नेपाल की राजधानी क्या है?",
+                            "options": [
+                                "Pokhara",
+                                "Biratnagar",
+                                "Kathmandu",
+                                "Lalitpur"
+                            ],
+                            "answer": "Kathmandu"
+                        },
+                        {
+                            "question": "In which year was the India-Nepal Treaty of Peace and Friendship signed? | भारत-नेपाल शांति एवं मैत्री संधि किस वर्ष हुई थी?",
+                            "options": [
+                                "1947",
+                                "1950",
+                                "1962",
+                                "1975"
+                            ],
+                            "answer": "1950"
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment and Disaster Management",
+                    "title": "Two More Trekkers' Bodies Recovered in Uttarakhand; Search Continues for Two | उत्तराखंड में दो और ट्रेकर्स के शव बरामद, दो की तलाश जारी",
+                    "summary": "EN: Rescue teams in Uttarakhand recovered the bodies of two more trekkers, identified as Rintu Mandal and Uday Ghosh, who were from Bankura district of West Bengal. Search operations continued for two other trekkers who remained missing. Authorities planned a fresh search operation on Friday. The incident highlights the risks associated with trekking in difficult Himalayan terrain and the need for weather assessment, route planning, communication and coordinated search-and-rescue arrangements.\nHI: उत्तराखंड में बचाव दलों ने दो और ट्रेकर्स के शव बरामद किए। उनकी पहचान पश्चिम बंगाल के बांकुड़ा जिले के रिंटू मंडल और उदय घोष के रूप में हुई। दो अन्य ट्रेकर्स अब भी लापता थे और उनकी तलाश जारी रही। अधिकारियों ने शुक्रवार को नए सिरे से तलाशी अभियान चलाने की योजना बनाई। यह घटना कठिन हिमालयी भूभाग में ट्रेकिंग से जुड़े जोखिमों तथा मौसम का आकलन, मार्ग नियोजन, संचार और समन्वित खोज-बचाव व्यवस्था की आवश्यकता को दर्शाती है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Himalayas contain some of the world's highest mountain peaks.",
+                        "हिमालय में दुनिया की कुछ सबसे ऊंची पर्वत चोटियां स्थित हैं।",
+                        "The National Disaster Response Force was established in 2006.",
+                        "राष्ट्रीय आपदा प्रतिक्रिया बल की स्थापना 2006 में हुई थी।",
+                        "Uttarakhand was formed on 9 November 2000.",
+                        "उत्तराखंड का गठन 9 नवंबर 2000 को हुआ था।",
+                        "Bankura is a district in the Indian state of West Bengal.",
+                        "बांकुड़ा भारतीय राज्य पश्चिम बंगाल का एक जिला है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which state was the site of the trekking search operation? | ट्रेकिंग से जुड़ा खोज अभियान किस राज्य में चलाया गया?",
+                            "options": [
+                                "Himachal Pradesh",
+                                "Uttarakhand",
+                                "Sikkim",
+                                "Arunachal Pradesh"
+                            ],
+                            "answer": "Uttarakhand"
+                        },
+                        {
+                            "question": "How many trekkers' bodies were reported recovered in this update? | इस अपडेट में कितने ट्रेकर्स के शव बरामद होने की जानकारी दी गई?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Three",
+                                "Four"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "question": "Rintu Mandal and Uday Ghosh belonged to which district? | रिंटू मंडल और उदय घोष किस जिले के रहने वाले थे?",
+                            "options": [
+                                "Bankura",
+                                "Nadia",
+                                "Howrah",
+                                "Darjeeling"
+                            ],
+                            "answer": "Bankura"
+                        },
+                        {
+                            "question": "Bankura is located in which state? | बांकुड़ा किस राज्य में स्थित है?",
+                            "options": [
+                                "Odisha",
+                                "Bihar",
+                                "West Bengal",
+                                "Jharkhand"
+                            ],
+                            "answer": "West Bengal"
+                        },
+                        {
+                            "question": "In which year was the NDRF established? | NDRF की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "2001",
+                                "2004",
+                                "2006",
+                                "2010"
+                            ],
+                            "answer": "2006"
+                        }
+                    ]
+                },
+                {
+                    "category": "Indian Polity and Parliament",
+                    "title": "Hardeep Singh Puri Elected Unopposed to Rajya Sabha from Madhya Pradesh | हरदीप सिंह पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध निर्वाचित",
+                    "summary": "EN: Union Minister Hardeep Singh Puri was elected unopposed to the Rajya Sabha from Madhya Pradesh. The Returning Officer rejected the nominations of independent candidates Rajkumar Lohani and Kante Sayanna during scrutiny on November 3. With no other valid candidate remaining in the contest, Puri was declared elected unopposed. The development relates to the indirect election process for the Council of States, in which elected members of State Legislative Assemblies vote.\nHI: केंद्रीय मंत्री हरदीप सिंह पुरी मध्य प्रदेश से राज्यसभा के लिए निर्विरोध निर्वाचित हुए। रिटर्निंग ऑफिसर ने 3 नवंबर को जांच के दौरान निर्दलीय उम्मीदवारों राजकुमार लोहानी और कांते सयन्ना के नामांकन खारिज कर दिए। मुकाबले में कोई अन्य वैध उम्मीदवार शेष नहीं रहने के कारण पुरी को निर्विरोध निर्वाचित घोषित किया गया। यह राज्यसभा की अप्रत्यक्ष चुनाव प्रक्रिया से संबंधित है, जिसमें राज्य विधानसभाओं के निर्वाचित सदस्य मतदान करते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Rajya Sabha is the Upper House of the Indian Parliament.",
+                        "राज्यसभा भारतीय संसद का उच्च सदन है।",
+                        "The Rajya Sabha is a permanent House and is not subject to dissolution.",
+                        "राज्यसभा एक स्थायी सदन है और इसे भंग नहीं किया जाता है।",
+                        "One-third of Rajya Sabha members retire every two years.",
+                        "राज्यसभा के एक-तिहाई सदस्य प्रत्येक दो वर्ष में सेवानिवृत्त होते हैं।",
+                        "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.",
+                        "भारत के उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "From which state was Hardeep Singh Puri elected to the Rajya Sabha? | हरदीप सिंह पुरी किस राज्य से राज्यसभा के लिए निर्वाचित हुए?",
+                            "options": [
+                                "Uttar Pradesh",
+                                "Madhya Pradesh",
+                                "Rajasthan",
+                                "Haryana"
+                            ],
+                            "answer": "Madhya Pradesh"
+                        },
+                        {
+                            "question": "How was Puri elected? | पुरी किस प्रकार निर्वाचित हुए?",
+                            "options": [
+                                "By direct public vote",
+                                "Unopposed",
+                                "By nomination of the President",
+                                "By lottery"
+                            ],
+                            "answer": "Unopposed"
+                        },
+                        {
+                            "question": "Who rejected the independent candidates' nominations? | निर्दलीय उम्मीदवारों के नामांकन किसने खारिज किए?",
+                            "options": [
+                                "Speaker",
+                                "Returning Officer",
+                                "Governor",
+                                "Chief Justice"
+                            ],
+                            "answer": "Returning Officer"
+                        },
+                        {
+                            "question": "Rajya Sabha is which House of Parliament? | राज्यसभा संसद का कौन-सा सदन है?",
+                            "options": [
+                                "Lower House",
+                                "Upper House",
+                                "Joint House",
+                                "Temporary House"
+                            ],
+                            "answer": "Upper House"
+                        },
+                        {
+                            "question": "Who is the ex-officio Chairman of the Rajya Sabha? | राज्यसभा के पदेन सभापति कौन होते हैं?",
+                            "options": [
+                                "President",
+                                "Prime Minister",
+                                "Vice-President",
+                                "Lok Sabha Speaker"
+                            ],
+                            "answer": "Vice-President"
+                        }
+                    ]
+                },
+                {
+                    "category": "Indian Polity and Electoral Reforms",
+                    "title": "EC Announces Electoral Roll Revision in Four States and Two UTs | चुनाव आयोग ने चार राज्यों और दो केंद्रशासित प्रदेशों में मतदाता सूची पुनरीक्षण की घोषणा की",
+                    "summary": "EN: The Election Commission of India announced a Special Summary Revision (SSR) of electoral rolls in four states and two Union Territories. The exercise will cover Arunachal Pradesh, Mizoram, Odisha and Sikkim, along with Chandigarh and Dadra and Nagar Haveli and Daman and Diu. The revision is intended to update electoral rolls, including enrolment of eligible voters and correction of entries. The announcement is part of the Commission's work to maintain accurate voter lists ahead of future elections.\nHI: भारत निर्वाचन आयोग ने चार राज्यों और दो केंद्रशासित प्रदेशों में मतदाता सूचियों के विशेष संक्षिप्त पुनरीक्षण (SSR) की घोषणा की। इस प्रक्रिया में अरुणाचल प्रदेश, मिजोरम, ओडिशा और सिक्किम के साथ चंडीगढ़ तथा दादरा और नगर हवेली एवं दमन और दीव शामिल होंगे। इस अभियान का उद्देश्य पात्र मतदाताओं का नाम जोड़ने और प्रविष्टियों में सुधार सहित मतदाता सूचियों को अद्यतन करना है। यह घोषणा भविष्य के चुनावों से पहले सटीक मतदाता सूची बनाए रखने के आयोग के कार्य का हिस्सा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Election Commission of India is provided for under Article 324 of the Constitution.",
+                        "भारत निर्वाचन आयोग का प्रावधान संविधान के अनुच्छेद 324 में है।",
+                        "The voting age in India was reduced from 21 to 18 years by the 61st Constitutional Amendment.",
+                        "61वें संविधान संशोधन द्वारा भारत में मतदान की आयु 21 से घटाकर 18 वर्ष की गई।",
+                        "The Representation of the People Act, 1950 deals with electoral rolls.",
+                        "जनप्रतिनिधित्व अधिनियम, 1950 मतदाता सूचियों से संबंधित है।",
+                        "A Union Territory is administered by the President through an Administrator, subject to constitutional provisions.",
+                        "केंद्रशासित प्रदेश का प्रशासन संवैधानिक प्रावधानों के अधीन राष्ट्रपति द्वारा नियुक्त प्रशासक के माध्यम से होता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "How many states are covered by the announced revision? | घोषित पुनरीक्षण में कितने राज्य शामिल हैं?",
+                            "options": [
+                                "Two",
+                                "Four",
+                                "Six",
+                                "Eight"
+                            ],
+                            "answer": "Four"
+                        },
+                        {
+                            "question": "How many Union Territories are included? | इसमें कितने केंद्रशासित प्रदेश शामिल हैं?",
+                            "options": [
+                                "One",
+                                "Two",
+                                "Three",
+                                "Four"
+                            ],
+                            "answer": "Two"
+                        },
+                        {
+                            "question": "Which of the following states is included? | निम्नलिखित में से कौन-सा राज्य इसमें शामिल है?",
+                            "options": [
+                                "Punjab",
+                                "Odisha",
+                                "Gujarat",
+                                "Kerala"
+                            ],
+                            "answer": "Odisha"
+                        },
+                        {
+                            "question": "Which Article provides for the Election Commission of India? | भारत निर्वाचन आयोग का प्रावधान किस अनुच्छेद में है?",
+                            "options": [
+                                "Article 110",
+                                "Article 280",
+                                "Article 324",
+                                "Article 356"
+                            ],
+                            "answer": "Article 324"
+                        },
+                        {
+                            "question": "What is the purpose of electoral-roll revision? | मतदाता सूची पुनरीक्षण का उद्देश्य क्या है?",
+                            "options": [
+                                "Update voter lists",
+                                "Conduct census",
+                                "Prepare budget",
+                                "Appoint judges"
+                            ],
+                            "answer": "Update voter lists"
+                        }
+                    ]
+                },
+                {
+                    "category": "Internal Security and North-East India",
+                    "title": "Nagas Hold Mass Rallies in Manipur, Demand End to 'Proxy War' and Withdrawal of Assam Rifles | मणिपुर में नागा समुदाय की रैलियां, 'प्रॉक्सी वॉर' समाप्त करने और असम राइफल्स हटाने की मांग",
+                    "summary": "EN: Naga groups staged mass rallies in Manipur demanding an end to what they described as a 'proxy war' and calling for the withdrawal of Assam Rifles. The protests came a day after suspected armed militants opened fire on passenger vehicles along the Imphal-Ukhrul highway in Ukhrul district. The developments underline the continuing security and political challenges in parts of Manipur. The region's situation involves questions of public safety, community relations and the role of security forces.\nHI: मणिपुर में नागा संगठनों ने बड़े पैमाने पर रैलियां आयोजित कीं। उन्होंने कथित 'प्रॉक्सी वॉर' समाप्त करने और असम राइफल्स को हटाने की मांग की। ये प्रदर्शन उखरुल जिले में इम्फाल-उखरुल राजमार्ग पर संदिग्ध सशस्त्र उग्रवादियों द्वारा यात्री वाहनों पर गोलीबारी के एक दिन बाद हुए। ये घटनाक्रम मणिपुर के कुछ हिस्सों में जारी सुरक्षा और राजनीतिक चुनौतियों को दर्शाते हैं। इस क्षेत्र की स्थिति में जन सुरक्षा, सामुदायिक संबंधों और सुरक्षा बलों की भूमिका से जुड़े मुद्दे शामिल हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Manipur is one of the eight states of North-East India.",
+                        "मणिपुर पूर्वोत्तर भारत के आठ राज्यों में से एक है।",
+                        "Imphal is the capital of Manipur.",
+                        "इंफाल मणिपुर की राजधानी है।",
+                        "Assam Rifles is one of India's oldest paramilitary forces.",
+                        "असम राइफल्स भारत के सबसे पुराने अर्धसैनिक बलों में से एक है।",
+                        "Ukhrul is a district in Manipur with a significant Naga population.",
+                        "उखरुल मणिपुर का एक जिला है जहां नागा आबादी की महत्वपूर्ण उपस्थिति है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which state were the rallies held? | रैलियां किस राज्य में आयोजित की गईं?",
+                            "options": [
+                                "Nagaland",
+                                "Manipur",
+                                "Assam",
+                                "Tripura"
+                            ],
+                            "answer": "Manipur"
+                        },
+                        {
+                            "question": "Which force did protesters demand be withdrawn? | प्रदर्शनकारियों ने किस बल को हटाने की मांग की?",
+                            "options": [
+                                "CRPF",
+                                "BSF",
+                                "Assam Rifles",
+                                "ITBP"
+                            ],
+                            "answer": "Assam Rifles"
+                        },
+                        {
+                            "question": "The firing incident took place along which highway? | गोलीबारी की घटना किस राजमार्ग पर हुई?",
+                            "options": [
+                                "Imphal-Ukhrul",
+                                "Dimapur-Kohima",
+                                "Silchar-Aizawl",
+                                "Agartala-Sabroom"
+                            ],
+                            "answer": "Imphal-Ukhrul"
+                        },
+                        {
+                            "question": "What is the capital of Manipur? | मणिपुर की राजधानी क्या है?",
+                            "options": [
+                                "Kohima",
+                                "Imphal",
+                                "Aizawl",
+                                "Shillong"
+                            ],
+                            "answer": "Imphal"
+                        },
+                        {
+                            "question": "Manipur is part of which region of India? | मणिपुर भारत के किस क्षेत्र का हिस्सा है?",
+                            "options": [
+                                "Western India",
+                                "North-East India",
+                                "Southern India",
+                                "Central India"
+                            ],
+                            "answer": "North-East India"
+                        }
+                    ]
+                },
+                {
+                    "category": "Governance and Election Administration",
+                    "title": "Election Commission Restores Oversight of Its Top IT Officer | चुनाव आयोग ने शीर्ष आईटी अधिकारी पर निगरानी व्यवस्था बहाल की",
+                    "summary": "EN: The Election Commission issued a fresh work-allocation order restoring the oversight of the Senior Deputy Election Commissioner over the Director General (IT). The Commission said the DG (IT) would report through the Senior Deputy Election Commissioner. The issue followed an internal administrative row over the allocation of responsibilities for information technology work. The IT division manages digital systems such as ECINet, which facilitates citizen engagement, and ERONet, which supports electoral-roll administration.\nHI: निर्वाचन आयोग ने नया कार्य-विभाजन आदेश जारी कर महानिदेशक (आईटी) पर वरिष्ठ उप निर्वाचन आयुक्त की निगरानी व्यवस्था बहाल की। आयोग के अनुसार DG (IT) अब वरिष्ठ उप निर्वाचन आयुक्त के माध्यम से रिपोर्ट करेंगे। यह मामला सूचना प्रौद्योगिकी संबंधी कार्यों के दायित्वों के आवंटन को लेकर हुए आंतरिक प्रशासनिक विवाद के बाद सामने आया। आईटी प्रभाग ECINet जैसे डिजिटल सिस्टम का प्रबंधन करता है, जो नागरिक सहभागिता को सुविधाजनक बनाता है, और ERONet मतदाता सूची प्रशासन में सहायता करता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The Election Commission of India is an independent constitutional authority.",
+                        "भारत निर्वाचन आयोग एक स्वतंत्र संवैधानिक प्राधिकरण है।",
+                        "ECINet is a digital platform associated with citizen engagement in the electoral process.",
+                        "ECINet चुनावी प्रक्रिया में नागरिक सहभागिता से जुड़ा डिजिटल प्लेटफॉर्म है।",
+                        "ERONet supports the maintenance and administration of electoral rolls.",
+                        "ERONet मतदाता सूचियों के रखरखाव और प्रशासन में सहायता करता है।",
+                        "The Director General (IT) is an administrative position within the Election Commission's structure.",
+                        "महानिदेशक (आईटी) निर्वाचन आयोग की संरचना में एक प्रशासनिक पद है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which officer's oversight was restored? | किस अधिकारी पर निगरानी व्यवस्था बहाल की गई?",
+                            "options": [
+                                "DG (IT)",
+                                "Chief Election Commissioner",
+                                "Chief Electoral Officer of Delhi",
+                                "Cabinet Secretary"
+                            ],
+                            "answer": "DG (IT)"
+                        },
+                        {
+                            "question": "DG (IT) will report through which officer? | DG (IT) किस अधिकारी के माध्यम से रिपोर्ट करेंगे?",
+                            "options": [
+                                "District Magistrate",
+                                "Senior Deputy Election Commissioner",
+                                "Chief Secretary",
+                                "Law Secretary"
+                            ],
+                            "answer": "Senior Deputy Election Commissioner"
+                        },
+                        {
+                            "question": "Which platform facilitates citizen engagement in elections? | चुनावों में नागरिक सहभागिता को कौन-सा प्लेटफॉर्म सुविधाजनक बनाता है?",
+                            "options": [
+                                "DigiLocker",
+                                "ECINet",
+                                "GeM",
+                                "e-Shram"
+                            ],
+                            "answer": "ECINet"
+                        },
+                        {
+                            "question": "Which system supports electoral-roll administration? | मतदाता सूची प्रशासन में कौन-सा सिस्टम सहायता करता है?",
+                            "options": [
+                                "ERONet",
+                                "GSTN",
+                                "FASTag",
+                                "SARAL"
+                            ],
+                            "answer": "ERONet"
+                        },
+                        {
+                            "question": "The Election Commission is provided for under which Article? | निर्वाचन आयोग का प्रावधान किस अनुच्छेद में है?",
+                            "options": [
+                                "Article 148",
+                                "Article 280",
+                                "Article 324",
+                                "Article 370"
+                            ],
+                            "answer": "Article 324"
+                        }
+                    ]
+                },
+                {
+                    "category": "Constitutional Rights and Criminal Procedure",
+                    "title": "Supreme Court: 24-Hour Deadline for Production Before Magistrate Begins from Detention | सुप्रीम कोर्ट: मजिस्ट्रेट के सामने पेश करने की 24 घंटे की समय-सीमा हिरासत से शुरू होती है",
+                    "summary": "EN: The Supreme Court held that the constitutional 24-hour deadline for producing a detained person before a magistrate begins from the time the person's liberty is curtailed through detention, not from the later formal recording of arrest. The Bench said that creating an artificial distinction between detention and arrest would weaken the protection guaranteed under Article 22(2) of the Constitution. The provision requires that an arrested and detained person be produced before the nearest magistrate within 24 hours, excluding necessary journey time.\nHI: सुप्रीम कोर्ट ने कहा कि किसी व्यक्ति को मजिस्ट्रेट के सामने पेश करने की संवैधानिक 24 घंटे की समय-सीमा उस समय से शुरू होती है जब हिरासत के कारण उसकी स्वतंत्रता सीमित होती है, न कि बाद में औपचारिक गिरफ्तारी दर्ज किए जाने से। पीठ ने कहा कि हिरासत और गिरफ्तारी के बीच कृत्रिम अंतर बनाना संविधान के अनुच्छेद 22(2) के तहत मिले संरक्षण को कमजोर करेगा। यह प्रावधान आवश्यक यात्रा समय को छोड़कर गिरफ्तार और हिरासत में लिए गए व्यक्ति को 24 घंटे के भीतर निकटतम मजिस्ट्रेट के सामने पेश करना अनिवार्य करता है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "Article 22 of the Constitution provides safeguards against arrest and detention.",
+                        "संविधान का अनुच्छेद 22 गिरफ्तारी और हिरासत के विरुद्ध सुरक्षा प्रदान करता है।",
+                        "Article 21 protects life and personal liberty.",
+                        "अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता की रक्षा करता है।",
+                        "The Supreme Court of India is the country's highest judicial authority.",
+                        "भारत का सर्वोच्च न्यायालय देश का सर्वोच्च न्यायिक प्राधिकरण है।",
+                        "A magistrate is a judicial officer who exercises powers under applicable laws.",
+                        "मजिस्ट्रेट एक न्यायिक अधिकारी होता है जो लागू कानूनों के तहत शक्तियों का प्रयोग करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "From when does the 24-hour deadline begin, according to the Supreme Court? | सुप्रीम कोर्ट के अनुसार 24 घंटे की समय-सीमा कब से शुरू होती है?",
+                            "options": [
+                                "From filing of charge sheet",
+                                "From detention",
+                                "From first court hearing",
+                                "From completion of investigation"
+                            ],
+                            "answer": "From detention"
+                        },
+                        {
+                            "question": "Which constitutional Article was central to the ruling? | इस फैसले में संविधान का कौन-सा अनुच्छेद मुख्य था?",
+                            "options": [
+                                "Article 14",
+                                "Article 19",
+                                "Article 22(2)",
+                                "Article 32"
+                            ],
+                            "answer": "Article 22(2)"
+                        },
+                        {
+                            "question": "Before whom must the detained person be produced? | हिरासत में लिए गए व्यक्ति को किसके सामने पेश करना आवश्यक है?",
+                            "options": [
+                                "Governor",
+                                "Magistrate",
+                                "Speaker",
+                                "Election Commissioner"
+                            ],
+                            "answer": "Magistrate"
+                        },
+                        {
+                            "question": "What is the general time limit mentioned in the ruling? | फैसले में सामान्य समय-सीमा कितनी बताई गई है?",
+                            "options": [
+                                "12 hours",
+                                "24 hours",
+                                "48 hours",
+                                "72 hours"
+                            ],
+                            "answer": "24 hours"
+                        },
+                        {
+                            "question": "Which right is protected by Article 21? | अनुच्छेद 21 किस अधिकार की रक्षा करता है?",
+                            "options": [
+                                "Right to property",
+                                "Life and personal liberty",
+                                "Right to vote",
+                                "Right to education"
+                            ],
+                            "answer": "Life and personal liberty"
+                        }
+                    ]
+                },
+                {
+                    "category": "Defence Technology",
+                    "title": "DRDO Tests Quasi-Ballistic Missile | DRDO ने क्वासी-बैलिस्टिक मिसाइल का परीक्षण किया",
+                    "summary": "EN: The Indian Express's November 6 archive listed a Defence Research and Development Organisation (DRDO) test of a quasi-ballistic missile. Quasi-ballistic missiles follow a relatively low and manoeuvrable trajectory compared with a conventional ballistic missile, making their flight path less predictable. Such systems are associated with modern precision-strike capabilities and present challenges for missile-defence systems. The report's headline confirms the test, while detailed technical specifications were not included in the archive summary.\nHI: द इंडियन एक्सप्रेस के 6 नवंबर के आर्काइव में रक्षा अनुसंधान एवं विकास संगठन (DRDO) द्वारा क्वासी-बैलिस्टिक मिसाइल के परीक्षण की खबर सूचीबद्ध थी। पारंपरिक बैलिस्टिक मिसाइल की तुलना में क्वासी-बैलिस्टिक मिसाइल अपेक्षाकृत कम ऊंचाई और अधिक गतिशील प्रक्षेप पथ का अनुसरण कर सकती है, जिससे उसका मार्ग कम अनुमानित होता है। ऐसी प्रणालियां आधुनिक सटीक हमले की क्षमता से जुड़ी हैं और मिसाइल-रक्षा प्रणालियों के लिए चुनौती पैदा कर सकती हैं। आर्काइव के सारांश में परीक्षण की पुष्टि है, लेकिन विस्तृत तकनीकी विनिर्देश उपलब्ध नहीं थे।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "DRDO was established in 1958.",
+                        "DRDO की स्थापना 1958 में हुई थी।",
+                        "DRDO functions under the Ministry of Defence.",
+                        "DRDO रक्षा मंत्रालय के अंतर्गत कार्य करता है।",
+                        "A ballistic missile follows a trajectory influenced mainly by gravity after its powered phase.",
+                        "बैलिस्टिक मिसाइल अपने संचालित चरण के बाद मुख्यतः गुरुत्वाकर्षण से प्रभावित प्रक्षेप पथ का अनुसरण करती है।",
+                        "Missile defence systems are designed to detect, track and intercept incoming missiles.",
+                        "मिसाइल रक्षा प्रणालियां आने वाली मिसाइलों का पता लगाने, उनका पीछा करने और उन्हें रोकने के लिए बनाई जाती हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation conducted the missile test? | मिसाइल परीक्षण किस संगठन ने किया?",
+                            "options": [
+                                "ISRO",
+                                "DRDO",
+                                "HAL",
+                                "BHEL"
+                            ],
+                            "answer": "DRDO"
+                        },
+                        {
+                            "question": "What type of missile was mentioned? | किस प्रकार की मिसाइल का उल्लेख किया गया?",
+                            "options": [
+                                "Cruise missile",
+                                "Quasi-ballistic missile",
+                                "Anti-tank missile",
+                                "Surface-to-air missile"
+                            ],
+                            "answer": "Quasi-ballistic missile"
+                        },
+                        {
+                            "question": "DRDO functions under which ministry? | DRDO किस मंत्रालय के अंतर्गत कार्य करता है?",
+                            "options": [
+                                "Home Affairs",
+                                "Defence",
+                                "External Affairs",
+                                "Science and Technology"
+                            ],
+                            "answer": "Defence"
+                        },
+                        {
+                            "question": "In which year was DRDO established? | DRDO की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1947",
+                                "1958",
+                                "1969",
+                                "1975"
+                            ],
+                            "answer": "1958"
+                        },
+                        {
+                            "question": "What is a key feature of a quasi-ballistic trajectory? | क्वासी-बैलिस्टिक प्रक्षेप पथ की प्रमुख विशेषता क्या है?",
+                            "options": [
+                                "Highly manoeuvrable, lower trajectory",
+                                "Fixed circular orbit",
+                                "Underwater movement",
+                                "No powered phase"
+                            ],
+                            "answer": "Highly manoeuvrable, lower trajectory"
+                        }
+                    ]
+                },
+                {
+                    "category": "Higher Education and Social Justice",
+                    "title": "Centre Tells Supreme Court It May Form Panel to Review UGC Equity Regulations | केंद्र ने सुप्रीम कोर्ट को बताया कि UGC समानता नियमों की समीक्षा के लिए समिति बना सकता है",
+                    "summary": "EN: The Centre informed the Supreme Court that it is contemplating setting up a committee to reconsider the University Grants Commission (Promotion of Equity in Higher Education Institutions) Regulations, 2026. The regulations had drawn objections from general category groups as well as sections of Dalit and OBC communities and were stayed by the court earlier in the year. The court urged the government to revisit the provisions and protect the interests of every student. The proposed review concerns the framework for promoting equity and addressing discrimination in higher education institutions.\nHI: केंद्र सरकार ने सुप्रीम कोर्ट को बताया कि वह विश्वविद्यालय अनुदान आयोग (उच्च शिक्षा संस्थानों में समानता को बढ़ावा) विनियम, 2026 की पुनः समीक्षा के लिए समिति गठित करने पर विचार कर रही है। इन विनियमों पर सामान्य वर्ग के समूहों के साथ-साथ दलित और OBC समुदायों के कुछ वर्गों ने आपत्ति जताई थी और वर्ष की शुरुआत में अदालत ने इन पर रोक लगा दी थी। अदालत ने सरकार से प्रावधानों पर पुनर्विचार करने और प्रत्येक विद्यार्थी के हितों की रक्षा करने को कहा। प्रस्तावित समीक्षा उच्च शिक्षा संस्थानों में समानता और भेदभाव से निपटने की व्यवस्था से संबंधित है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "The University Grants Commission was established in 1956.",
+                        "विश्वविद्यालय अनुदान आयोग की स्थापना 1956 में हुई थी।",
+                        "The UGC is a statutory body under the UGC Act, 1956.",
+                        "UGC, UGC अधिनियम 1956 के तहत एक वैधानिक निकाय है।",
+                        "The Ministry of Education is responsible for education policy at the Union level.",
+                        "केंद्रीय स्तर पर शिक्षा नीति के लिए शिक्षा मंत्रालय जिम्मेदार है।",
+                        "Equity in education means fair access, treatment and opportunity for learners.",
+                        "शिक्षा में समानता का अर्थ विद्यार्थियों के लिए निष्पक्ष पहुंच, व्यवहार और अवसर है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which body framed the equity regulations under discussion? | चर्चा में आए समानता विनियम किस संस्था ने बनाए?",
+                            "options": [
+                                "AICTE",
+                                "UGC",
+                                "NCERT",
+                                "CBSE"
+                            ],
+                            "answer": "UGC"
+                        },
+                        {
+                            "question": "Which year is mentioned in the regulations' title? | विनियमों के शीर्षक में कौन-सा वर्ष दिया गया है?",
+                            "options": [
+                                "2024",
+                                "2025",
+                                "2026",
+                                "2027"
+                            ],
+                            "answer": "2026"
+                        },
+                        {
+                            "question": "Which court had stayed the regulations? | किस न्यायालय ने विनियमों पर रोक लगाई थी?",
+                            "options": [
+                                "High Court",
+                                "Supreme Court",
+                                "District Court",
+                                "Tribunal"
+                            ],
+                            "answer": "Supreme Court"
+                        },
+                        {
+                            "question": "In which year was the UGC established? | UGC की स्थापना किस वर्ष हुई थी?",
+                            "options": [
+                                "1948",
+                                "1950",
+                                "1956",
+                                "1962"
+                            ],
+                            "answer": "1956"
+                        },
+                        {
+                            "question": "What is the main objective of equity measures in higher education? | उच्च शिक्षा में समानता संबंधी उपायों का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Fair access and treatment",
+                                "Increase tuition fees",
+                                "Reduce enrolment",
+                                "Replace examinations"
+                            ],
+                            "answer": "Fair access and treatment"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
