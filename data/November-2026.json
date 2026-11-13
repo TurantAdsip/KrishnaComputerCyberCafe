@@ -8035,6 +8035,599 @@
       ]
     }
   ]
+},
+        {
+  "id": "2026-11-13",
+  "date": "13 November 2026",
+  "totalNews": 10,
+  "description": "Daily Current Affairs for UPSC, SSC, Banking, Railway and Defence Exams - 13 November 2026",
+  "news": [
+    {
+      "category": "Awards and Honours",
+      "title": "Six Researchers and Scholars Win Infosys Prize 2026 | छह शोधकर्ताओं और विद्वानों को इंफोसिस पुरस्कार 2026",
+      "summary": "EN: Six researchers and scholars have won the Infosys Prize 2026 in different categories. The awardees include researchers working in quantum science and climate change. Constitutional law scholar Gautam Bhatia won in the Humanities and Social Sciences category for his contribution to legal scholarship. The awards recognise outstanding contributions to research and knowledge.\nHI: छह शोधकर्ताओं और विद्वानों ने विभिन्न श्रेणियों में इंफोसिस पुरस्कार 2026 जीता है। पुरस्कार विजेताओं में क्वांटम विज्ञान और जलवायु परिवर्तन के क्षेत्र में काम करने वाले शोधकर्ता शामिल हैं। संवैधानिक कानून के विद्वान गौतम भाटिया को मानविकी एवं सामाजिक विज्ञान श्रेणी में उनके कानूनी शोध के लिए सम्मानित किया गया।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: Infosys Prize recognises outstanding contributions to research and scholarship.\nHI: इंफोसिस पुरस्कार शोध और विद्वता में उत्कृष्ट योगदान को सम्मानित करता है।",
+        "EN: Gautam Bhatia won in the Humanities and Social Sciences category.\nHI: गौतम भाटिया ने मानविकी एवं सामाजिक विज्ञान श्रेणी में पुरस्कार जीता।",
+        "EN: Quantum science is related to the study of matter and energy at atomic and subatomic levels.\nHI: क्वांटम विज्ञान परमाणु और उप-परमाणु स्तर पर पदार्थ एवं ऊर्जा के अध्ययन से संबंधित है।",
+        "EN: Climate change refers to long-term changes in temperature and weather patterns.\nHI: जलवायु परिवर्तन का अर्थ तापमान और मौसम के पैटर्न में दीर्घकालिक बदलाव है।"
+      ],
+      "mcqs": [
+        {
+          "question": "How many researchers and scholars won the Infosys Prize 2026? | इंफोसिस पुरस्कार 2026 कितने शोधकर्ताओं और विद्वानों ने जीता?",
+          "options": [
+            "Four",
+            "Five",
+            "Six",
+            "Eight"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Who won the award in the Humanities and Social Sciences category? | मानविकी एवं सामाजिक विज्ञान श्रेणी में किसने पुरस्कार जीता?",
+          "options": [
+            "Gautam Bhatia",
+            "Raghuram Rajan",
+            "Abhijit Banerjee",
+            "Amartya Sen"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which field of research was represented among the award winners? | पुरस्कार विजेताओं में किस शोध क्षेत्र का प्रतिनिधित्व था?",
+          "options": [
+            "Quantum science",
+            "Marine archaeology only",
+            "Space tourism",
+            "Sports management"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The Infosys Prize primarily recognises contributions in which area? | इंफोसिस पुरस्कार मुख्य रूप से किस क्षेत्र में योगदान को सम्मानित करता है?",
+          "options": [
+            "Research and scholarship",
+            "Military service",
+            "Film production",
+            "Professional sports"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Gautam Bhatia is associated with which field? | गौतम भाटिया किस क्षेत्र से संबंधित हैं?",
+          "options": [
+            "Constitutional law",
+            "Nuclear engineering",
+            "Agriculture",
+            "Medicine"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "category": "National and Economy",
+      "title": "PM Modi Defends Diesel Price Hike During Farmer Address | पीएम मोदी ने किसानों के हित में डीजल मूल्य वृद्धि का बचाव किया",
+      "summary": "EN: Prime Minister Narendra Modi discussed the increase in diesel prices while addressing farmers. He stated that the government had increased the diesel price by only Rs 7 instead of Rs 50, presenting it as a measure taken in the interest of farmers. His remarks also included criticism of the opposition over its approach towards democracy and the Constitution.\nHI: प्रधानमंत्री नरेंद्र मोदी ने किसानों को संबोधित करते हुए डीजल की कीमतों में वृद्धि पर चर्चा की। उन्होंने कहा कि सरकार ने किसानों के हित में डीजल की कीमत में 50 रुपये के बजाय केवल 7 रुपये की वृद्धि की है। उनके बयान में विपक्ष की लोकतंत्र और संविधान के प्रति सोच की आलोचना भी शामिल थी।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: Diesel is a petroleum-based fuel widely used in transport and agricultural machinery.\nHI: डीजल पेट्रोलियम आधारित ईंधन है, जिसका उपयोग परिवहन और कृषि मशीनरी में व्यापक रूप से होता है।",
+        "EN: Farmers use diesel in tractors, irrigation pumps and other agricultural equipment.\nHI: किसान ट्रैक्टर, सिंचाई पंप और अन्य कृषि उपकरणों में डीजल का उपयोग करते हैं।",
+        "EN: Petroleum products are an important part of India's energy consumption.\nHI: पेट्रोलियम उत्पाद भारत की ऊर्जा खपत का एक महत्वपूर्ण हिस्सा हैं।",
+        "EN: The Prime Minister of India is the head of the Union Government.\nHI: भारत का प्रधानमंत्री केंद्र सरकार का प्रमुख होता है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Who made the statement regarding the diesel price increase? | डीजल की कीमतों में वृद्धि के संबंध में बयान किसने दिया?",
+          "options": [
+            "President of India",
+            "Prime Minister Narendra Modi",
+            "Finance Minister",
+            "Agriculture Minister"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "According to PM Modi, by how much was the diesel price increased? | पीएम मोदी के अनुसार डीजल की कीमत में कितनी वृद्धि की गई?",
+          "options": [
+            "Rs 5",
+            "Rs 7",
+            "Rs 10",
+            "Rs 15"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "According to the statement, what larger increase was avoided? | बयान के अनुसार कितनी बड़ी वृद्धि से बचा गया?",
+          "options": [
+            "Rs 20",
+            "Rs 30",
+            "Rs 40",
+            "Rs 50"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Diesel is widely used in which agricultural equipment? | डीजल का उपयोग किस कृषि उपकरण में व्यापक रूप से होता है?",
+          "options": [
+            "Tractors",
+            "Solar panels",
+            "Wind turbines",
+            "Electric batteries"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "The statement was made in the context of which group? | यह बयान किस वर्ग के संदर्भ में दिया गया?",
+          "options": [
+            "Students",
+            "Farmers",
+            "Industrial workers",
+            "Foreign tourists"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "category": "Defence and National Security",
+      "title": "IAF Officer Accused of Sharing War Plans with Pakistani Operative | भारतीय वायुसेना के अधिकारी पर पाकिस्तानी एजेंट को युद्ध योजनाएं साझा करने का आरोप",
+      "summary": "EN: Police have filed a chargesheet in a Delhi court alleging that an Indian Air Force Wing Commander shared classified operational information with a suspected Pakistani intelligence operative. The information reportedly included war plans, drone capabilities, military deployment locations and movements of frontline combat aircraft. The case involves alleged violations of the Official Secrets Act and raises concerns about national security.\nHI: पुलिस ने दिल्ली की अदालत में आरोपपत्र दाखिल किया है, जिसमें आरोप लगाया गया है कि भारतीय वायुसेना के एक विंग कमांडर ने संदिग्ध पाकिस्तानी खुफिया एजेंट के साथ गोपनीय सैन्य जानकारी साझा की। इसमें युद्ध योजनाएं, ड्रोन क्षमताएं, सैन्य तैनाती के स्थान और लड़ाकू विमानों की गतिविधियां शामिल बताई गई हैं। यह मामला आधिकारिक गोपनीयता अधिनियम और राष्ट्रीय सुरक्षा से जुड़ा है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: IAF stands for Indian Air Force.\nHI: IAF का पूरा नाम Indian Air Force अर्थात भारतीय वायुसेना है।",
+        "EN: The Indian Air Force was established on 8 October 1932.\nHI: भारतीय वायुसेना की स्थापना 8 अक्टूबर 1932 को हुई थी।",
+        "EN: The Official Secrets Act is related to the protection of official confidential information.\nHI: आधिकारिक गोपनीयता अधिनियम सरकारी गोपनीय सूचनाओं की सुरक्षा से संबंधित है।",
+        "EN: A chargesheet is a formal document submitted by investigating agencies before a court.\nHI: आरोपपत्र जांच एजेंसियों द्वारा अदालत में प्रस्तुत किया जाने वाला औपचारिक दस्तावेज है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Which Indian force was the officer associated with? | संबंधित अधिकारी किस भारतीय बल से जुड़ा था?",
+          "options": [
+            "Indian Army",
+            "Indian Navy",
+            "Indian Air Force",
+            "Central Reserve Police Force"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Where was the chargesheet filed? | आरोपपत्र कहां दाखिल किया गया?",
+          "options": [
+            "Mumbai court",
+            "Delhi court",
+            "Chandigarh court",
+            "Lucknow court"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "With whom was the officer allegedly sharing classified information? | अधिकारी कथित रूप से किसके साथ गोपनीय जानकारी साझा कर रहा था?",
+          "options": [
+            "A suspected Pakistani intelligence operative",
+            "A foreign journalist",
+            "A business organisation",
+            "A university researcher"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which Act is associated with the case? | यह मामला किस अधिनियम से संबंधित है?",
+          "options": [
+            "Right to Information Act",
+            "Official Secrets Act",
+            "Consumer Protection Act",
+            "Companies Act"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following was reportedly included in the shared information? | साझा की गई जानकारी में निम्नलिखित में से क्या शामिल बताया गया?",
+          "options": [
+            "War-plan documents",
+            "School examination papers",
+            "Bank account statements",
+            "Tourism brochures"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "category": "Environment and Energy",
+      "title": "Centre Orders Probe into Adani Green Energy's Maharashtra Project Cost Revision | केंद्र ने महाराष्ट्र में अदाणी ग्रीन एनर्जी परियोजना की लागत में बदलाव की जांच के आदेश दिए",
+      "summary": "EN: The Union Environment Ministry has directed an investigation into the revised cost estimate of Adani Green Energy's 1,500 MW Tarali pumped storage project in Maharashtra's Satara district. The company reportedly reduced the estimated project cost from Rs 5,675 crore to Rs 56.75 crore. This revision also reduced its proposed wildlife conservation deposit from Rs 227 crore to around Rs 2.27 crore. The company has maintained that the project is located on private, non-forest land.\nHI: केंद्रीय पर्यावरण मंत्रालय ने महाराष्ट्र के सतारा जिले में अदाणी ग्रीन एनर्जी की 1,500 मेगावाट क्षमता वाली तराली पंप्ड स्टोरेज परियोजना की संशोधित लागत की जांच के निर्देश दिए हैं। कंपनी ने कथित तौर पर परियोजना की अनुमानित लागत 5,675 करोड़ रुपये से घटाकर 56.75 करोड़ रुपये कर दी। इसके साथ वन्यजीव संरक्षण जमा राशि भी 227 करोड़ रुपये से घटकर लगभग 2.27 करोड़ रुपये हो गई।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: Pumped storage hydropower is a method of storing energy using water at different elevations.\nHI: पंप्ड स्टोरेज जलविद्युत में अलग-अलग ऊंचाई पर पानी का उपयोग करके ऊर्जा का भंडारण किया जाता है।",
+        "EN: The Tarali project is located in Satara district of Maharashtra.\nHI: तराली परियोजना महाराष्ट्र के सतारा जिले में स्थित है।",
+        "EN: MW stands for Megawatt, a unit of power.\nHI: MW का पूरा नाम मेगावाट है, जो शक्ति की एक इकाई है।",
+        "EN: Wildlife conservation aims to protect wild animals and their natural habitats.\nHI: वन्यजीव संरक्षण का उद्देश्य जंगली जानवरों और उनके प्राकृतिक आवासों की रक्षा करना है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Which company is associated with the Tarali pumped storage project? | तराली पंप्ड स्टोरेज परियोजना किस कंपनी से संबंधित है?",
+          "options": [
+            "Tata Power",
+            "Adani Green Energy",
+            "NTPC",
+            "Power Grid Corporation"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "In which district is the Tarali project located? | तराली परियोजना किस जिले में स्थित है?",
+          "options": [
+            "Pune",
+            "Nashik",
+            "Satara",
+            "Nagpur"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the reported capacity of the project? | परियोजना की बताई गई क्षमता कितनी है?",
+          "options": [
+            "500 MW",
+            "1,000 MW",
+            "1,500 MW",
+            "2,500 MW"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "From what amount to what amount was the estimated project cost reportedly revised? | परियोजना की अनुमानित लागत कथित तौर पर कितनी से कितनी की गई?",
+          "options": [
+            "Rs 5,675 crore to Rs 56.75 crore",
+            "Rs 2,000 crore to Rs 1,500 crore",
+            "Rs 3,000 crore to Rs 2,500 crore",
+            "Rs 1,000 crore to Rs 500 crore"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which ministry directed the investigation? | किस मंत्रालय ने जांच के निर्देश दिए?",
+          "options": [
+            "Ministry of Finance",
+            "Ministry of Defence",
+            "Union Environment Ministry",
+            "Ministry of Education"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "category": "Environment",
+      "title": "Delhi Air Quality Reaches Severe Category with AIIMS AQI at 418 | दिल्ली में वायु गुणवत्ता गंभीर श्रेणी में, एम्स के पास AQI 418",
+      "summary": "EN: Delhi continued to face severe air pollution on November 13, 2026. According to the Central Pollution Control Board, the AQI near AIIMS reached 418, while Rajokri Border recorded 402. Dwarka Expressway recorded an AQI of 369, falling in the very poor category. The situation highlights concerns about particulate pollution and public health in the National Capital Region.\nHI: 13 नवंबर 2026 को दिल्ली में गंभीर वायु प्रदूषण की स्थिति बनी रही। केंद्रीय प्रदूषण नियंत्रण बोर्ड के अनुसार एम्स के पास वायु गुणवत्ता सूचकांक 418 तक पहुंच गया, जबकि राजोकरी बॉर्डर पर 402 दर्ज किया गया। द्वारका एक्सप्रेसवे पर AQI 369 रहा, जो बहुत खराब श्रेणी में आता है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: AQI stands for Air Quality Index.\nHI: AQI का पूरा नाम Air Quality Index अर्थात वायु गुणवत्ता सूचकांक है।",
+        "EN: CPCB stands for Central Pollution Control Board.\nHI: CPCB का पूरा नाम Central Pollution Control Board अर्थात केंद्रीय प्रदूषण नियंत्रण बोर्ड है।",
+        "EN: PM2.5 refers to fine particulate matter with a diameter of 2.5 micrometres or less.\nHI: PM2.5 का अर्थ 2.5 माइक्रोमीटर या उससे कम व्यास वाले सूक्ष्म कणों से है।",
+        "EN: GRAP stands for Graded Response Action Plan and is used to address air pollution in Delhi-NCR.\nHI: GRAP का पूरा नाम Graded Response Action Plan है, जिसका उपयोग दिल्ली-एनसीआर में वायु प्रदूषण से निपटने के लिए किया जाता है।"
+      ],
+      "mcqs": [
+        {
+          "question": "What was the AQI recorded near AIIMS on November 13, 2026? | 13 नवंबर 2026 को एम्स के पास कितना AQI दर्ज किया गया?",
+          "options": [
+            "318",
+            "369",
+            "402",
+            "418"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Which organisation provides the reported air quality readings? | रिपोर्ट में वायु गुणवत्ता के आंकड़े किस संगठन के हैं?",
+          "options": [
+            "RBI",
+            "CPCB",
+            "ISRO",
+            "NITI Aayog"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What was the AQI recorded at Rajokri Border? | राजोकरी बॉर्डर पर कितना AQI दर्ज किया गया?",
+          "options": [
+            "369",
+            "402",
+            "418",
+            "250"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the full form of AQI? | AQI का पूरा नाम क्या है?",
+          "options": [
+            "Air Quality Index",
+            "Air Quantity Indicator",
+            "Atmospheric Quality Inspection",
+            "Air Quotient Information"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Which pollutant is represented by PM2.5? | PM2.5 किस प्रदूषक को दर्शाता है?",
+          "options": [
+            "Fine particulate matter",
+            "Water vapour",
+            "Noise pollution",
+            "Ozone layer"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "category": "Governance and Audit",
+      "title": "CAG Begins Nationwide Audit of 39 Power Distribution Companies | CAG ने 39 बिजली वितरण कंपनियों का देशव्यापी ऑडिट शुरू किया",
+      "summary": "EN: The Comptroller and Auditor General of India has started a nationwide audit covering 39 state-owned power distribution companies. The audit will examine consumer satisfaction and short-term power procurement. Unlike earlier audits that examined individual companies in different years, this exercise brings several state-owned distribution companies under a single nationwide review.\nHI: भारत के नियंत्रक एवं महालेखा परीक्षक ने 39 सरकारी बिजली वितरण कंपनियों का देशव्यापी ऑडिट शुरू किया है। इस ऑडिट में उपभोक्ता संतुष्टि और अल्पकालिक बिजली खरीद की जांच की जाएगी। पहले अलग-अलग वर्षों में कंपनियों का ऑडिट किया जाता था, जबकि इस बार कई सरकारी बिजली वितरण कंपनियों की एक साथ समीक्षा की जा रही है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: CAG stands for Comptroller and Auditor General of India.\nHI: CAG का पूरा नाम Comptroller and Auditor General of India अर्थात भारत के नियंत्रक एवं महालेखा परीक्षक है।",
+        "EN: Article 148 of the Indian Constitution provides for the office of the CAG.\nHI: भारतीय संविधान का अनुच्छेद 148 CAG के पद का प्रावधान करता है।",
+        "EN: The CAG audits government accounts and expenditure.\nHI: CAG सरकारी खातों और व्यय का ऑडिट करता है।",
+        "EN: DISCOM is a commonly used term for an electricity distribution company.\nHI: DISCOM बिजली वितरण कंपनी के लिए उपयोग किया जाने वाला सामान्य शब्द है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Which constitutional authority has started the nationwide power distribution audit? | किस संवैधानिक प्राधिकरण ने बिजली वितरण कंपनियों का देशव्यापी ऑडिट शुरू किया?",
+          "options": [
+            "Election Commission",
+            "CAG",
+            "UPSC",
+            "Finance Commission"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "How many state-owned power distribution companies are covered in the audit? | ऑडिट में कितनी सरकारी बिजली वितरण कंपनियां शामिल हैं?",
+          "options": [
+            "19",
+            "29",
+            "39",
+            "49"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which article of the Constitution provides for the CAG? | संविधान का कौन-सा अनुच्छेद CAG का प्रावधान करता है?",
+          "options": [
+            "Article 124",
+            "Article 148",
+            "Article 280",
+            "Article 324"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following will be examined in the audit? | ऑडिट में निम्नलिखित में से किसकी जांच की जाएगी?",
+          "options": [
+            "Consumer satisfaction",
+            "School admissions",
+            "Railway recruitment",
+            "Foreign tourism"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "DISCOM is associated with which sector? | DISCOM किस क्षेत्र से संबंधित है?",
+          "options": [
+            "Electricity distribution",
+            "Banking",
+            "Telecommunications",
+            "Agriculture"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "category": "International Relations",
+      "title": "PM Modi to Attend India-ASEAN and East Asia Summits | पीएम मोदी भारत-आसियान और पूर्वी एशिया शिखर सम्मेलनों में शामिल होंगे",
+      "summary": "EN: Prime Minister Narendra Modi is scheduled to attend the India-ASEAN and East Asia summits. The diplomatic engagements are important for India's relations with Southeast Asian countries and the wider Indo-Pacific region. The upcoming Quad summit in Manila may also bring together the leaders of India, the United States, Japan and Australia.\nHI: प्रधानमंत्री नरेंद्र मोदी भारत-आसियान और पूर्वी एशिया शिखर सम्मेलनों में शामिल होने वाले हैं। ये कूटनीतिक बैठकें दक्षिण-पूर्व एशियाई देशों और व्यापक हिंद-प्रशांत क्षेत्र के साथ भारत के संबंधों के लिए महत्वपूर्ण हैं। मनीला में होने वाला आगामी क्वाड शिखर सम्मेलन भारत, अमेरिका, जापान और ऑस्ट्रेलिया के नेताओं को एक साथ ला सकता है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: ASEAN stands for Association of Southeast Asian Nations.\nHI: ASEAN का पूरा नाम Association of Southeast Asian Nations अर्थात दक्षिण-पूर्व एशियाई राष्ट्रों का संगठन है।",
+        "EN: ASEAN was established on 8 August 1967.\nHI: ASEAN की स्थापना 8 अगस्त 1967 को हुई थी।",
+        "EN: The Quad consists of India, the United States, Japan and Australia.\nHI: क्वाड में भारत, अमेरिका, जापान और ऑस्ट्रेलिया शामिल हैं।",
+        "EN: The Quad is a diplomatic partnership focused on the Indo-Pacific region.\nHI: क्वाड हिंद-प्रशांत क्षेत्र पर केंद्रित एक कूटनीतिक साझेदारी है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Who is scheduled to attend the India-ASEAN and East Asia summits? | भारत-आसियान और पूर्वी एशिया शिखर सम्मेलनों में कौन शामिल होने वाले हैं?",
+          "options": [
+            "President of India",
+            "Prime Minister Narendra Modi",
+            "External Affairs Secretary",
+            "Defence Minister"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the full form of ASEAN? | ASEAN का पूरा नाम क्या है?",
+          "options": [
+            "Association of Southeast Asian Nations",
+            "Asian Security and Economic Alliance Network",
+            "Association of South European Nations",
+            "Asian Strategic Energy Association"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "In which year was ASEAN established? | ASEAN की स्थापना किस वर्ष हुई थी?",
+          "options": [
+            "1955",
+            "1967",
+            "1975",
+            "1985"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Which of the following countries is a member of the Quad? | निम्नलिखित में से कौन-सा देश क्वाड का सदस्य है?",
+          "options": [
+            "India",
+            "Germany",
+            "France",
+            "Brazil"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "How many countries are part of the Quad? | क्वाड में कितने देश शामिल हैं?",
+          "options": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Chennai Metro's Thirumangalam Project to Feature Metro Running Through Building | चेन्नई मेट्रो की थिरुमंगलम परियोजना में इमारत के बीच से गुजरेगी मेट्रो",
+      "summary": "EN: Chennai Metro has awarded a Rs 446.88-crore contract to develop four buildings at Thirumangalam. The project features a unique design in which the metro viaduct will pass through the building complex. The development represents an innovative approach to integrating urban transport infrastructure with commercial and public spaces.\nHI: चेन्नई मेट्रो ने थिरुमंगलम में चार इमारतों के निर्माण के लिए 446.88 करोड़ रुपये का अनुबंध दिया है। इस परियोजना की खासियत यह है कि मेट्रो का एलिवेटेड ट्रैक इमारत परिसर के बीच से गुजरेगा। यह शहरी परिवहन अवसंरचना और व्यावसायिक एवं सार्वजनिक स्थानों के एकीकरण का एक अनूठा उदाहरण है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: Chennai is the capital of Tamil Nadu.\nHI: चेन्नई तमिलनाडु की राजधानी है।",
+        "EN: Metro rail is an urban rapid transit system.\nHI: मेट्रो रेल एक शहरी तीव्र परिवहन प्रणाली है।",
+        "EN: A viaduct is an elevated structure that carries a road or railway across an area.\nHI: वायाडक्ट एक ऊंची संरचना है, जिसके माध्यम से सड़क या रेल मार्ग किसी क्षेत्र के ऊपर से गुजरता है।",
+        "EN: Urban transport infrastructure helps improve connectivity and reduce travel time.\nHI: शहरी परिवहन अवसंरचना संपर्क बेहतर बनाने और यात्रा का समय कम करने में मदद करती है।"
+      ],
+      "mcqs": [
+        {
+          "question": "Which city is developing the unique Thirumangalam Metro project? | अनोखी थिरुमंगलम मेट्रो परियोजना किस शहर में विकसित की जा रही है?",
+          "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Chennai",
+            "Kochi"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the reported contract value of the project? | परियोजना का बताया गया अनुबंध मूल्य कितना है?",
+          "options": [
+            "Rs 246.88 crore",
+            "Rs 346.88 crore",
+            "Rs 446.88 crore",
+            "Rs 546.88 crore"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "How many buildings are included in the project? | परियोजना में कितनी इमारतें शामिल हैं?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Six"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the unique feature of the Thirumangalam project? | थिरुमंगलम परियोजना की अनूठी विशेषता क्या है?",
+          "options": [
+            "Metro viaduct passing through the building complex",
+            "An underwater metro station",
+            "A metro line inside an airport runway",
+            "A floating metro station"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Chennai is the capital of which state? | चेन्नई किस राज्य की राजधानी है?",
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Andhra Pradesh"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "category": "Governance and Elections",
+      "title": "Voter Rolls Expand by Up to 3% Across Nine States and UTs in Post-SIR Draft | SIR के बाद नौ राज्यों और केंद्रशासित प्रदेशों में मतदाता सूची में 3 प्रतिशत तक वृद्धि",
+      "summary": "EN: Draft electoral rolls released after the Special Intensive Revision process show an increase in the number of electors across several states and Union Territories. Data from Rajasthan and Goa indicated increases of 2.22 per cent and 3 per cent respectively. The revision exercise is aimed at updating electoral rolls and improving the accuracy of voter records.\nHI: विशेष गहन पुनरीक्षण प्रक्रिया के बाद जारी मसौदा मतदाता सूचियों में कई राज्यों और केंद्रशासित प्रदेशों में मतदाताओं की संख्या में वृद्धि दर्ज की गई है। राजस्थान और गोवा के आंकड़ों में क्रमशः 2.22 प्रतिशत और 3 प्रतिशत की वृद्धि दिखाई गई। इस प्रक्रिया का उद्देश्य मतदाता सूचियों को अपडेट करना और मतदाता रिकॉर्ड की सटीकता में सुधार करना है।",
+      "sourceName": "The Indian Express",
+      "sourceUrl": "",
+      "staticGK": [
+        "EN: SIR stands for Special Intensive Revision of electoral rolls.\nHI: SIR का पूरा नाम Special Intensive Revision अर्थात मतदाता सूचियों का विशेष गहन पुनरीक्षण है।",
+        "EN: The Election Commission of India is responsible for conducting elections to Parliament and State Legislatures.\nHI: भारत निर्वाचन आयोग संसद और राज्य विधानसभाओं के चुनाव कराने के लिए जिम्मेदार है।",
+        "EN: Article 324 of the Indian Constitution deals with the Election Commission.\nHI: भारतीय संविधान का अनुच्छेद 324 निर्वाचन आयोग से संबंधित है।",
+        "EN: Electoral rolls contain the names of eligible registered voters.\nHI: मतदाता सूची में पात्र पंजीकृत मतदाताओं के नाम शामिल होते हैं।"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the full form of SIR in the electoral revision process? | मतदाता पुनरीक्षण प्रक्रिया में SIR का पूरा नाम क्या है?",
+          "options": [
+            "Special Intensive Revision",
+            "State Information Register",
+            "Special Indian Registration",
+            "Systematic Identity Review"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "How much did the number of electors increase in Rajasthan? | राजस्थान में मतदाताओं की संख्या में कितनी वृद्धि हुई?",
+          "options": [
+            "1.22%",
+            "2.22%",
+            "3%",
+            "4.22%"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What was the reported increase in Goa? | गोवा में कितनी वृद्धि दर्ज की गई?",
+          "options": [
+            "1%",
+            "2%",
+            "3%",
+            "5%"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Which constitutional article deals with the Election Commission of India? | भारत निर्वाचन आयोग का उल्लेख संविधान के किस अनुच्छेद में है?",
+          "options": [
+            "Article 148",
+            "Article 280",
+            "Article 324",
+            "Article 356"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "What is the primary purpose of electoral rolls? | मतदाता सूचियों का मुख्य उद्देश्य क्या है?",
+          "options": [
+            "Listing eligible registered voters",
+            "Recording bank accounts",
+            "Registering companies",
+            "Maintaining school records"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
 }
     ]
 }
