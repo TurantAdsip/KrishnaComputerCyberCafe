@@ -10537,6 +10537,664 @@
                     ]
                 }
             ]
+        },
+            {
+            "id": "2026-11-17",
+            "date": "17 November 2026",
+            "totalNews": 10,
+            "description": "Daily Current Affairs for UPSC, SSC, Banking, Railway and Defence Exams - 17 November 2026",
+            "news": [
+                {
+                    "category": "Environment and Climate Change",
+                    "title": "COP31 Draft Agreement Calls for Efforts to Restore the 1.5°C Climate Target | COP31 के मसौदा समझौते में 1.5°C जलवायु लक्ष्य को बहाल करने के प्रयासों की अपील",
+                    "summary": "EN: The first draft of a political declaration at COP31 in Antalya, Turkey, has expressed concern that the global 1.5°C warming target may have moved beyond reach. The draft urges countries to limit the magnitude and duration of temperature overshoot and bring global warming back within 1.5°C as early as possible this century. It also calls on developed countries to pursue net-zero emissions by 2030 and net-negative emissions by 2040. Another proposal seeks to increase electricity's share in total final energy consumption from 23% to 35% by 2035. India's Environment Minister Bhupender Yadav stated that a Just Transition Mechanism should not create new obligations for countries.\nHI: तुर्किये के अंताल्या में आयोजित COP31 के राजनीतिक घोषणा-पत्र के पहले मसौदे में चिंता जताई गई है कि वैश्विक तापमान वृद्धि को 1.5°C तक सीमित रखने का लक्ष्य अब पहुंच से बाहर हो सकता है। मसौदे में देशों से तापमान वृद्धि की सीमा और अवधि को कम करने तथा इस सदी में जल्द से जल्द ग्लोबल वार्मिंग को फिर से 1.5°C के भीतर लाने का प्रयास करने की अपील की गई है। इसमें विकसित देशों से 2030 तक नेट-जीरो उत्सर्जन और 2040 तक नेट-नेगेटिव उत्सर्जन हासिल करने का भी आह्वान किया गया है। एक अन्य प्रस्ताव के तहत अंतिम ऊर्जा खपत में बिजली की हिस्सेदारी को 2035 तक 23% से बढ़ाकर 35% करने की बात कही गई है। भारत के पर्यावरण मंत्री भूपेंद्र यादव ने कहा कि Just Transition Mechanism के माध्यम से देशों पर नई बाध्यताएं नहीं थोपी जानी चाहिए।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: COP stands for Conference of the Parties, the decision-making body of the UNFCCC.\nHI: COP का पूरा नाम Conference of the Parties है, जो UNFCCC का निर्णय लेने वाला निकाय है।",
+                        "EN: The Paris Agreement was adopted in 2015 at COP21 in Paris, France.\nHI: पेरिस समझौता 2015 में फ्रांस की राजधानी पेरिस में आयोजित COP21 में अपनाया गया था।",
+                        "EN: The IPCC stands for Intergovernmental Panel on Climate Change.\nHI: IPCC का पूरा नाम Intergovernmental Panel on Climate Change है।",
+                        "EN: Net-zero means balancing greenhouse gas emissions with removals from the atmosphere.\nHI: नेट-जीरो का अर्थ वातावरण में ग्रीनहाउस गैसों के उत्सर्जन और उनके निष्कासन के बीच संतुलन स्थापित करना है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where is COP31 being held? | COP31 का आयोजन कहाँ हो रहा है?",
+                            "options": [
+                                "Paris, France",
+                                "Antalya, Turkey",
+                                "Dubai, UAE",
+                                "New Delhi, India"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which global warming target is highlighted in the COP31 draft? | COP31 के मसौदे में किस वैश्विक तापमान लक्ष्य पर जोर दिया गया है?",
+                            "options": [
+                                "1.0°C",
+                                "1.5°C",
+                                "2.5°C",
+                                "3.0°C"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Who represented India's position on the Just Transition Mechanism? | Just Transition Mechanism पर भारत का पक्ष किसने रखा?",
+                            "options": [
+                                "Amit Shah",
+                                "Bhupender Yadav",
+                                "Piyush Goyal",
+                                "Nitin Gadkari"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "What is the proposed global electricity share target by 2035? | 2035 तक बिजली की प्रस्तावित वैश्विक हिस्सेदारी का लक्ष्य कितना है?",
+                            "options": [
+                                "23%",
+                                "30%",
+                                "35%",
+                                "45%"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "In which year was the Paris Agreement adopted? | पेरिस समझौता किस वर्ष अपनाया गया था?",
+                            "options": [
+                                "2012",
+                                "2015",
+                                "2018",
+                                "2020"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Electoral Reforms and Governance",
+                    "title": "Over 25,000 West Bengal Voters Remain Under Adjudication in SIR Exercise | पश्चिम बंगाल में SIR प्रक्रिया के तहत 25,000 से अधिक मतदाता अभी भी निर्णय की प्रतीक्षा में",
+                    "summary": "EN: The Indian Express reported that more than 25,000 voters in West Bengal remain under the status of 'under adjudication' during the Special Intensive Revision (SIR) of electoral rolls. These voters are spread across Murshidabad, Malda, Nadia and Howrah districts. Unlike voters whose names have been deleted, these individuals have not reached the stage where they can approach tribunals for appeals. Many have been waiting since December 2025 or January 2026. The situation has raised concerns about electoral participation, administrative delays and voters' rights. Booth Level Officers have also reported difficulties in resolving pending cases.\nHI: द इंडियन एक्सप्रेस की रिपोर्ट के अनुसार पश्चिम बंगाल में मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) के दौरान 25,000 से अधिक मतदाता अभी भी 'Under Adjudication' की स्थिति में हैं। ये मतदाता मुर्शिदाबाद, मालदा, नदिया और हावड़ा जिलों में फैले हुए हैं। जिन मतदाताओं के नाम हटा दिए गए हैं, उनके विपरीत इन लोगों के मामले अभी उस स्तर तक नहीं पहुंचे हैं जहाँ वे ट्रिब्यूनल में अपील कर सकें। इनमें से कई लोग दिसंबर 2025 या जनवरी 2026 से निर्णय की प्रतीक्षा कर रहे हैं। इस स्थिति ने चुनावी भागीदारी, प्रशासनिक देरी और मतदाताओं के अधिकारों को लेकर चिंताएं बढ़ाई हैं। बूथ लेवल अधिकारियों ने भी लंबित मामलों के समाधान में कठिनाइयों की जानकारी दी है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: SIR stands for Special Intensive Revision of electoral rolls.\nHI: SIR का पूरा नाम Special Intensive Revision है, जिसका अर्थ मतदाता सूची का विशेष गहन पुनरीक्षण है।",
+                        "EN: The Election Commission of India is a constitutional body responsible for conducting elections in India.\nHI: भारत निर्वाचन आयोग एक संवैधानिक निकाय है, जो भारत में चुनावों के संचालन के लिए जिम्मेदार है।",
+                        "EN: Article 324 of the Indian Constitution deals with the powers of the Election Commission.\nHI: भारतीय संविधान का अनुच्छेद 324 निर्वाचन आयोग की शक्तियों से संबंधित है।",
+                        "EN: A Booth Level Officer (BLO) assists in maintaining and updating electoral rolls at the polling booth level.\nHI: बूथ लेवल ऑफिसर (BLO) मतदान केंद्र स्तर पर मतदाता सूची के रखरखाव और अद्यतन में सहायता करता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which state has the SIR-related voter issue been reported? | SIR से संबंधित मतदाता समस्या किस राज्य में सामने आई है?",
+                            "options": [
+                                "Bihar",
+                                "West Bengal",
+                                "Odisha",
+                                "Assam"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Approximately how many voters are reportedly under adjudication? | लगभग कितने मतदाता निर्णय की प्रतीक्षा में हैं?",
+                            "options": [
+                                "5,000",
+                                "10,000",
+                                "25,000",
+                                "50,000"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What does SIR stand for? | SIR का पूरा नाम क्या है?",
+                            "options": [
+                                "Special Internal Review",
+                                "Special Intensive Revision",
+                                "State Information Report",
+                                "Systematic Indian Registration"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which of the following districts is mentioned in the report? | रिपोर्ट में निम्नलिखित में से किस जिले का उल्लेख है?",
+                            "options": [
+                                "Murshidabad",
+                                "Jaipur",
+                                "Patna",
+                                "Ranchi"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Which Article of the Constitution deals with the Election Commission? | संविधान का कौन-सा अनुच्छेद निर्वाचन आयोग से संबंधित है?",
+                            "options": [
+                                "Article 280",
+                                "Article 324",
+                                "Article 356",
+                                "Article 370"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Disaster Management and Weather",
+                    "title": "Cyclone Akvan Likely to Intensify into Very Severe Storm, Hit Andhra Coast on November 20 | चक्रवात अकवान के अत्यंत गंभीर तूफान में बदलने और 20 नवंबर को आंध्र तट से टकराने की आशंका",
+                    "summary": "EN: The India Meteorological Department (IMD) has forecast that Cyclone Akvan, developing over the Bay of Bengal, is likely to cross the Andhra Pradesh and Yanam coasts between Nellore and Tuni around noon on November 20, 2026. The cyclone is expected to intensify into a very severe cyclonic storm around November 19, with sustained wind speeds of 120–130 kmph and gusts up to 145 kmph. The name Akvan was proposed by Iran. It is the third cyclone to develop this year in the North Indian Ocean basin. Extremely heavy rainfall is expected in coastal Andhra Pradesh, while Odisha, Tamil Nadu, Puducherry and other nearby regions may also experience heavy rainfall.\nHI: भारत मौसम विज्ञान विभाग (IMD) के अनुसार बंगाल की खाड़ी में विकसित हो रहा चक्रवात अकवान 20 नवंबर 2026 को दोपहर के आसपास आंध्र प्रदेश और यानम के तट पर नेल्लोर तथा तुनी के बीच टकरा सकता है। इसके 19 नवंबर के आसपास अत्यंत गंभीर चक्रवाती तूफान में बदलने की संभावना है। इसकी निरंतर हवा की गति 120–130 किलोमीटर प्रति घंटा और झोंकों की गति 145 किलोमीटर प्रति घंटा तक पहुंच सकती है। अकवान नाम ईरान द्वारा प्रस्तावित किया गया है। यह इस वर्ष उत्तर हिंद महासागर क्षेत्र में विकसित होने वाला तीसरा चक्रवात है। तटीय आंध्र प्रदेश में अत्यधिक भारी बारिश की आशंका है, जबकि ओडिशा, तमिलनाडु, पुडुचेरी और आसपास के क्षेत्रों में भी भारी बारिश हो सकती है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: IMD stands for India Meteorological Department, India's national weather forecasting agency.\nHI: IMD का पूरा नाम India Meteorological Department है, जो भारत की राष्ट्रीय मौसम पूर्वानुमान एजेंसी है।",
+                        "EN: The Bay of Bengal is part of the northeastern Indian Ocean.\nHI: बंगाल की खाड़ी हिंद महासागर के उत्तर-पूर्वी भाग में स्थित है।",
+                        "EN: Tropical cyclones are intense low-pressure weather systems that develop over warm tropical oceans.\nHI: उष्णकटिबंधीय चक्रवात गर्म समुद्री क्षेत्रों में विकसित होने वाले तीव्र निम्न-दाब वाले मौसम तंत्र हैं।",
+                        "EN: The North Indian Ocean basin includes the Bay of Bengal and the Arabian Sea.\nHI: उत्तर हिंद महासागर क्षेत्र में बंगाल की खाड़ी और अरब सागर शामिल हैं।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which organisation issued the forecast for Cyclone Akvan? | चक्रवात अकवान का पूर्वानुमान किस संस्था ने जारी किया?",
+                            "options": [
+                                "ISRO",
+                                "IMD",
+                                "NITI Aayog",
+                                "NDMA"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which country proposed the name Akvan? | अकवान नाम किस देश ने प्रस्तावित किया?",
+                            "options": [
+                                "India",
+                                "Iran",
+                                "Japan",
+                                "Bangladesh"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "On which date is Cyclone Akvan expected to cross the Andhra coast? | चक्रवात अकवान के आंध्र तट से कब टकराने की संभावना है?",
+                            "options": [
+                                "17 November 2026",
+                                "18 November 2026",
+                                "20 November 2026",
+                                "25 November 2026"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What is the expected sustained wind speed of the cyclone? | चक्रवात की अनुमानित निरंतर हवा की गति कितनी है?",
+                            "options": [
+                                "60–70 kmph",
+                                "80–90 kmph",
+                                "120–130 kmph",
+                                "160–180 kmph"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "Cyclone Akvan is developing over which water body? | चक्रवात अकवान किस जल क्षेत्र में विकसित हो रहा है?",
+                            "options": [
+                                "Arabian Sea",
+                                "Bay of Bengal",
+                                "Red Sea",
+                                "Mediterranean Sea"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Education and Examination Reforms",
+                    "title": "States Seek Class 12 Board Marks Weightage in NEET, Multiple Attempts Proposed | राज्यों ने NEET में कक्षा 12 के अंकों को महत्व देने और एक से अधिक प्रयास का प्रस्ताव रखा",
+                    "summary": "EN: Several states have suggested giving weightage to Class 12 board examination scores in NEET-UG during consultations with the Nandan Nilekani-led High Powered Task Force on examination reforms. Other proposals include conducting NEET more than once a year and shifting towards a Computer Based Test (CBT) format. Some states have also suggested initially allowing students to choose between CBT and the traditional Pen and Paper Test (PPT). The discussions aim to reduce pressure on students and decrease excessive dependence on a single entrance examination. The task force has been given an extension until January 2027 to submit its report.\nHI: परीक्षा सुधारों के लिए नंदन नीलेकणी की अध्यक्षता वाली उच्च स्तरीय टास्क फोर्स के साथ हुई बैठकों में कई राज्यों ने NEET-UG में कक्षा 12 की बोर्ड परीक्षा के अंकों को महत्व देने का सुझाव दिया है। अन्य प्रस्तावों में वर्ष में एक से अधिक बार NEET आयोजित करना और परीक्षा को Computer Based Test (CBT) प्रारूप में बदलना शामिल है। कुछ राज्यों ने शुरुआत में विद्यार्थियों को CBT और पारंपरिक Pen and Paper Test (PPT) में से किसी एक को चुनने का विकल्प देने का सुझाव भी दिया है। इन चर्चाओं का उद्देश्य विद्यार्थियों का दबाव कम करना और एक ही प्रवेश परीक्षा पर अत्यधिक निर्भरता को घटाना है। टास्क फोर्स को अपनी रिपोर्ट प्रस्तुत करने के लिए जनवरी 2027 तक का विस्तार दिया गया है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: NEET stands for National Eligibility cum Entrance Test and is used for admission to medical courses in India.\nHI: NEET का पूरा नाम National Eligibility cum Entrance Test है, जिसका उपयोग भारत में मेडिकल पाठ्यक्रमों में प्रवेश के लिए किया जाता है।",
+                        "EN: NTA stands for National Testing Agency, which conducts several national-level entrance examinations.\nHI: NTA का पूरा नाम National Testing Agency है, जो कई राष्ट्रीय स्तर की प्रवेश परीक्षाएं आयोजित करती है।",
+                        "EN: CBT stands for Computer Based Test.\nHI: CBT का पूरा नाम Computer Based Test है, जिसमें परीक्षा कंप्यूटर के माध्यम से आयोजित होती है।",
+                        "EN: PPT stands for Pen and Paper Test, a traditional examination method using printed question papers and answer sheets.\nHI: PPT का पूरा नाम Pen and Paper Test है, जिसमें मुद्रित प्रश्नपत्र और उत्तर पुस्तिकाओं का उपयोग किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who is leading the examination reform task force? | परीक्षा सुधार टास्क फोर्स का नेतृत्व कौन कर रहे हैं?",
+                            "options": [
+                                "Raghuram Rajan",
+                                "Nandan Nilekani",
+                                "Amitabh Kant",
+                                "N K Singh"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which school examination's marks are proposed to receive weightage in NEET? | NEET में किस स्कूल परीक्षा के अंकों को महत्व देने का प्रस्ताव है?",
+                            "options": [
+                                "Class 8",
+                                "Class 10",
+                                "Class 12",
+                                "Class 11"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What does CBT stand for? | CBT का पूरा नाम क्या है?",
+                            "options": [
+                                "Central Board Test",
+                                "Computer Based Test",
+                                "Common Basic Test",
+                                "Computer Board Training"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Until which month has the task force received an extension? | टास्क फोर्स को किस महीने तक का विस्तार मिला है?",
+                            "options": [
+                                "October 2026",
+                                "November 2026",
+                                "January 2027",
+                                "March 2027"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What is the main objective of allowing multiple NEET attempts? | NEET में एक से अधिक प्रयास की अनुमति देने का मुख्य उद्देश्य क्या है?",
+                            "options": [
+                                "Increase examination fees",
+                                "Reduce student stress",
+                                "End board examinations",
+                                "Reduce medical colleges"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "International Relations and Strategic Cooperation",
+                    "title": "Quad Leaders to Meet in Manila Ahead of Trump-Xi-Putin Talks | ट्रंप-शी-पुतिन वार्ता से पहले मनीला में क्वाड नेताओं की बैठक",
+                    "summary": "EN: Leaders of the Quad grouping, including Indian Prime Minister Narendra Modi, US President Donald Trump, Japanese Prime Minister Sanae Takaichi and Australian Prime Minister Anthony Albanese, are scheduled to meet in Manila on November 17 on the sidelines of the ASEAN and East Asia summits. It will be the first Quad leaders' meeting since Trump began his second presidential term in January 2025. The meeting is expected to focus on peace, prosperity and security in the Indo-Pacific region. It is also being viewed as a strategic signal ahead of the proposed trilateral meeting involving Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen on November 19 during the APEC summit.\nHI: क्वाड समूह के नेता—भारत के प्रधानमंत्री नरेंद्र मोदी, अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप, जापान की प्रधानमंत्री साने ताकाइची और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज—17 नवंबर को ASEAN और East Asia Summit के दौरान मनीला में बैठक करने वाले हैं। जनवरी 2025 में ट्रंप के दूसरे राष्ट्रपति कार्यकाल की शुरुआत के बाद यह पहली क्वाड नेताओं की बैठक होगी। इसमें हिंद-प्रशांत क्षेत्र में शांति, समृद्धि और सुरक्षा पर चर्चा होने की उम्मीद है। इस बैठक को 19 नवंबर को APEC शिखर सम्मेलन के दौरान चीन के राष्ट्रपति शी जिनपिंग, अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और रूस के राष्ट्रपति व्लादिमीर पुतिन की प्रस्तावित त्रिपक्षीय बैठक से पहले एक रणनीतिक संदेश के रूप में भी देखा जा रहा है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: Quad is a strategic grouping of India, the United States, Japan and Australia.\nHI: क्वाड भारत, अमेरिका, जापान और ऑस्ट्रेलिया का एक रणनीतिक समूह है।",
+                        "EN: APEC stands for Asia-Pacific Economic Cooperation.\nHI: APEC का पूरा नाम Asia-Pacific Economic Cooperation है।",
+                        "EN: The Indo-Pacific region connects the Indian Ocean and the Pacific Ocean regions.\nHI: हिंद-प्रशांत क्षेत्र में हिंद महासागर और प्रशांत महासागर के क्षेत्र शामिल हैं।",
+                        "EN: ASEAN stands for Association of Southeast Asian Nations.\nHI: ASEAN का पूरा नाम Association of Southeast Asian Nations है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Where are the Quad leaders scheduled to meet? | क्वाड नेताओं की बैठक कहाँ निर्धारित है?",
+                            "options": [
+                                "Tokyo",
+                                "Manila",
+                                "New Delhi",
+                                "Canberra"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which country is not a member of the Quad? | निम्नलिखित में से कौन-सा देश क्वाड का सदस्य नहीं है?",
+                            "options": [
+                                "India",
+                                "Japan",
+                                "Australia",
+                                "China"
+                            ],
+                            "answer": 3
+                        },
+                        {
+                            "question": "Who is the Prime Minister of Japan mentioned in the report? | रिपोर्ट में जापान की किस प्रधानमंत्री का उल्लेख है?",
+                            "options": [
+                                "Yoshihide Suga",
+                                "Sanae Takaichi",
+                                "Fumio Kishida",
+                                "Shinzo Abe"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "The proposed Trump-Xi-Putin meeting is scheduled in which Chinese city? | प्रस्तावित ट्रंप-शी-पुतिन बैठक चीन के किस शहर में निर्धारित है?",
+                            "options": [
+                                "Beijing",
+                                "Shanghai",
+                                "Shenzhen",
+                                "Wuhan"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What does APEC stand for? | APEC का पूरा नाम क्या है?",
+                            "options": [
+                                "Asian Political and Economic Council",
+                                "Asia-Pacific Economic Cooperation",
+                                "Association of Pacific European Countries",
+                                "Asian Partnership for Energy Cooperation"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Internal Security and Law and Order",
+                    "title": "Manipur Witnesses Statewide Strike Following Killing of Four Naga Civilians | चार नागा नागरिकों की हत्या के बाद मणिपुर में राज्यव्यापी बंद",
+                    "summary": "EN: A 24-hour statewide general strike in Manipur was organised to protest the killing of four Naga civilians. The strike was called by the Native People’s Committee, Manipur (NPCM), from midnight of November 15 to midnight of November 16. Normal life was disrupted, with shops, educational institutions and public transport remaining closed in several areas. Police fired tear gas shells to disperse protesters in the Chingmeirong locality of Imphal. The four civilians, including a mother and her son, were reportedly killed when suspected militants ambushed two vehicles along National Highway 202 in Ukhrul district. Essential services such as medical services, ambulances, fire services and electricity were exempted from the shutdown.\nHI: मणिपुर में चार नागा नागरिकों की हत्या के विरोध में 24 घंटे का राज्यव्यापी बंद आयोजित किया गया। यह बंद Native People’s Committee, Manipur (NPCM) द्वारा 15 नवंबर की मध्यरात्रि से 16 नवंबर की मध्यरात्रि तक बुलाया गया था। बंद के कारण सामान्य जनजीवन प्रभावित हुआ और कई क्षेत्रों में दुकानें, शैक्षणिक संस्थान तथा सार्वजनिक परिवहन बंद रहे। इम्फाल के चिंगमेइरोंग इलाके में प्रदर्शनकारियों को तितर-बितर करने के लिए पुलिस ने आंसू गैस के गोले छोड़े। बताया गया कि चार नागरिकों, जिनमें एक मां और उसका बेटा भी शामिल थे, की हत्या उखरुल जिले में राष्ट्रीय राजमार्ग 202 पर दो वाहनों पर संदिग्ध उग्रवादियों के हमले के दौरान हुई। चिकित्सा सेवाओं, एम्बुलेंस, अग्निशमन सेवाओं और बिजली जैसी आवश्यक सेवाओं को बंद से छूट दी गई थी।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: Imphal is the capital of Manipur.\nHI: इम्फाल मणिपुर की राजधानी है।",
+                        "EN: Ukhrul is a district located in the northeastern Indian state of Manipur.\nHI: उखरुल भारत के पूर्वोत्तर राज्य मणिपुर का एक जिला है।",
+                        "EN: NH stands for National Highway, which connects important cities and regions.\nHI: NH का पूरा नाम National Highway है, जो महत्वपूर्ण शहरों और क्षेत्रों को जोड़ता है।",
+                        "EN: Tear gas is a chemical irritant used by law enforcement agencies for crowd control.\nHI: आंसू गैस एक रासायनिक उत्तेजक पदार्थ है, जिसका उपयोग कानून-व्यवस्था बनाए रखने के लिए किया जाता है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which state did the statewide strike take place? | राज्यव्यापी बंद किस राज्य में हुआ?",
+                            "options": [
+                                "Nagaland",
+                                "Manipur",
+                                "Mizoram",
+                                "Tripura"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "How many Naga civilians were killed in the incident? | इस घटना में कितने नागा नागरिकों की हत्या हुई?",
+                            "options": [
+                                "Two",
+                                "Three",
+                                "Four",
+                                "Six"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "Which organisation called the general strike? | सामान्य बंद किस संगठन ने बुलाया था?",
+                            "options": [
+                                "NPCM",
+                                "NITI Aayog",
+                                "NABARD",
+                                "NHAI"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Which National Highway was mentioned in the report? | रिपोर्ट में किस राष्ट्रीय राजमार्ग का उल्लेख किया गया?",
+                            "options": [
+                                "NH-27",
+                                "NH-37",
+                                "NH-202",
+                                "NH-44"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "What is the capital of Manipur? | मणिपुर की राजधानी क्या है?",
+                            "options": [
+                                "Aizawl",
+                                "Kohima",
+                                "Imphal",
+                                "Agartala"
+                            ],
+                            "answer": 2
+                        }
+                    ]
+                },
+                {
+                    "category": "Constitution and Parliamentary Democracy",
+                    "title": "Vice-President CP Radhakrishnan Emphasises Commitment to Constitution and Constructive Debate | उपराष्ट्रपति सी.पी. राधाकृष्णन ने संविधान के प्रति प्रतिबद्धता और रचनात्मक बहस पर जोर दिया",
+                    "summary": "EN: Vice-President C. P. Radhakrishnan addressed the Odisha Legislative Assembly and highlighted the importance of constitutional commitment in a democracy. He said that disagreements are natural in democratic institutions, but debates, discussions and even disruptions should ultimately contribute to better decision-making. He emphasised that differences of opinion should not weaken the commitment of elected representatives towards citizens and the Constitution. He also stated that constructive cooperation and meaningful debate strengthen democracy and contribute to the progress of the state and the nation.\nHI: उपराष्ट्रपति सी.पी. राधाकृष्णन ने ओडिशा विधानसभा को संबोधित करते हुए लोकतंत्र में संविधान के प्रति प्रतिबद्धता के महत्व पर जोर दिया। उन्होंने कहा कि लोकतांत्रिक संस्थाओं में मतभेद स्वाभाविक हैं, लेकिन बहस, चर्चा और यहां तक कि व्यवधान का अंतिम उद्देश्य बेहतर निर्णय लेने में योगदान देना होना चाहिए। उन्होंने इस बात पर जोर दिया कि विचारों में मतभेद निर्वाचित प्रतिनिधियों की जनता और संविधान के प्रति प्रतिबद्धता को कमजोर नहीं करने चाहिए। उनके अनुसार रचनात्मक सहयोग और सार्थक बहस लोकतंत्र को मजबूत करते हैं तथा राज्य और राष्ट्र की प्रगति में योगदान देते हैं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.\nHI: भारत का उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है।",
+                        "EN: Article 63 of the Indian Constitution provides for the office of the Vice-President of India.\nHI: भारतीय संविधान का अनुच्छेद 63 भारत के उपराष्ट्रपति के पद का प्रावधान करता है।",
+                        "EN: Article 64 deals with the Vice-President being the ex-officio Chairman of the Council of States.\nHI: अनुच्छेद 64 उपराष्ट्रपति को राज्यसभा का पदेन सभापति बनाने से संबंधित है।",
+                        "EN: The Odisha Legislative Assembly is the unicameral legislature of Odisha.\nHI: ओडिशा विधानसभा ओडिशा की एकसदनीय विधायिका है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Who addressed the Odisha Legislative Assembly? | ओडिशा विधानसभा को किसने संबोधित किया?",
+                            "options": [
+                                "Prime Minister Narendra Modi",
+                                "Vice-President C. P. Radhakrishnan",
+                                "President of India",
+                                "Chief Justice of India"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "What is the main constitutional message highlighted in the address? | संबोधन में किस संवैधानिक संदेश पर जोर दिया गया?",
+                            "options": [
+                                "Ending parliamentary debates",
+                                "Commitment to the Constitution",
+                                "Abolishing state assemblies",
+                                "Replacing the Constitution"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "The Vice-President of India is the ex-officio Chairman of which House? | भारत का उपराष्ट्रपति किस सदन का पदेन सभापति होता है?",
+                            "options": [
+                                "Lok Sabha",
+                                "Rajya Sabha",
+                                "Vidhan Sabha",
+                                "Gram Sabha"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which Article provides for the office of the Vice-President? | उपराष्ट्रपति के पद का प्रावधान किस अनुच्छेद में है?",
+                            "options": [
+                                "Article 52",
+                                "Article 63",
+                                "Article 74",
+                                "Article 110"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "What strengthens democracy according to the Vice-President? | उपराष्ट्रपति के अनुसार लोकतंत्र को क्या मजबूत करता है?",
+                            "options": [
+                                "Constructive debate and cooperation",
+                                "Avoiding all discussions",
+                                "Political violence",
+                                "Ending public participation"
+                            ],
+                            "answer": 0
+                        }
+                    ]
+                },
+                {
+                    "category": "Judiciary and Human Rights",
+                    "title": "Bilkis Bano Case: Supreme Court Suspends Life Sentences of Two Convicts and Grants Bail | बिलकिस बानो मामले में सुप्रीम कोर्ट ने दो दोषियों की उम्रकैद की सजा निलंबित कर जमानत दी",
+                    "summary": "EN: The Supreme Court suspended the life sentences of two convicts, Bipinchand Kanaiyalal Joshi and Pradip Ramanlal Modhiya, in the Bilkis Bano case and granted them bail. The court noted that the appellants had spent more than 17 years in prison and that one of them had a severe handicap. Both were among the 11 men convicted by a Special CBI Court in Mumbai in January 2008. The Bombay High Court upheld their convictions in May 2017. The case relates to the 2002 Gujarat riots, during which Bilkis Bano was gang-raped and seven members of her family were killed. The suspension of sentences is an interim judicial decision and does not amount to acquittal.\nHI: सुप्रीम कोर्ट ने बिलकिस बानो मामले में दो दोषियों—बिपिनचंद्र कनैयालाल जोशी और प्रदीप रामनलाल मोधिया—की उम्रकैद की सजा निलंबित करते हुए उन्हें जमानत दे दी। अदालत ने ध्यान दिया कि दोनों अपीलकर्ताओं ने 17 वर्षों से अधिक समय जेल में बिताया है और उनमें से एक गंभीर दिव्यांगता से पीड़ित है। दोनों जनवरी 2008 में मुंबई की विशेष CBI अदालत द्वारा दोषी ठहराए गए 11 लोगों में शामिल थे। मई 2017 में बॉम्बे हाईकोर्ट ने उनकी सजा बरकरार रखी थी। यह मामला 2002 के गुजरात दंगों से जुड़ा है, जिनके दौरान बिलकिस बानो के साथ सामूहिक दुष्कर्म हुआ था और उनके परिवार के सात सदस्यों की हत्या कर दी गई थी। सजा का निलंबन एक अंतरिम न्यायिक निर्णय है, दोषमुक्ति नहीं।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: The Supreme Court of India is the highest judicial authority in the country.\nHI: भारत का सर्वोच्च न्यायालय देश का सर्वोच्च न्यायिक प्राधिकरण है।",
+                        "EN: Article 124 of the Constitution deals with the establishment and constitution of the Supreme Court of India.\nHI: संविधान का अनुच्छेद 124 भारत के सर्वोच्च न्यायालय की स्थापना और गठन से संबंधित है।",
+                        "EN: The Central Bureau of Investigation (CBI) is India's premier investigating agency for major criminal and corruption cases.\nHI: केंद्रीय अन्वेषण ब्यूरो (CBI) भारत की प्रमुख जांच एजेंसी है, जो बड़े आपराधिक और भ्रष्टाचार के मामलों की जांच करती है।",
+                        "EN: Bail is the conditional release of an accused or convicted person from custody under legal supervision.\nHI: जमानत कानूनी शर्तों के अधीन किसी आरोपी या दोषी व्यक्ति को हिरासत से रिहा करने की प्रक्रिया है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "Which court suspended the sentences of the two convicts? | दो दोषियों की सजा किस अदालत ने निलंबित की?",
+                            "options": [
+                                "Bombay High Court",
+                                "Supreme Court of India",
+                                "Gujarat High Court",
+                                "Delhi High Court"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "How many years had the appellants spent in prison, as noted by the court? | अदालत के अनुसार अपीलकर्ताओं ने कितने वर्षों से अधिक समय जेल में बिताया था?",
+                            "options": [
+                                "5 years",
+                                "10 years",
+                                "17 years",
+                                "25 years"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "In which year did the Special CBI Court convict the 11 men? | विशेष CBI अदालत ने 11 लोगों को किस वर्ष दोषी ठहराया था?",
+                            "options": [
+                                "2002",
+                                "2005",
+                                "2008",
+                                "2017"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "The case is related to which major incident? | यह मामला किस बड़ी घटना से संबंधित है?",
+                            "options": [
+                                "1984 riots",
+                                "2002 Gujarat riots",
+                                "1992 riots",
+                                "2020 Delhi riots"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Does suspension of a sentence automatically mean acquittal? | क्या सजा का निलंबन अपने आप दोषमुक्ति का अर्थ है?",
+                            "options": [
+                                "Yes",
+                                "No",
+                                "Only in civil cases",
+                                "Only after one year"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Renewable Energy and Wildlife Conservation",
+                    "title": "Maharashtra Forest Department Halts Adani's 1,500 MW Tarali Pump Storage Project | महाराष्ट्र वन विभाग ने अडानी की 1,500 मेगावाट ताराली पंप स्टोरेज परियोजना का काम रोका",
+                    "summary": "EN: The Maharashtra Forest Department ordered an immediate halt to work at Adani Green Energy Limited's 1,500 MW Tarali Pump Storage Project in Patan taluka of Satara district. The department stated that the project work had started without approval from the National Board for Wildlife (NBWL). The issue gained attention after the company sought to revise the declared project cost from Rs 5,675 crore to Rs 56.75 crore. This revision would reduce the proposed wildlife conservation deposit from Rs 227 crore to approximately Rs 2.27 crore. The company had deposited Rs 56.75 lakh based on the revised cost. The project is associated with the Koyna Wildlife Sanctuary and the Sahyadri Tiger Reserve. The company disputed the allegations and said that the project complied with applicable requirements. The matter is under investigation.\nHI: महाराष्ट्र वन विभाग ने सतारा जिले की पाटन तहसील में अडानी ग्रीन एनर्जी लिमिटेड की 1,500 मेगावाट क्षमता वाली ताराली पंप स्टोरेज परियोजना का काम तत्काल रोकने का आदेश दिया। विभाग के अनुसार परियोजना का कार्य राष्ट्रीय वन्यजीव बोर्ड (NBWL) की मंजूरी के बिना शुरू किया गया था। यह मामला तब चर्चा में आया जब कंपनी ने परियोजना की घोषित लागत 5,675 करोड़ रुपये से घटाकर 56.75 करोड़ रुपये करने का अनुरोध किया। इससे वन्यजीव संरक्षण के लिए प्रस्तावित जमा राशि 227 करोड़ रुपये से घटकर लगभग 2.27 करोड़ रुपये हो जाती। संशोधित लागत के आधार पर कंपनी ने 56.75 लाख रुपये जमा किए थे। यह परियोजना कोयना वन्यजीव अभयारण्य और सह्याद्री टाइगर रिजर्व से संबंधित है। कंपनी ने आरोपों का खंडन करते हुए कहा कि परियोजना लागू नियमों के अनुरूप है। मामले की जांच जारी है।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: NBWL stands for National Board for Wildlife, a statutory body constituted under the Wildlife (Protection) Act, 1972.\nHI: NBWL का पूरा नाम National Board for Wildlife है, जो वन्यजीव (संरक्षण) अधिनियम, 1972 के तहत गठित एक वैधानिक निकाय है।",
+                        "EN: Koyna Wildlife Sanctuary is located in Maharashtra and forms part of the Sahyadri Tiger Reserve.\nHI: कोयना वन्यजीव अभयारण्य महाराष्ट्र में स्थित है और सह्याद्री टाइगर रिजर्व का हिस्सा है।",
+                        "EN: Pumped storage hydropower uses electricity to pump water to an upper reservoir and generates electricity when water flows down.\nHI: पंप स्टोरेज जलविद्युत में बिजली का उपयोग करके पानी को ऊपरी जलाशय में पहुंचाया जाता है और पानी नीचे आने पर बिजली उत्पन्न की जाती है।",
+                        "EN: The Western Ghats are recognised as a UNESCO World Heritage Site.\nHI: पश्चिमी घाट को UNESCO द्वारा विश्व धरोहर स्थल के रूप में मान्यता प्राप्त है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which district is the Tarali Pump Storage Project located? | ताराली पंप स्टोरेज परियोजना किस जिले में स्थित है?",
+                            "options": [
+                                "Pune",
+                                "Satara",
+                                "Nagpur",
+                                "Nashik"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "What is the installed capacity of the Tarali project? | ताराली परियोजना की क्षमता कितनी है?",
+                            "options": [
+                                "500 MW",
+                                "1,000 MW",
+                                "1,500 MW",
+                                "2,500 MW"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "Which organisation's approval was cited as missing? | किस संस्था की मंजूरी नहीं मिलने की बात कही गई?",
+                            "options": [
+                                "NITI Aayog",
+                                "National Board for Wildlife",
+                                "RBI",
+                                "SEBI"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "What was the originally declared project cost? | परियोजना की मूल घोषित लागत कितनी थी?",
+                            "options": [
+                                "Rs 575 crore",
+                                "Rs 1,675 crore",
+                                "Rs 5,675 crore",
+                                "Rs 10,675 crore"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "Which tiger reserve is associated with the project? | यह परियोजना किस टाइगर रिजर्व से संबंधित है?",
+                            "options": [
+                                "Pench Tiger Reserve",
+                                "Sahyadri Tiger Reserve",
+                                "Ranthambore Tiger Reserve",
+                                "Bandipur Tiger Reserve"
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "category": "Environment, Innovation and International Cooperation",
+                    "title": "Prince William Highlights Environmental Solutions at Earthshot Prize Summit in Mumbai | प्रिंस विलियम ने मुंबई में अर्थशॉट प्राइज समिट के दौरान पर्यावरणीय समाधानों पर जोर दिया",
+                    "summary": "EN: Britain's Prince William spoke at the Impact Assembly organised as part of the Earthshot Prize summit in Mumbai. He used the Hindi phrase 'rang birangi duniya' to emphasise that environmental solutions should be viewed from different perspectives and should benefit both people and the planet. The event brought together environmental innovators, business leaders, philanthropists and government representatives. Several partnerships were announced, including investment for Pula to expand protection for smallholder farmers against extreme weather, a partnership between Mahindra Last Mile Mobility and Uber to promote electric three-wheelers, and an initiative by Mahila Housing Trust to address extreme heat affecting low-income communities. The event focused on innovation, cleaner air and climate resilience.\nHI: ब्रिटेन के प्रिंस विलियम ने मुंबई में आयोजित Earthshot Prize Summit के हिस्से के रूप में Impact Assembly को संबोधित किया। उन्होंने हिंदी वाक्यांश 'रंग-बिरंगी दुनिया' का उपयोग करते हुए कहा कि पर्यावरणीय समाधानों को अलग-अलग दृष्टिकोणों से देखना चाहिए और उनसे लोगों तथा प्रकृति दोनों को लाभ मिलना चाहिए। इस कार्यक्रम में पर्यावरण नवाचारक, व्यापार जगत के नेता, परोपकारी संस्थाएं और सरकारी प्रतिनिधि शामिल हुए। इस दौरान कई साझेदारियों की घोषणा की गई। इनमें छोटे किसानों को चरम मौसम से सुरक्षा देने के लिए Pula में निवेश, इलेक्ट्रिक तीन-पहिया वाहनों को बढ़ावा देने के लिए Mahindra Last Mile Mobility और Uber की साझेदारी तथा कम आय वाले समुदायों को अत्यधिक गर्मी से बचाने के लिए Mahila Housing Trust की पहल शामिल हैं। कार्यक्रम में नवाचार, स्वच्छ हवा और जलवायु सहनशीलता पर ध्यान दिया गया।",
+                    "sourceName": "The Indian Express",
+                    "sourceUrl": "",
+                    "staticGK": [
+                        "EN: The Earthshot Prize was launched by Prince William and focuses on solutions to major environmental challenges.\nHI: Earthshot Prize की शुरुआत प्रिंस विलियम ने की थी और इसका उद्देश्य प्रमुख पर्यावरणीय चुनौतियों के समाधान को बढ़ावा देना है।",
+                        "EN: Electric three-wheelers are vehicles powered by electric motors and rechargeable batteries.\nHI: इलेक्ट्रिक तीन-पहिया वाहन ऐसे वाहन हैं जो इलेक्ट्रिक मोटर और रिचार्जेबल बैटरी से चलते हैं।",
+                        "EN: Climate resilience refers to the ability of communities and systems to prepare for, adapt to and recover from climate impacts.\nHI: जलवायु सहनशीलता का अर्थ समुदायों और प्रणालियों की जलवायु प्रभावों के लिए तैयार होने, अनुकूलन करने और उनसे उबरने की क्षमता है।",
+                        "EN: Sustainable development aims to meet present needs without compromising the ability of future generations to meet their own needs.\nHI: सतत विकास का उद्देश्य भविष्य की पीढ़ियों की आवश्यकताओं से समझौता किए बिना वर्तमान आवश्यकताओं को पूरा करना है।"
+                    ],
+                    "mcqs": [
+                        {
+                            "question": "In which Indian city was the Earthshot Prize summit held? | Earthshot Prize Summit भारत के किस शहर में आयोजित हुआ?",
+                            "options": [
+                                "New Delhi",
+                                "Mumbai",
+                                "Bengaluru",
+                                "Hyderabad"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Who is the founder and President of The Earthshot Prize? | Earthshot Prize के संस्थापक और अध्यक्ष कौन हैं?",
+                            "options": [
+                                "King Charles III",
+                                "Prince William",
+                                "Prince Harry",
+                                "David Attenborough"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which Hindi phrase did Prince William use in his speech? | प्रिंस विलियम ने अपने भाषण में किस हिंदी वाक्यांश का उपयोग किया?",
+                            "options": [
+                                "Vasudhaiva Kutumbakam",
+                                "Rang Birangi Duniya",
+                                "Jai Jawan Jai Kisan",
+                                "Satyameva Jayate"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which companies partnered to promote electric three-wheelers? | इलेक्ट्रिक तीन-पहिया वाहनों को बढ़ावा देने के लिए किन कंपनियों ने साझेदारी की?",
+                            "options": [
+                                "Tata Motors and Ola",
+                                "Mahindra Last Mile Mobility and Uber",
+                                "Maruti Suzuki and Amazon",
+                                "Bajaj and Microsoft"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Which organisation announced an initiative to protect low-income communities from extreme heat? | कम आय वाले समुदायों को अत्यधिक गर्मी से बचाने की पहल किस संस्था ने घोषित की?",
+                            "options": [
+                                "Mahila Housing Trust",
+                                "NABARD",
+                                "UNESCO",
+                                "World Bank"
+                            ],
+                            "answer": 0
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
