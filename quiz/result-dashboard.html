@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Results | KrishnaPrep</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <meta name="description" content="Latest Government Exams, Results, Admit Card, Current Affairs and Jobs">
+    <meta name="keywords" content="Government Jobs, SSC, UPSC, Railway, Result, Admit Card">
+    <meta name="author" content="Exam Portal">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="icon" type="image/png" href="../Assets/Logo1.png">
+    <link rel="stylesheet" href="result-dashboard.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <a href="quiz-home.html" class="logo">KrishnaPrep</a>
+        <a href="quiz-home.html" class="back-btn">← Back to Quizzes</a>
+    </header>
+
+    <main class="container">
+
+        <section class="welcome">
+            <div>
+                <p class="tag">STUDENT DASHBOARD</p>
+                <h1>My Performance</h1>
+                <p>Track your exam results and improve your preparation.</p>
+            </div>
+        </section>
+
+        <section class="profile-card">
+            <div class="avatar" id="studentAvatar">S</div>
+            <div>
+                <h2 id="studentName">Student</h2>
+                <p id="studentEmail">Your exam performance</p>
+            </div>
+        </section>
+
+        <section class="stats-grid">
+            <div class="stat-card">
+                <span>Total Exams</span>
+                <h2 id="totalExams">0</h2>
+            </div>
+
+            <div class="stat-card">
+                <span>Average Score</span>
+                <h2 id="averageScore">0%</h2>
+            </div>
+
+            <div class="stat-card">
+                <span>Best Score</span>
+                <h2 id="bestScore">0%</h2>
+            </div>
+
+            <div class="stat-card">
+                <span>Total Correct</span>
+                <h2 id="totalCorrect">0</h2>
+            </div>
+        </section>
+
+        <section class="history-section">
+            <div class="section-heading">
+                <h2>Exam History</h2>
+                <!-- <button id="clearHistory" class="clear-btn">
+                    Clear My History
+                </button> -->
+            </div>
+
+            <div id="resultList" class="result-list"></div>
+        </section>
+
+        <section class="leaderboard-section">
+            <h2>Top Performers</h2>
+            <!-- <p class="subtitle">Demo leaderboard – Firebase integration pending.</p> -->
+            <p class="subtitle">Top performers on KrishnaPrep.</p>
+
+            <div id="leaderboard" class="leaderboard"></div>
+        </section>
+
+    </main>
+
+    <!-- <script src="result-dashboard.js"></script> -->
+    <script type="module" src="result-dashboard.js"></script>
+
+</body>
+
+</html>

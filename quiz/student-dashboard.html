@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Student Dashboard | KrishnaPrep</title>
+
+    <link rel="stylesheet" href="student-dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <meta name="description" content="Latest Government Exams, Results, Admit Card, Current Affairs and Jobs">
+    <meta name="keywords" content="Government Jobs, SSC, UPSC, Railway, Result, Admit Card">
+    <meta name="author" content="Exam Portal">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="icon" type="image/png" href="../Assets/Logo1.png">
+</head>
+
+<body>
+
+    <header class="dashboard-header">
+
+        <div class="brand">
+            <h2>KrishnaPrep</h2>
+            <span>Student Portal</span>
+        </div>
+
+        <button id="logoutBtn" class="logout-btn">
+            Logout
+        </button>
+
+    </header>
+
+    <main class="dashboard-container">
+
+
+        <section class="welcome-section">
+
+            <div>
+                <p class="welcome-label">STUDENT DASHBOARD</p>
+
+                <h1>
+                    Welcome, <span id="studentName">Student</span>!
+                </h1>
+
+                <p class="welcome-text">
+                    Welcome to your KrishnaPrep learning dashboard.
+                </p>
+            </div>
+
+            <div class="student-avatar">
+                <img id="profileImage" src="../Assets/male.png" alt="Student Profile">
+                <!-- <span id="studentInitial">S</span> -->
+            </div>
+
+        </section>
+
+        <section class="profile-card">
+
+            <h2>My Profile</h2>
+
+            <div class="profile-details">
+
+                <div class="profile-item">
+                    <span>Profile Photo</span>
+                    <!-- <img id="profileImage" src="../Assets/male.png" alt="Student Profile"> -->
+                    <img id="profileImageCard" src="../Assets/male.png" alt="Student Profile">
+                </div>
+
+                <div class="profile-item">
+                    <span>Student Name</span>
+                    <strong id="profileName">-</strong>
+                </div>
+
+                <div class="profile-item">
+                    <span>Student ID</span>
+                    <strong id="studentId">-</strong>
+                </div>
+
+                <div class="profile-item">
+                    <span>Email Address</span>
+                    <strong id="studentEmail">-</strong>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <section class="dashboard-heading">
+            <h2>My Learning</h2>
+            <p>Access your exams and performance.</p>
+        </section>
+
+        <section class="dashboard-grid">
+
+            <a href="quiz-home.html" class="dashboard-card">
+                <div class="card-icon">📝</div>
+                <h3>Available Exams</h3>
+                <p>Explore and attempt available quizzes.</p>
+                <span>Start Exam →</span>
+            </a>
+
+            <a href="result-dashboard.html" class="dashboard-card">
+                <div class="card-icon">📊</div>
+                <h3>My Results</h3>
+                <p>Check your exam scores and performance.</p>
+                <span>View Results →</span>
+            </a>
+
+            <div class="dashboard-card coming-soon">
+                <div class="card-icon">🏆</div>
+                <h3>Certificates</h3>
+                <p>Access your earned quiz certificates.</p>
+                <span>Coming Soon</span>
+            </div>
+
+            <div class="dashboard-card coming-soon">
+                <div class="card-icon">📚</div>
+                <h3>Study Materials</h3>
+                <p>Explore learning resources and notes.</p>
+                <span>Coming Soon</span>
+            </div>
+
+        </section>
+
+
+        <section class="performance-section">
+
+            <h2>My Performance</h2>
+            <p>Your overall quiz performance at a glance.</p>
+
+            <div class="performance-grid">
+
+                <div class="performance-card">
+                    <span>📝</span>
+                    <h3 id="totalQuizzes">0</h3>
+                    <p>Quizzes Attempted</p>
+                </div>
+
+                <div class="performance-card">
+                    <span>📊</span>
+                    <h3 id="averageScore">0%</h3>
+                    <p>Average Score</p>
+                </div>
+
+                <div class="performance-card">
+                    <span>✅</span>
+                    <h3 id="totalCorrect">0</h3>
+                    <p>Correct Answers</p>
+                </div>
+
+                <div class="performance-card">
+                    <span>🏆</span>
+                    <h3 id="bestScore">0%</h3>
+                    <p>Best Score</p>
+                </div>
+
+            </div>
+
+        </section>
+
+
+    </main>
+
+    <footer class="dashboard-footer">
+        © 2026 KrishnaPrep. All Rights Reserved.
+    </footer>
+
+    <!-- <script src="student-dashboard.js"></script> -->
+    <script type="module" src="student-dashboard.js"></script>
+
+</body>
+
+</html>

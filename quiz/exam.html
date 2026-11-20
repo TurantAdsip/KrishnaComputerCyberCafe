@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Online Examination | KrishnaPrep</title>
+
+    <link rel="stylesheet" href="exam.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+
+    <header class="exam-header">
+
+        <a href="quiz-home.html" class="exam-logo">
+            <img src="../Assets/Logo.png" alt="KrishnaPrep">
+            <span>Krishna<span>Prep</span></span>
+        </a>
+
+        <div class="header-exam-title">
+            <span>ONLINE EXAMINATION</span>
+            <h2 id="headerExamTitle">Practice Test</h2>
+        </div>
+
+        <a href="quiz-home.html" class="exit-btn">
+            <i class="fa-solid fa-arrow-left"></i>
+            Exit
+        </a>
+
+    </header>
+
+
+    <!-- STUDENT REGISTRATION -->
+
+    <main id="registrationScreen" class="registration-screen">
+
+        <div class="registration-card">
+
+            <div class="registration-icon">
+                <i class="fa-solid fa-file-circle-check"></i>
+            </div>
+
+            <span class="small-heading">KRISHNAPREP ONLINE TEST</span>
+
+            <h1 id="registrationTitle">Start Your Examination</h1>
+
+            <p id="registrationDescription">
+                Enter your details before starting the examination.
+            </p>
+
+            <form id="studentForm">
+
+                <label for="studentName">Student Name</label>
+
+                <input type="text" id="studentName" placeholder="Enter your full name" maxlength="80" required>
+
+                <label for="studentEmail">Email Address</label>
+
+                <input type="email" id="studentEmail" placeholder="Enter your email address" required>
+
+                <div class="exam-instructions">
+
+                    <h3>Exam Instructions</h3>
+
+                    <ul>
+                        <li>Each question carries one mark.</li>
+                        <li>There is no negative marking in this demo.</li>
+                        <li>Select one answer for every question.</li>
+                        <li>You can move between questions.</li>
+                        <li>Submit your exam before the timer ends.</li>
+                    </ul>
+
+                </div>
+
+                <button type="submit" class="start-exam-btn">
+                    Start Examination
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
+
+            </form>
+
+        </div>
+
+    </main>
+
+
+    <!-- EXAM SCREEN -->
+
+    <main id="examScreen" class="exam-screen" hidden>
+
+        <div class="container">
+
+            <!-- EXAM INFORMATION -->
+
+            <div class="exam-info-bar">
+
+                <div>
+                    <span>STUDENT</span>
+                    <h3 id="displayStudentName">Student</h3>
+                </div>
+
+                <div>
+                    <span>TOTAL QUESTIONS</span>
+                    <h3 id="totalQuestions">0</h3>
+                </div>
+
+                <div class="timer-box">
+                    <span>TIME REMAINING</span>
+                    <h3 id="timer">
+                        <i class="fa-regular fa-clock"></i>
+                        00:00
+                    </h3>
+                </div>
+
+            </div>
+
+
+            <!-- PROGRESS -->
+
+            <div class="progress-section">
+
+                <div class="progress-text">
+                    <span>Exam Progress</span>
+                    <strong id="progressText">0% Completed</strong>
+                </div>
+
+                <div class="progress-track">
+                    <div id="progressBar"></div>
+                </div>
+
+            </div>
+
+
+            <!-- EXAM LAYOUT -->
+
+            <div class="exam-layout">
+
+                <!-- QUESTION PANEL -->
+
+                <section class="question-panel">
+
+                    <div class="question-top">
+
+                        <span id="questionNumber">Question 1</span>
+
+                        <span class="question-mark">
+                            <i class="fa-solid fa-star"></i>
+                            1 Mark
+                        </span>
+
+                    </div>
+
+                    <h2 id="questionText">
+                        Loading question...
+                    </h2>
+
+                    <div id="optionsContainer" class="options-container">
+                    </div>
+
+                    <div class="question-actions">
+
+                        <button id="markReviewBtn" class="review-btn">
+                            <i class="fa-regular fa-bookmark"></i>
+                            Mark for Review
+                        </button>
+
+                        <button id="clearAnswerBtn" class="clear-btn">
+                            Clear Response
+                        </button>
+
+                    </div>
+
+                    <div class="navigation-buttons">
+
+                        <button id="previousBtn" class="previous-btn">
+                            <i class="fa-solid fa-arrow-left"></i>
+                            Previous
+                        </button>
+
+                        <button id="nextBtn" class="next-btn">
+                            Save & Next
+                            <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+
+                    </div>
+
+                </section>
+
+
+                <!-- QUESTION PALETTE -->
+
+                <aside class="question-sidebar">
+
+                    <h3>Question Palette</h3>
+
+                    <p>Choose any question to navigate.</p>
+
+                    <div class="palette-legend">
+
+                        <span><i class="legend answered"></i> Answered</span>
+
+                        <span><i class="legend not-answered"></i> Not Answered</span>
+
+                        <span><i class="legend review"></i> Review</span>
+
+                        <span><i class="legend current"></i> Current</span>
+
+                    </div>
+
+                    <div id="questionPalette" class="question-palette">
+                    </div>
+
+                    <div class="sidebar-summary">
+
+                        <div>
+                            <span>Answered</span>
+                            <strong id="answeredCount">0</strong>
+                        </div>
+
+                        <div>
+                            <span>Remaining</span>
+                            <strong id="remainingCount">0</strong>
+                        </div>
+
+                        <div>
+                            <span>Review</span>
+                            <strong id="reviewCount">0</strong>
+                        </div>
+
+                    </div>
+
+                    <button id="submitExamBtn" class="submit-exam-btn">
+                        Submit Examination
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+
+                </aside>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- RESULT SCREEN -->
+
+    <main id="resultScreen" class="result-screen" hidden>
+
+        <div class="result-card">
+
+            <div class="result-icon">
+                <i class="fa-solid fa-trophy"></i>
+            </div>
+
+            <span class="small-heading">EXAMINATION COMPLETED</span>
+
+            <h1>Congratulations!</h1>
+
+            <p id="resultStudentName">Your exam has been submitted.</p>
+
+            <div class="result-score">
+                <span>Your Score</span>
+                <h2 id="finalScore">0 / 0</h2>
+                <strong id="finalPercentage">0%</strong>
+            </div>
+
+            <div class="result-stats">
+
+                <div>
+                    <i class="fa-solid fa-circle-check"></i>
+                    <h3 id="correctAnswers">0</h3>
+                    <p>Correct</p>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-circle-xmark"></i>
+                    <h3 id="wrongAnswers">0</h3>
+                    <p>Incorrect</p>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-circle-minus"></i>
+                    <h3 id="skippedAnswers">0</h3>
+                    <p>Skipped</p>
+                </div>
+
+            </div>
+
+            <div class="result-message" id="resultMessage"></div>
+
+            <button id="reviewAnswersBtn" class="review-answers-btn">
+                Review Answers
+            </button>
+
+            <div id="answerReview" class="answer-review" hidden></div>
+
+            <a href="quiz-home.html" class="back-home-btn">
+                <i class="fa-solid fa-house"></i>
+                Back to Quiz Dashboard
+            </a>
+
+        </div>
+
+    </main>
+
+
+    <!-- SUBMIT CONFIRMATION -->
+
+    <div class="modal-overlay" id="submitModal" hidden>
+
+        <div class="modal-card">
+
+            <i class="fa-solid fa-circle-question"></i>
+
+            <h2>Submit Your Examination?</h2>
+
+            <p>Are you sure you want to finish this test?</p>
+
+            <div class="modal-actions">
+
+                <button id="cancelSubmit" class="cancel-btn">
+                    Continue Exam
+                </button>
+
+                <button id="confirmSubmit" class="confirm-btn">
+                    Yes, Submit
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- <script src="../data/quizzes.js"></script>
+    <script src="exam.js"></script> -->
+    <script src="../data/quizzes.js"></script>
+    <script type="module" src="exam.js"></script>
+
+</body>
+
+</html>
