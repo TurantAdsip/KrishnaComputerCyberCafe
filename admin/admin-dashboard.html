@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Admin Dashboard | KrishnaPrep</title>
+
+    <link rel="stylesheet" href="admin-dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <meta name="description" content="Latest Government Exams, Results, Admit Card, Current Affairs and Jobs">
+    <meta name="keywords" content="Government Jobs, SSC, UPSC, Railway, Result, Admit Card">
+    <meta name="author" content="Exam Portal">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="icon" type="image/png" href="../Assets/Logo1.png">
+</head>
+
+<body>
+
+    <div class="admin-layout">
+
+        <!-- SIDEBAR -->
+        <aside class="admin-sidebar">
+
+            <div class="sidebar-brand">
+                <h2>KrishnaPrep</h2>
+                <p>ADMIN PANEL</p>
+            </div>
+
+            <nav class="admin-nav">
+
+                <a href="#dashboard" class="nav-link active" data-section="dashboard">
+                    <i class="fa-solid fa-gauge"></i> Dashboard
+                </a>
+
+                <a href="#students" class="nav-link" data-section="students">
+                    <i class="fa-solid fa-users"></i> Students
+                </a>
+
+                <a href="#quizzes" class="nav-link" data-section="quizzes">
+                    <i class="fa-solid fa-file-circle-question"></i> Quizzes
+                </a>
+
+                <a href="#latestExams" class="nav-link" data-section="latestExams">
+                    <i class="fa-solid fa-graduation-cap"></i> Latest Exams
+                </a>
+
+                <a href="#results" class="nav-link" data-section="results">
+                    <i class="fa-solid fa-square-poll-vertical"></i> Results
+                </a>
+
+                <a href="#leaderboard" class="nav-link" data-section="leaderboard">
+                    <i class="fa-solid fa-trophy"></i> Leaderboard
+                </a>
+
+                <a href="#backups" class="nav-link" data-section="backups">
+                    <i class="fa-solid fa-database"></i> Export & Backup
+                </a>
+
+                <a href="#settings" class="nav-link" data-section="settings">
+                    <i class="fa-solid fa-gear"></i> Settings
+                </a>
+
+            </nav>
+
+            <div class="sidebar-bottom">
+
+                <a href="https://krishnaprep.in/" class="nav-link" target="_blank">
+                    <i class="fa-solid fa-globe"></i> Visit Website
+                </a>
+
+                <button id="logoutBtn" class="logout-btn">
+                    <i class="fa-solid fa-right-from-bracket"></i> Logout
+                </button>
+
+            </div>
+
+        </aside>
+
+
+        <!-- MAIN CONTENT -->
+        <main class="admin-main">
+
+            <header class="admin-header">
+
+                <div>
+                    <h1 id="pageTitle">Dashboard Overview</h1>
+                    <p>Welcome to KrishnaPrep Administration</p>
+                </div>
+
+                <div class="admin-user">
+                    <i class="fa-solid fa-user-shield"></i>
+
+                    <div>
+                        <strong id="adminName">Admin</strong>
+                        <small id="adminRole">Administrator</small>
+                    </div>
+                </div>
+
+            </header>
+
+
+            <div class="admin-content">
+
+                <!-- DASHBOARD -->
+                <section id="dashboard" class="content-section active">
+
+                    <h2>Dashboard Overview</h2>
+                    <p>Manage your KrishnaPrep platform from one place.</p>
+
+                    <div class="stats-grid">
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-users"></i>
+                            <h3>Total Students</h3>
+                            <p id="totalStudents">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-file-circle-question"></i>
+                            <h3>Total Quizzes</h3>
+                            <p id="totalQuizzes">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-square-poll-vertical"></i>
+                            <h3>Total Results</h3>
+                            <p id="totalResults">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-file-lines"></i>
+                            <h3>Total Exams</h3>
+                            <p id="totalExams">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-trophy"></i>
+                            <h3>Leaderboard</h3>
+                            <p id="totalLeaderboard">0</p>
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+                <!-- STUDENTS -->
+                <section id="students" class="content-section">
+
+                    <h2>Students Management</h2>
+                    <p>View and manage all registered KrishnaPrep students.</p>
+
+                    <div class="student-toolbar">
+
+                        <input type="search" id="studentSearch" placeholder="Search by name, email or student ID">
+
+                        <select id="studentStatusFilter">
+                            <option value="ALL">All Students</option>
+                            <option value="ACTIVE">Active Students</option>
+                            <option value="INACTIVE">Inactive Students</option>
+                        </select>
+
+                    </div>
+
+                    <div class="student-table-wrapper">
+
+                        <table class="student-table">
+
+                            <thead>
+                                <tr>
+                                    <th>Student ID</th>
+                                    <th>Student Name</th>
+                                    <th>Email</th>
+                                    <th>Gender</th>
+                                    <th>Status</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody id="studentsTableBody">
+                                <tr>
+                                    <td colspan="6">Loading students...</td>
+                                </tr>
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+                    <p id="studentMessage"></p>
+
+                </section>
+
+
+                <!-- QUIZ MANAGEMENT -->
+                <section id="quizzes" class="content-section">
+
+                    <div class="quiz-section-header">
+
+                        <div>
+                            <h2>Quiz Management</h2>
+                            <p>Add, edit and manage KrishnaPrep quizzes.</p>
+                        </div>
+
+                        <button type="button" id="addQuizBtn" class="quiz-primary-btn">
+                            <i class="fa-solid fa-plus"></i> Add New Quiz
+                        </button>
+
+                    </div>
+
+
+                    <!-- QUIZ LIST -->
+                    <div id="quizListContainer">
+
+                        <div class="quiz-toolbar">
+
+                            <input type="search" id="quizSearch" placeholder="Search quiz by title or ID">
+
+                            <select id="quizStatusFilter">
+                                <option value="ALL">All Quizzes</option>
+                                <option value="ACTIVE">Active</option>
+                                <option value="INACTIVE">Inactive</option>
+                            </select>
+
+                        </div>
+
+                        <div class="quiz-table-wrapper">
+
+                            <table class="quiz-table">
+
+                                <thead>
+                                    <tr>
+                                        <th>Quiz ID</th>
+                                        <th>Quiz Title</th>
+                                        <th>Category</th>
+                                        <th>Type</th>
+                                        <th>Questions</th>
+                                        <th>Duration</th>
+                                        <th>Status</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody id="quizzesTableBody">
+
+                                    <tr>
+                                        <td colspan="8">Loading quizzes...</td>
+                                    </tr>
+
+                                </tbody>
+
+                            </table>
+
+                        </div>
+
+                        <p id="quizMessage"></p>
+
+                    </div>
+
+
+                    <!-- ADD / EDIT QUIZ FORM -->
+                    <div id="quizFormContainer" hidden>
+
+                        <div class="quiz-form-header">
+
+                            <div>
+                                <h2 id="quizFormTitle">Add New Quiz</h2>
+                                <p>Enter quiz details and add questions.</p>
+                            </div>
+
+                            <button type="button" id="cancelQuizBtn" class="quiz-secondary-btn">
+                                <i class="fa-solid fa-arrow-left"></i> Back to Quizzes
+                            </button>
+
+                        </div>
+
+
+                        <form id="quizForm">
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label for="quizId">Quiz ID *</label>
+                                    <input type="text" id="quizId" placeholder="Example: SSC-GK-001" required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizTitle">Quiz Title *</label>
+                                    <input type="text" id="quizTitle" placeholder="Enter quiz title" required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizCategory">Category *</label>
+                                    <select id="quizCategory" required>
+                                        <option value="">Select Category</option>
+                                        <option value="school">School</option>
+                                        <option value="ssc">SSC</option>
+                                        <option value="upsc">UPSC</option>
+                                        <option value="railway">Railway</option>
+                                        <option value="banking">Banking</option>
+                                        <option value="general">General Knowledge</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizType">Quiz Type *</label>
+                                    <select id="quizType" required>
+                                        <option value="">Select Type</option>
+                                        <option value="daily">Daily</option>
+                                        <option value="weekly">Weekly</option>
+                                        <option value="monthly">Monthly</option>
+                                        <option value="mock">Mock Test</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizSubject">Subject *</label>
+                                    <input type="text" id="quizSubject" placeholder="Example: History, GK, Reasoning"
+                                        required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizDuration">Duration (Minutes) *</label>
+                                    <input type="number" id="quizDuration" min="1" placeholder="15" required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizLevel">Difficulty Level *</label>
+                                    <select id="quizLevel" required>
+                                        <option value="">Select Level</option>
+                                        <option value="Easy">Easy</option>
+                                        <option value="Medium">Medium</option>
+                                        <option value="Hard">Hard</option>
+                                        <option value="Mixed">Mixed</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label for="quizStatus">Quiz Status *</label>
+                                    <select id="quizStatus" required>
+                                        <option value="ACTIVE">Active</option>
+                                        <option value="INACTIVE">Inactive</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group full-width">
+                                    <label for="quizDescription">Description *</label>
+                                    <textarea id="quizDescription" rows="3" placeholder="Enter quiz description"
+                                        required></textarea>
+                                </div>
+
+                            </div>
+
+
+                            <!-- QUESTIONS -->
+                            <div class="quiz-questions-header">
+
+                                <div>
+                                    <h3>Quiz Questions</h3>
+                                    <p>Add questions, four options and correct answers.</p>
+                                </div>
+
+                                <button type="button" id="addQuestionBtn" class="quiz-primary-btn">
+                                    <i class="fa-solid fa-plus"></i> Add Question
+                                </button>
+
+                            </div>
+
+
+                            <div id="questionsContainer">
+
+                                <p id="noQuestionsMessage">
+                                    No questions added yet. Click "Add Question" to begin.
+                                </p>
+
+                            </div>
+
+
+                            <div class="quiz-form-actions">
+
+                                <button type="submit" id="saveQuizBtn" class="quiz-primary-btn">
+                                    <i class="fa-solid fa-floppy-disk"></i> Save Quiz
+                                </button>
+
+                                <button type="button" id="cancelQuizFormBtn" class="quiz-secondary-btn">
+                                    Cancel
+                                </button>
+
+                            </div>
+
+                            <p id="quizFormMessage"></p>
+
+                        </form>
+
+                    </div>
+
+                </section>
+
+
+                <!-- LATEST EXAMS MANAGEMENT -->
+                <section id="latestExams" class="content-section">
+
+                    <div class="quiz-section-header">
+
+                        <div>
+                            <h2>Latest Exams Management</h2>
+                            <p>Add, edit and manage government and competitive exam notifications.</p>
+                        </div>
+
+                        <button type="button" id="addLatestExamBtn" class="quiz-primary-btn">
+                            <i class="fa-solid fa-plus"></i> Add New Exam
+                        </button>
+
+                    </div>
+
+                    <!-- EXAM SUMMARY -->
+                    <div class="stats-grid">
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-file-lines"></i>
+                            <h3>Total Exams</h3>
+                            <p id="totalLatestExams">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-eye"></i>
+                            <h3>Published Exams</h3>
+                            <p id="publishedLatestExams">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-clock"></i>
+                            <h3>Upcoming Exams</h3>
+                            <p id="upcomingLatestExams">0</p>
+                        </div>
+
+                    </div>
+
+                    <!-- EXAM SEARCH AND FILTER -->
+                    <div class="quiz-toolbar">
+
+                        <input type="search" id="latestExamSearch" placeholder="Search by exam name or organization...">
+
+                        <select id="latestExamStatusFilter">
+                            <option value="all">All Status</option>
+                            <option value="active">Active</option>
+                            <option value="upcoming">Upcoming</option>
+                            <option value="closed">Closed</option>
+                        </select>
+
+                        <select id="latestExamPublishFilter">
+                            <option value="all">All Exams</option>
+                            <option value="true">Published</option>
+                            <option value="false">Unpublished</option>
+                        </select>
+
+                    </div>
+
+
+                    <!-- EXAM TABLE -->
+                    <div class="quiz-table-wrapper">
+
+                        <table class="quiz-table">
+
+                            <thead>
+                                <tr>
+                                    <th>Exam Name</th>
+                                    <th>Organization</th>
+                                    <th>Category</th>
+                                    <th>Last Date</th>
+                                    <th>Status</th>
+                                    <th>Published</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+
+                            <tbody id="latestExamsTableBody">
+
+                                <tr>
+                                    <td colspan="7">Loading exams...</td>
+                                </tr>
+
+                            </tbody>
+
+                        </table>
+
+                        <!-- Latest Exams Pagination -->
+                        <div class="pagination-container" id="latestExamsPagination">
+
+                            <div class="pagination-info">
+                                Showing <span id="latestExamsShowing">0</span>
+                                of <span id="latestExamsTotal">0</span> Exams
+                            </div>
+
+                            <div class="pagination-buttons">
+
+                                <button type="button" id="latestExamsPrevBtn" disabled>
+                                    Previous
+                                </button>
+
+                                <div id="latestExamsPageNumbers"></div>
+
+                                <button type="button" id="latestExamsNextBtn" disabled>
+                                    Next
+                                </button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <p id="latestExamMessage"></p>
+
+
+                    <!-- ADD / EDIT EXAM FORM -->
+                    <div id="latestExamFormContainer" hidden>
+
+                        <div class="quiz-form-header">
+                            <div>
+                                <h2 id="latestExamFormTitle">Add New Exam</h2>
+                                <p>Enter complete government exam notification details.</p>
+                            </div>
+
+                            <button type="button" id="cancelLatestExamBtn" class="quiz-secondary-btn">
+                                <i class="fa-solid fa-arrow-left"></i> Back to Exams
+                            </button>
+                        </div>
+
+                        <form id="latestExamForm">
+
+                            <!-- BASIC INFORMATION -->
+                            <h3>1. Basic Information</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Exam Name *</label>
+                                    <input type="text" id="examName" name="examName" required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Organization / Department *</label>
+                                    <input type="text" id="examOrganization" name="examOrganization" required>
+                                </div>
+
+                                <!-- <div class="quiz-form-group">
+                                    <label>Exam Name *</label>
+                                    <input type="text" id="examName" required>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Organization / Department *</label>
+                                    <input type="text" id="examOrganization" required>
+                                </div> -->
+
+                                <div class="quiz-form-group">
+                                    <label>Exam Category *</label>
+                                    <select id="examCategory" name="examCategory" required>
+                                        <option value="">Select Category</option>
+                                        <option value="SSC">SSC</option>
+                                        <option value="UPSC">UPSC</option>
+                                        <option value="Railway">Railway</option>
+                                        <option value="Banking">Banking</option>
+                                        <option value="Defence">Defence</option>
+                                        <option value="Teaching">Teaching</option>
+                                        <option value="Police">Police</option>
+                                        <option value="State Exams">State Exams</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Advertisement Number</label>
+                                    <input type="text" id="advertisementNumber" name="advertisementNumber">
+                                </div>
+
+
+                                <div class="quiz-form-group">
+                                    <label>Notification Date</label>
+                                    <input type="date" id="notificationDate" name="notificationDate">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Exam Status *</label>
+                                    <select id="examStatus" name="examStatus" required>
+                                        <option value="Active">Active</option>
+                                        <option value="Upcoming">Upcoming</option>
+                                        <option value="Closed">Closed</option>
+                                    </select>
+                                </div>
+
+                                <div class="quiz-form-group full-width">
+                                    <label>Short Description *</label>
+                                    <textarea id="examDescription" name="examDescription" rows="3" required></textarea>
+                                </div>
+
+                                <div class="quiz-form-group full-width">
+                                    <label>Official Notification PDF Link</label>
+                                    <input type="url" id="notificationLink" name="notificationLink">
+                                </div>
+
+                            </div>
+
+                            <!-- VACANCY DETAILS -->
+                            <h3>2. Vacancy Details</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Post Name</label>
+                                    <input type="text" id="postName" name="postName">
+                                </div>
+
+
+                                <!-- <div class="quiz-form-group">
+                                    <label>Notification Date</label>
+                                    <input type="date" id="notificationDate" name="notificationDate">
+                                </div> -->
+
+                                <div class="quiz-form-group">
+                                    <label>Total Vacancies</label>
+                                    <input type="number" id="totalVacancies" name="totalVacancies" min="0">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Job Location</label>
+                                    <input type="text" id="jobLocation" name="jobLocation">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Pay Scale / Salary</label>
+                                    <input type="text" id="payScale" name="payScale">
+                                </div>
+
+                            </div>
+
+                            <!-- ELIGIBILITY -->
+                            <h3>3. Eligibility Criteria</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Educational Qualification</label>
+                                    <input type="text" id="qualification" name="qualification">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Minimum Age</label>
+                                    <input type="number" id="minimumAge" name="minimumAge" min="0">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Maximum Age</label>
+                                    <input type="number" id="maximumAge" name="maximumAge" min="0">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Age Relaxation</label>
+                                    <input type="text" id="ageRelaxation" name="ageRelaxation">
+                                </div>
+
+                            </div>
+
+                            <!-- IMPORTANT DATES -->
+                            <h3>4. Important Dates</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Application Start Date</label>
+                                    <input type="date" id="applicationStartDate" name="applicationStartDate">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Application Last Date</label>
+                                    <input type="date" id="applicationLastDate" name="applicationLastDate">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Fee Payment Last Date</label>
+                                    <input type="date" id="feePaymentLastDate" name="feePaymentLastDate">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Correction Date</label>
+                                    <input type="date" id="correctionDate" name="correctionDate">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Exam Date</label>
+                                    <input type="date" id="examDate" name="examDate">
+                                </div>
+
+                            </div>
+
+                            <!-- APPLICATION FEE -->
+                            <h3>5. Application Fee</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>General Fee (₹)</label>
+                                    <input type="text" id="generalFee" name="generalFee">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>OBC Fee (₹)</label>
+                                    <input type="text" id="obcFee" name="obcFee">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>SC / ST Fee (₹)</label>
+                                    <input type="text" id="scStFee" name="scStFee">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Female Candidates Fee (₹)</label>
+                                    <input type="text" id="femaleFee" name="femaleFee">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Payment Mode</label>
+                                    <input type="text" id="paymentMode" name="paymentMode">
+                                </div>
+
+                            </div>
+
+                            <!-- SELECTION PROCESS -->
+                            <h3>6. Selection Process</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group full-width">
+                                    <label>Selection Process</label>
+                                    <textarea id="selectionProcess" name="selectionProcess" rows="3"
+                                        placeholder="Example: Tier 1, Tier 2, Skill Test, Document Verification"></textarea>
+                                </div>
+
+                            </div>
+
+                            <!-- IMPORTANT LINKS -->
+                            <h3>7. Important Links</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Apply Online Link</label>
+                                    <input type="url" id="applyLink" name="applyLink">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Official Website</label>
+                                    <input type="url" id="officialWebsite" name="officialWebsite">
+                                </div>
+
+                                <div class="quiz-form-group">
+                                    <label>Syllabus Link</label>
+                                    <input type="url" id="syllabusLink" name="syllabusLink">
+                                </div>
+
+                            </div>
+
+                            <!-- PUBLISH SETTINGS -->
+                            <h3>8. Publish Settings</h3>
+
+                            <div class="quiz-form-grid">
+
+                                <div class="quiz-form-group">
+                                    <label>Publication Status *</label>
+                                    <select id="examPublished" name="examPublished" required>
+                                        <option value="false">Unpublished</option>
+                                        <option value="true">Published</option>
+                                    </select>
+                                </div>
+
+                            </div>
+
+                            <div class="quiz-form-actions">
+
+                                <button type="submit" id="saveLatestExamBtn" class="quiz-primary-btn">
+                                    <i class="fa-solid fa-floppy-disk"></i> Save Exam
+                                </button>
+
+                                <button type="button" id="cancelLatestExamFormBtn" class="quiz-secondary-btn">
+                                    Cancel
+                                </button>
+
+                            </div>
+
+                            <p id="latestExamFormMessage"></p>
+
+                        </form>
+
+                    </div>
+
+
+                </section>
+
+
+                <!-- RESULTS MANAGEMENT -->
+                <section id="results" class="content-section">
+
+                    <div class="quiz-section-header">
+                        <div>
+                            <h2>Results Management</h2>
+                            <p>View and manage all student quiz results.</p>
+                        </div>
+
+                        <button type="button" id="refreshResultsBtn" class="quiz-primary-btn">
+                            <i class="fa-solid fa-rotate"></i> Refresh Results
+                        </button>
+                    </div>
+
+                    <!-- RESULTS SUMMARY -->
+                    <div class="stats-grid">
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-square-poll-vertical"></i>
+                            <h3>Total Results</h3>
+                            <p id="resultsCount">0</p>
+                        </div>
+
+                    </div>
+
+                    <!-- RESULTS FILTERS -->
+                    <div class="quiz-toolbar">
+
+                        <input type="search" id="resultSearch" placeholder="Search student name, email, ID or quiz...">
+
+                        <select id="resultQuizFilter">
+                            <option value="ALL">All Quizzes</option>
+                        </select>
+
+                    </div>
+
+                    <!-- RESULTS TABLE -->
+                    <div class="quiz-table-wrapper">
+
+                        <table class="quiz-table">
+
+                            <thead>
+                                <tr>
+                                    <th>Student ID</th>
+                                    <th>Student Name</th>
+                                    <th>Quiz Name</th>
+                                    <th>Total Q.</th>
+                                    <th>Correct</th>
+                                    <th>Wrong</th>
+                                    <th>Skipped</th>
+                                    <th>Percentage</th>
+                                    <th>Time Taken</th>
+                                    <th>Submitted At</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody id="resultsTableBody">
+                                <tr>
+                                    <td colspan="11">Results will load here...</td>
+                                </tr>
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+                    <p id="resultMessage"></p>
+
+
+                    <!-- RESULT DETAILS MODAL -->
+                    <div id="resultDetailsModal" class="result-modal">
+
+                        <div class="result-modal-content">
+
+                            <div class="result-modal-header">
+                                <h2>Quiz Result Details</h2>
+
+                                <button type="button" id="closeResultModal">
+                                    &times;
+                                </button>
+                            </div>
+
+                            <div class="result-details-body">
+
+                                <h3>Student Information</h3>
+
+                                <div class="result-details-grid">
+                                    <p><strong>Student Name:</strong> <span id="detailStudentName">—</span></p>
+                                    <p><strong>Student ID:</strong> <span id="detailStudentId">—</span></p>
+                                    <p><strong>Email:</strong> <span id="detailStudentEmail">—</span></p>
+                                </div>
+
+                                <h3>Quiz Information</h3>
+
+                                <div class="result-details-grid">
+                                    <p><strong>Quiz Name:</strong> <span id="detailQuizName">—</span></p>
+                                    <p><strong>Quiz ID:</strong> <span id="detailQuizId">—</span></p>
+                                    <p><strong>Total Questions:</strong> <span id="detailTotalQuestions">—</span></p>
+                                </div>
+
+                                <h3>Performance</h3>
+
+                                <div class="result-details-grid">
+                                    <p><strong>Correct:</strong> <span id="detailCorrect">—</span></p>
+                                    <p><strong>Wrong:</strong> <span id="detailWrong">—</span></p>
+                                    <p><strong>Skipped:</strong> <span id="detailSkipped">—</span></p>
+                                    <p><strong>Percentage:</strong> <span id="detailPercentage">—</span></p>
+                                </div>
+
+                                <h3>Submission Details</h3>
+
+                                <div class="result-details-grid">
+                                    <p><strong>Time Taken:</strong> <span id="detailTimeTaken">—</span></p>
+                                    <p><strong>Submitted At:</strong> <span id="detailSubmittedAt">—</span></p>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </section>
+
+
+
+
+                <!-- LEADERBOARD MANAGEMENT -->
+                <section id="leaderboard" class="content-section">
+
+                    <div class="quiz-section-header">
+                        <div>
+                            <h2>Leaderboard Management</h2>
+                            <p>View and manage student rankings.</p>
+                        </div>
+
+                        <button type="button" id="refreshLeaderboardBtn" class="quiz-primary-btn">
+                            <i class="fa-solid fa-rotate"></i> Refresh Leaderboard
+                        </button>
+                    </div>
+
+                    <!-- LEADERBOARD SUMMARY -->
+                    <div class="stats-grid">
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-ranking-star"></i>
+                            <h3>Total Ranked Students</h3>
+                            <p id="leaderboardCount">0</p>
+                        </div>
+
+                        <div class="stat-card">
+                            <i class="fa-solid fa-trophy"></i>
+                            <h3>Top Performer</h3>
+                            <p id="leaderboardTopStudent">—</p>
+                        </div>
+
+                    </div>
+
+                    <!-- SEARCH -->
+                    <div class="quiz-toolbar">
+
+                        <input type="search" id="leaderboardSearch" placeholder="Search student name or ID...">
+
+                    </div>
+
+                    <!-- LEADERBOARD TABLE -->
+                    <div class="quiz-table-wrapper">
+
+                        <table class="quiz-table">
+
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Student ID</th>
+                                    <th>Student Name</th>
+                                    <th>Total Quizzes</th>
+                                    <th>Average Score</th>
+                                    <th>Highest Score</th>
+                                    <th>Last Updated</th>
+                                </tr>
+                            </thead>
+
+                            <tbody id="leaderboardTableBody">
+                                <tr>
+                                    <td colspan="7">Leaderboard will load here...</td>
+                                </tr>
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+                    <p id="leaderboardMessage"></p>
+
+                </section>
+
+
+                <!-- Export & Backup Section -->
+                <section id="backups" class="content-section">
+
+                    <div class="section-header">
+                        <h2>Export & Backup</h2>
+                        <p>Manage and download your KrishnaPrep data backups.</p>
+                    </div>
+
+                    <div class="backup-container">
+
+                        <div class="backup-card">
+                            <i class="fa-solid fa-file-excel"></i>
+                            <h3>Excel Export</h3>
+                            <p>Export all important data into one Excel workbook.</p>
+                            <button id="exportExcelBtn" class="btn btn-primary">
+                                <i class="fa-solid fa-download"></i>
+                                Export Excel
+                            </button>
+                        </div>
+
+                        <div class="backup-card">
+                            <i class="fa-brands fa-google-drive"></i>
+                            <h3>Google Drive Backup</h3>
+                            <p>Automatic weekly backup to Google Drive.</p>
+                            <!-- <span id="backupStatus">Not Connected</span> -->
+                            <span id="backupStatus">Weekly Backup Scheduled</span>
+                        </div>
+
+                        <div class="backup-card">
+                            <i class="fa-solid fa-clock-rotate-left"></i>
+                            <h3>Backup History</h3>
+                            <p>View your previous backup records.</p>
+                            <div id="backupHistory">
+                                No backup history available.
+                            </div>
+                        </div>
+
+                    </div>
+
+                </section>
+
+                <!-- SETTINGS MANAGEMENT -->
+                <section id="settings" class="content-section">
+
+                    <div class="quiz-section-header">
+                        <div>
+                            <h2>Admin Settings</h2>
+                            <p>Manage KrishnaPrep administration and platform settings.</p>
+                        </div>
+                    </div>
+
+                    <!-- SETTINGS NAVIGATION -->
+                    <div class="settings-tabs">
+                        <button type="button" class="settings-tab active" data-tab="generalSettings">
+                            <i class="fa-solid fa-gear"></i> General
+                        </button>
+
+                        <button type="button" class="settings-tab" data-tab="quizSettings">
+                            <i class="fa-solid fa-clipboard-question"></i> Quiz Settings
+                        </button>
+
+                        <button type="button" class="settings-tab" data-tab="leaderboardSettings">
+                            <i class="fa-solid fa-trophy"></i> Leaderboard
+                        </button>
+
+                        <button type="button" class="settings-tab" data-tab="certificateSettings">
+                            <i class="fa-solid fa-certificate"></i> Certificate
+                        </button>
+
+                        <button type="button" class="settings-tab" data-tab="notificationSettings">
+                            <i class="fa-solid fa-bell"></i> Notifications
+                        </button>
+                    </div>
+
+                    <!-- GENERAL SETTINGS -->
+                    <div id="generalSettings" class="settings-panel active">
+
+                        <h3>General Settings</h3>
+
+                        <div class="settings-form-grid">
+
+                            <div class="settings-field">
+                                <label>Website Name</label>
+                                <input type="text" id="settingWebsiteName" value="KrishnaPrep">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Website Tagline</label>
+                                <input type="text" id="settingTagline" value="Your Trusted Digital Service Partner">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Support Email</label>
+                                <input type="email" id="settingSupportEmail" placeholder="Enter support email">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Support Contact</label>
+                                <input type="text" id="settingSupportContact" placeholder="Enter contact number">
+                            </div>
+
+                        </div>
+
+                        <button type="button" class="quiz-primary-btn" id="saveGeneralSettings">
+                            Save General Settings
+                        </button>
+
+                    </div>
+
+                    <!-- QUIZ SETTINGS -->
+                    <div id="quizSettings" class="settings-panel">
+
+                        <h3>Quiz Settings</h3>
+
+                        <div class="settings-form-grid">
+
+                            <div class="settings-field">
+                                <label>Passing Percentage (%)</label>
+                                <input type="number" id="settingPassingPercentage" min="1" max="100" value="50">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Default Quiz Duration (Minutes)</label>
+                                <input type="number" id="settingQuizDuration" min="1" value="30">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Default Question Count</label>
+                                <input type="number" id="settingQuestionCount" min="1" value="30">
+                            </div>
+
+                        </div>
+
+                        <button type="button" class="quiz-primary-btn" id="saveQuizSettings">
+                            Save Quiz Settings
+                        </button>
+
+                    </div>
+
+                    <!-- LEADERBOARD SETTINGS -->
+                    <div id="leaderboardSettings" class="settings-panel">
+
+                        <h3>Leaderboard Settings</h3>
+
+                        <div class="settings-form-grid">
+
+                            <div class="settings-field">
+                                <label>Display Top Students</label>
+                                <input type="number" id="settingLeaderboardLimit" min="1" value="10">
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Ranking Based On</label>
+                                <select id="settingRankingMethod">
+                                    <option value="averageScore">Average Score</option>
+                                    <option value="highestScore">Highest Score</option>
+                                </select>
+                            </div>
+
+                        </div>
+
+                        <button type="button" class="quiz-primary-btn" id="saveLeaderboardSettings">
+                            Save Leaderboard Settings
+                        </button>
+
+                    </div>
+
+                    <!-- CERTIFICATE SETTINGS -->
+                    <div id="certificateSettings" class="settings-panel">
+
+                        <h3>Certificate Settings</h3>
+
+                        <div class="settings-form-grid">
+
+                            <div class="settings-field">
+                                <label>Certificate Issuing</label>
+                                <select id="settingCertificateStatus">
+                                    <option value="enabled">Enabled</option>
+                                    <option value="disabled">Disabled</option>
+                                </select>
+                            </div>
+
+                            <div class="settings-field">
+                                <label>Minimum Passing Percentage (%)</label>
+                                <input type="number" id="settingCertificatePercentage" min="1" max="100" value="50">
+                            </div>
+
+                        </div>
+
+                        <button type="button" class="quiz-primary-btn" id="saveCertificateSettings">
+                            Save Certificate Settings
+                        </button>
+
+                    </div>
+
+                    <!-- NOTIFICATION SETTINGS -->
+                    <div id="notificationSettings" class="settings-panel">
+
+                        <h3>Notification Settings</h3>
+
+                        <div class="settings-field settings-toggle-field">
+                            <label for="settingEmailNotification">Email Notifications</label>
+                            <input type="checkbox" id="settingEmailNotification">
+                        </div>
+
+                        <div class="settings-field settings-toggle-field">
+                            <label for="settingAdminNotification">Admin Notifications</label>
+                            <input type="checkbox" id="settingAdminNotification" checked>
+                        </div>
+
+                        <button type="button" class="quiz-primary-btn" id="saveNotificationSettings">
+                            Save Notification Settings
+                        </button>
+
+                    </div>
+
+                    <p id="settingsMessage"></p>
+
+                </section>
+
+
+            </div>
+
+        </main>
+
+    </div>
+    <!-- Excel Export Library -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script type="module" src="admin-dashboard.js"></script>
+
+</body>
+
+</html>

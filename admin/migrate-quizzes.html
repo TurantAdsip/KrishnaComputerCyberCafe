@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Migration | KrishnaPrep</title>
+</head>
+
+<body>
+
+    <h2>KrishnaPrep Quiz Migration</h2>
+    <p>यह आपके पुराने quizzes को Firestore में save करेगा।</p>
+
+    <button id="migrateBtn" disabled>Loading Admin...</button>
+    <p id="migrationStatus">Checking admin access...</p>
+
+    <!-- Existing Quiz Database -->
+    <script src="../data/quizzes.js"></script>
+
+    <script type="module">
+        import { adminAuth, adminDb } from "../js/firebase-config.js";
+
+        import {
+            doc,
+            getDoc,
+            setDoc,
+            serverTimestamp
+        } from "https://www.gstatic.com/firebasejs/12.5.0/firebase-firestore.js";
+
+        import {
+            onAuthStateChanged
+        } from "https://www.gstatic.com/firebasejs/12.5.0/firebase-auth.js";
+
+        const migrateBtn = document.getElementById("migrateBtn");
+        const statusText = document.getElementById("migrationStatus");
+
+        const quizDetails = {
+            "CLASS10-HIS-001": {
+                category: "school",
+                type: "weekly",
+                subject: "History",
+                level: "Class 10",
+                description: "Practice NCERT Class 10 History questions."
+            },
+            "CLASS10-GEO-001": {
+                category: "school",
+                type: "weekly",
+                subject: "Geography",
+                level: "Class 10",
+                description: "Test your Geography knowledge."
+            },
+            "SSC-GK-001": {
+                category: "ssc",
+                type: "mock",
+                subject: "General Knowledge",
+                level: "Intermediate",
+                description: "Important GK questions for SSC preparation."
+            },
+            "UPSC-POL-001": {
+                category: "upsc",
+                type: "mock",
+                subject: "Indian Polity",
+                level: "Advanced",
+                description: "Practice important Indian Polity questions."
+            },
+            "RAIL-GK-001": {
+                category: "railway",
+                type: "mock",
+                subject: "General Knowledge",
+                level: "Intermediate",
+                description: "General Knowledge for Railway examinations."
+            },
+            "BANK-REAS-001": {
+                category: "banking",
+                type: "mock",
+                subject: "Reasoning",
+                level: "Intermediate",
+                description: "Practice reasoning questions for Banking exams."
+            },
+            "CA-DAILY-001": {
+                category: "general",
+                type: "daily",
+                subject: "Current Affairs",
+                level: "All Levels",
+                description: "Test your knowledge of current affairs."
+            },
+            "GK-WEEKLY-001": {
+                category: "general",
+                type: "weekly",
+                subject: "Static GK",
+                level: "All Levels",
+                description: "Improve your general awareness."
+            },
+            "GK-MONTHLY-001": {
+                category: "general",
+                type: "monthly",
+                subject: "General Knowledge",
+                level: "All Levels",
+                description: "Monthly knowledge assessment."
+            }
+        };
+
+        onAuthStateChanged(adminAuth, async (user) => {
+
+            if (!user) {
+                statusText.textContent =
+                    "Please login through Admin Dashboard first.";
+                return;
+            }
+
+            try {
+                const adminRef = doc(adminDb, "admins", user.uid);
+                const adminSnap = await getDoc(adminRef);
+
+                if (!adminSnap.exists()) {
+                    statusText.textContent = "Admin account not found.";
+                    return;
+                }
+
+                const admin = adminSnap.data();
+
+                const allowed =
+                    admin.active === true &&
+                    (
+                        admin.role === "superAdmin" ||
+                        (Array.isArray(admin.permissions) &&
+                            admin.permissions.includes("quizzes"))
+                    );
+
+                if (!allowed) {
+                    statusText.textContent =
+                        "You do not have quiz management permission.";
+                    return;
+                }
+
+                migrateBtn.disabled = false;
+                migrateBtn.textContent = "Migrate 9 Quizzes";
+
+                statusText.textContent =
+                    "Admin verified. Ready to migrate.";
+
+            } catch (error) {
+                statusText.textContent = error.message;
+            }
+        });
+
+        migrateBtn.addEventListener("click", async () => {
+
+            migrateBtn.disabled = true;
+            statusText.textContent = "Migration started...";
+
+            try {
+                if (typeof quizDatabase === "undefined") {
+                    throw new Error("quizDatabase not loaded.");
+                }
+
+                let added = 0;
+                let skipped = 0;
+
+                for (const [quizId, quiz] of Object.entries(quizDatabase)) {
+
+                    const details = quizDetails[quizId];
+
+                    if (!details) {
+                        skipped++;
+                        continue;
+                    }
+
+                    const quizRef = doc(adminDb, "quizzes", quizId);
+                    const existingQuiz = await getDoc(quizRef);
+
+                    // Do not overwrite an existing quiz
+                    if (existingQuiz.exists()) {
+                        skipped++;
+                        continue;
+                    }
+
+                    await setDoc(quizRef, {
+                        quizId: quizId,
+                        title: details.subject === "History"
+                            ? "Class 10 History - Nationalism in Europe"
+                            : quiz.title,
+
+                        description: details.description,
+                        category: details.category,
+                        type: details.type,
+                        subject: details.subject,
+                        level: details.level,
+
+                        duration: quiz.duration,
+                        // questions: quiz.questions,
+                        questions: quiz.questions.map((q, index) => ({
+                            questionId: `Q${index + 1}`,
+                            question: q[0],
+                            options: q[1],
+                            answer: q[2],
+                            explanation: q[3]
+                        })),
+                        totalQuestions: quiz.questions.length,
+
+                        status: "ACTIVE",
+
+                        createdAt: serverTimestamp(),
+                        updatedAt: serverTimestamp()
+                    });
+
+                    added++;
+                }
+
+                statusText.textContent =
+                    `Migration completed! Added: ${added}, Skipped: ${skipped}.`;
+
+            } catch (error) {
+                console.error(error);
+                statusText.textContent =
+                    "Migration failed: " + error.message;
+            }
+
+            migrateBtn.disabled = false;
+        });
+
+    </script>
+
+</body>
+
+</html>
