@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Latest Government Exams | KrishnaPrep</title>
+
+    <meta name="description"
+        content="Get the latest Government Jobs, Competitive Exams, Recruitment Notifications, Eligibility, Application Dates and Official Links at KrishnaPrep.">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <meta name="description" content="Latest Government Exams, Results, Admit Card, Current Affairs and Jobs">
+    <meta name="keywords" content="Government Jobs, SSC, UPSC, Railway, Result, Admit Card">
+    <meta name="author" content="Exam Portal">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="icon" type="image/png" href="../Assets/Logo1.png">
+    <link rel="stylesheet" href="latest-exams.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="kp-header">
+
+        <div class="kp-header-inner">
+
+            <a href="../index.html" class="kp-logo">
+                <img src="../Assets/Logo.png" alt="KrishnaPrep Logo">
+
+                <div>
+                    <strong>KrishnaPrep</strong>
+                    <span>Exam & Career Guidance</span>
+                </div>
+            </a>
+
+            <nav class="kp-desktop-nav">
+                <a href="../index.html">
+                    <i class="fa-solid fa-house"></i> Home
+                </a>
+
+                <a href="exam.html" class="active">
+                    <i class="fa-solid fa-file-lines"></i> Latest Exams
+                </a>
+
+                <a href="../news/news.html">
+                    <i class="fa-solid fa-newspaper"></i> Current Affairs
+                </a>
+
+                <a href="../quiz/login.html">
+                    <i class="fa-solid fa-circle-question"></i> Quiz
+                </a>
+            </nav>
+
+            <button class="kp-menu-btn" id="kpMenuBtn" aria-label="Open menu">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+        </div>
+
+        <div class="kp-mobile-menu" id="kpMobileMenu">
+
+            <a href="../index.html">Home</a>
+            <a href="exam.html" class="active">Latest Exams</a>
+            <a href="../news/news.html">Current Affairs</a>
+            <a href="../quiz/login.html">Quiz</a>
+
+        </div>
+
+    </header>
+
+
+    <!-- MAIN PAGE -->
+    <main class="exam-page">
+
+        <!-- HERO -->
+        <section class="exam-page-hero">
+
+            <div class="hero-content">
+
+                <span class="hero-label">
+                    <i class="fa-solid fa-bullhorn"></i>
+                    Government & Competitive Exams
+                </span>
+
+                <h1>Latest Government Exams</h1>
+
+                <p>
+                    Find the latest government job notifications,
+                    recruitment details, eligibility, important dates
+                    and official application links.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- QUICK STATS -->
+        <section class="exam-stats">
+
+            <div class="stat-card">
+                <i class="fa-solid fa-file-circle-check"></i>
+                <div>
+                    <strong id="totalExams">0</strong>
+                    <span>Total Exams</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <i class="fa-solid fa-hourglass-start"></i>
+                <div>
+                    <strong id="activeExams">0</strong>
+                    <span>Applications Open</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <i class="fa-solid fa-calendar-days"></i>
+                <div>
+                    <strong id="upcomingExams">0</strong>
+                    <span>Upcoming Exams</span>
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- SEARCH AND FILTER -->
+        <section class="exam-controls">
+
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass"></i>
+
+                <input type="search" id="examSearch" placeholder="Search exam, organization or post...">
+            </div>
+
+            <div class="filter-controls">
+
+                <select id="categoryFilter">
+                    <option value="">All Categories</option>
+                    <option value="SSC">SSC</option>
+                    <option value="Railway">Railway</option>
+                    <option value="Banking">Banking</option>
+                    <option value="UPSC">UPSC</option>
+                    <option value="Defence">Defence</option>
+                    <option value="Teaching">Teaching</option>
+                    <option value="State Government">State Government</option>
+                    <option value="Other">Other</option>
+                </select>
+
+                <select id="statusFilter">
+                    <option value="">All Status</option>
+                    <option value="Active">Application Open</option>
+                    <option value="Upcoming">Upcoming</option>
+                    <option value="Closed">Application Closed</option>
+                </select>
+
+            </div>
+
+        </section>
+
+
+        <!-- EXAM LIST -->
+        <section class="exam-list-section">
+
+            <div class="section-heading">
+
+                <div>
+                    <span>EXPLORE OPPORTUNITIES</span>
+                    <h2>Latest Exam Notifications</h2>
+                    <p>
+                        Check the latest recruitment and examination updates.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="exam-grid" id="examContainer">
+
+                <!-- Exams will load from Firebase here -->
+
+                <div class="loading-message" id="loadingMessage">
+                    <i class="fa-solid fa-spinner fa-spin"></i>
+                    <p>Loading Latest Exams...</p>
+                </div>
+
+            </div>
+
+
+            <div class="no-exams" id="noExams" hidden>
+
+                <i class="fa-solid fa-folder-open"></i>
+
+                <h3>No Exams Found</h3>
+
+                <p>
+                    No exam notifications are currently available.
+                    Please check again later.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- DISCLAIMER -->
+        <section class="exam-disclaimer">
+
+            <i class="fa-solid fa-circle-info"></i>
+
+            <div>
+                <strong>Important Disclaimer</strong>
+
+                <p>
+                    KrishnaPrep is an independent educational and
+                    information platform. We are not a government website.
+                    Candidates should always verify examination details
+                    through the official notification and government portal
+                    before applying.
+                </p>
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- FOOTER -->
+    <footer class="kp-footer">
+
+        <strong>KrishnaPrep</strong>
+
+        <p>
+            Krishna Computer Cafe | Your Trusted Digital Service Partner
+        </p>
+
+        <span>
+            © 2026 KrishnaPrep. All Rights Reserved.
+        </span>
+
+    </footer>
+
+
+    <!-- JAVASCRIPT -->
+    <script type="module" src="latest-exams.js"></script>
+
+</body>
+
+</html>

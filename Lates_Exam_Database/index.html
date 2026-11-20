@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>KrishnaPrep Quiz | Daily, Weekly & Monthly Exams</title>
+    <meta name="description"
+        content="Practice Daily, Weekly and Monthly quizzes on KrishnaPrep. Improve your knowledge and track your exam preparation.">
+    <meta name="keywords"
+        content="KrishnaPrep Quiz, Daily Quiz, Weekly Quiz, Monthly Quiz, GK Quiz, Competitive Exam Preparation">
+    <meta name="author" content="KrishnaPrep">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <link rel="stylesheet" href="../css/footer-link.css">
+    <link rel="icon" type="image/png" href="../Assets/Logo.png">
+    <!-- <link rel="stylesheet" href="../css/style.css"> -->
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', Arial, sans-serif;
+        }
+
+        body {
+            background: #f5f7fb;
+            color: #202b3c;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #102a43;
+            color: white;
+            padding: 15px 7%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .logo {
+            color: white;
+            text-decoration: none;
+            font-size: 25px;
+            font-weight: 800;
+        }
+
+        .logo span {
+            color: #ffbd59;
+        }
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            transition: 0.3s;
+        }
+
+        nav a:hover {
+            color: #ffbd59;
+        }
+
+        .nav-login {
+            background: #ffbd59;
+            color: #102a43 !important;
+            padding: 9px 18px;
+            border-radius: 6px;
+            font-weight: 700;
+        }
+
+        .hero {
+            background: linear-gradient(120deg, #102a43, #176b87);
+            color: white;
+            text-align: center;
+            padding: 75px 20px;
+        }
+
+        .hero h1 {
+            font-size: clamp(30px, 5vw, 48px);
+            margin-bottom: 15px;
+        }
+
+        .hero h1 span {
+            color: #ffbd59;
+        }
+
+        .hero p {
+            max-width: 750px;
+            margin: auto;
+            color: #e5edf5;
+            font-size: 16px;
+        }
+
+        .hero-buttons {
+            margin-top: 28px;
+            display: flex;
+            justify-content: center;
+            gap: 14px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            border-radius: 7px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: 0.3s;
+        }
+
+        .btn-primary {
+            background: #ffbd59;
+            color: #102a43;
+        }
+
+        .btn-secondary {
+            border: 1px solid white;
+            color: white;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+        }
+
+        .section {
+            padding: 60px 7%;
+        }
+
+        .section-heading {
+            text-align: center;
+            margin-bottom: 35px;
+        }
+
+        .section-heading h2 {
+            font-size: 30px;
+            color: #102a43;
+            margin-bottom: 8px;
+        }
+
+        .section-heading p {
+            color: #64748b;
+        }
+
+        .quiz-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+        }
+
+        .quiz-card {
+            background: white;
+            border-radius: 14px;
+            padding: 30px 24px;
+            text-align: center;
+            box-shadow: 0 5px 22px rgba(0, 0, 0, 0.07);
+            border: 1px solid #e8edf3;
+            transition: 0.3s;
+        }
+
+        .quiz-card:hover {
+            transform: translateY(-7px);
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+        }
+
+        .quiz-icon {
+            width: 65px;
+            height: 65px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            margin: 0 auto 18px;
+            font-size: 25px;
+            color: white;
+        }
+
+        .daily .quiz-icon {
+            background: #168aad;
+        }
+
+        .history .quiz-icon {
+            background: #8d5524;
+        }
+
+        .weekly .quiz-icon {
+            background: #7b2cbf;
+        }
+
+        .monthly .quiz-icon {
+            background: #e76f51;
+        }
+
+        .ssc .quiz-icon {
+            background: #264653;
+        }
+
+        .railway .quiz-icon {
+            background: #2a9d8f;
+        }
+
+        .banking .quiz-icon {
+            background: #457b9d;
+        }
+
+        .police .quiz-icon {
+            background: #1d3557;
+        }
+
+        .group-d .quiz-icon {
+            background: #6c757d;
+        }
+
+        .upsc .quiz-icon {
+            background: #6a4c93;
+        }
+
+        .uppsc .quiz-icon {
+            background: #bc6c25;
+        }
+
+        .gk .quiz-icon {
+            background: #3a5a40;
+        }
+
+        .quiz-card h3 {
+            font-size: 22px;
+            margin-bottom: 10px;
+            color: #102a43;
+        }
+
+        .quiz-card p {
+            color: #64748b;
+            min-height: 55px;
+            font-size: 14px;
+        }
+
+        .quiz-details {
+            background: #f1f5f9;
+            border-radius: 8px;
+            padding: 13px;
+            margin: 20px 0;
+            color: #334155;
+            font-size: 14px;
+        }
+
+        .quiz-details strong {
+            display: block;
+            color: #102a43;
+            font-size: 18px;
+        }
+
+        .quiz-btn {
+            display: block;
+            background: #102a43;
+            color: white;
+            padding: 11px;
+            border-radius: 7px;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .quiz-btn:hover {
+            background: #176b87;
+        }
+
+        .info-section {
+            background: white;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 22px;
+        }
+
+        .info-card {
+            background: #f5f7fb;
+            border-radius: 10px;
+            padding: 25px;
+        }
+
+        .info-card i {
+            color: #168aad;
+            font-size: 25px;
+            margin-bottom: 12px;
+        }
+
+        .info-card h3 {
+            color: #102a43;
+            margin-bottom: 8px;
+        }
+
+        .info-card p {
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        .rules {
+            max-width: 850px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .rules ul {
+            padding-left: 22px;
+            color: #475569;
+        }
+
+        .rules li {
+            margin: 10px 0;
+        }
+
+        .login-banner {
+            background: linear-gradient(120deg, #176b87, #102a43);
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        .login-banner h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .login-banner p {
+            margin-bottom: 22px;
+            color: #e5edf5;
+        }
+
+        /* footer {
+            background: #0b1f33;
+            color: #cbd5e1;
+            text-align: center;
+            padding: 22px 15px;
+            font-size: 13px;
+        } */
+
+        /* footer a {
+            color: #ffbd59;
+            text-decoration: none;
+        } */
+
+        @media(max-width: 850px) {
+
+            .quiz-grid,
+            .info-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            header {
+                padding: 15px 5%;
+            }
+        }
+
+        @media(max-width: 600px) {
+            header {
+                justify-content: center;
+            }
+
+            nav {
+                width: 100%;
+                justify-content: center;
+                flex-wrap: wrap;
+                gap: 14px;
+            }
+
+            .quiz-grid,
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .hero {
+                padding: 55px 18px;
+            }
+
+            .section {
+                padding: 45px 5%;
+            }
+
+            .section-heading h2 {
+                font-size: 25px;
+            }
+        }
+
+        /* QUIZ STATISTICS */
+        .quiz-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 0 0 35px;
+        }
+
+        .stat-card {
+            background: #ffffff;
+            padding: 24px 15px;
+            border-radius: 14px;
+            text-align: center;
+            border: 1px solid #e8edf3;
+            box-shadow: 0 5px 22px rgba(0, 0, 0, 0.06);
+            transition: 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card i {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .stat-card h3 {
+            font-size: 15px;
+            color: #64748b;
+            margin-bottom: 8px;
+        }
+
+        .stat-number {
+            font-size: 30px;
+            font-weight: 800;
+            color: #102a43;
+        }
+
+        .stat-card:nth-child(1) i {
+            color: #168aad;
+        }
+
+        .stat-card:nth-child(2) i {
+            color: #16a34a;
+        }
+
+        .stat-card:nth-child(3) i {
+            color: #9333ea;
+        }
+
+        @media (max-width: 768px) {
+            .quiz-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .quiz-stats {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Footer */
+
+        .footer {
+            background: #0d1b2a;
+            color: #fff;
+            padding-top: 60px;
+        }
+
+        .footer-container {
+            width: 90%;
+            margin: auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 40px;
+            padding-bottom: 40px;
+        }
+
+        .footer-box h3 {
+            margin-bottom: 20px;
+            color: #25D366;
+        }
+
+        .footer-box p {
+            line-height: 1.8;
+            color: #ccc;
+        }
+
+        .footer-box ul {
+            list-style: none;
+        }
+
+        .footer-box ul li {
+            margin-bottom: 10px;
+        }
+
+        .footer-box ul li a {
+            color: #ccc;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .footer-box ul li a:hover {
+            color: #25D366;
+        }
+
+        .social-icons {
+            display: flex;
+            gap: 15px;
+        }
+
+        .social-icons a {
+            width: 45px;
+            height: 45px;
+            background: #1b263b;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .social-icons a:hover {
+            background: #25D366;
+            transform: translateY(-5px);
+        }
+
+        .footer-bottom {
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            color: #aaa;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <a href="../index.html" class="logo">
+            Krishna<span>Prep</span>
+        </a>
+
+        <nav>
+            <a href="../index.html">Home</a>
+            <a href="../news/news.html">Current Affairs</a>
+            <a href="../guidance/guidance.html">Guidance</a>
+            <a href="../Lates_Exam_Database/exam.html">Latest Exams</a>
+            <a href="../quiz/login.html" class="nav-login">
+                <i class="fa-solid fa-user"></i> Student Login
+            </a>
+        </nav>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+        <h1>Welcome to <span>KrishnaPrep Quiz</span></h1>
+
+        <p>
+            Practice Today. Improve Tomorrow. Achieve Your Goal.
+            Test your knowledge through Daily, Weekly and Monthly quizzes.
+            Improve your accuracy, build confidence and prepare for your goals.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="../quiz/login.html" class="btn btn-primary">
+                <i class="fa-solid fa-right-to-bracket"></i>
+                Student Login
+            </a>
+
+            <a href="../quiz/register.html" class="btn btn-secondary">
+                <i class="fa-solid fa-user-plus"></i>
+                Create Account
+            </a>
+        </div>
+    </section>
+
+    <!-- QUIZ STATISTICS -->
+    <!-- <div class="quiz-stats"> -->
+
+    <!-- REGISTERED STUDENTS -->
+    <!-- <div class="stat-card">
+            <i class="fa-solid fa-users"></i>
+            <h3>Registered Students</h3>
+            <div class="stat-number" id="registeredStudents">--</div>
+        </div> -->
+
+    <!-- STUDENTS ATTEMPTED -->
+    <!-- <div class="stat-card">
+            <i class="fa-solid fa-clipboard-check"></i>
+            <h3>Students Attempted</h3>
+            <div class="stat-number" id="studentsAttempted">--</div>
+        </div> -->
+
+    <!-- OVERALL PERFORMANCE -->
+    <!-- <div class="stat-card">
+            <i class="fa-solid fa-chart-line"></i>
+            <h3>Overall Performance</h3>
+            <div class="stat-number" id="overallPerformance">--%</div>
+        </div> -->
+
+    <!-- </div> -->
+
+    <!-- CHOOSE YOUR QUIZ -->
+    <section class="section">
+        <div class="section-heading">
+            <h2>Choose Your Quiz</h2>
+            <p>Select a quiz category and prepare yourself through regular practice.</p>
+        </div>
+
+
+        <div class="quiz-grid">
+
+            <!-- DAILY QUIZ -->
+            <div class="quiz-card daily">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-calendar-day"></i>
+                </div>
+                <h3>Daily Quiz</h3>
+                <p>Practice important questions every day and improve your general knowledge.</p>
+                <div class="quiz-details">
+                    <strong>10 Questions</strong>
+                    Daily Practice
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- HISTORY -->
+            <div class="quiz-card history">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-book-open"></i>
+                </div>
+                <h3>History</h3>
+                <p>Explore ancient, medieval and modern Indian history through interesting questions.</p>
+                <div class="quiz-details">
+                    <strong>10 Questions</strong>
+                    History Practice
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+
+            <!-- WEEKLY QUIZ -->
+            <div class="quiz-card weekly">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-calendar-week"></i>
+                </div>
+                <h3>Weekly Quiz</h3>
+                <p>Test your knowledge with weekly quizzes and track your preparation progress.</p>
+                <div class="quiz-details">
+                    <strong>30 Questions</strong>
+                    Weekly Practice
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- MONTHLY QUIZ -->
+            <div class="quiz-card monthly">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-calendar-days"></i>
+                </div>
+                <h3>Monthly Quiz</h3>
+                <p>Revise important topics and evaluate your monthly learning progress.</p>
+                <div class="quiz-details">
+                    <strong>50 Questions</strong>
+                    Monthly Practice
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- SSC EXAMS -->
+            <div class="quiz-card ssc">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-building-columns"></i>
+                </div>
+                <h3>SSC Exams</h3>
+                <p>Prepare for SSC CGL, CHSL, MTS, GD and other competitive examinations.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    SSC Exam Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- RAILWAY EXAMS -->
+            <div class="quiz-card railway">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-train"></i>
+                </div>
+                <h3>Railway Exams</h3>
+                <p>Practice questions for RRB NTPC, Group D, ALP and other railway exams.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    Railway Exam Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- BANKING EXAMS -->
+            <div class="quiz-card banking">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-money-check-dollar"></i>
+                </div>
+                <h3>Banking Exams</h3>
+                <p>Improve your Quantitative Aptitude, Reasoning, English and Banking Awareness.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    Banking Exam Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- POLICE EXAMS -->
+            <div class="quiz-card police">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <h3>Police Exams</h3>
+                <p>Prepare for state police, constable and other police recruitment examinations.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    Police Exam Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- GROUP D EXAMS -->
+            <div class="quiz-card group-d">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-users"></i>
+                </div>
+                <h3>Group D Exams</h3>
+                <p>Practice General Science, Mathematics, Reasoning and General Awareness.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    Group D Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- UPSC / IPS -->
+            <div class="quiz-card upsc">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-user-tie"></i>
+                </div>
+                <h3>UPSC / IPS Preparation</h3>
+                <p>Build your knowledge in Polity, History, Geography, Economy and Current Affairs.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    UPSC Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- UPPSC EXAMS -->
+            <div class="quiz-card uppsc">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-graduation-cap"></i>
+                </div>
+                <h3>UPPSC Exams</h3>
+                <p>Prepare for UPPSC PCS and other Uttar Pradesh state-level competitive exams.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    UPPSC Preparation
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+            <!-- GENERAL KNOWLEDGE -->
+            <div class="quiz-card gk">
+                <div class="quiz-icon">
+                    <i class="fa-solid fa-brain"></i>
+                </div>
+                <h3>General Knowledge</h3>
+                <p>Improve your general awareness with questions from different subjects.</p>
+                <div class="quiz-details">
+                    <strong>Practice Questions</strong>
+                    General Knowledge Practice
+                </div>
+                <a href="../quiz/login.html" class="quiz-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i> Login to Attempt
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- FEATURES -->
+    <section class="section info-section">
+        <div class="section-heading">
+            <h2>Why Practice with KrishnaPrep?</h2>
+            <p>Make your preparation more organised and effective.</p>
+        </div>
+
+        <div class="info-grid">
+
+            <div class="info-card">
+                <i class="fa-solid fa-book-open"></i>
+                <h3>Regular Practice</h3>
+                <p>Attempt quizzes regularly to strengthen your knowledge.</p>
+            </div>
+
+            <div class="info-card">
+                <i class="fa-solid fa-chart-line"></i>
+                <h3>Performance Tracking</h3>
+                <p>Check your quiz performance and identify areas for improvement.</p>
+            </div>
+
+            <div class="info-card">
+                <i class="fa-solid fa-certificate"></i>
+                <h3>Certificates</h3>
+                <p>Eligible students may receive certificates according to the applicable quiz passing criteria.</p>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+    <!-- LOGIN BANNER -->
+    <section class="login-banner">
+        <h2>Ready to Test Your Knowledge?</h2>
+        <p>Log in to your student account and continue your preparation with KrishnaPrep.</p>
+
+        <a href="../quiz/login.html" class="btn btn-primary">
+            Student Login
+        </a>
+
+        <a href="../quiz/register.html" class="btn btn-secondary">
+            Register Now
+        </a>
+    </section>
+
+    <!-- FOOTER -->
+    <div id="footer"></div>
+
+    <script src="../js/include.js"></script>
+    <script type="module">
+
+        // Apne existing Firebase config module ka correct path yahan dein.
+        import { db } from "../firebase-config.js";
+
+        import {
+            doc,
+            getDoc
+        } from "https://www.gstatic.com/firebasejs/12.5.0/firebase-firestore.js";
+
+
+        async function loadQuizStatistics() {
+
+            try {
+
+                const statsRef = doc(db, "publicStats", "quizStats");
+
+                const statsSnap = await getDoc(statsRef);
+
+                if (!statsSnap.exists()) {
+                    console.log("Quiz statistics document not found.");
+                    return;
+                }
+
+                const stats = statsSnap.data();
+
+                document.getElementById("registeredStudents").textContent =
+                    Number(stats.registeredStudents || 0).toLocaleString("en-IN");
+
+                document.getElementById("studentsAttempted").textContent =
+                    Number(stats.studentsAttempted || 0).toLocaleString("en-IN");
+
+                document.getElementById("overallPerformance").textContent =
+                    Number(stats.averagePerformance || 0).toFixed(2) + "%";
+
+            } catch (error) {
+
+                console.error("Quiz Statistics Error:", error);
+
+            }
+
+        }
+
+        loadQuizStatistics();
+
+    </script>
+
+</body>
+
+</html>
