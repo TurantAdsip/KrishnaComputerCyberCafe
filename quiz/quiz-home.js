@@ -305,9 +305,14 @@ document.querySelectorAll(".nav-menu a").forEach(link => {
 // CURRENT YEAR
 // =====================================
 
-document.getElementById("year").textContent =
-    new Date().getFullYear();
+// document.getElementById("year").textContent =
+//     new Date().getFullYear();
 
+const yearElement = document.getElementById("year");
+
+if (yearElement) {
+    yearElement.textContent = new Date().getFullYear();
+}
 
 // =====================================
 // INITIALIZE DASHBOARD
